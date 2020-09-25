@@ -31,12 +31,14 @@
     </div>
     <div class="row sponsor-spacing">
       <div class="col-md-12">
-        {{ $sponsor_type := (slice "gold" "bronze") }}
+        {{ $sponsor_type := (slice "gold" "silver" "bronze" "community" "outcomes") }}
         {{ range $sponsor_type }}
-        {{ $sponsors := (index $.Site.Data.sponsors .) }}
+          {{ $sponsorFile := (printf "%s/%s.yaml" "data/sponsors" $sponsor_type) }}
+          {{ if (fileExists "$sponsorFile") }}
+            {{ $sponsors := (index $.Site.Data.sponsors .) }}
 
-        {{ partial "sponsors/type-list.html" (dict "category" . "sponsors" $sponsors) }}
-
+            {{ partial "sponsors/type-list.html" (dict "category" . "sponsors" $sponsors) }}
+          {{ end }}
         {{ end }}
       </div>
     </div>
