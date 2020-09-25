@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Help pages on Open Security Summit</title><link>https://open-security-summit.org/faq/help/</link><description>Recent content in Help pages on Open Security Summit</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://open-security-summit.org/faq/help/index.xml" rel="self" type="application/rss+xml"/><item><title>Session not found</title><link>https://open-security-summit.org/faq/help/session-not-found/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-security-summit.org/faq/help/session-not-found/</guid><description>If you see a red link like this (when you map a working or user session):
+It means that
+There is a typo on the session title
+Try searching in the oss2019 GitHub repository for it
+or
+The session doesn&amp;rsquo;t exist:
+In that case please create one using this template</description></item></channel></rss>
