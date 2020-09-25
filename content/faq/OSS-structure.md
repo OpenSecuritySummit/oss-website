@@ -10,9 +10,12 @@ The company's registered address is 27 Old Gloucester Street, London, WC1N 3AX, 
 
 ## Stucture
 
-The Open Security Summit CIC is co-owned by Dinis Cruz and Jemma Davis, each holding a 50% share in the company. This follows the resignation of Francois Raynaud and Sebastien Deleersnyder on 5 November 2019. 
+The Open Security Summit CIC is owned by Dinis Cruz. This follows the resignation of Francois Raynaud and Sebastien Deleersnyder on 5 November 2019, and Jemma Davis in April 2020. 
 Further details can be found [here](https://beta.companieshouse.gov.uk/company/11935098/officers).
 
 ## Accounts
-The Open Security Summit CIC is due to file its accounts on 9 January 2021. We have prepared an unaudited [profit and loss breakdown](https://drive.google.com/file/d/1zSqTEvAb_rWvmI4Lw8eZBGRaFaC-WmWf/view?usp=sharing) on 27 November 2019. 
-Prior to our incorporation, accounts and sales were managed through DevSecCon Ltd.
+The Open Security Summit CIC is due to file its accounts on 9 January 2021. We have prepared an unaudited profit and loss breakdown. Prior to our incorporation, accounts and sales were managed through DevSecCon Ltd.
+
+[Profit and loss: July 2019 - August 2020](https://drive.google.com/file/d/1UPkZN-OL1sX8Qj80c1LCEUUvaObT5SiO/view?usp=sharing)
+
+[Profit and loss: July 2018 - June 2019](https://drive.google.com/file/d/1HomxM87oDXDCCh-etS0kNu7a4ROvxEsi/view?usp=sharing)
