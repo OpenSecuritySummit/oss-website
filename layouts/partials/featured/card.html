@@ -1,0 +1,19 @@
+<div class="col-lg-4 col-md-4 col-sm-12">
+  <div class="oss-card">
+    <div class="oss-card-title">
+      <h3>{{ .name | upper }}</h3>
+    </div>
+    <div class="oss-card-small-body">
+      <div class="featured">
+        <ul class="featured">
+          {{ range first .this.Site.Params.featured.size .elements }}
+          <li class="featured">{{ with .Params.image }}<img src="{{ . }}" class="img-circle img-responsive" style="width: 50px;" />&nbsp;{{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+        <div class="oss-card-bottom">
+          <a href="{{ .all }}" class="btn oss-card-button">{{ printf "View all %s" .name | upper }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

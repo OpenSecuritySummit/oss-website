@@ -1,0 +1,9 @@
+{{ $page := where (where .this.Site.Pages ".Params.title" .track) ".Params.type" "!=" "team" }}
+{{ with $page }}
+    {{ $track := (index $page 0) }}
+    <!--<a href="/tracks/#{{ upper $track.Params.title | urlize }}">{{$track.Params.title}}</a>-->
+    <a href="{{ $track.Permalink }}">{{$track.Params.title}}</a>
+{{ else}}
+     <span class="text-danger">
+         <small><small><span class="glyphicon glyphicon-exclamation-sign"></span> </small></small>  </span>{{ .title }}
+{{ end }}

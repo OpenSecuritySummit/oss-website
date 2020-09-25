@@ -1,0 +1,19 @@
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {{ with .Site.GetPage "page" "faq/session-types.md"}}
+                <div class="heading custom-border text-center">
+                    <h2 class="no-margin">Types of sessions at the Summit</h2>
+                </div>
+                <div class="pricing m_b_160">
+                  <div class="row">
+                      {{.Content }}
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+

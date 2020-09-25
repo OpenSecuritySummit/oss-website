@@ -1,0 +1,61 @@
+{{ define "nav" }}
+<header class="full-bg background-working-sessions">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_product_sessions">
+  <div class="center_heading">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "content" }}
+    <div class="featured-ws">
+        <div class="container">
+
+            {{ .Content }}
+
+            <h3>{{ .Params.title }} Daily Schedule </h3>
+
+            <!--<h4>NOTE: unless the sessions have a little lock icon, exact session days/times are not final and can change.</h4>-->
+
+            {{ $pages := where  .Site.Pages ".Params.type" "product-session" }}
+            {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}
+
+            <h3>Vendor Piches Details</h3>
+            <table class="table_section">
+                <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Hosted By</th>
+                    <th>Session Type</th>
+                </tr>
+                </thead>
+                <tbody>
+                    {{ range .Pages}}
+                        {{if ne .Params.hidden true}}
+                            <tr>
+                                <td><a href="{{.Permalink}}"                       >{{ .Params.title }}</a></td>
+                                <td>{{ .Params.description }}</td>
+                                <td><a href="{{.Params.host_link}}" target="_blank">{{.Params.host_text}}</a></td>
+                                <td>{{ .Params.session_type }}</td>
+                            </tr>
+                        {{ end }}
+                    {{ end }}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{{ end}}

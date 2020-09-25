@@ -1,0 +1,47 @@
+{{ $sessions := where .this.Site.Pages ".Params.type" .type}}
+
+<h2>{{.title}} (status)</h2>
+
+<table class="table table-condensed table-bordered table-striped">
+    <thead>
+        <th width="300">Session</th>
+        <th>Track</th>
+        <th>Organizer</th>
+        <th>Content Status</th>
+        <th>Outcome Status</th>
+        <th>Event Date</th>
+    <!--    <th>Event Time</th>
+        <th>Room Layout</th>
+      <th>Room Number</th>
+    -->    <th>Participants</th>
+        <th>Featured</th>
+    </thead>
+    {{ range $sessions }} {{ if ne .Params.hide true }}
+    <tr>
+        <td>
+            <a href="{{.Permalink }}">{{.Params.title}}</a>
+        </td>
+        <td class="text-center">
+            {{ .Params.track }}
+        </td>
+        <td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "value" .Params.organizers) }}
+        </td>
+        <td class="text-center">{{ partial "session/status-badge.html" . }}</td>
+        <td class="text-center">{{ partial "outcomes/by-status.html" . }}</td>
+        <td class="text-center"> {{ .Params.when_day }} </td>
+    <!--     <td class="text-center"> {{ .Params.when_time }} </td>
+        <td class="text-center"> {{ .Params.room_layout }} </td>
+        <td class="text-center"> {{ .Params.room_number }} </td>
+      -->
+        <td class="text-center">
+            {{ partial "session/participants-as-badge.html" . }}
+        </td>
+        <td class="text-center">
+          {{ with .Params.featured }}
+          <i class="glyphicon glyphicon-flag"></i>
+          {{ end }}
+        </td>
+    </tr>
+    {{ end}} {{ end}}
+</table>

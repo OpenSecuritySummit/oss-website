@@ -1,0 +1,20 @@
+{{ $src    := .Get "src"    }}
+{{ $width  := .Get "width"    }}
+{{ $height  := .Get "height"    }}
+
+{{ if eq $width "" }}
+    {{ $width = 900}}
+{{ end }}
+
+{{ if eq $height "" }}
+    {{ $height = 500}}
+{{ end }}
+
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url={{$src}}"
+        frameBorder="0"
+        scrolling="auto"
+        height="{{$height}}"
+        width="{{$width}}"
+></iframe>
+
+

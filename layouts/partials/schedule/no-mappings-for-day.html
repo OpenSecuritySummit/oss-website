@@ -1,0 +1,12 @@
+{{ $sessions_without_day := where (where (where .pages (trim ".Params.when_day" " ") "eq" nil) ".Params.title" "ne" nil) ".Params.hidden" "ne" "true" }}
+{{ $sessions_without_time := where (where (where .pages (trim ".Params.when_time" " ") "eq" nil) ".Params.title" "ne" nil) ".Params.hidden" "ne" "true" }}
+{{ $sessions := union $sessions_without_day $sessions_without_time }}
+
+{{ if gt (len ($sessions)) 0 }}
+<h5>Sessions not mapped to any day or time </h5>
+<ul>
+    {{ range $sessions }}
+    <li> {{ partial "link.html" . }}
+    {{ end }}
+</ul>
+{{ end }}

@@ -1,0 +1,9 @@
+{{if .Params.zoom_link}}
+    <a href="{{.Params.zoom_link}}" target="_blank">
+        <button class="label label-primary">
+            <span>Watch using</span> <img src="/img/logos/zoom-logo.png" alt="">
+        </button>
+    </a>
+{{ else }}
+    <span class="label label-primary">Zoom link will be available very soon</span>
+{{ end}}

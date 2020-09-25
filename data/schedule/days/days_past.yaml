@@ -1,0 +1,70 @@
+day-1:
+  date: "1st"
+  day : "Monday"
+  key : "1st - Monday"
+  order: 1
+day-2:
+  date: "2nd"
+  day : "Tuesday"
+  key : "2nd - Tuesday"
+  order: 2
+day-3:
+  date: "3rd"
+  day : "Wednesday"
+  key : "3rd - Wednesday"
+  order: 3
+day-4:
+  date: "4th"
+  day : "Thursday"
+  key : "4th - Thursday"
+  order: 4
+day-5:
+  date: "5th"
+  day : "Friday"
+  key : "5th - Friday"
+  order: 5
+day-6:
+  date: "8th"
+  day : "Monday"
+  key : "8th - Monday"
+  order: 6
+day-7:
+  date: "9th"
+  day : "Tuesday"
+  key : "9th - Tuesday"
+  order: 7
+day-8:
+  date: "10th"
+  day : "Wednesday"
+  key : "10th - Wednesday"
+  order: 8
+day-9:
+  date: "11th"
+  day : "Thursday"
+  key : "11th - Thursday"
+  order: 9
+day-10:
+  date: "12th"
+  day : "Friday"
+  key : "12th - Friday"
+  order: 10
+day-11:
+  date: "15th"
+  day : "Monday"
+  key : "Mon"
+  order: 11
+day-12:
+  date: "16th"
+  day : "Tuesday"
+  key : "Tue"
+  order: 12
+day-13:
+  date: "17th"
+  day : "Wednesday"
+  key : "Wed"
+  order: 13
+day-14:
+  date: "18th"
+  day : "Thursday"
+  key : "Thu"
+  order: 14

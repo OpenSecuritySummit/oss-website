@@ -1,0 +1,113 @@
+cards:
+  # to add cards, just copy from the id below here to the more_info, and increment the id
+ - id        : card-1
+   title     : CISO
+   outcomes  :
+     - title : Cyber Insurance
+       link  : /outcomes/tracks/ciso/working-sessions/cyber-insurance/
+     - title : Cyber Risk Modeling
+       link  : /outcomes/tracks/ciso/working-sessions/cyber-risk-modeling/
+     - title :
+       link  :
+   # this shows the green button below th card
+   more_info : /outcomes/tracks/
+ - id        : card-2
+   title     : Chaos Engineering
+   outcomes  :
+     - title :
+       link  :
+     - title :
+       link  :
+     - title :
+       link  :
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-3
+   title     : DevSecOps
+   outcomes  :
+     - title : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+       link  : /outcomes/tracks/DevSecOps/working-sessions/integrating-security-tools-in-the-sdl/
+     - title : Owasp Cloud Security Workshop (BETA)
+       link  : /outcomes/tracks/DevSecOps/working-sessions/owasp-cloud-security-workshop/
+     - title : Securing the CI Pipeline
+       link  : /outcomes/tracks/DevSecOps/working-sessions/securing-the-ci-pipeline/
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-4
+   title     : GDPR
+   outcomes  :
+     - title : ASK ME ANYTHING (AMA) ON GDPR
+       link  : /outcomes/tracks/GDPR/working-sessions/devsecops-maturity-model/
+     - title :
+       link  :
+     - title :
+       link  :
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-1
+   title     : Keynotes
+   outcomes  :
+     - title :
+       link  :
+     - title :
+       link  :
+     - title :
+       link  :
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-1
+   title     : Maps and Graphs
+   outcomes  :
+     - title : Cell based Structures for Security
+       link  : /outcomes/maps-and-graphs/working-sessions/cell-based-structures-for-security/
+     - title : Create Wardley Maps for multiple security scenarios
+       link  : /outcomes/maps-and-graphs/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/
+     - title : Using User Story Mapping for effective communication
+       link  : /outcomes/maps-and-graphs/working-sessions/user-story-mapping-for-effective-communication/
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-1
+   title     : Misc
+   outcomes  :
+     - title : MSc Application Security
+       link  : /outcomes/tracks/Misc/user-sessions/msc-application-security/
+     - title : Women in Cyber-security - improving the gender balance
+       link  : /outcomes/tracks/Misc/user-sessions/Women-in-cyber-security/
+
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-1
+   title     : OWASP SAMM
+   outcomes  :
+     - title : SAMM Introduction
+       link  : /outcomes/tracks/OWASP-SAMM/user-sessions/SAMM-introduction/
+
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-1
+   title     : OWASP Projects
+   outcomes  :
+     - title : Creation of Security Buttons
+       link  : /outcomes/tracks/owasp-projects/working-sessions/security-buttons/
+
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-1
+   title     : Security Questions
+   outcomes  :
+     - title : Security Questions Workshop
+       link  : /outcomes/tracks/Security-Questions/working-sessions/security-questions-workshop/
+
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/
+ - id        : card-1
+   title     : Threat Model
+   outcomes  :
+     - title : API Threat Modeling Cheat Sheet
+       link  : /outcomes/threat-model/working-sessions/tm-api-cheatsheet/
+     - title : Threat Modeling Website Structure
+       link  : /outcomes/threat-model/working-sessions/TM-website-structure/
+     - title : Threat model cheat sheets
+       link  : /outcomes/threat-model/working-sessions/TM-cheatsheets/
+   # this shows the green button below th card
+   more_info: /outcomes/tracks/

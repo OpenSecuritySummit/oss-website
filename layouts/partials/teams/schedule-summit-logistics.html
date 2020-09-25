@@ -1,0 +1,67 @@
+{{ $site_Pages    := .Site.Pages }}
+{{ $participants  := where  .Site.Pages ".Params.type" "participant" }}
+
+<h3>What sessions are the {{.Params.title}} team participating</h3>
+{{ range .Params.members }}                                                     {{/* for all members of this team */}}
+    {{ $title := . }}
+    {{ range $site_Pages }}                                                     {{/* for all pages in site */}}
+        {{ $page := .}}
+        {{ if  not (or (eq  $page.Params.type "participant") (eq $page.Params.type "participant-remote"))}}
+            {{ if eq (printf "%T" .Params.organizers) "[]string" }}                 {{/* add sessions current $title is an organiser */}}
+                {{ range  .Params.organizers}}
+                    {{ if eq . $title }}
+                        {{ $.Scratch.Add "pages_Titles" (slice $page.Params.title) }}
+                        {{ $.Scratch.Add $page.Params.title  (slice $title) }}
+                    {{ end }}
+                {{ end }}
+            {{ else }}
+                {{ if in $title .Params.organizers }}
+                    {{ $.Scratch.Add "pages_Titles" (slice $page.Params.title) }}
+                    {{ $.Scratch.Add $page.Params.title  (slice $title) }}
+                {{ end }}
+            {{end }}
+
+            {{ if eq (printf "%T" .Params.participants) "[]string" }}             {{/* add sessions current $title is an participant */}}
+                {{ range  .Params.participants}}
+                    {{ if eq . $title }}
+                        {{ $.Scratch.Add "pages_Titles" (slice $page.Params.title) }}
+                        {{ $.Scratch.Add $page.Params.title  (slice $title) }}
+                    {{ end }}
+                {{ end }}
+            {{ else }}
+                {{ if in $title .Params.participants }}
+                    {{ $.Scratch.Add "pages_Titles" (slice $page.Params.title) }}
+                    {{ $.Scratch.Add $page.Params.title  (slice $title) }}
+                {{ end }}
+            {{end }}
+
+        {{ end }}
+
+        {{ if (eq $title $page.Params.title) }}                                                    {{/* when we find the page a team member */}}
+
+            {{ if eq (printf "%T" $page.Params.sessions) "[]string"     }}
+                {{ range $page.Params.sessions}}                                       {{/* add it contents */}}
+                    {{ $.Scratch.Add "pages_Titles" (slice .)           }}
+                    {{ $.Scratch.Add .  (slice $title)                  }}
+                {{ end                                                  }}
+            {{ end }}
+            {{ if not ($.Scratch.Get $title)                            }}
+                {{ $.Scratch.Add $title .                               }}                       {{/* store a ref to it on $.Scratch */}}
+            {{ end                                                      }}
+        {{ end                                                          }}
+    {{ end                                                              }}
+{{ end                                                                  }}
+
+
+
+{{ $pages_Titles := .Scratch.Get "pages_Titles" }}                                    {{/* .Scratch['pages'] has the titles of the sessions */}}
+
+{{ range $site_Pages }}
+    {{if  in $pages_Titles .Params.title }}
+        {{ $.Scratch.Add "pages" (slice .) }}
+    {{ end}}
+{{ end }}
+
+{{ $pages := $.Scratch.Get "pages"}}
+
+{{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}

@@ -1,0 +1,9 @@
+{{ define "content" }}
+
+
+
+    {{ partial "sessions/registrations-table.html" (dict "this" . "type" "user-session"    "title" "User Sessions") }}
+
+    {{ partial "sessions/registrations-table.html" (dict "this" . "type" "working-session" "title" "Working Sessions") }}
+
+{{ end}}

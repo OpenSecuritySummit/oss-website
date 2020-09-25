@@ -1,0 +1,51 @@
+{{ define "nav" }}
+  <header class="full-bg background-working-sessions">
+
+    <div class="dark-mask"></div>
+
+    {{ partial "nav.html" . }}
+
+  </header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+  <div class="inner_main_working_sessions">
+    <div class="center_heading">
+      <div class="container">
+          <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+
+{{ end }}
+
+{{ define "content" }}
+
+    <h2>Sessions List</h2>
+
+    <p>Here are the Keynotes currently planned for the Summit</p>
+
+    {{ $keynotes := where (where .Site.Pages ".Params.type" "keynote") ".Params.title" "ne" "" }}
+    {{ partial "sessions/simple-table-all-columns.html" $keynotes }}
+
+    <p>Here are the Sessions currently planned for the Summit</p>
+
+    {{ $wsessions := where (where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit") ".Params.title" "ne" "" }}
+    {{ $usessions := where (where .Site.Pages ".Params.type" "user-session") ".Params.title" "ne" "" }}
+    {{ $sessions := union $wsessions $usessions }}
+
+    {{ partial "sessions/simple-table-all-columns.html" $sessions }}
+
+    <h2>Pre-Summit Working Sessions</h2>
+
+    <p>
+        A number of Working Sessions are happening before the Summit, please see the details below and participate
+    </p>
+
+    {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "eq" "pre-summit"}}
+    {{ partial "sessions/simple-table-all-columns.html" $sessions }}
+
+    <br>
+
+{{ end }}

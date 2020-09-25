@@ -1,0 +1,12 @@
+<section class="bar background-white no-mb">
+    <div class="container text-center">
+        <div class="heading custom-border text-center">
+            <h2 class="no-margin">
+              Today's schedule<br/>
+              Friday, 7 June 2019
+            </h2>
+        </div>
+
+        {{ partial "schedule/by-room/day-tabs.html" (dict "self" . "day" "Fri") }}
+    </div>
+</section>

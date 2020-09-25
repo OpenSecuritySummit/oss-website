@@ -1,0 +1,38 @@
+{{ define "content" }}
+
+<div class="participant">
+    <div class="participant-main-section">
+      <div class="container">
+      {{ if .Params.job_title}}
+        <h3>{{ .Params.job_title }}{{ with .Params.company }}, {{ . }}{{ end }}</h3>
+      {{ else }}
+        <h3>{{ .Params.company }} </h3>
+      {{ end }}
+
+      {{ with .Params.image }}
+        <img class="black-and-white participant img-circle" src="{{ . }}" alt="" />
+      {{ end }}
+
+      <p>
+        {{ .Content }}
+      </p>
+
+      {{ partial "participant/contact-details.html" . }}
+
+      {{ partial "participant/when-day.html"        . }}
+      {{ partial "participant/sessions.html"        . }}
+
+
+      <!--<h3>(for Working Sessions organisers)</h3>-->
+
+      <!--<p>To invite {{ .Title }} to your Working Session use &#32;-->
+          <!--<code class="highlighter-rouge">invited: {{ .Title }}</code>-->
+
+      {{ partial "session/register-as-organizer.html" . }}
+
+      <hr />
+      <p>Back to list of <a href='/participant/'>all Participants</a></p>
+      </div>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,183 @@
+/* participant styles */
+@media (max-width: $screen-lg) {
+    .participants .card {
+        min-height: 315px;
+    }
+    .participants .participant-name {
+        font-size: 16px;
+        font-size: 1.6rem;
+    }
+    .participants .participant-title {
+        font-size: 13px;
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: $screen-md) {
+    .participants .card {
+        min-height: 280px;
+    }
+    .participants .participant-name {
+        font-size: 15px;
+        font-size: 1.5rem;
+    }
+    .participants .participant-title {
+        font-size: 12px;
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: $screen-sm) {
+    .participants .card {
+        min-height: 255px;
+    }
+    .participants .participant-name {
+        font-size: 15px;
+        font-size: 1.5rem;
+    }
+    .participants .participant-title {
+        font-size: 12px;
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: $screen-xs) {
+    .participants .card {
+        min-height: 225px;
+    }
+    .participants .participant-name {
+        font-size: 13px;
+        font-size: 1.3rem;
+    }
+    .participants .participant-title {
+        font-size: 11px;
+        font-size: 1.1rem;
+    }
+}
+
+
+.participants-remote {
+    margin-top: 20px;
+    padding: 20px;
+    background: #87BB40;
+}
+
+.participants {
+    background: #f9f9f9;
+    margin-top: 20px;
+}
+
+.participants h1 {
+    padding-bottom: 20px;
+}
+
+.participants .card {
+    background-color: white;
+    border: 1px solid;
+    border-radius: 0.5em;
+    border-color: #f2f2f2;
+    margin-bottom: 20px;
+}
+
+.participants .card:hover {
+    background-color: #87BB40;
+}
+
+.participants .card:hover .participant-name {
+    color: white;
+}
+
+.participants .card:hover .participant-title {
+    color: white;
+}
+
+.participants .card .card-top {
+    padding-bottom: 0px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: 'Oswald';
+}
+
+.participants .card .card-top img {
+    width: 90%;
+    border-radius: 0.5em;
+    border-color: #f2f2f2;
+}
+
+.participants .card .card-block {
+    color: white;
+    text-align: center;
+}
+
+.participants .participant-name {
+    font-family: 'Oswald';
+    color: #333333;
+}
+
+.participants .participant-title {
+    padding: 4px;
+    color: #00549E;
+}
+
+.participants a:link {
+    text-decoration: none;
+}
+
+img.participants {
+    width: 150px;
+}
+
+.participant-item {
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 5 auto;
+    background-color: #f9f9f9;
+    width: 140px;
+    img {
+        margin: 0 auto;
+        border: 7px solid #fff;
+    }
+    p {
+        margin-top: 0;
+    }
+
+    h3 {
+        text-transform: none;
+        font-weight: 600;
+        color: #333;
+        font-family: 'Oswald';
+    }
+    h4 {
+        font-size: 16px;
+        text-transform: none;
+        font-weight: 400;
+        color: #777;
+        margin-bottom: 0px;
+        a {
+            text-transform: none;
+            font-family: 'Oswald';
+        }
+    }
+    h5 {
+        font-size: 14px;
+        text-transform: none;
+        font-style: italic;
+        font-weight: 200;
+        color: #777;
+        margin-bottom: 15px;
+        a {
+            text-transform: none;
+        }
+    }
+    .report {
+        margin-top: 0px;
+    }
+
+    ul {
+        list-style: none;
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding: 0;
+    }
+}

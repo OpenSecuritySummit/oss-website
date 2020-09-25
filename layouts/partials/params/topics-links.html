@@ -1,0 +1,7 @@
+{{ $field := "Topics"}}
+{{ $topics := partial "utils/field-to-array.html"  (dict "this" . "field" $field) }}
+{{range $index, $element := $topics}}
+{{ if $index }} , {{ end }}
+    <a href="/topics#{{ urlize $element}}">{{$element}}</a>
+{{end }}
+

@@ -1,0 +1,8 @@
+{{ $this := .this}}
+{{ $pages := where $this.Site.Pages ".Params.title" .title }}
+
+{{ $page := index $pages 0}}
+
+{{ if $page }}
+    {{ return  $page.Permalink}}
+{{ end}}

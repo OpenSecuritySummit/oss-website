@@ -1,0 +1,12 @@
+{{ $this := .this }}
+{{ $you_tube := $this.Params.you_tube }}
+{{ $youtube_link := $this.Params.youtube_link }}
+
+{{ $this.Scratch.Set "you_tube" $you_tube }}
+{{ if $youtube_link }}
+  {{ $parsed := findRE "([-0-9_[:alpha:]])+$" $this.Params.youtube_link }}
+  {{ $this.Scratch.Set "you_tube" (index $parsed 0) }}
+{{ end }}
+{{ $youtube_id := $this.Scratch.Get "you_tube" }}
+
+{{ return $youtube_id}}

@@ -1,0 +1,84 @@
+summit_before:
+  - id       : villa-1
+    title    : Before the storm villa
+    type     : summit prep team
+    location : Villa 313
+    capacity : 6
+  - id       : villa-2
+    title    : Nothing to see here villa
+    type     : summit prep team
+    location : Villa 314
+    capacity : 6
+  - id       : hotel-1
+    title    : An hotel room
+    type     : Hotel (????)
+    location : HT-001
+    capacity : 2
+
+summit:
+  - id       : villa-1
+    title    : SQL Injection villa
+    type     : with sessions
+    location : CP-001
+    capacity : 6
+  - id       : villa-2
+    title    : XSS villa
+    type     : with sessions
+    location : CP-003
+    capacity : 6
+  - id       : villa-3
+    title    : Buffer Overflow villa
+    type     : with sessions
+    location : CP-003
+    capacity : 6
+  - id       : villa-4
+    title    : CSRF villa
+    type     : with sessions
+    location : CP-004
+    capacity : 6
+  - id       : villa-5
+    title    : Indirect Object References villa
+    type     : with sessions
+    location : CP-005
+    capacity : 6
+  - id       : villa-6
+    title    : XXE Injection villa
+    type     : with sessions
+    location : CP-005
+    capacity : 6
+  - id       : villa-7
+    title    : STRIDE villa
+    type     : with sessions
+    location : CP-005
+    capacity : 6
+  - id       : villa-10
+    title    : Exposed AWS S3 bucket villa
+    type     : quiet villa
+    location : CP-010
+    capacity : 6
+
+  - id       : hotel-1
+    title    : An hotel room
+    type     : Hotel (Centerparcs)
+    location : HT-001
+    capacity : 2
+
+  - id       : hotel-2
+    title    : Another hotel room
+    type     : Hotel (Centerparcs)
+    location : HT-002
+    capacity : 1
+
+  - id       : hotel-3
+    title    : An hotel room (close by)
+    type     : Hotel (Holliday In)
+    location : HT-003
+    capacity : 2
+
+
+summit_after:
+  - id       : villa-3
+    title    : What just happened? villa
+    type     : summit prep team
+    location : CP-001
+    capacity : 6

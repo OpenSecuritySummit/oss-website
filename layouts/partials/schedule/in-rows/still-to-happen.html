@@ -1,0 +1,6 @@
+{{ $this := .this}}
+
+{{ $days_next_training := $this.Site.Data.schedule.days.days_next_training }}
+{{ $days_next_summit := $this.Site.Data.schedule.days.days_next_summit }}
+{{ partial "schedule/list/days.html" (dict "this" $this "pages" .pages "days" $days_next_training "title" "Training") }}
+{{ partial "schedule/list/days.html" (dict "this" $this "pages" .pages "days" $days_next_summit "title" "Summit") }}

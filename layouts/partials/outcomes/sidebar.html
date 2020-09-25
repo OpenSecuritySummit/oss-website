@@ -1,0 +1,30 @@
+{{ $title := .Params.title }}
+
+{{ $session := index (where (where .Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome") 0 }}
+
+<h2 class="oswald-blue">Session organiser(s)</h2>
+{{ partial "session/organisers-as-list.html" $session }}
+<h2 class="oswald-blue">Participants</h2>
+{{ partial "session/participants-as-list.html" $session }}
+
+<h3>Attached materials:</h3>
+
+
+{{ with .Params.links }}
+  <h2 class="oswald-blue">References:</h2>
+  {{ range . }}
+    <a href="{{ . | safeURL }}">Links</a>
+  {{ end }}
+{{ end }}
+
+{{ with .Params.video }}
+<button type="button" class="btn btn-default">
+  <a href="{{ . | safeURL }}">Video link</a>
+</button>
+{{ end }}
+
+{{ with .Params.slides }}
+<button type="button" class="btn btn-default">
+  <a href="{{ . | safeURL }}">Slides link</a>
+</button>
+{{ end }}

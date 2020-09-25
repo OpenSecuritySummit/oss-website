@@ -1,0 +1,4 @@
+{{- $scratch := newScratch -}}
+{{- $scratch.SetInMap "output" "content" .Plain -}}
+{{- $scratch.SetInMap "output" "front" .Params -}}
+{{- $scratch.Get "output" | jsonify -}}

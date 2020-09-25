@@ -1,0 +1,22 @@
+{{ $outcomes := where .this.Site.Pages ".Params.type" .type}}
+
+<h2>{{.title}} (status)</h2>
+
+<table class="table table-condensed table-bordered table-striped">
+    <thead>
+        <th width="300">Session</th>
+        <th>Content Status</th>
+        <th>Participants</th>
+    </thead>
+    {{ range $outcomes }} {{ if ne .Params.hide true }}
+    <tr>
+        <td>
+            <a href="{{.Permalink }}">{{.Params.title}}</a>
+        </td>
+        <td class="text-center">{{ partial "session/status-badge.html" . }}</td>
+        <td class="text-center">
+            {{ partial "session/participants-as-badge.html" . }}
+        </td>
+    </tr>
+    {{ end}} {{ end}}
+</table>

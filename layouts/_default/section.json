@@ -1,0 +1,16 @@
+{{- .Scratch.Set "items" slice -}}
+{{- range .Pages -}}
+    {{- .Render "transformer" -}}
+    {{- $.Scratch.Add "items" (slice (.Scratch.Get "item")) -}}
+{{- end -}}
+{{ with eq .Kind "section" }}
+    {{- $.Scratch.SetInMap "data" "section" $.Section -}}
+{{ end }}
+{{ with eq .Kind "taxonomy" }}
+    {{- $.Scratch.SetInMap "data" "taxonomy" $.Data.Singular -}}
+    {{- $.Scratch.SetInMap "data" "term" $.Data.Term -}}
+{{ end }}
+{{- .Scratch.SetInMap "data" "count" (len .Pages) -}}
+{{- .Scratch.SetInMap "data" "items" (.Scratch.Get "items") -}}
+{{- .Scratch.SetInMap "output" "data" (.Scratch.Get "data") -}}
+{{- .Scratch.Get "output" | jsonify -}}

@@ -1,0 +1,25 @@
+<div class="sessions">
+    <table class="table table-bordered table-striped">
+        <thead>
+        <tr><th style="width:300px">Title</th>
+        <th>Track</th>
+        <th>Description</th>
+        </tr>
+        </thead>
+        {{ range . }}
+            {{ if ne .Params.hide true }}
+                <tr>
+                    <td>
+                        <a href="{{.Permalink }}">{{.Params.title}}</a>
+                    </td>
+                    <td>
+                      {{ with .Params.track }}{{ . }}{{ end }}
+                    </td>
+                    <td>
+                        {{ .Params.description}}
+                    </td>
+                </tr>
+            {{ end}}
+        {{ end}}
+    </table>
+</div>

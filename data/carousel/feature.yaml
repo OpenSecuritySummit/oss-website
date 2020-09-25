@@ -1,0 +1,13 @@
+weight: 30 
+title: "The Working Sessions"
+description: >
+  <ul class="list-style-none">
+    <li>API Security</li>
+  </ul>
+  <ul class="list-style-none">
+     <li>Automation</li>
+   </ul>
+   <ul class="list-style-none">
+    <li>Maps and Graphs</li>
+   <p><a href="/tracks/" class="btn green" role="button">Read More</a></p>
+image: "img/carousel/next-summit.png"

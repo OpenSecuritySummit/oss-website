@@ -1,0 +1,22 @@
+<div class="row">
+{{ $outcomes := where .Site.Pages ".Params.type" "outcome" }}
+
+HOLA
+
+{{ range where (where .Pages ".Params.title" "!=" "") ".Params.status" "!=" "draft" }}
+  {{ $track := (.Params.track | default "no track") }}
+  {{ .Scratch.Add $track (slice .) }}
+  {{ .Scratch.Add "tracks" $track }}
+{{ end }}
+
+{{ range (.Scratch.Get "tracks") }}
+Track: {{ . }}
+{{ range (.Scratch.Get .) }}
+ <ul>
+    <li><a href="">{{ . }}</a></li>
+</ul>
+{{ end }}
+
+{{ end }}
+
+</div>

@@ -1,0 +1,28 @@
+
+
+{{ define "nav" }}
+    <header class="full-bg background-home">
+        {{ partial "nav.html" . }}
+    </header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+  <div class="container-managed xxl">
+    {{ partial "breadcrumbs2020.html" . }}
+
+{{ end }}
+
+{{ define "full-content" }}
+<!--    <div class="container container-xl">-->
+      <section class="schedule-section">
+        <div class="container container-xl">
+        {{ .Content }}
+
+        {{ partial "schedule/list/calendar.html" . }}
+
+        </div>
+      </section>
+<!--    </div>-->
+  </div>
+{{ end }}

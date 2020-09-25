@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+    <div id="all" class="dark-mask">
+            <header class="full-bg background-home">
+
+<!--              <div class="dark-mask"></div>-->
+              {{ partial "nav.html" . }}
+
+        </header>
+
+      <div class="container-managed xxl">
+        <div class="home-page">
+            {{ partial "home-page/hero-over.html" . }}
+            {{ partial "home-page/join-next-summit.html" . }}
+            {{ partial "home-page/promote-sessions.html" . }}
+
+<!--            {{ partial "home-page/summit-dates.html" . }}-->
+<!--            {{ partial "home-page/schedule.html" . }}-->
+<!--            {{ partial "home-page/book-tickets.html" . }}-->
+<!--            {{ partial "home-page/attend-summit.html" . }}-->
+<!--            {{ partial "home-page/container/speakers.html" . }}-->
+<!--            {{ partial "home-page/container/photo-gallery.html" . }} -->
+            {{ partial "home-page/testimonials.html" . }}
+<!--            {{ partial "home-page/articles.html" . }}-->
+<!--            {{ partial "home-page/newsletter-signup.html" . }}-->
+            {{ partial "home-page/previous-summits-2021.html" . }}
+<!--            {{ partial "sponsors/sponsorship-model.html" . }}-->
+        </div>
+      </div>
+
+        {{ partialCached "footer.html"                   . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partialCached "scripts.html" . }}
+
+  </body>
+</html>

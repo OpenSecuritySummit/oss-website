@@ -1,0 +1,14 @@
+<td>
+    {{ if .organizers }}
+        {{ $how_many := sub (len .organizers) 1 }}
+        {{range $index, $name := .organizers}}
+            {{ if eq (printf "%T" $name) "*hugolib.pageState" }}
+                <span class="schedule-session-organizer" data-url="{{.Permalink}}">{{ $name.Title }}{{ if lt $index $how_many}} , {{ end }}</span>
+            {{else}}
+                <span class="schedule-session-organizer">{{ $name }}{{ if lt $index $how_many}} , {{ end }}</span>
+            {{ end }}
+        {{ end }}
+    {{ end}}
+</td>
+
+

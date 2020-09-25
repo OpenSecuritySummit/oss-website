@@ -1,0 +1,9 @@
+<p>Legends:
+
+<ul>
+{{ range $index, $element := .Site.Data.utils.status  }}
+<li><i class="glyphicon glyphicon-{{ $element }}"></i> {{ $index }}</li>
+{{ end }}
+</ul>
+
+</p>

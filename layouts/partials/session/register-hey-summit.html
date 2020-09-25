@@ -1,0 +1,9 @@
+{{if  .Params.hey_summit}}
+    <a href="{{.Params.hey_summit}}">
+        <button class="label label-success">
+            Add this session to my schedule
+        </button>
+    </a>
+{{ else }}
+    <span class="label label-danger">not scheduled</span>
+{{ end}}

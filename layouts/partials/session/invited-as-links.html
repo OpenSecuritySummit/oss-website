@@ -1,0 +1,24 @@
+{{ $title := .Params.title }}
+
+{{ if eq (printf "%T"  .Params.invited) "string" }}
+    {{ $.Scratch.Add "invited" (slice .Params.invited) }}
+{{ else }}
+    {{ range .Params.invited}}
+        {{ $.Scratch.Add "invited" (slice .) }}
+    {{ end }}
+{{ end }}
+
+{{ $value := uniq ($.Scratch.Get "invited") }}
+
+{{ if $value}}
+    <tr>
+        <th>Invited</th>
+        <td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "value" $value) }}
+        </td>
+    </tr>
+{{ end }}
+
+
+
+

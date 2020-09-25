@@ -1,0 +1,6 @@
+{{ $this := .this }}
+{{ $message := partial "admin/social/twitter-message.html" ( dict "this" $this "organizers" .organizers) }}
+<td>
+    <a href="https://twitter.com/intent/tweet?text={{$message}}" target="_blank">create tweet</a>
+<!--    <pre>{{ $message}}</pre>-->
+</td>

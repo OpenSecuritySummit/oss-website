@@ -1,0 +1,15 @@
+{{ $this := .}}
+
+<!--calendar view-->
+{{ $summit_days := .Site.Data.schedule.days.summit}}
+{{ $working_sessions := where (where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit") ".Params.title" "ne" "" }}
+{{ $user_sessions    := where (where .Site.Pages ".Params.type" "user-session") ".Params.title" "ne" "" }}
+{{ $keynotes         := where (where .Site.Pages ".Params.type" "keynote") ".Params.title" "ne" "" }}
+{{ $sessions         := union (union $user_sessions $working_sessions) $keynotes }}
+
+{{ $title := "Summit Week (15th - 19th June)" }}
+
+{{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
+
+
+

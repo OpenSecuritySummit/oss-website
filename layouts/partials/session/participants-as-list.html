@@ -1,0 +1,32 @@
+  {{ $title := .Params.title }}
+
+{{ if eq (printf "%T"  .Params.participants) "string" }}
+    {{ $.Scratch.Add "participants" (slice .Params.participants) }}
+{{ else }}
+    {{ range .Params.participants}}
+        {{ $.Scratch.Add "participants" (slice .) }}
+    {{ end }}
+{{ end }}
+
+{{ range .Site.Pages}}
+    {{if in .Params.sessions $title}}
+        {{if eq .Params.type "participant"}}
+            {{ $.Scratch.Add "participants" (slice .Params.title) }}
+        {{ else if eq .Params.type "participant-remote"}}
+            {{ $.Scratch.Add "participants-remote" (slice .Params.title) }}
+        {{ end }}
+
+    {{ end }}
+{{ end }}
+
+
+{{ $participants        := uniq ($.Scratch.Get "participants"       ) }}
+{{ $participants_remote := uniq ($.Scratch.Get "participants-remote") }}
+
+{{ if $participants }}
+  {{ partial "utils/titles-with-link.html" (dict "this" . "value" $participants) }}
+{{ end }}
+
+{{ if $participants_remote }}
+  {{ partial "utils/titles-with-link.html" (dict "this" . "value" $participants_remote) }}
+{{ end }}

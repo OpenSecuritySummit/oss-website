@@ -1,0 +1,7 @@
+{{ if and (isset .Params "image") (isset .Params "website") }}
+<div class="team_image">
+  <a href="{{ .Params.website }}">
+    <img class="img-responsive" style="width:350px;" src="{{ .Params.image }}" />
+  </a>
+</div>
+{{ end }}

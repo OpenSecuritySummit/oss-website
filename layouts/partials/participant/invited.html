@@ -1,0 +1,17 @@
+<style>
+    .participant-invited .alert {
+        padding   : 2px 10px 2px 10px;
+        text-align: center;
+        font-size : 9px;
+        margin    : 2px;
+    }
+    .participant-invited .margin {
+        padding: 0px;
+    }
+</style>
+
+{{if in .page.Params.invited .name}}
+    <span class="participant-invited">
+        <div class="alert alert-info">Invited</div>
+    </span>
+{{ end }}

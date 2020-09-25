@@ -1,0 +1,110 @@
+<!-- Pretty Print for Debug -->
+<!-- Usage examples:
+     {{/* partial "debugprint.html" .Params */}}
+     {{/* partial "debugprint.html" .Site */}}
+     {{/* partial "debugprint.html" .GitInfo */}}
+     {{/* partial "debugprint.html" (slice "File" .) */}}
+-->
+{{ $value           := . }}
+{{ $type            := (printf "%T" $value) }}
+{{ $typeIsBool      := (eq "bool" $type) }}
+{{ $typeIsString    := (eq "string" $type) }}
+{{ $typeIsTime      := (eq "time.Time" $type) }}
+{{ $typeIsInterface := (eq "interface" $type) }}
+{{ $typeIsSlice     := (findRE "^([[][]]|.*TaxonomyList)" $type) }} <!-- match ^[] -->
+{{ $typeIsMap       := (findRE "^(map[[].+[]]|.*SiteSocial)" $type) }} <!-- match ^map[*] -->
+
+{{ $typeIsSiteInfo  := (eq "*hugolib.SiteInfo" $type) }}
+{{ $typeIsGitInfo   := (findRE "^.*gitmap\\.GitInfo" $type) }}
+{{ $typeIsSpecial   := (or $typeIsSiteInfo $typeIsGitInfo) }}
+
+{{ if $typeIsBool }}
+    {{ printf "<span class=\"debugprint\"><span class=\"%#v\">%#v</span></span>" $value $value | safeHTML }}
+{{ else if $typeIsString }}
+    <!-- Use %#v for strings so that their values always get double-quoted.
+         That is helpful to tell if a space char is within a string. -->
+    {{ printf "%#v" $value | safeHTML }}
+{{ else if (or $typeIsTime $typeIsInterface) }}
+    {{ printf "%s" $value | safeHTML }}
+{{ else if $typeIsSlice }}
+    {{ if eq 2 (len $value) }}
+        {{ $slice_elem_0 := (index $value 0) }}
+        {{ $slice_elem_1 := (index $value 1) }}
+        <!-- Special treatment for File object
+             Go templates limitation: https://discourse.gohugo.io/t/how-to-specify-a-function-call-instead-of-field-reference-in-a-partial/9219 -->
+        {{ if (and (eq "*hugolib.PageOutput" (printf "%T" $slice_elem_1)) (eq "File" $slice_elem_0)) }}
+            {{ with $slice_elem_1 }} <!-- This carries the .Page scope -->
+                {{ $fileVars := (dict "UniqueID" .File.UniqueID "BaseFileName" .File.BaseFileName "TranslationBaseName" .File.TranslationBaseName "Lang" .File.Lang "Section" .File.Section "LogicalName" .File.LogicalName "Dir" .File.Dir "Ext" .File.Ext "Path" .File.Path) }}
+                {{ partial "debugprint.html" $fileVars }} <!-- Recursive call FTW! -->
+            {{ end }}
+        {{ else }}
+            {{ range $value }}
+                {{ partial "debugprint.html" . }} <!-- Recursive call FTW! -->
+            {{ end }}
+        {{ end }}
+    {{ else }}
+        {{ range $value }}
+            {{ partial "debugprint.html" . }} <!-- Recursive call FTW! -->
+        {{ end }}
+    {{ end }}
+{{ else if $typeIsMap }}
+    {{ if (gt (len $value) 0) }}
+        <table class="debugprint">
+            <tr><th class="key">Key</th><th class="type">Type</th><th class="value">Value</th></tr>
+            {{ range $key1, $value1 := $value }}
+                {{ $type1       := (printf "%T" $value1) }}
+                {{ $type1IsTime := (eq "time.Time" $type1) }}
+                {{ if $type1IsTime }}
+                    <!-- Print the date only if it is not at its initial value of Jan 1, 0001 -->
+                    {{ if (ne "0001-01-01" ($value1.Format "2006-01-02")) }}
+                        {{ printf "<tr><td class=\"key\">%s</td><td class=\"type\">%s</td><td class=\"value\">" $key1 $type1 | safeHTML }}
+                        {{ partial "debugprint.html" $value1 }} <!-- Recursive call FTW! -->
+                        {{ printf "</td></tr>" | safeHTML }}
+                    {{ end }}
+                {{ else }}
+                    {{ printf "<tr><td class=\"key\">%s</td><td class=\"type\">%s</td><td class=\"value\">" $key1 $type1 | safeHTML }}
+                    {{ partial "debugprint.html" $value1 }} <!-- Recursive call FTW! -->
+                    {{ printf "</td></tr>" | safeHTML }}
+                {{ end }}
+            {{ end }}
+        </table>
+    {{ end }}
+{{ else if $typeIsSpecial }}
+    <div class="debugprint">
+        {{ if $typeIsSiteInfo }}
+            {{ $siteVarNames   := (slice "Title" "Author" "Social" "LastChange" "DisqusShortname" "GoogleAnalytics" "Copyright" "RSSLink" "LanguageCode" "BuildDrafts" "Params") }}
+            {{ $siteVarSymbols := (slice .Title  .Author  .Social  .LastChange  .DisqusShortname  .GoogleAnalytics  .Copyright  .RSSLink  .LanguageCode  .BuildDrafts  .Params ) }}
+            <table>
+                <tr><th class="key">SiteInfo Variable</th><th class="value">Value</th></tr>
+                {{ range $idx, $elem := $siteVarNames }}
+                    {{ printf "<tr><td class=\"key\">%s</td><td class=\"value\">" $elem | safeHTML }}
+                    {{ partial "debugprint.html" (index $siteVarSymbols $idx) }} <!-- Recursive call FTW! -->
+                    {{ printf "</td></tr>" | safeHTML }}
+                {{ end }}
+            </table>
+        {{ else if $typeIsGitInfo }}
+            {{ $gitInfoVarNames   := (slice "Hash" "AbbreviatedHash" "Subject" "AuthorName" "AuthorEmail" "AuthorDate") }}
+            {{ $gitInfoVarSymbols := (slice .Hash  .AbbreviatedHash  .Subject  .AuthorName  .AuthorEmail  .AuthorDate ) }}
+            <table>
+                <tr><th class="key">GitInfo Variable</th><th class="value">Value</th></tr>
+                {{ range $idx, $elem := $gitInfoVarNames }}
+                    {{ printf "<tr><td class=\"key\">%s</td><td class=\"value\">" $elem | safeHTML }}
+                    {{ partial "debugprint.html" (index $gitInfoVarSymbols $idx) }} <!-- Recursive call FTW! -->
+                    {{ printf "</td></tr>" | safeHTML }}
+                {{ end }}
+            </table>
+        {{ else }}
+            {{ printf "%#v" $value | safeHTML }}
+        {{ end }}
+    </div>
+{{ else }}
+    {{ printf "%#v (type:%s)" $value $type | safeHTML }}
+{{ end }}
+
+<!-- Older, simpler version -->
+<!-- <table class="debugprint"> -->
+{{/* range $key1, $value1 := . */}}
+{{/* printf "<tr><td>%#v</td><td>%#v</td></tr>" $key1 $value1 | safeHTML */}}
+{{/* end */}}
+<!-- </table> -->
+

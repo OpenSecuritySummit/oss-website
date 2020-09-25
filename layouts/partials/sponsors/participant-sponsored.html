@@ -1,0 +1,14 @@
+{{ $sponsor := .sponsor }}
+
+<div class="row">
+<h3>Supported By:</h3>
+{{ range $parentKey, $parent := .this.Site.Data.sponsors }}
+  {{ range $childKey, $child := . }}
+    {{ if eq $childKey (lower $sponsor) }}
+    <a href="{{ $child.url }}">
+      <img class="img img-responsive sponsored-by" src="{{ $child.image }}" />
+    </a>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>

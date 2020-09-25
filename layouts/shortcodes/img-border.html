@@ -1,0 +1,10 @@
+{{ $src    := .Get "src"    }}
+{{ $width  := .Get "width"  }}
+{{ $height := .Get "height" }}
+{{ $style  := "border: 1px solid #ddd;border-radius: 4px;padding: 5px;" }}
+
+<img src   ="{{$src}}"
+     width ="{{$width}}"
+     height="{{$height}}"
+     style ={{ $style | safeCSS }}
+      />

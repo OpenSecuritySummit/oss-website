@@ -1,0 +1,45 @@
+sessions:
+   # to add session, just copy from the id below here to the description, and increment the id
+   - id           : session-p1
+     type         : break # session, break
+     title        : Welcome to the event
+     icon         : fa fa-coffee
+     timeslot     : 08:30 AM - 09:00 AM
+     description  : Let's have a morning tea/coffee together, before the start of the first session.
+   - id           : session-1
+     type         : session # session, break
+     title        : Threat Modeling Cookbook Examples
+     organizers   : Organizer 1 (company), Organizer 2 (company)
+     participants : Participant 1, Participant 2, Participant 3
+     timeslot     : 09:00 AM - 11:00 AM
+     description  : Some description for the session.
+   - id           : session-p2
+     type         : break # session, break
+     title        : Main Break
+     icon         : fa fa-cutlery
+     organizers   :
+     participants :
+     timeslot     : 11:00 AM - 12:00 PM
+     description  : Lunch time.
+   - id           : session-2
+     type         : session # session, break
+     title        : Wardley Maps
+     organizers   : Organizer 1 (company), Organizer 2 (company)
+     participants : Participant 1, Participant 2, Participant 3
+     timeslot     : 12:00 PM - 02:00 PM
+     description  : We use maps frequently. We would like to share our experience how We use maps in our corporate environment but as well as We would be glad to hear from you about some of our maps that we created.
+   - id           : session-p3
+     type         : break # session, break
+     title        : Short Break
+     icon         : fa fa-coffee
+     organizers   :
+     participants :
+     timeslot     : 02:00 PM - 02:30 PM
+     description  : Let's take a short break before the final session. Take a deep breath, We are moving to Kubernetes Security.
+   - id           : session-3
+     type         : session # session, break
+     title        : Kubernetes Security
+     organizers   : Organizer 1 (company), Organizer 2 (company)
+     participants : Participant 1, Participant 2, Participant 3
+     timeslot     : 02:30 PM - 04:30 PM
+     description  : Some description for the session.

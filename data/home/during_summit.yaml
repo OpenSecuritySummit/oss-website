@@ -1,0 +1,41 @@
+cards:
+  - id       : card-1
+    title    : I’M AN ONSITE PARTICIPANT
+    questions:
+      - question : How do I get to the venue?
+        link     : /faq/im-an-on-site-participant/#how-do-i-get-to-the-venue
+      - question : What can I do at the Summit?
+        link     : /faq/im-an-on-site-participant/#what-can-i-do-at-the-summit
+      - question : How do I create my schedule?
+        link     : /faq/im-an-on-site-participant/#how-do-i-create-my-schedule
+    more_info: /faq/im-an-on-site-participant/
+  - id       : card-2
+    title    : I’M AN REMOTE PARTICIPANT
+    questions:
+      - question : How do remote sessions work?
+        link     : /faq/im-a-remote-participant-faq/#how-do-remote-sessions-work
+      - question : Which sessions can I join?
+        link     : /faq/im-a-remote-participant-faq/#which-sessions-can-i-join
+      - question : How can I invite others to join?
+        link     : /faq/im-a-remote-participant-faq/#how-can-i-invite-others-to-join
+    more_info: /faq/im-a-remote-participant-faq/
+  - id       : card-3
+    title    : I’M A SESSION ORGANISER
+    questions:
+      - question : What are my responsibilities?
+        link     : /faq/im-an-organiser/#what-are-my-responsaties
+      - question : What resources are available?
+        link     : /faq/im-an-organiser/#what-resources-are-available
+      - question : What should the outcomes be?
+        link     : /faq/im-an-organiser/#what-should-the-outcomes-be
+    more_info: /faq/im-an-organiser/
+  - id       : card-4
+    title    : "I’M Not at the Summit (How do I join?) "
+    questions:
+      - question : How do I get a ticket?
+        link     : /faq/id-like-to-join-the-summit/#how-do-i-buy-a-ticket
+      - question : How can I join remotely?
+        link     : /faq/id-like-to-join-the-summit/
+      - question : Can I sign-up to updates?
+        link: /faq/id-like-to-join-the-summit/
+    more_info: /faq/id-like-to-join-the-summit/

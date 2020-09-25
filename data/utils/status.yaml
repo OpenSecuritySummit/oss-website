@@ -1,0 +1,17 @@
+# Session Statues
+# The following list includes the possible statuses of a summit session.
+# - Open
+# - Idle
+# - In Progress
+# - Ready for promotion
+# - Done
+#
+# To change this icons, search a glyphicon using: https://glyphsearch.com/?library=glyphicons&copy=name
+featured: flag status-green
+no-content: ban-circle status-red
+default: remove-sign
+review-content: refresh status-orange
+draft: check status-gray
+open: open
+add-details: plus-sign
+done: ok-circle status-green

@@ -1,0 +1,20 @@
+{{ $teams := where .Site.Pages ".Params.type" "team" }}
+{{/* $match := where $teams ".Params.members" "in" "Dinis Cruz" */}}
+
+{{ range $teams }}
+    {{if (in .Params.members $.Params.title)  }}
+        {{ $.Scratch.Add "teams" (slice .) }}
+    {{ end }}
+{{ end }}
+<div class="hidden-print">
+    <h3>Participant's team(s):</h3>
+    <ul class="list-inline">
+    {{range $.Scratch.Get "teams" }}
+        {{if  isset .Params "image"}}
+            <li><a href="{{.Permalink}}"><img src="{{ .Params.image }}" width="100"/></a></li>
+        {{ else}}
+            <li> <a href="{{.Permalink}}">{{ .Params.title }}</a></li>
+        {{ end}}
+    {{end }}
+    </ul>
+</div>

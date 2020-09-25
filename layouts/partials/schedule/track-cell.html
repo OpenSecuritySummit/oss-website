@@ -1,0 +1,48 @@
+<style>
+    #cell_widgets li a  { font-size: 7px;   padding: 1px;  }
+    .participant-image  { width:20px;                      }
+    .clues ul           { margin: 0px;                     }
+    .over-subscribed    { margin:0px; padding: 5px ; font-family:  "Roboto", Helvetica, Arial, sans-serif;}
+</style>
+
+<table class="table schedule-cell">
+    {{ $self := .self }}
+    {{ $day := $self.Scratch.Get .day }}
+    {{ with $day }}
+        {{if gt (len .) 1 }}
+        <tr>
+            <td>
+                <div class="alert alert-danger over-subscribed">Time slot over-subscribed</div>
+            </td>
+        </tr>
+        {{ end }}
+    {{ end }}
+    {{ range $day }}
+        <tr>
+            <td>
+                {{ partial "participant/invited.html" (dict "page" . "name" $self.Params.title) }}
+                {{ partial "link.html" . }}
+<!--                <span id="cell_widgets">-->
+<!--                    {{ partial "widgets/clues.html" .}}-->
+<!--                </span>-->
+                <div id="cell_participants">
+                    {{ $participants := $.self.Scratch.Get .Params.title}}
+                    {{ range $participants}}
+                        {{ if eq (printf "%T" .) "string" }}
+                            {{ $page := $.self.Scratch.Get . }}
+                            {{ if eq (printf "%T" $page) "*hugolib.Page" }}
+                                <a href="{{$page.Permalink}}" title="{{$page.Params.title}}">
+                                    {{ if $page.Params.image }}
+                                        <img class="participant-image img-circle" src="{{ $page.Params.image}}"/>
+                                    {{ else}}
+                                        <img class="participant-image img-circle" src="{{ .Site.BaseURL }}/img/blocks/avatar.jpg"/>
+                                    {{ end }}
+                                </a>
+                            {{ end }}
+                        {{ end}}
+                    {{ end}}
+                </div>
+            </td>
+        </tr>
+        {{ end }}
+</table>

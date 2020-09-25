@@ -1,0 +1,17 @@
+{{ $type := printf "%T"  .value }}
+
+{{ if eq $type "string" }}
+    {{ partial "utils/title-to-link" (dict "this" .this "title" .value ) }}
+{{ end }}
+
+{{ if (in (slice "[]interface {}" "[]string" ) $type) }}
+    {{ $len := (len .value) }}
+    {{ range $index, $element := .value }}
+        {{ partial "utils/title-to-link" (dict "this" $.this "title" $element ) }}
+        {{ if eq (add $index 1) $len }}
+
+        {{ else }}
+            ,
+        {{ end }}
+    {{ end }}
+{{ end }}

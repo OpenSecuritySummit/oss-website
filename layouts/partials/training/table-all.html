@@ -1,0 +1,18 @@
+<div class="sessions">
+    <table class="table_section">
+        <thead>
+        <tr><th style="width:300px">Title</th>
+        <th>Session Type</th>
+        <th>Day</th>
+        <th>When</th>
+        <th>Delivered by</th>
+        <th>Track</th>
+        <th>Register</th>
+        </tr>
+        </thead>
+        {{ range sort . ".Params.title" }}
+
+            {{ partial "training/table-row.html" . }}
+        {{ end}}
+    </table>
+</div>

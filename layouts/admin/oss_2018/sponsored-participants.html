@@ -1,0 +1,33 @@
+{{ define "content" }}
+    <style>
+        .textarea-sponsored-by {
+            width : 100pc;
+            height: 500px;
+        }
+    </style>
+    {{ $participants := where .Site.Pages ".Params.type" "participant" }}
+
+    {{ range  $participants     }}
+        {{  if  .Params.sponsored_by }}
+            {{ $.Scratch.Add .Params.sponsored_by (slice .)}} 
+        {{end }}
+    {{ end }}
+
+    <h2>By Sponsor</h2>
+    {{ partial "admin/sponsored-table.html" (dict "self" . "sponsor" "CertDev") }}
+    {{ partial "admin/sponsored-table.html" (dict "self" . "sponsor" "PhotoBox") }}
+    {{ partial "admin/sponsored-table.html" (dict "self" . "sponsor" "JE Marketing") }}
+
+
+
+    <h2>Raw data (in csv format)</h2>
+    <textarea class="textarea-sponsored-by">
+"Sponsor" , "Name", "Days at Venue", "Nights required"
+{{ "" }}
+    {{- range  $participants -}}
+    {{if  .Params.sponsored_by -}}
+"{{ .Params.sponsored_by}}" , "{{ .Params.title}}" , "{{ .Params.venue }}" , "{{ .Params.night_day}}"
+{{end -}}
+    {{ end }}
+    </textarea>
+{{ end}}

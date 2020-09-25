@@ -1,0 +1,574 @@
+-
+  video: yyKLD3_FySQ
+  author: Open security summit
+  description: OSS Closing Keynote at a virtual pub setting
+  date: 19 Jun 2020
+  session: summit
+
+-
+  video: 4Hsz9szbz2Y
+  author: Petra Vukmirovic, Tomas Pilvelis
+  description: Security Automation with Python Boto3 for AWS and Pulumi
+  date: 19 Jun 2020
+  session: summit
+-
+  video: cq7QQkEtxq4
+  author: Leila Rao
+  description: Experience LeanInAgile
+  date: 19 Jun 2020
+  session: summit
+-
+  video: JyaA642cTj4
+  author: Dinis Cruz, Adam Leon Smith
+  description: Using OWASP at Covid Safe Paths
+  date: 19 Jun 2020
+  session: summit
+-
+  video: b7r_iunJJ8E
+  author: Mario Platt, Phil Huggins
+  description: Sense making with Cynefin framework
+  date: 19 Jun 2020
+  session: summit
+-
+  video: 8iCQpBSXBnU
+  author: Daniel Cuthbert, Andrew van der Stock
+  description: What OWASP tools/projects we already have and what are we missing to deliver secure devops pipelines
+  date: 19 Jun 2020
+  session: summit
+-
+  video: YB5nYhHORvI
+  author: Dinis Cruz, Didar Gelici, Tony Richards, James Bore, Ben Schofield
+  description: Post-mortem of the incident exercise
+  date: 19 Jun 2020
+  session: summit
+-
+  video: meVN1MqL8TY
+  author: Imran A. Mohammed
+  description: Lightning Talk - DevSecOps
+  date: 19 Jun 2020
+  session: summit
+-
+  video: JxD4b9hwn5k
+  author: Andrew van der Stock
+  description: Secure it at the source, frameworks and how to get them more secure
+  date: 19 Jun 2020
+  session: summit
+-
+  video: 3fxrHDhvcEw
+  author: Mario Platt
+  description: OSS user stories for all ASVS requirements that people can download and use
+  date: 19 Jun 2020
+  session: summit
+-
+  video: U1jMCmefITY
+  author: Jane Frankland
+  description: Keynote - Jane Frankland InSecurity
+  date: 19 Jun 2020
+  session: summit
+
+-
+  video: BjlV4I8hm2g
+  author: Adam Leon Smith, Dinis Cruz
+  description: Security Labels for Covid Apps
+  date: 18 Jun 2020
+  session: summit
+-
+  video: 7cEkbQ80CD8
+  author: David Prince
+  description: Migration to Cloud
+  date: 18 Jun 2020
+  session: summit
+
+-
+  video: G3YQVqpcYaU
+  author: Steven Wierckx, Stephen De Vries
+  description: Threatmodel tool demos-Thursday
+  date: 18 Jun 2020
+  session: summit
+-
+  video: _LhbwdQ7N_M
+  author: Adam Leon Smith
+  description: Keynote - Privacy by design at Covid Safe Paths App
+  date: 18 Jun 2020
+  session: summit
+-
+  video: MpqbL7Q6ftY
+  author: Paul Harragan
+  description: Lightning Talk - Cybersecurity in M&A (a CISO's guide)
+  date: 17 Jun 2020
+  session: summit
+
+-
+  video: X0ebMh0dzys
+  author: Didar Gelici, Alan Jenkins, Tony Richards, Demi Ben-Ari, Elad Shapira
+  description: Third Party Assurance
+  date: 17 Jun 2020
+  session: summit
+
+-
+  video: ar6HSoMICRM
+  author: Alan Jenkins, Dinis Cruz, Phil Huggins, Tony Richards
+  description: Who is the CISO? Nobody knows
+  date: 17 Jun 2020
+  session: summit
+
+-
+  video: u_Snj_z85kU
+  author: Elvin White
+  description: Securely Handling Fonts in PDFs - Part 1
+  date: 17 Jun 2020
+  session: summit
+-
+  video: V-Y6dF4_bhA
+  author: Danny Lopez, Ante Gulam, Kevin Fielder, Dinis Cruz
+  description: CEOs and CISOs roundtable
+  date: 17 Jun 2020
+  session: summit
+-
+  video: 2B1U1GR-jzU
+  author: Steven Wierckx, Fraser Scott, Izar Tarandach
+  description: Threatmodel tool demos - Wednesday AM
+  date: 17 Jun 2020
+  session: summit
+-
+  video: UKtz8rO8ne0
+  author: Alan Jenkins, Avi Douglen, Ben Schofield, Simon Wardley
+  description: Risk Mapping - Applying Risk overlay with maps and security decision making
+  date: 16 Jun 2020
+  session: summit
+-
+  video: 7g7jqU2YAn4
+  author: David Prince, Leila Rao
+  description: Making the business case for DevSecOps 
+  date: 16 Jun 2020
+  session: summit
+-
+  video: d_aSWm3KbMk
+  author: Leila Rao
+  description: Agile in Cybersecurity (9pm)
+  date: 16 Jun 2020
+  session: summit
+
+-
+  video: SZdYrvUMX1Y
+  author: Naina Bhattacharya
+  description: Lightning Talk- Cybersecurity What history teaches us
+  date: 16 Jun 2020
+  session: summit
+
+-
+  video: YKHPUZJMkUs
+  author: Simon Wardley, Dinis Cruz, Tony Richards, Luke Robbertse
+  description: Team Topologies & PST & Squads & Tribes
+  date: 16 Jun 2020
+  session: summit
+-
+
+  video: TkctxmRJ8ME
+  author: Simon Wardley
+  description: Mapping culture
+  date: 16 Jun 2020
+  session: summit
+-
+  video: 78meBnQODRY
+  author: Dr Jacqui Taylor
+  description: Lightning Talk - The Future of CNI
+  date: 16 Jun 2020
+  session: summit
+  
+-
+  video: n6JGcZGFq5o
+  author: Steven Wierckx, Mike Goodwin
+  description: Lightning Demo - Threatmodel tool demos
+  date: 16 Jun 2020
+  session: summit
+-
+  video: 8WZiwEVCoSQ
+  author: Steven Wierckx, Koen Yskout, Kim Wuyts
+  description:   Threat model academic research status
+  date: 16 Jun 2020
+  session: summit
+-
+  video: YESXU26LkRc
+  author: Simon Wardley
+  description: Keynote - Wardley Mapping
+  date: 16 Jun 2020
+  session: summit
+-
+  video: 9F3PuuBTu98
+  author: Simon Wardley, Petra Vukmirovic, Dinis Cruz
+  description: Threat Mapping (using Maps in Cyber Security)
+  date: 15 Jun 2020
+  session: summit
+-
+  video: h5ApBfFMmao
+  author: Bjoern Kimminich, Jannik Hollenbach, Timo Pagel
+  description: OWASP Juice Shop Cocktail Party - Ask us anything ( AUA )
+  date: 15 Jun 2020
+  session: summit
+-
+  video: ZcQQ7qxjDEI
+  author: Simon Wardley, Mario Platt
+  description: Strategy Development - applying the concepts (Wardley Maps)
+  date: 15 Jun 2020
+  session: summit
+-
+  video: 1YHjkc3Xzd0
+  author: Jannik Hollenbach, Robert Seedorff
+  description: OWASP Juice Shop Deep Dive - MultiJuicer
+  date: 15 Jun 2020
+  session: summit
+-
+  video: YkgV6gZNdvE
+  author: Simon Wardley, Dinis Cruz, Adam Leon Smith
+  description: Wardley Mapping Covid Safe Paths App
+  date: 15 Jun 2020
+  session: summit
+-
+  video: WZAnnSmPG7c
+  author: Manuel Pais, Mario Platt
+  description: Beating the 1:100 Odds - Team Topologies for Security
+  date: 15 Jun 2020
+  session: summit
+-
+  video: 9SkUohiKgtU
+  author: Bjoern Kimminich
+  description: OWASP Juice Shop Deep Dive - Integration
+  date: 15 Jun 2020
+  session: summit
+-
+  video: 9TIfoQgMEzQ
+  author: James Duncan
+  description: Why your corporate IT needs to look a lot more like consumer IT
+  date: 15 Jun 2020
+  session: summit
+-
+  video: fq_4L-758N8
+  author: Simon Wardley
+  description: Wardley Maps Introduction
+  date: 15 Jun 2020
+  session: summit
+-
+  video: WtY712DdlR8
+  author: Bjoern Kimminich
+  description: OWASP Juice Shop Deep Dive - Theming
+  date: 15 Jun 2020
+  session: summit
+-
+  video: 9TIfoQgMEzQ
+  author: James Duncan
+  description: Why your corporate IT needs to look a lot more like consumer IT
+  date: 15 Jun 2020
+  session: summit
+-
+  video: ph1etD8ooHM
+  author: Phil Huggins and Robin Oldham
+  description: Threat Personas and Application Vulnerability Scoring
+  date: 15 Jun 2020
+  session: summit
+-
+  video: ph1etD8ooHM
+  author: Dinis Cruz and Didar Gelici
+  description: Opening Keynote by Organiser Team
+  date: 15 Jun 2020
+  session: summit
+-
+  video: f7trG4_InPk
+  author: Paul Gerard
+  description: Threat Modeling - ICAP
+  date: 12 Jun 2020
+  session: training
+-
+  video: rrnZNubshbQ
+  author: Elvin White and Vinh Tram
+  description: JPG & PDF ISG - How to automate Inspection and Sanitization Guidance testing
+  date: 12 Jun 2020
+  session: training
+-
+  video: 7zs4wezbt8o
+  author: Vandana Verma
+  description: Applying OWASP Web Security Testing Guide
+  date: 12 Jun 2020
+  session: training
+-
+  video: -rKvEkEUqYc
+  author: Tony Richards
+  description: Wardley Mapping (intermediate)
+  date: 12 Jun 2020
+  session: training
+-
+  video: VcmCrE8chJQ
+  author: Mohammed A. Imran
+  description: Secrets and Credentials scanning lab by Practical DevSecOps
+  date: 12 Jun 2020
+  session: training
+-
+  video: C3wn6F-P4yU
+  author: Elvin White and Greg Mann
+  description: Office Documents ISG How to automate Inspection and Sanitization Guidance testing
+  date: 12 Jun 2020
+  session: training
+-
+  video: 6xgYy7X52rc
+  author: Paul Burke, Tim Lunn
+  description: NCSC Safe File Import Pattern
+  date: 12 Jun 2020
+  session: training
+-
+  video: yjvSI755auM
+  author: Avi Douglen
+  description: Introduction to Threat Modeling
+  date: 11 Jun 2020
+  session: training
+-
+  video: j184Av-LJvI
+  author: Mohammed A. Imran
+  description: Dependency scanning lab by Practical DevSecOps
+  date: 11 Jun 2020
+  session: training
+-
+  video: 4SK-U-0FDnw
+  author: Demi Ben-Ari and Dov Goldman
+  description: Cyber and Privacy Risk Management 101
+  date: 11 Jun 2020
+  session: training
+-
+  video: -ixsyaPAcNw
+  author: Greg Mann and Vinh Tram
+  description: Office Documents ISG - How to automate Inspection and Sanitization Guidance testing
+  date: 11 Jun 2020
+  session: training
+-
+  video: X1VsceDfntc
+  author: Elvin White and Vinh Tram
+  description: What security exploits are prevented by implementing ISGs
+  date: 11 Jun 2020
+  session: training
+-
+  video: LZk7s9bnCcA
+  author: Abbas Haidar
+  description: O365 Security - Anti-Phishing best practises and Demo
+  date: 11 Jun 2020
+  session: training
+-
+  video: wCF08BdXdDg
+  author: Bjorn Kimminich
+  description: OWASP Juice Shop intro
+  date: 11 Jun 2020
+  session: training
+-
+  video: 2Pw8oosbGas
+  author: James Bore and Dinis Cruz
+  description: Incident Response Scenario Exercise
+  date: 10 Jun 2020
+  session: training
+-
+  video: X1VsceDfntc
+  author: Barak Schoster
+  description: Infrastructure scan & Encryption
+  date: 11 Jun 2020
+  session: training
+-
+  video: PGZCHxwZ82c
+  author: Dinis Cruz
+  description: How to measure and visualise ISG standards
+  date: 10 Jun 2020
+  session: training
+-
+  video: kDs23thv8VE
+  author: Mario Platt
+  description: Using Wardley mapping for Security Strategy and Architecture development
+  date: 10 Jun 2020
+  session: training
+-
+  video: 5JRKSrlZ2ow
+  author: Demi Ben-Ari and Elad Shapira
+  description: "Supply Chain Attacks: The rise of the Third Party Poopers"
+  date: 10 Jun 2020
+  session: training
+-
+  video: mdUP1XtYTLI
+  author: Didar Gelici
+  description: DAST Dynamic Analysis lab by Practical DevSecOps
+  date: 10 Jun 2020
+  session: training
+-
+  video: 4SQtj82w5xI
+  author: Abhay Bhargav
+  description: Owning AppSec automation in Pyhton
+  date: 10 Jun 2020
+  session: training
+-
+  video: m24es4ATIhk
+  author: Petra Vukmirovic and Sara Notaro
+  description: Oh dear, my laptop is hacked!
+  date: 9 Jun 2020
+  session: training
+-
+  video: zgNFQY820Os
+  author: Sasha Rosenbaum
+  description: GitHub Actions & code scanning with CodeQL
+  date: 9 Jun 2020
+  session: training
+-
+  video: _2lSfuVOvPA
+  author: Dinis Cruz
+  description: What are ISGs and how to convert ISGs into checklists?
+  date: 9 Jun 2020
+  session: training
+-
+  video: B4F0uFhi83g
+  author: Practical DevSecOps
+  description: SAST- Static Analysis with lab
+  date: 9 Jun 2020
+  session: training
+-
+  video: FsJ5-DN1gHc
+  author: Chris Daniel
+  description: Wardley Mapping introduction
+  date: 9 Jun 2020
+  session: training
+-
+  video: ZneD_KQDWuk
+  author: Dave Mattingly
+  description: Improv Comedy
+  date: 8 Jun 2020
+  session: training
+-
+  video: wXlB0CILWic
+  author: Stuart Peck
+  description: Social Engineering
+  date: 8 Jun 2020
+  session: training
+-
+  video: 4IcIIfsqAvM
+  author: Dinis Cruz and Petra Vukmirovic
+  description: Threat Modeling FIRS AID
+  date: 8 Jun 2020
+  session: training
+-
+  video: dHkptfSUWlo
+  author: Mario Platt
+  description: "To DevSecOps or not to DevSecOps: is that a question?"
+  date: 8 Jun 2020
+  session: training
+-
+  video: dQdQS4TaQ7U
+  author: Petra Vukmirovic
+  description: Wardley Maps First Aid
+  date: 5 Jun 2020
+  session: training
+-
+  video: 17rkSmvnqas
+  author: Dinis Cruz
+  description: Hacking GlassWall SDK & Cloud
+  date: 5 Jun 2020
+  session: training
+-
+  video: miAOOyseD-M
+  author: Tatevik Stepanyan
+  description: Jira & Jupyter notebooks integration
+  date: 5 Jun 2020
+  session: training
+-
+  video: B4F0uFhi83g
+  author: Adam Smith, Diarmid Mackenzie and Dinis Cruz
+  description: COVID Safe Paths - Threat Modeling Part 2
+  date: 5 Jun 2020
+  session: training
+-
+  video: 7Pvo20Af_p0
+  author: Dinis Cruz
+  description: Threat Modeling - Cloud Functions as Detonation Chambers
+  date: 4 Jun 2020
+  session: training
+-
+  video: jvK1TMUExZw
+  author: Ben Schofield
+  description: Trusted Partner Network demo
+  date: 4 Jun 2020
+  session: training
+-
+  video: IKHZXQfDHrA
+  author: Adam Smith and Dinis Cruz
+  description: COVID Safe Paths Threat Modeling - part 1
+  date: 4 Jun 2020
+  session: training
+-
+  video: mg1rnioktxk
+  author: Mike Minchinton
+  description: NHS COVID App analysis
+  date: 3 Jun 2020
+  session: training
+-
+  video: 7TivdJABjJ0
+  author: Cat Swetel
+  description: Introduction to Wardley Mapping
+  date: 3 Jun 2020
+  session: training
+-
+  video: GbYwXCGVcGE
+  author: Diniz Cruz
+  description: Incident Response scenario planning
+  date: 3 Jun 2020
+  session: training
+-
+  video: -w8LGhPZp1w
+  author: Joshua Jebaraj
+  description: Compliance as Code intro and Inspec lab
+  date: 2 Jun 2020
+  session: training
+-
+  video: 6NMjZbfnTOU
+  author: Jannik Hollenbach and Robert Seedorff
+  description: MultiJuicer Introduction
+  date: 2 Jun
+  session: training
+-
+  video: Ry0mXz6ZPXcg
+  author: Bjoern Kimminich
+  description: OWASP Juice Shop Introduction
+  date: 2 Jun 2020
+  session: training
+-
+  video: yugHhSp5dbg
+  author: Goher Mohammad
+  description: Wardley Maps
+  date: 2 Jun 2020
+  session: training
+-
+  video: HIRbBm0klBQ
+  author: Kriti Mohun
+  description: Cloud Security 101
+  date: 2 Jun 2020
+  session: training
+-
+  video: 7L4twzz3N7A
+  author: Kriti Mohun
+  description: Demo of CloudGuard Dome9
+  date: 2 Jun 2020
+  session: training
+-
+  video: 3roVZNwptOU
+  author: Trading Cards by Mark Miller
+  description: "Drinks with Adversaries: Creating Adversary"
+  date: 1 Jun 2020
+  session: training
+-
+  video: fwo-TryGQ6c
+  author: Mark Carney and Jay Harris
+  description: COVID Apps Analysis by Mark Carney
+  date: 1 Jun 2020
+  session: training
+-
+  video: PZnnCM-mVZ0
+  author: James Bore
+  description: Training session - Threat Modeling
+  date: 1 Jun 2020
+  session: training
+-
+  video: pZ9PhJf4UyY
+  author: Dinis Cruz
+  description: Security Incident Exercise deep dive
+  date: 29 May 2020
+  session: training

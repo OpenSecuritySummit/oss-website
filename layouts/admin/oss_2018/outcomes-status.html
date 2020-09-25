@@ -1,0 +1,6 @@
+{{ define "content" }}
+
+    {{ partial "session/status-badge-legend.html" . }}
+       {{ partial "sessions/outcomes-table.html" (dict "this" . "type" "outcome" "title" "Outcomes") }}
+
+{{ end}}

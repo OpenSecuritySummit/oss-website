@@ -1,0 +1,28 @@
+{{ $tracks := where .this.Site.Pages ".Params.type" .type }}
+
+<h2>{{.title}} (status)</h2>
+
+<table class="table table-condensed table-bordered table-striped">
+    <thead>
+        <th>#</th>
+        <th>Track</th>
+        <th>Organizer</th>
+        <th>Description</th>
+        <th>Asigned To</th>
+        <th>Status</th>
+        <th>Comment</th>
+    </thead>
+    {{ range $index, $element := $tracks}}
+    <tr>
+      <td>{{ $index }}</td>
+        <td>
+            <a href="{{.Permalink }}">{{$element.Title}}</a>
+        </td>
+        <td class="text-center"> {{ partial "utils/titles-with-link.html" (dict "this" . "value" $element.Params.organizers) }}</td>
+        <td>{{ $element.Params.description }}</td>
+        <td class="text-center">{{ $element.Params.assigned_to }}</td>
+        <td class="text-center">{{ $element.Params.status }}</td>
+        <td>{{ $element.Params.comment }}</td>
+    </tr>
+    {{ end}}
+</table>

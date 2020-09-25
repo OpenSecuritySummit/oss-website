@@ -1,0 +1,36 @@
+{{ define "nav" }}
+<header class="full-bg background-working-sessions">
+    <div class="dark-mask"></div>
+    {{ partial "nav.html" . }}
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+    <div class="inner_main_schedule">
+        <div class="center_heading">
+            <div class="container">
+                <h1>{{ .Title }}</h1>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
+
+{{ define "content" }}
+
+    <div class="row">
+        <div class="col-lg-12 text-sessions">
+            {{ .Content }}
+        </div>
+    </div>
+
+    {{ partial "schedule/by-room/links-to-days.html" }}
+
+    <h3>Schedule for Today</h3>
+
+
+    <h1>Tuesday</h1>
+    {{ partial "schedule/by-room/day.html" (dict "self" . "day" "Tue" ) }}
+
+{{ end }}

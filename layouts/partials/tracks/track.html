@@ -1,0 +1,21 @@
+{{ $sessions := where .track.Site.Pages ".Params.track" .track.Title}}
+
+<div class="table-item {{.style}}">
+    <div class="title ">
+        <a href="{{ .track.Permalink }}">{{.track.Title}}</a>
+    </div>
+    <div class="overtitle">{{ .track.Description }}</div>
+    <ul class="list">
+        {{range sort $sessions ".Params.title"}}
+            {{ if .Params.hey_summit}}
+            <li class="item">
+                <i class="fa fa-caret-right"></i>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+    <a href="{{ .Permalink }}">
+        <div class="button"><button>view track </button></div>
+    </a>
+</div>

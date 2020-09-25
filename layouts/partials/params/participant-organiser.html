@@ -1,0 +1,23 @@
+{{ $this       := .this  }}
+{{ $title      := .title }}
+{{ $site_Pages := where $this.Site.Pages ".Params.type" "!=" "outcome" }}
+{{ $this.Scratch.Delete "pages" }}
+
+{{ range $site_Pages }}
+
+    {{ $page := .}}
+
+    {{ if eq (printf "%T" .Params.organizers) "[]string" }}
+        {{ range  .Params.organizers}}
+            {{ if eq . $title }}
+                {{ $this.Scratch.Add "pages" (slice $page) }}
+            {{ end }}
+        {{ end }}
+    {{ else }}
+        {{ if in $title .Params.organizers }}
+            {{ $this.Scratch.Add "pages" (slice $page) }}
+        {{ end }}
+    {{end }}
+{{ end }}
+
+{{ return $this.Scratch.Get "pages" }}

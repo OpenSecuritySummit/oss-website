@@ -1,0 +1,19 @@
+{{ $title := .Params.title }}
+
+{{ if eq (printf "%T" .Params.participants) "string" }}
+  {{ $.Scratch.Add "participants" (slice .Params.participants) }}
+{{ else }}
+  {{ range .Params.participants}}
+    {{ $.Scratch.Add "participants" (slice .) }}
+  {{ end }}
+{{ end }}
+
+{{ range .Site.Pages}}
+  {{ if in .Params.sessions $title}}
+    {{ $.Scratch.Add "participants" (slice .Params.title) }}
+  {{ end }}
+{{ end }}
+
+{{ $value := uniq ($.Scratch.Get "participants") }}
+
+{{ partial "utils/array-size-badge.html" (dict "this" . "value" $value) }}

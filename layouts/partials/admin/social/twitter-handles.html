@@ -1,0 +1,5 @@
+{{range $index, $name := .organizers -}}
+    {{ if eq (printf "%T" $name) "*hugolib.pageState" -}}
+        {{if .Params.twitter -}}@{{ .Params.twitter }} {{ end -}}
+    {{ end -}}
+{{ end -}}

@@ -1,0 +1,338 @@
+baseurl                 = "https://open-security-summit.org/"
+title                   = "Open Security Summit"
+theme                   = "oss-owasp"
+languageCode            = "en-us"
+defaultContentLanguage  = "en"
+googleAnalytics         = "UA-97001849-2"
+enableGitInfo           = true
+preserveTaxonomyNames   = true
+nextSummerYear          = 2022
+#disableKinds            = ["taxonomy"]
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+#[[menu.main]]
+#    name = "Reactions"
+#    identifier = "reactions"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 1
+#    url = "/Reactions"
+#[[menu.main]]
+#    name = "Outcomes"
+#    identifier = "outcomes"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 2
+#    url = "/outcomes/"
+[[menu.main]]
+    name = "Video"
+    identifier = "Video"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 8
+    url = "/video/"
+[[menu.main]]
+    name = "Merchandise"
+    identifier = "Merchandise"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 9
+    url = "https://pre-summit-training-sessions.heysummit.com/merchandise-3/"
+
+#    name = "Photo Gallery"
+#    identifier = "PhotoGallery"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 8
+#    url = "/photo-gallery/"
+#[[menu.main]]
+#    name = "Sessions"
+#    identifier = "sessions"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 3
+#    url = "/working-sessions/"
+[[menu.main]]
+    name = "Tracks"
+    identifier = "tracks"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 3
+    url = "/tracks/"
+
+[[menu.main]]
+    name = "Trainings"
+    identifier = "training"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 4
+    url = "/training/"
+
+[[menu.main]]
+    name = "Schedule"
+    identifier = "schedule"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 2
+#    parent = "sessions"
+    url = "/schedule"
+#[[menu.main]]
+#    name = "Topics"
+#    identifier = "topics"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 6
+##    parent = "sessions"
+#    url = "/topics/"
+
+#[[menu.main]]
+#    name = "Working Sessions"
+#    identifier = "working-sessions"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 5
+#    parent = "sessions"
+#    url = "/working-sessions/"
+#[[menu.main]]
+#    name = "User Sessions"
+#    identifier = "user-sessions"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+###    weight = 16
+#    parent = "sessions"
+#    url = "/user-sessions/"
+#[[menu.main]]
+#    name = "Teams"
+#    identifier = "teams"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 17
+#    parent = "sessions"
+#    url = "/teams"
+#[[menu.main]]
+#    name = "Product Sessions"
+#    identifier = "product-sessions"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 18
+#    parent = "sessions"
+#    url = "/product-sessions"
+[[menu.main]]
+    name = "Participants"
+    identifier = "participants"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 7
+    url = "/participant/"
+    parent = "about"
+#[[menu.main]]
+#    name = "Onsite Participants"
+#    identifier = "onsite-participants"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 13
+#    parent = "participants"
+#    url = "/participant/"
+#[[menu.main]]
+#    name = "Remote Participants"
+#    identifier = "Remote-participants"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 14
+#    parent = "participants"
+#    url = "/participant-remote/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 10
+    url = "/about/"
+#[[menu.main]]
+#    name = "Schedule Redisgin"
+#    identifier = "schedule-new"
+#    weight = 11
+#    parent = "about"
+#    url = "/schedule-new/"
+[[menu.main]]
+    name = "The Summit"
+    identifier = "about-the-summit"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 20
+    parent = "about"
+    url = "/about/"
+#[[menu.main]]
+#    name = "Venue"
+#    identifier = "venue"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 21
+#    parent = "about"
+#    url = "/venue/"
+[[menu.main]]
+    name = "Faq"
+    identifier = "faq"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 22
+    parent = "about"
+    url = "/faq/"
+[[menu.main]]
+    name = "Sponsors"
+    identifier = "sponsors"
+    weight = 11
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    url = "/sponsors/"
+    parent = "about"
+
+#[[menu.main]]
+#    name = "Partners"
+#    identifier = "partners"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 21
+#    parent = "about"
+#    url = "/partners"
+#[[menu.main]]
+#    name = "Tickets"
+#    identifier = "tickets"
+#    pre = "<i class='fa fa-ticket'></i>&nbsp;"
+#    weight = 12
+#    url = "/tickets/"
+
+
+# Top bar social links menu
+[[menu.topbar]]
+    weight = 1
+    name = "Twitter"
+    url = "https://twitter.com/opensecsummit"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "GitHub"
+    url = "https://github.com/OpenSecuritySummit/oss2021"
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Slack"
+    url = "https://join.slack.com/t/os-summit/shared_invite/zt-eptzb479-POZlYeYI1vaNNZzVatF2ag"
+    pre = "<i class='fa fa-2x fa-slack'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Youtube"
+    url = "https://www.youtube.com/channel/UCyse9b_2JLJUxKMLgSpOL-Q/"
+    pre = "<i class='fa fa-2x fa-youtube'></i>"
+
+[taxonomies]
+  category = "topics"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "OSS"
+    defaultKeywords = ["open", "summit", "security"]
+    defaultDescription = "The Open Security Summit 2021 is focused on the collaboration between Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
+    ghRepo = "https://github.com/OpenSecuritySummit/oss2021/"
+    slackInviteLink = "https://join.slack.com/t/os-summit/shared_invite/zt-eptzb479-POZlYeYI1vaNNZzVatF2ag"
+    youtubeLink = "https://www.youtube.com/channel/UCyse9b_2JLJUxKMLgSpOL-Q/"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "green"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "info@opensecsummit.org"
+
+    about_us = "The Open Security Summit 2021 is focused on the collaboration between, Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
+    copyright = "Copyright &copy; 2020, Open Security Summit"
+    help_center = """<a href="https://os-summit.slack.com/messages/CAVJH8QJV" target="blank">Do you need help <i class="fa fa-question-circle" aria-hidden="true"></i></a>"""
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    # This should be changed each edition
+    summit_edition = "2021"
+
+    logo = "img/logo.png"
+    address = """<p>Open Security Summit</p>
+                 <a href="mailto:info@opensecsummit.org">info@opensecsummit.org</a>
+              """
+    latitude = "-12.043333"
+    longitude = "-77.028333"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = false
+    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = false
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.sponsors]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Sponsors"
+    subtitle = ""
+
+[params.featured]
+    # Change this for listing featured in the home pages
+    enable = true
+    size = 4
+
+
+
+[params.recent_posts]
+    enable = false
+    title = "From our blog"
+    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend."
+
+
+#[outputs]
+#  home = ["HTML", "JSON", "RSS"]
+#  page = ["HTML", "JSON"]
+#  section = ["HTML", "JSON"]
+#  list = ["JSON"]
+
+#[outputFormats]
+#  [outputFormats.json]
+#    path = "api"

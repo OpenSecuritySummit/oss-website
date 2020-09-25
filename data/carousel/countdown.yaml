@@ -1,0 +1,10 @@
+weight: 10
+title: "Join us June 15 - 19  2020"
+description: >
+  <ul class="list-style-none">
+     <li>The Summit is back!</li>
+     <li> Come tackle some of the hardest security problems we are facing in 2020.</li>
+     <a href="/tickets/" class="btn green" role="button">Get your Tickets</a>
+   </ul>
+
+image: "img/carousel/next-summit.png"

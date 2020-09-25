@@ -1,0 +1,43 @@
+<footer id="footer" class="hidden-print">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-0"></div>
+      <div class="col-xs-12 col-md-6">
+        <h3>About</h3>
+        {{ with .Site.Params.about_us }}<p class="about-us">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .Site.Params.copyright }}<p>{{ . | safeHTML }}</p>{{ end }}
+      </div>
+
+      {{ with .Site.Params.address }}
+      <div class="col-xs-12 col-sm-6 col-md-3">
+
+        <h3>{{ i18n "contactTitle" }}</h3>
+
+        {{ . | markdownify }}
+
+      </div>
+      {{ end }}
+
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3>Follow Us</h3>
+        <p><a href="https://twitter.com/opensecsummit" target="_blank"><img src="{{ .Site.BaseURL }}/img/blocks/twitter.svg"
+                                                                              alt="twitter logo"/></a>
+          <a href="{{ with .Site.Params.ghRepo }}{{ . | safeHTML }}{{ end }}" target="_blank"><img
+            src="{{ .Site.BaseURL }}/img/blocks/github.svg" alt="github logo"/></a>
+          <a href="{{ with .Site.Params.slackInviteLink }}{{ . | safeHTML }}{{ end }}" target="_blank"><img
+            src="{{ .Site.BaseURL }}/img/blocks/slack.svg" alt="slack logo"/></a>
+          <a href="{{ with .Site.Params.youtubeLink }}{{ . | safeHTML }}{{ end }}" target="_blank"><img
+            src="{{ .Site.BaseURL }}/img/blocks/youtube-inv.svg" alt="youtube logo"/></a></p>
+        <p class="need-help">
+          {{ with .Site.Params.help_center }}
+            {{ . | safeHTML }}
+          {{ end }}
+        </p>
+        <p class="subscribe">
+          <a href="http://eepurl.com/gbQKYH" target="_blank" >Subscribe</a> to our newsletter
+        </p>
+      </div>
+
+    </div><!-- row -->
+  </div> <!-- /.container -->
+</footer><!-- /#footer -->

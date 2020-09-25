@@ -1,0 +1,35 @@
+{{ if isset .Site.Params "features" }}
+{{ if .Site.Params.features.enable }}
+{{ if gt (len .Site.Data.features) 0 }}
+<hr class="container no-margin"></hr>
+<section class="bar background-white features-section no-margin">
+    <div class="container">
+        {{ range $index, $element := sort .Site.Data.features "weight" }}
+		{{ if eq (mod $index 3) 0 }}
+		<div class="col-md-12">
+            <div class="row">
+		{{ end }}
+				<div class="col-md-4">
+                    <div class="box-simple">
+                      <a href="{{ .link }}">
+                        <div class="icon">
+                          <i class="{{ .icon }}"></i>
+                        </div>
+                        <div class="inner-content">
+                            <h3>{{ $element.name }}</h3>
+                            <p>{{ $element.description | markdownify }}</p>
+                        </div>
+                      </a>
+                    </div>
+                </div>
+		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.features) 1 )) }}
+			</div>
+		</div>
+		{{ end }}
+        {{ end }}
+    </div>
+</section>
+<hr class="container no-margin"></hr>
+{{ end }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,15 @@
+<td>
+    {{ if .organizers }}
+        {{range $index, $name := .organizers}}
+            {{ if eq (printf "%T" $name) "*hugolib.pageState" }}
+                {{if .Params.twitter}}
+                    <a href="https://www.linkedin.com/in/{{ .Params.linkedin }}" target="_blank">{{ .Params.linkedin }}</a>
+                {{ end }}
+            {{else}}
+                <span class="schedule-session-organizer">{{ $name }}</span>
+            {{ end }}
+        {{ end }}
+    {{ end}}
+</td>
+
+

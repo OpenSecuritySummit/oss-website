@@ -1,0 +1,35 @@
+{{ define "nav" }}
+<header class="full-bg background-FAQs">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_FAQs">
+  <div class="center_heading">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "content" }}
+{{ partial "slack-join.html" . }}
+
+<div class="FAQs_list_main_content">
+  <p>{{ .Content }}</p>
+
+  <ul>
+    {{ range .Data.Pages }}
+      <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+    {{ end }}
+
+</div>
+{{ end }}

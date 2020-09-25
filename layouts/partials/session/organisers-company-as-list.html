@@ -1,0 +1,21 @@
+{{ $title := .Params.title }}
+
+{{ if $title }}
+
+{{ $pages := where .Site.Pages ".Params.title" $title }}
+{{ $session := where $pages ".Params.type" "!=" "outcome" }}
+
+{{ if $session }}
+{{ $page := index $session 0 }}
+
+{{ if $page.Params.organizers }}
+  {{ partial "utils/titles-company-with-link.html" (dict "this" . "value" $page.Params.organizers) }}
+{{ else }}
+No organiser(s) yet.
+{{ end }}
+
+{{ else }}
+Ouch! No session found with name {{ $title }}. Maybe it was renamed?
+{{ end }}
+
+{{ end }}

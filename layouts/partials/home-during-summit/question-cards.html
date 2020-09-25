@@ -1,0 +1,34 @@
+<section class="bar background-white no-mb">
+
+    <div class="container text-center">
+        <div class="heading custom-border text-center">
+            <h1 class="no-margin">Welcome to the Open Security Summit</h1>
+        </div>
+
+        {{ range .Site.Data.home.during_summit.cards }}
+        <div class="col-lg-3 col-md-3 col-sm-12">
+          <div class="oss-card-small">
+            <div class="oss-card-small-title">
+              <a href="{{ .more_info }}">
+                <h3>{{ .title | upper }}</h3>
+              </a>
+            </div>
+            <div class="oss-card-small-body">
+              <div class="">
+                <ul class="featured">
+                  {{ range .questions }}
+                  <li class="featured">
+                    <a href="{{ .link }}">{{ .question }}</a>
+                  </li>
+                  {{ end }}
+                </ul>
+                <div class="oss-card-small-bottom">
+                  <a href="{{ .more_info }}" class="btn oss-card-small-button">More information</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+    </div>
+</section>

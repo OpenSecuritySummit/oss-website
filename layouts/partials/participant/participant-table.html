@@ -1,0 +1,35 @@
+{{ $tracks := where .this.Site.Pages ".Params.type" .type }}
+
+<h2>{{.title}} (status)</h2>
+
+<table class="table table-condensed table-bordered table-striped">
+    <thead>
+        <th>#</th>
+        <th>Participant</th>
+        <th>Needs Funding</th>
+        <th>Travel From</th>
+        <th>Sessions</th>
+      <!--  <th>Twitter</th>
+        <th>Facebook</th>
+        <th>Linkedin</th>
+        <th>Email</th> -->
+    </thead>
+    {{ range $index, $element := $tracks}}
+        {{if $element.Title}}
+            <tr>
+              <td>{{ $index }}</td>
+                <td>
+                <a href="{{.Permalink }}">{{$element.Title}}</a>
+                </td>
+                <td>{{ $element.Params.need_funding_for }}</td>
+                <td>{{ $element.Params.travel_from }}</td>
+                <td>{{ $element.Params.sessions }} {{ $element.Params.working_sessions }}</td>
+                <!--   <td>{{ $element.Params.twitter }}</td>
+                <td>{{ $element.Params.facebook }}</td>
+                <td>{{ $element.Params.linkedin }}</td>
+                <td>{{ $element.Params.email }}</td> -->
+
+            </tr>
+        {{ end }}
+    {{ end}}
+</table>

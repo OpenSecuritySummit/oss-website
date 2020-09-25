@@ -1,0 +1,19 @@
+{{ $this := .this}}
+{{ $this.Scratch.Delete "pages" }}
+
+{{ range  .titles}}
+    {{ if . }}
+        {{ $pages := where $this.Site.Pages ".Params.title" . }}
+        {{ if eq (len $pages) 0 }}}
+            {{ $this.Scratch.Add "pages" (slice . ) }}
+        {{end}}
+
+        {{ range $pages}}
+                {{ $this.Scratch.Add "pages" (slice .) }}
+        {{ end }}
+    {{ end }}
+{{end}}
+
+{{ return $this.Scratch.Get "pages" }}
+
+

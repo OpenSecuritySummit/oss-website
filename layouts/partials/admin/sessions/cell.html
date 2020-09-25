@@ -1,0 +1,7 @@
+{{ if  .value }}
+    <td>{{.value}}</td>
+{{ else }}
+    <td>
+        <span class="label label-danger">{{.error}}</span>
+    </td>
+{{ end}}

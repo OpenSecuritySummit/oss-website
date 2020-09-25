@@ -1,0 +1,72 @@
+{{ define "nav" }}
+<header class="full-bg background-teams">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_participants">
+  <div class="center_heading">
+    <div class="container">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "content" }}
+
+<div>
+
+    <div class="participant-main-section">
+      <div class="container">
+      {{ if .Params.job_title}}
+        <h3>{{ .Params.job_title }}{{ with .Params.company }}, {{ . }}{{ end }}</h3>
+      {{ else }}
+        <h3>{{ .Params.company }} </h3>
+      {{ end }}
+
+      {{ with .Params.image }}
+        <img class="black-and-white participant img-circle" src="{{ . }}" alt="" />
+      {{ end }}
+
+      <p>
+        {{ .Content }}
+      </p>
+
+      {{ partial "participant/contact-details.html" . }}
+
+      {{ if .Params.sponsored_by }}
+          {{ partial "sponsors/participant-sponsored.html" (dict "sponsor" .Params.sponsored_by "this" .) }}
+      {{ end }}
+
+        <!-- schedule view-->
+
+
+        {{ $sessions := partial "params/participant-organiser.html" (dict "this" . "title" .Params.title )}}
+
+        {{ partial "schedule/in-rows/still-to-happen.html" (dict "this" . "pages" $sessions )}}
+
+        <br/>
+        <h1>Schedule (all sessions)</h1>
+        <!-- table view-->
+        {{ partial "participant/when-day.html"        . }}
+        {{ partial "participant/schedule.html"        . }}
+<!--        {{ partial "participant/sessions.html"        . }}-->
+
+        {{ partial "session/register-as-organizer.html" . }}
+
+        <hr />
+        <div class="hidden-print">
+          <p>Back to list of <a href='/participant/'>all Participants</a></p>
+        </div>
+      </div>
+    </div>
+</div>
+{{ end }}

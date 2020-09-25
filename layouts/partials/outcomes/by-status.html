@@ -1,0 +1,6 @@
+{{ $title := .Params.title }}
+{{ $outcome := where (where .Site.Pages ".Params.type" "outcome") ".Params.title" .Title }}
+
+{{ range first 1 $outcome }}
+{{ partial "outcomes/status-badge.html" . }}
+{{ end }}

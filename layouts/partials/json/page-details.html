@@ -1,0 +1,13 @@
+{
+    "id"            : {{ .File.UniqueID | jsonify }},
+    "file_path"     : {{ .File.Path     | jsonify }},
+    "last_modified" : {{ .Lastmod       | jsonify }},
+    "link"          : {{ .Permalink     | jsonify }},
+    "content_plain" : {{ .Plain         | jsonify }},
+    "summary"       : {{ .Summary       | jsonify }},
+    "title"         : {{ .Title         | jsonify }},
+    "track"         : {{ .Params.track  | jsonify }},
+    "type"          : {{ .Type          | jsonify }},
+    "word_count"    : {{ .WordCount     | jsonify }},
+    "params"        : {{ .Params        | jsonify }}
+}

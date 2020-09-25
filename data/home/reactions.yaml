@@ -1,0 +1,66 @@
+cards:
+ # to add cards, just copy from the id below here to the more_info, and increment the id
+ - id        : card-1
+   title     : Jim Newman
+   youtubeid : Hyj_uWFyeCo
+   quote     : "I don´t know everything yet... but now I know the people who do! "
+ - id        : card-2
+   title     : Tanya Janca
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "different countries and languages...here to plan the future "
+ - id        : card-3
+   title     : Imran Mohammed
+   youtubeid : sE8GmcISlqI
+   quote     : "An amazing  event... with new projects comming"
+ - id        : card-4
+   title     : Francesca Buehler
+   youtubeid : QvUMy32YJqQ
+   quote     : "it was about meeting amazing, open and friendly people...yeah!"
+ - id        : card-5
+   title     : Stu Hirst
+   youtubeid : d_QEIl_WxG0
+   quote     : "Fantastic cross-collaborative event... fantastic atmosphere"
+ - id        : card-6
+   title     : Talal Albacha
+   youtubeid : 0vbwws1QZeQ
+   quote     : "Great discussion!"
+ - id        : card-7
+   title     : Claudio Camerino
+   youtubeid : JzhbZMmWPeM
+   quote     : "Awesome community! Awesome people! You should come!"
+ - id        : card-8
+   title     : Phil Parker
+   youtubeid : xwfGG0T0eGo
+   quote     : "Strategy of security is more important than just execution of security. That's the lesson learned."
+ - id        : card-1
+   title     : Sven Schleier
+   youtubeid : AC5vjIda1ZM
+   quote     : "Tracks were great! I really learned lot from Imran, so Thanks Imran!"
+ - id        : card-9
+   title     : Stuart Winter-Tear
+   youtubeid : 9lJb9GEStaI
+   quote     : "This one is just a brilliant! Absolutely brilliant!"
+ - id        : card-10
+   title     : Fraser Scott
+   youtubeid : uZlXoOD4b1Q
+   quote     : "Friendly people, people are ready to share...great environment for cooperation"
+ - id        : card-11
+   title     : Stephen de Vries
+   youtubeid : ndavYt8uqkc
+   quote     : "Lovely summit. Lovely content. I really love the quality of knowledge that is here."
+ - id        : card-12
+   title     : Avi Douglen
+   youtubeid : TfhZg6_uLTo
+   quote     : "Getting to know people it's really amazing, it's awesome!"
+ - id        : card-13
+   title     : Adrian Winkles
+   youtubeid : fa9ePMROmGk
+   quote     : "We used lots of some of the previous resources... and some new directions for the project to move forward."
+ - id        : card-14
+   title     : John Dileo
+   youtubeid : y1SAFUxtm_8
+   quote     : "The conference was very useful and I enjoyed being here."
+ - id        : card-15
+   title     : Stephanie Vanroelen
+   youtubeid : sUrDi609ljs
+   quote     : "Come, do it, live it, love it, learn it, peace!"

@@ -1,0 +1,11 @@
+#weight    : 0
+#type      : "Remote participation"
+#early_bird:
+#cost      : 0
+#duration  : "5 days x 8h participant"
+#text      : Register
+#buy       : /faq/registration-info/
+#description:
+#  - "Access to all working sessions (with remote support)"
+#  - "Dedicated support during Summit hours (via Slack)"
+#  - "Daily email updates"

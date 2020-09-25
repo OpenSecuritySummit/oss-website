@@ -1,0 +1,31 @@
+{{ if isset .Site.Params "featured" }}
+{{ if .Site.Params.featured.enable }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading custom-border text-center">
+                    <h2 class="no-margin">Featured</h2>
+                </div>
+                <div class="pricing m_b_160">
+                  <div class="row">
+                    {{ $keynotes := where .Site.Pages ".Params.track" "Keynotes" }}
+                    {{ $tracks := where (where .Site.Pages ".Params.type" "track") ".Params.featured" true }}
+
+                    {{ $participants := where (where .Site.Pages ".Params.type" "participant") ".Params.featured" true}}
+
+                    {{ partial "featured/card.html" (dict "name" "keynotes" "elements" $keynotes "this" . "all" "/tracks/keynotes/")}}
+
+                    {{ partial "featured/card.html" (dict "name" "track" "elements" $tracks "this" . "all" "/tracks/")}}
+
+                    {{ partial "featured/card.html" (dict "name" "participants" "elements" $participants "this" . "all" "/participant/")}}
+
+                    </div>
+                  </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

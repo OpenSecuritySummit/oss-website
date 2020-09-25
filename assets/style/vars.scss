@@ -1,0 +1,55 @@
+/* Base URL for github pages migration */
+$base-url: '';
+$screen-xs: 480px;
+$screen-sm: 768px;
+$screen-md: 992px;
+$screen-lg: 1200px;
+$screen-xs-max: $screen-sm - 1px;
+$screen-sm-max: $screen-md - 1px;
+$screen-md-max: $screen-lg - 1px;
+
+$main-background-color: #082451;
+$main-header-color: #26264b;
+$main-inverse-text-color: #ffffff;
+$alt-background-color: #f3f8ec;
+$alt2-background-color: #f4f9ed;
+$main-active-link-color: #23c3f3;
+$alt-active-color: #00559e;
+$alt2-active-color: #0379a7;
+$theme-green-main-text-color: #87bb40;
+$main-action-text-color: $theme-green-main-text-color;
+$button-green-gradient-start: #61872e;
+$schedule-table-background-color: lighten(desaturate($main-action-text-color, 1.11), 38.24);
+
+
+$main-text-color: #9696a3;
+$main-text-color-alt: #86ba40;
+$session-content-text-color: #8c8c9a;
+$footer-color: #333333;
+$tickets-bg: #7cb52f;
+$booking-banner-bg: #404040;
+$tracks-paragraph-text-color: #7d7d7d;
+$pag-main-bg: #e6f1d5;
+
+$xxl-breakpoint: 1920px;
+$xl-breakpoint: 1200px;
+$lg-breakpoint: 992px;
+$md-breakpoint: 768px;
+$sm-breakpoint: 576px;
+$xs-breakpoint: 400px;
+$xxs-breakpoint: 320px;
+
+$xxl-container-width: 1894px;
+$xl-container-width: 1140px;
+$lg-container-width: 960px;
+$md-container-width: 720px;
+$sm-container-width: 546px;
+$xs-container-width: 370px;
+$xxs-container-width: 300px;
+
+$main-menu-height: 66px;
+
+$schedule-cell-person-icon-width: 45px;
+$schedule-cell-person-icon-height: 45px;
+
+$zoom-link-font-height: 20px;

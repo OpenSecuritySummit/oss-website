@@ -1,0 +1,3 @@
+[submodule "themes/oss-owasp"]
+	path = themes/oss-owasp
+	url = https://github.com/devcows/hugo-universal-theme.git

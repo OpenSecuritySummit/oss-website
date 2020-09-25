@@ -1,0 +1,36 @@
+{{ if isset .Site.Params "sponsors" }}
+{{ if .Site.Params.sponsors.enable }}
+{{ if gt (len .Site.Data.sponsors.platinum) 0 }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading custom-border text-center">
+                    <h2 class="no-margin">{{ .Site.Params.sponsors.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.sponsors.subtitle }}
+                </p>
+
+                <ul class="customers">
+                    {{ range .Site.Data.sponsors.platinum }}
+                    <li class="item" title="{{ .name }}">
+                        {{ if .url }}
+                          <a href="{{ .url }}" target="_blank">
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          </a>
+                        {{ else }}
+                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        {{ end }}
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

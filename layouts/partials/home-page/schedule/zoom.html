@@ -1,0 +1,22 @@
+{{ if or .this.Params.zoom_link (or .this.Params.youtube_link .this.Params.youtube_link ) }}
+{{ $youtube_id := partial "utils/get-youtube-id" (dict "this" .this) }}
+    {{ if .href }}
+        <div class="track-watch">
+            <span class="track-watch-text">watch using</span>
+            {{ if .this.Params.zoom_link }}
+                <a class="track-watch-zoom" href="{{ .this.Params.zoom_link }}" target="_blank"><img src="/img/logos/zoom-logo.png" alt=""/></a>
+            {{ end }} {{ if $youtube_id }}
+                <a class="track-watch-youtube" href="https://www.youtube.com/watch?v={{ $youtube_id }}" target="_blank"><img src="/img/logos/youtube-icon-red.png" alt=""/></a>
+            {{ end }}
+        </div>
+    {{ else}}
+        <div class="track-watch">
+            <span class="track-watch-text">watch using</span>
+            {{ if .this.Params.zoom_link }}
+                <div class="track-watch-zoom" data-url="{{ .this.Params.zoom_link }}"><img src="/img/logos/zoom-logo.png" alt=""/></div>
+            {{ end }} {{ if .this.Params.youtube_link }}
+                <div class="track-watch-youtube" data-url="https://www.youtube.com/watch?v={{ $youtube_id }}"><img src="/img/logos/youtube-icon-red.png" alt=""/></div>
+            {{ end }}
+        </div>
+    {{ end}}
+{{ end}}

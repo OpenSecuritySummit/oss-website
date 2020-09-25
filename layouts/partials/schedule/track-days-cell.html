@@ -1,0 +1,13 @@
+<td>
+    <table>
+        {{ range .self.pages }}
+            {{ if ne (trim .Params.when_day "") "" }}
+                {{if in .Params.when_day $.day }}
+                    <tr><td>
+                        {{ partial "link.html" .}}
+                    </td></tr>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </table>
+</td>

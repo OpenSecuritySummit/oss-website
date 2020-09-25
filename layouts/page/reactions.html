@@ -1,0 +1,57 @@
+{{ define "nav" }}
+<header class="full-bg background-venue">
+
+  <div class="dark-mask"></div>
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_venue">
+  <div class="center_heading">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
+
+{{ define "content" }}
+
+<section>
+
+  <section class="bar background-white no-mb">
+
+    <div class="container text-center">
+
+      {{ range where .Site.Data.home.reactions.cards ".title" "!=" "empty"}}
+      <div class="col-lg-3 col-md-3 col-sm-12" style="height:450px;">
+        <div class="oss-card-small">
+          <div class="oss-card-small-title" style="height:150px;">
+            <h3>{{ .title | upper }}</h3>
+            <cite>" {{ .quote }} "</cite>
+
+          </div>
+          <div class="oss-card-small-body">
+            <div class="">
+
+              <iframe width="240" height="230" src="https://www.youtube.com/embed/{{ .youtubeid }}"
+                      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              <div class="oss-card-small-bottom">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+
+
+</section>
+
+{{ end }}

@@ -1,0 +1,12 @@
+weight: 30
+type: "Summit + Accommodation"
+early_bird: (Early Bird)
+# price is in pounds. don't add VAT nor fees
+cost: 350
+duration: "1 day x 24h participant"
+buy: "https://www.eventbrite.co.uk/e/open-security-summit-2020-tickets-61289312985#tickets"
+description:
+  - "Access to all working sessions"
+  - "Breakfast, lunch and refreshments during breaks"
+  - "Dinner and drinks"
+  - "Accommodation (1 night)"

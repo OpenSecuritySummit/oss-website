@@ -1,0 +1,10 @@
+<div class="list-attendees-card">
+  <a href="{{ .Permalink }}">
+    {{ if .Params.image }}
+      <img class="list-attendees-image" src="{{ .Params.image }}"  alt="{{ .Title }}" />
+    {{ else }}
+      <img class="list-attendees-image" src="{{ .Site.BaseURL }}/img/blocks/avatar.jpg" alt="Placeholder avatar" />
+    {{ end }}
+    <h4>{{ .Title }}</h4>
+  </a>
+</div>

@@ -1,0 +1,117 @@
+
+.home-carousel {
+    padding: 0px;
+}
+
+
+/* change opacity in carousel */
+
+.home-carousel .dark-mask {
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    background: #082451;
+}
+
+.home-carousel .owl-carousel {
+    padding: 0px;
+}
+
+.home-carousel .owl-theme .owl-controls .owl-page span {
+    background-color: #00549e;
+    width: 10px;
+    height: 10px;
+}
+
+.home-carousel .owl-theme .owl-controls .owl-page:hover span,
+.home-carousel .owl-theme .owl-controls .owl-page.active span {
+    background-color: #1fc4f4;
+}
+
+.home-carousel .owl-item .item {
+    margin-bottom: 5px;
+}
+
+
+p.carousel-header-title {
+    padding-top: 60px;
+    font-family: 'Oswald' !important;
+    font-size: 36px;
+    font-weight: medium;
+    text-transform: uppercase;
+    color: #87BB40;
+}
+
+@media (max-width: $screen-sm-max) {
+    p.carousel-header-title {
+      padding-top: 30px;
+      font-size: 26px;
+    }
+}
+
+.home-carousel ul {
+    text-transform: none;
+    font-size: 36px;
+    font-weight: 100;
+    letter-spacing: normal;
+}
+
+@media (max-width: $screen-sm-max) {
+    .home-carousel ul {
+      font-size: 18px;
+    }
+}
+
+.home-carousel ul li {
+    font-family: 'Roboto', serif !important;
+    font-weight: 500;
+    color: #5bdaff;
+}
+
+div.home-carousel {
+    padding-top: 20px !important;
+    text-align: left !important;
+}
+
+@media (max-width: $screen-xs-max) {
+    div.home-carousel {
+        text-align: center !important;
+    }
+}
+
+div.home-carousel .btn {
+    background-color: #87bb40;
+    color: white;
+    font-family: 'Oswald';
+    font-weight: normal;
+    padding: 11px 24px;
+    font-size: 16px;
+}
+
+@media (max-width: $screen-sm-max) {
+    div.home-carousel .btn {
+      font-size: 14px;
+    }
+}
+
+/* CArousel */
+
+
+/*.homepage .owl-wrapper-outer {
+  background-color: #082451;
+}*/
+
+.smaller {
+    width: 70%;
+}
+
+.home-carousel .waves {
+    display: none;
+    /*position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;*/
+}
+
+div.waves {
+    display: none
+}

@@ -1,0 +1,17 @@
+[
+
+    {{ $tracks := where .Site.Pages ".Params.type" "track" }}
+
+    {{- range $t_index, $t := $tracks -}}
+      {{ if $t_index }}, {{ end }}
+
+      {{ partial "json/page-details.html" $t }} ,
+
+      {{- range $index, $e := .Pages -}}
+        {{ if $index }}, {{ end }}
+        {{ partial "json/page-details.html" $e }}
+      {{ end}}
+
+    {{ end }}
+
+]

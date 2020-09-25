@@ -1,0 +1,18 @@
+{{ if .IsPage }}
+<hr>
+<div class="edit-link hidden-print">
+	<ul class="github">
+		<li>
+            <a href="{{.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank">
+                <i class="fa fa-pencil-square-o"></i>Edit this page
+            </a>
+            {{.Params.title}}
+        </li>
+	</ul>
+    <p>
+    {{ with $.GitInfo }}      <!-- To enable this, put "enableGitInfo = true" in your site config.toml -->
+        <small class="gray"><em>Updated: {{ .AuthorDate }}, Version: {{ .AbbreviatedHash }}</em></small>
+    {{ end }}
+    </p>
+</div>
+{{ end }}

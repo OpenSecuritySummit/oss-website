@@ -1,0 +1,42 @@
+<tr>
+    <td>
+        <a href="{{.Permalink }}">{{.Params.title}}</a>
+    </td>
+    <td>
+        {{ .Params.type}}
+    </td>
+    <td>
+        {{ .Params.when_day}}
+    </td>
+    <td>
+
+        {{if .Params.when_time -}}
+            {{ index .Site.Data.schedule.times .Params.when_time }}
+        {{ end}}
+    </td>
+    <td>
+        {{if .Params.organizers -}}
+            {{ $self := . }}
+            {{ if eq (printf "%T" .Params.organizers) "[]string" }}
+                {{ range  .Params.organizers}}
+                    {{ partial "utils/title-to-link.html" (dict "this" $self "title" . )  }}
+                {{ end }}
+            {{ else }}
+                {{ partial "utils/title-to-link.html" (dict "this" . "title" .Params.organizers)  }}
+            {{ end }}
+        {{ else }}
+            <span class="label label-primary">needs organiser</span>
+        {{ end }}
+
+    </td>
+    <td>
+        {{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.track)  }}
+    </td>
+    <td>
+        {{if  .Params.hey_summit -}}
+            <a href="{{.Params.hey_summit}}">book now</a>
+        {{ else }}
+            <span class="label label-danger">not scheduled</span>
+        {{ end}}
+    </td>
+</tr>

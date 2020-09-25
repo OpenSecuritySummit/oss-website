@@ -1,0 +1,12 @@
+{{- range where .this.Site.Pages ".Params.type" "!=" "outcome" }}
+
+    {{if in (index .Params $.field) $.name}}
+        <tr>
+            <th><a href="{{.Permalink}}">{{.Params.title}}</a></th>
+            <td>{{ .Params.type     }}</td>
+            {{ with (eq $.field "organizers")   }}<td> <span class="label label-primary">organiser  </span> </td> {{ end }}
+            {{ with (eq $.field "participants") }}<td> <span class="label label-success">participant</span> </td> {{ end }}
+        </tr>
+    {{end }}
+{{ end }}
+

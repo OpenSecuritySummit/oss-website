@@ -1,0 +1,35 @@
+{{ if isset .Site.Params "sponsors" }}
+{{ if .Site.Params.sponsors.enable }}
+{{ if gt (len .Site.Data.sponsors.platinum) 0 }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading custom-border text-center">
+                    <h2 class="no-margin">{{ .Site.Params.sponsors.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.sponsors.subtitle }}
+                </p>
+
+                <div class="flexbox sponsor-front-page">
+                    {{ range .Site.Data.sponsors.platinum }}
+                    <div class="flexbox-vertical-center col-md-3">
+                      <div class="sponsors-item text-center">
+                        <a href="{{ .url }}" target="_blank">
+                        <img class="img img-responsive centered" src="{{ .image }}" alt="{{ .name }}" />
+                        </a>
+                      </div>
+                    </div>
+                    {{ end }}
+                </div>
+
+                <!-- /.owl-carousel -->
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

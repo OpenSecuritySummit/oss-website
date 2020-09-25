@@ -1,0 +1,23 @@
+<h4>{{ .day}}</h4>
+
+{{ $pages := where .pages ".Params.night_where" .id}}
+
+{{ range sort $pages ".Params.night_room" }}
+    {{ if in .Params.night_day $.day }}
+        <div>
+        <a href="{{.Permalink}}">
+
+                <span class="villa-day-title">{{ .Title }}</span>
+
+                <i>
+                    {{ if .Params.image }}
+                        <img src="{{ .Params.image }}"  title="{{ .Title }}" />
+                    {{ else }}
+                        <img src="{{ .Site.BaseURL }}/img/blocks/avatar.jpg" title="{{ .Title }}" />
+                    {{ end }}
+                </i>
+        </a>
+        <span class="villa-day-room">room: {{ .Params.night_room }}</span>
+        </div>
+    {{ end }}
+{{ end }}

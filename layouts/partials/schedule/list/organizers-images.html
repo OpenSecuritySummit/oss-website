@@ -1,0 +1,17 @@
+{{ if .organizers }}
+    {{range .organizers}}
+        <div class="person-img">
+            {{ if eq (printf "%T"  .) "*hugolib.pageState" }}
+                <img src="{{ .Params.image }}" class="img-circle" alt="{{ .Title }} photo" data-url="{{.Permalink}}"/>
+            {{else}}
+                <img src="/img/pages/person/person-01.png" alt="{{ . }}" class="img-circle"/>
+            {{ end }}
+        </div>
+    {{ end }}
+{{ else}}
+    <div class="person-img">
+        <span class="label label-danger">needs organiser</span>
+    </div>
+{{ end}}
+
+

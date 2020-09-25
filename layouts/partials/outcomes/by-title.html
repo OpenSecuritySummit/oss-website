@@ -1,0 +1,13 @@
+{{ $title := .Params.title }}
+{{ $outcome := where (where .Site.Pages ".Params.type" "outcome") ".Params.title" .Title }}
+
+{{ range $outcome }}
+<li class="pull-right"><a class="bg-default" href="{{ .Permalink }}"><i class="fa fa-check"></i> 2018 Outcome </a></li>
+
+<li class="pull-right"><a class="bg-default" href="/outcomes/">
+    <i class="fa fa-check"></i> 2018 Outcomes </a>
+</li>
+
+{{ end }}
+
+

@@ -1,0 +1,51 @@
+{{ define "nav" }}
+<header class="full-bg background-working-sessions">
+    <div class="dark-mask"></div>
+    {{ partial "nav.html" . }}
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+    <div class="inner_main_schedule">
+        <div class="center_heading">
+            <div class="container">
+                <h1>{{ .Title }}</h1>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
+
+{{ define "content" }}
+
+    <div class="row">
+        <div class="col-lg-12 text-sessions">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <!--
+        <h4>NOTE: unless the sessions have a little lock icon, exact session days/times are not final and can change.</h4>
+    -->
+
+    <h1>By Tracks</h1>
+    {{ $tracks := where .Site.Pages ".Params.type" "track" }}
+    {{ partial "schedule/by-day-table-days.html" (dict "title" "Tracks" "pages" $tracks )}}
+
+    <h1>By Sessions</h1>
+    {{ $tracks := where .Site.Pages ".Params.type" "track" }}
+    {{ range $tracks}}
+        <h2><a href="{{.Permalink}}">{{.Params.title}}</a></h2>
+        <table class="table table-condensed _table-bordered">
+            <tr><th>when day    </th><td>{{ .Params.when_day    }}</td></tr>
+            <tr><th>description </th><td>{{ .Params.description }}</td></tr>
+            <tr><th>organizers  </th><td> {{ partial "utils/titles-with-link.html" (dict "this" . "value" .Params.organizers) }} </td></tr>
+
+        </table>
+        <br/><br/>
+
+        {{ partial "schedule/track.html" (dict "self" . "title" .Params.title )}}
+    {{ end}}
+
+{{ end }}

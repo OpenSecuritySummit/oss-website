@@ -1,0 +1,22 @@
+name: test syntax
+
+on:
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  syntax-check:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@master
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.3.0
+      with:
+        hugo-version: '0.59.1'
+        extended: true
+
+    - name: Build
+      run: hugo --gc --minify --cleanDestinationDir
+

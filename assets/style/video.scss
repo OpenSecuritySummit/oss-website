@@ -1,0 +1,163 @@
+.video {
+    &-section {
+        padding-top: 150px;
+        .pagination {
+            display: grid;
+            grid-template-columns: repeat(5, 52px);
+            grid-template-rows: 52px;
+            justify-content: center;
+            grid-gap: 10px;
+            &-number {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: $pag-main-bg;
+                transition: all 0.2s;
+                color: $session-content-text-color;
+                font-family: 'Oswald Medium', helvetica neue, helvetica, sans-serif;
+                font-size: 18px;
+                font-weight: 400;
+                &:hover {
+                    color: $main-inverse-text-color;
+                    background-color: $main-active-link-color;
+                    cursor: pointer;
+                }
+            }
+            .arrow {
+                &-left, &-right {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background-color: $pag-main-bg;
+                    transition: all 0.2s;
+                    color: #000;
+                    img {
+                        margin: auto;
+                        filter: invert(0.5);
+                        transition: all 0.2s;
+                    }
+                }
+                &-left {
+                    &:hover {
+                        background-color: $main-action-text-color;
+                        cursor: pointer;
+                        img {
+                            filter: invert(0);
+                        }
+                    }
+                }
+                &-right {
+                    transform: rotate(180deg);
+                    &:hover {
+                        background-color: $main-action-text-color;
+                        cursor: pointer;
+                        img {
+                            filter: invert(0);
+                        }
+                    }
+                }
+            }
+        }
+        .section{
+            &-title {
+                margin-bottom: 60px;
+                text-align: center;
+                font-family: 'Oswald Medium', helvetica neue, helvetica, sans-serif;
+                font-size: 56px;
+                font-weight: 400;
+                text-transform: uppercase;
+                color: $main-background-color;
+            }
+        }
+    }
+    &-gallery {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: repeat(3, 31%);
+        grid-gap: 34px;
+    }
+    &-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 40px;
+        height: 240px;
+        .source {
+            margin-bottom: 20px;
+            height: 80%;
+            iframe {
+
+            }
+        }
+        .words {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .author {
+                margin-bottom: 10px;
+                color: $main-header-color;
+                font-family: 'Oswald', helvetica neue, helvetica, sans-serif;
+                font-size: 24px;
+                font-weight: 500;
+                text-transform: uppercase;
+            }
+            .description {
+                text-align: center;
+                font-family: "Roboto", Helvetica, Arial, sans-serif;
+                font-size: 18px;
+                font-weight: 400;
+                font-style: italic;
+            }
+        }
+    }
+}
+
+.pagination {
+    display: none !important;
+}
+
+/************
+*** MEDIA ***
+*************/
+
+/*** XL-Breakpoint ***/
+
+@media screen and (max-width: $xl-breakpoint) {
+
+
+
+  }
+
+  /*** LG-Breakpoint ***/
+
+  @media screen and (max-width: $lg-breakpoint) {
+
+      .video {
+          &-gallery {
+              grid-template-columns: repeat(2, 42%);
+              grid-gap: 24px;
+          }
+      }
+
+  }
+
+
+  /*** MD-Breakpoint ***/
+
+  @media screen and (max-width: $md-breakpoint) {
+
+      .video {
+          &-gallery {
+              grid-template-columns: 85%;
+              grid-gap: 24px;
+          }
+          &-item {
+              display: flex;
+              align-items: center;
+              .source {
+                  max-width: 540px;
+              }
+          }
+      }
+
+  }

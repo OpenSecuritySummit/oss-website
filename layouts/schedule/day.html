@@ -1,0 +1,33 @@
+{{ define "nav" }}
+<header class="full-bg background-working-sessions">
+    <div class="dark-mask"></div>
+    {{ partial "nav.html" . }}
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_schedule">
+    <div class="center_heading">
+        <div class="container">
+            <h1>{{ .Title }}</h1>
+        </div>
+    </div>
+</div>
+
+{{ end }}
+
+{{ define "content" }}
+    <style>
+        .schedule-by-track-row-time         {   width:80px;      }
+        .schedule-by-track-cell-track-name  {   font-size:9px;   }
+        .schedule-by-track-cell-room-name   {   font-size:20px;   }
+        .schedule-by-track-cell-room-id     {   font-size:9px;   }
+
+    </style>
+
+    {{ partial "schedule/by-room/day.html" (dict "self" . "day" .Params.day ) }}
+
+    {{ partial "schedule/by-room/no-room-booked.html" (dict "self" . "day" .Params.day )  }}
+    {{ partial "schedule/by-room/links-to-days.html" }}
+{{ end }}

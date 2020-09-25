@@ -1,0 +1,24 @@
+
+<h4>{{ .title }}</h4>
+<table class="table table-condensed  table-stripped">
+    <thead>
+        <tr>
+            <th>title</th>
+            <th>when</th>
+            <th>track</th>
+            <th>status</th>
+        </tr>
+    </thead>
+    {{ range .pages }}
+        {{ if ne (trim .Params.when_day "") "" }}
+            <tr>
+                <td><a href="{{.Permalink }}">{{ .Params.title }}</a></td>
+                <td>{{ .Params.when_day }}</td>
+                <td>{{ .Params.track }}</td>
+                <td>{{ .Params.status }}</td>
+            </tr>
+        {{ end }}
+    {{ end }}
+</table>
+
+<hr/>
