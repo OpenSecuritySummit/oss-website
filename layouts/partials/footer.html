@@ -6,15 +6,15 @@
         <h3>About</h3>
         {{ with .Site.Params.about_us }}<p class="about-us">{{ . | safeHTML }}</p>{{ end }}
         {{ with .Site.Params.copyright }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <a href="/privacy-notice">Privacy Notice</a>
       </div>
 
       {{ with .Site.Params.address }}
       <div class="col-xs-12 col-sm-6 col-md-3">
 
-        <h3>{{ i18n "contactTitle" }}</h3>
+         <h3>{{ i18n "contactTitle" }}</h3>
 
         {{ . | markdownify }}
-
       </div>
       {{ end }}
 
