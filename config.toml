@@ -254,8 +254,8 @@ paginate = 10
     summit_edition = "2021"
 
     logo = "img/logo.png"
-    address = """<p>Open Security Summit</p>
-                 <a href="mailto:info@opensecsummit.org">info@opensecsummit.org</a>
+    address = """Crown House, 27 Old Gloucester Street, London, WC1N 3AX, United Kingdom.
+[info@opensecsummit.org](mailto:info@opensecsummit.org)
               """
     latitude = "-12.043333"
     longitude = "-77.028333"
