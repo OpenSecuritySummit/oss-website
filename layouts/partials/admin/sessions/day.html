@@ -34,7 +34,7 @@
                 {{ .Scratch.Set "youtube_link" .Params.youtube_link }}
             {{ end }}
             {{ if .Params.you_tube }}
-                {{ .Scratch.Set "youtube_link" "https://www.youtube.com/embed/{{ .Params.you_tube }}" }}
+                {{ .Scratch.Set "youtube_link" "https://www.youtube-nocookie.com/embed/{{ .Params.you_tube }}" }}
             {{ end }}
             {{ $youtube_link := .Scratch.Get "youtube_link" }}
 
