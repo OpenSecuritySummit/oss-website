@@ -8,7 +8,7 @@ when_day     : 14th Wednesday
 when_time    : WS-3-2
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-by-scenario-1/
 session_slack:
-status       :            # review-content
+status       :            # draft, review-content
 description  :
 organizers   : 
         - James Bore
