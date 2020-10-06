@@ -3,12 +3,12 @@ title        : "Post-summit: Security by Scenario"
 track        : Misc
 type         : training-session
 topics       :
-when_week    : two
-when_day     : 6th - Monday
+when_week    : 
+when_day     : 14th Wednesday
 when_time    : WS-3-2
-hey_summit   : https://pre-open-security-summit.heysummit.com/talks/security-by-scenario/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-by-scenario-1/
 session_slack:
-status       :            # draft, review-content, done
+status       :            # review-content
 description  :
 organizers   : 
         - James Bore
@@ -19,7 +19,7 @@ organizers   :
         - Wallaby Curtis
      
 youtube_link : 
-zoom_link    :  https://zoom.us/j/99192282044?pwd=MkV6TG9BU0pIRHZNZTQrdGxUaG9kZz09
+zoom_link    :  https://zoom.us/j/95512016922?pwd=QkdkY1NLNkxnWGpObEVqOTZnTG92dz09
 
 
 ---
