@@ -1,23 +1,18 @@
 ---
-title        : "Post-summit: Security by Scenario"
+title        : "Security by Scenario"
 track        : Misc
 type         : training-session
 topics       :
 when_week    : 
 when_day     : 14th Wednesday
-when_time    : WS-3-2
+when_time    : WS-3
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-by-scenario-1/
 session_slack:
 status       :            # draft, review-content
 description  :
 organizers   : 
         - James Bore
-        - Dinis Cruz
         - Didar Gelici
-        - Ben Schofield
-        - Nick Drage
-        - Wallaby Curtis
-     
 youtube_link : 
 zoom_link    :  https://zoom.us/j/95512016922?pwd=QkdkY1NLNkxnWGpObEVqOTZnTG92dz09
 
