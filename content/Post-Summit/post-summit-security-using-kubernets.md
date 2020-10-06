@@ -13,11 +13,8 @@ description  :
 youtube_link : 
 zoom_link    : https://zoom.us/j/99689609170?pwd=bTBuZW1Mby91ajVxSTZDRGNFUlFndz09
 organizers   : 
-       - James Bore
+       - Dinis Cruz
        - Didar Gelici
-       - Ben Schofield
-       - Nick Drage
-       - Wallaby Curtis
       
 ---
 
