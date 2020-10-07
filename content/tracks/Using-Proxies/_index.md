@@ -5,7 +5,7 @@ featured     : yes
 when_day     : 
 owasp-project: no
 session_slack: 
-description  : Sessions focusing on Threat Modeling
+description  : Sessions focusing on using Kubernetes to create a scalable Security Proxy solution
 organizers   :
 ---
 
