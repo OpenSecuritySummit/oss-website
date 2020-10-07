@@ -9,7 +9,7 @@ layout   : jobs
   - Bookkeeping and financial costs
   - Manage supplier relationships
   - Keep an eye and manage OSS Gmail inboxes
-  - Miscellaneous: for example: arrange storage of OSS assets near Woburn Centre Parcs
+  - Miscellaneous tasks
 - *Support OSS Community*
   - Ownership OSS web assets (social media, Hey Summit, website, youtube)
   - Answer queries from the community
@@ -21,5 +21,22 @@ layout   : jobs
   - Manage venue relationship
   - Running virtual events (like Working Sessions)
   - Organisation of OSS 2021 event
+
+## Desired Skills
+- Event management
+- Project Management
+- Distributed leadership
+- Community outreach
+- Financial management
+- Excellent written English
+- Experience in
+  - Slack
+  - GitHub
+  - Gsuite
+  - Quickbooks
+  - Social media management
+  - Zoom webinars
+  - Upwork hiring
+  - Jira
 
 [Apply] (mailto:info@opensecsummit.org) 
