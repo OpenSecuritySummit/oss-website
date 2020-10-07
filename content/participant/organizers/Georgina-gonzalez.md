@@ -1,5 +1,5 @@
 ---
-title: Georgina González
+title: Georgina Gonzalez
 image: https://pbs.twimg.com/profile_images/1313790993137831938/GQr8Mc0F_400x400.jpg
 company: 
 job_title: Project Manager
