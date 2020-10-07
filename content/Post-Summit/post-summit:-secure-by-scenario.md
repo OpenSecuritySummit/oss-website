@@ -1,5 +1,5 @@
 ---
-title        : "Security by Scenario"
+title        : "Secure by Scenario"
 track        : Misc
 type         : training-session
 topics       :
