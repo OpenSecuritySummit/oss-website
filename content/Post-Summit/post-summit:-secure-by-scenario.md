@@ -1,6 +1,6 @@
 ---
 title        : "Secure by Scenario"
-track        : Misc
+track        : Secure by Scenario
 type         : training-session
 topics       :
 when_week    : 
