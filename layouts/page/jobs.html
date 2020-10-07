@@ -1,0 +1,39 @@
+{{ define "nav" }}
+<header class="full-bg background-sponsors">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_sponsors">
+  <div class="center_heading">
+    <div class="container">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "full-content" }}
+
+<div class="container-fluid bg-sponsors">
+  <div class="container">
+    <div class="row sponsor-spacing">
+      <div class="col-md-12">
+        {{ .Content }}
+      </div>
+    </div>
+    <div class="row sponsor-spacing">
+      <div class="col-md-12">
+      </div>
+    </div>
+  </div>
+</div><!-- container-fluid -->
+
+{{ end }}
