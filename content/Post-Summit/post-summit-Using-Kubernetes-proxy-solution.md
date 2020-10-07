@@ -1,7 +1,7 @@
 ---
 title        : "Using Kubernetes to create a scalable Security Proxy solution"
 type         : training-session
-track        : Threat Modeling
+track        : Using Proxies
 topics       : 
 when_week    : 
 when_day     : 13th- Tuesday
