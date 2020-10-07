@@ -39,4 +39,4 @@ layout   : jobs
   - Upwork hiring
   - Jira
 
-[Apply] (mailto:info@opensecsummit.org) 
+[Apply](mailto:info@opensecsummit.org) 
