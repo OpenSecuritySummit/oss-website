@@ -13,7 +13,6 @@ description  :
 organizers   : 
         - Sebastien Deleersnyder
         - Didar Gelici 
-        - Georgina Gonzalez
 youtube_link : 
 zoom_link    : https://zoom.us/j/93765501560?pwd=SGFkSkF5U2xRemF6Q29LdENZTTZsdz09
 
