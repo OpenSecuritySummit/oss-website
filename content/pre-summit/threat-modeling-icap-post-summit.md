@@ -6,7 +6,7 @@ topics       :
     - ICAP
     - Proxy
 when_week    : one
-when_day     : 2nd - Thursday
+when_day     : 15th - Thursday
 when_time    : WS-1
 hey_summit   : https://pre-summit-training-sessions.heysummit.com/talks/threat-modeling-icap-post-summit-session-11am-bst/
 session_slack:
