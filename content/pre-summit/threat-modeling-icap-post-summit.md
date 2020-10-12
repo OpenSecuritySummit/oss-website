@@ -2,6 +2,7 @@
 title        : Threat Modeling - ICAP Post-Summit Session
 track        : Threat Modeling
 type         : training-session
+draft        : true
 topics       :
     - ICAP
     - Proxy

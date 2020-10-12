@@ -8,6 +8,7 @@ enableGitInfo           = true
 preserveTaxonomyNames   = true
 nextSummerYear          = 2022
 #disableKinds            = ["taxonomy"]
+pluralizelisttitles     = false
 
 # Define the number of posts per page
 paginate = 10
