@@ -6,7 +6,7 @@ topics       :
 when_week    : 
 when_day     : 12th- Wednesday
 when_time    : LT-5
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/refresher-on-security-labels/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/main-session-security-labels-schrems-ii/
 session_slack:
 status       :           # draft, review-content
 description  : 
