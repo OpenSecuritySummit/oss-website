@@ -1,7 +1,7 @@
 ---
 title        : "How to build your own scenario and run it"
 type         : training-session
-track        : Threat Modeling
+track        : Secure by Scenario
 topics       : 
 when_week    : 
 when_day     : 9th - Monday
