@@ -1,5 +1,5 @@
 ---
-title        : "How to build your own scenario and run it"
+title        : "Playing at Security: Designing, building, and running tabletop scenarios for fail-safe incident handling and incident response training"
 type         : training-session
 track        : Secure by Scenario
 topics       : 
