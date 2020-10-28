@@ -4,7 +4,7 @@ type         : training-session
 track        : Threat Modeling
 topics       : 
 when_week    : 
-when_day     : 12th- Wednesday
+when_day     : 12th- Thursday
 when_time    : LT-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/main-session-security-labels-schrems-ii/
 session_slack:
