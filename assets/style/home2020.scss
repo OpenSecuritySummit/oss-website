@@ -1,7 +1,7 @@
 $xxl-hero-container-height: 642px;
 //$xxl-hero-container-height: 435px;
 $schedule-organizer-icon-size: 122px;
-$booking-section-height: 332px;
+$booking-section-height: 845px;
 $summit-section-height: 350px;
 $articles-image-height: 384px;
 $articles-image-height-xl: $articles-image-height * 0.75;
@@ -13,200 +13,205 @@ $testimonials-image-height: 100px;
   Common sections' elements on the home
  */
 .section {
-  &-paragraph {
-    font-size: 22px;
-    color: $session-content-text-color;
-  }
+	&-paragraph {
+		font-size: 22px;
+		color: $session-content-text-color;
+	}
 
-  &-overtitle {
-    text-transform: uppercase;
-    font-size: 20px;
-    color: $main-action-text-color;
-  }
+	&-overtitle {
+		text-transform: uppercase;
+		font-size: 20px;
+		color: $main-action-text-color;
+	}
 
-  &-title {
-    text-transform: uppercase;
-    font-size: 56px;
-    color: $main-background-color;
-  }
+	&-title {
+		text-transform: uppercase;
+		font-size: 56px;
+		color: $main-background-color;
+	}
 
-  &-button {
-    border: none;
-    text-transform: uppercase;
-    margin-top: 15px;
-    margin-bottom: 15px;
-  }
-
+	&-button {
+		border: none;
+		text-transform: uppercase;
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
 }
 
 .container {
-  &-centric {
-    margin-right: auto;
-    margin-left: auto;
-    text-align: center;
-  }
+	&-centric {
+		margin-right: auto;
+		margin-left: auto;
+		text-align: center;
+	}
 }
 
-#content, .container-managed.xxl {
-  font-family: 'Oswald', helvetica neue, helvetica, sans-serif;
+#content,
+.container-managed.xxl {
+	font-family: "Oswald", helvetica neue, helvetica, sans-serif;
 
-  h1, h2, h3, h4, h5, h6, button {
-    font-family: 'Oswald', helvetica neue, helvetica, sans-serif;
-  }
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	button {
+		font-family: "Oswald", helvetica neue, helvetica, sans-serif;
+	}
 }
 
 .container-managed.xxl {
-  margin-top: -$main-menu-height;
-  margin-bottom: $main-menu-height;
+	margin-top: -$main-menu-height;
+	margin-bottom: $main-menu-height;
 }
 
 .swiper {
-  &-pagination {
-    &-bullet {
-      &:focus {
-        outline-width: 0;
-      }
-    }
-  }
+	&-pagination {
+		&-bullet {
+			&:focus {
+				outline-width: 0;
+			}
+		}
+	}
 }
 
 /*****************************/
 /******** HERO styles ********/
 /*****************************/
 .hero {
-  &-section {
-    background-color: $main-background-color;
-    color: $main-inverse-text-color;
+	&-section {
+		background-color: $main-background-color;
+		color: $main-inverse-text-color;
 
-    .container {
-      height: $xxl-hero-container-height;
-      background-image: url("#{$base-url}/img/home/hero-bg.png");
-      background-position: top left;
-      background-repeat: no-repeat;
-    }
-  }
+		.container {
+			height: $xxl-hero-container-height;
+			background-image: url("#{$base-url}/img/home/hero-bg.png");
+			background-position: top left;
+			background-repeat: no-repeat;
+		}
+	}
 
-  &-block {
-    margin-top: 90px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-  }
+	&-block {
+		margin-top: 90px;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
 
-  &-where, &-when {
-    display: flex;
-  }
+	&-where,
+	&-when {
+		display: flex;
+	}
 
-  &-numbers {
-    font-size: 30px;
-    text-transform: uppercase;
-    text-decoration: underline;
-    letter-spacing: 4px;
-    //font-family: 'Oswald Light';
-  }
+	&-numbers {
+		font-size: 30px;
+		text-transform: uppercase;
+		text-decoration: underline;
+		letter-spacing: 4px;
+		//font-family: 'Oswald Light';
+	}
 
-  &-title {
-    font-size: 120px;
-    line-height: 140px;
-    font-family: 'Oswald Medium', helvetica neue, helvetica, sans-serif;
-    max-width: 800px;
-    margin: auto;
-  }
+	&-title {
+		font-size: 120px;
+		line-height: 140px;
+		font-family: "Oswald Medium", helvetica neue, helvetica, sans-serif;
+		max-width: 800px;
+		margin: auto;
+	}
 
-  &-when-where {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    font-size: 24px;
-    line-height: 48px;
-    margin-bottom: 30px;
-    margin-top: 10px;
-  }
+	&-when-where {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		font-size: 24px;
+		line-height: 48px;
+		margin-bottom: 30px;
+		margin-top: 10px;
+	}
 
-  &-when, &-where {
-    letter-spacing: 3px;
-    text-transform: uppercase;
-  }
+	&-when,
+	&-where {
+		letter-spacing: 3px;
+		text-transform: uppercase;
+	}
 
-  &-where {
-    margin-right: 50px;
-  }
+	&-where {
+		margin-right: 50px;
+	}
 
-  &-icon {
-    display: inline-block;
-    margin: 0 30px 0 0;
-  }
+	&-icon {
+		display: inline-block;
+		margin: 0 30px 0 0;
+	}
 
-  &-button {
-    &s {
-      display: flex;
-      justify-content: center;
-      a {
-        &:first-child {
-          margin-right: 40px;
-        }
-      }
-    }
+	&-button {
+		&s {
+			display: flex;
+			justify-content: center;
+			a {
+				&:first-child {
+					margin-right: 40px;
+				}
+			}
+		}
 
-    white-space: nowrap;
-    width: 220px;
-    padding: 12px 0;
-    font-size: 22px;
-    text-transform: uppercase;
+		white-space: nowrap;
+		width: 220px;
+		padding: 12px 0;
+		font-size: 22px;
+		text-transform: uppercase;
 
+		&__trainings {
+			background-color: $main-active-link-color;
+		}
 
-    &__trainings {
-      background-color: $main-active-link-color;
-    }
+		&__booktickets {
+			background-color: $main-action-text-color;
+		}
+	}
 
-    &__booktickets {
-      background-color: $main-action-text-color;
-    }
+	&-badge-next {
+		height: 50px;
+		width: 320px;
+		font-size: 20px;
+		line-height: 50px;
+		background: url("#{$base-url}/img/backgrounds/hero-new-summit-bg.png");
+		background-size: contain;
+		margin-bottom: 30px;
+	}
 
-  }
+	&-over-message {
+		font-size: 28px;
+		margin-bottom: 22px;
+	}
 
-  &-badge-next {
-    height: 50px;
-    width: 320px;
-    font-size: 20px;
-    line-height: 50px;
-    background: url("#{$base-url}/img/backgrounds/hero-new-summit-bg.png");
-    background-size: contain;
-    margin-bottom: 30px;
-  }
-
-  &-over-message {
-    font-size: 28px;
-    margin-bottom: 22px;
-  }
-
-  &-over {
-    &.hero {
-      &-section {
-        .container {
-          background-image: url("#{$base-url}/img/backgrounds/hero-bg.png");
-          height: 818px;
-        }
-      }
-    }
-    .hero {
-      &-block {
-        padding-top: 48px;
-        div {
-          text-align: center;
-          margin-left: auto;
-          margin-right: auto;
-
-        }
-      }
-      &-title {
-        font-size: 100px;
-        line-height: 120px;
-        min-width: 1100px;
-      }
-    }
-  }
+	&-over {
+		&.hero {
+			&-section {
+				.container {
+					background-image: url("#{$base-url}/img/backgrounds/hero-bg.png");
+					height: 818px;
+				}
+			}
+		}
+		.hero {
+			&-block {
+				padding-top: 48px;
+				div {
+					text-align: center;
+					margin-left: auto;
+					margin-right: auto;
+				}
+			}
+			&-title {
+				font-size: 100px;
+				line-height: 120px;
+				min-width: 1100px;
+			}
+		}
+	}
 }
 /* End of Hero section styles */
 
@@ -214,1990 +219,2026 @@ $testimonials-image-height: 100px;
 /** JOIN NEXT styles */
 /*****************************/
 .joinnext {
-  &-section {
-    background-color: #78d3fa;
-  }
+	&-section {
+		background-color: #ffffff;
+	}
 
-  &-title {
-    margin-top: 100px;
-    margin-bottom: 10px;
-    font-weight: 700;
-
-  }
-  &-badge-next {
-    color: #696969;
-    font-size: 24px;
-    text-transform: uppercase;
-    margin-bottom: 90px;
-    font-weight: 500;
-    letter-spacing: 1.2px;
-  }
+	&-title {
+		margin-top: 100px;
+		margin-bottom: 10px;
+		font-weight: 500;
+	}
+	&-badge-next {
+		color: #808285;
+		font-family: "Roboto";
+		font-size: 32px;
+		margin-bottom: 90px;
+		font-weight: 400;
+		letter-spacing: normal;
+	}
 }
 /* End of JOIN NEXT section styles */
-
 
 /*****************************/
 /** PROMOTE styles */
 /*****************************/
 .promote {
-  &-section {
-    .swiper-container {
-      .video-item {
-        margin-top: 100px;
-        height: 700px;
-        .source {
-          height: inherit;
-        }
-      }
-    }
-  }
+	&-section {
+		.swiper-container {
+			.video-item {
+				margin-top: 100px;
+				height: 700px;
+				.source {
+					height: inherit;
+				}
+			}
+		}
+	}
 }
 /* End of JOIN NEXT section styles */
-
 
 /*****************************/
 /** ATTEND THE SUMMIT styles */
 /*****************************/
 .attend {
-  &-block {
-    text-align: center;
-    margin: auto;
-    padding-top: 150px;
-  }
+	&-block {
+		text-align: center;
+		margin: auto;
+		padding-top: 150px;
+	}
 
-  &-title {
-    font-family: 'Oswald Medium', helvetica neue, helvetica, sans-serif;
-    font-weight: bold;
-    max-width: 800px;
-    margin: 30px auto 0 auto;
+	&-title {
+		font-family: "Oswald Medium", helvetica neue, helvetica, sans-serif;
+		font-weight: bold;
+		max-width: 800px;
+		margin: 30px auto 0 auto;
+	}
 
-  }
+	&-paragraph {
+		padding-left: 100px;
+		padding-right: 100px;
+		margin: 30px auto 0 auto;
+	}
 
-  &-paragraph {
-    padding-left: 100px;
-    padding-right: 100px;
-    margin: 30px auto 0 auto;
-  }
+	&-card {
+		text-align: center;
+		height: 320px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-content: center;
+	}
 
-  &-card {
-    text-align: center;
-    height: 320px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-  }
+	&-number {
+		font-size: 59px;
+		letter-spacing: 3.6px;
+		color: $main-background-color;
+	}
 
-  &-number {
-    font-size: 59px;
-    letter-spacing: 3.6px;
-    color: $main-background-color;
-  }
-
-  &-hero {
-    margin-top: 65px;
-  }
-
+	&-hero {
+		margin-top: 65px;
+	}
 }
 /* End of Attend the summit styles */
-
 
 /*****************************/
 /**** BOOK TICKETS styles ****/
 /*****************************/
+//! ***************************************
 .booking {
-  &-section {
-    //background-color: $tickets-bg;
-    background-image: url("#{$base-url}/img/home/book-tickets-bg.jpg");
-    background-repeat: repeat-x;
-    background-position: top left;
-    height: $booking-section-height;
-  }
+	&-section {
+		//background-color: $tickets-bg;
+		background-image: url("#{$base-url}/img/home/book-tickets-bg.png");
+		background-repeat: repeat-x;
+		background-position: top left;
+		height: $booking-section-height;
+	}
 
-  &-blocks {
-    margin-left: auto;
-    margin-right: auto;
-    height: $booking-section-height;
-    width: 85%;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-  }
-  &-buy {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+	&-blocks {
+		margin-left: auto;
+		margin-right: auto;
+		height: $booking-section-height;
+		width: 85%;
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+		flex-direction: column;
+	}
 
-  }
-  &-title {
-    margin-bottom: -25px;
-    text-transform: uppercase;
-    color: $main-inverse-text-color;
-    font-size: 90px;
-    font-weight: 400;
-  }
-  &-free {
-    margin-bottom: 20px;
-    font-size: 50px;
-    color: $tickets-bg;
-  }
-  &-leader, &-students {
-    font-size: 30px;
-    font-weight: 400;
-    color: $main-inverse-text-color;
-    img {
-      margin-right: 5px;
-      margin-top: -10px;
-    }
-  }
-  &-summit {
-    //margin-left: 79px;
-  }
+	&-subtitle {
+		text-align: center;
+		color: $main-inverse-text-color;
+		font-size: 24px;
+		text-transform: uppercase;
+		margin: 0;
+		margin-bottom: 22px;
 
-  &-banner {
-    padding-right: 75px;
-    padding-left: 60px;
-    height: 100%;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    transform: skew(-20deg);
-    background-color: $booking-banner-bg;
-    &-text {
-      transform: skew(20deg);
-    }
-  }
+		&-upper {
+			letter-spacing: 4.8px;
+			font-weight: 700;
+		}
+	}
 
-  &-countdown {
-    text-align: center;
-  }
+	&-title {
+		color: $main-inverse-text-color;
+		font-weight: 500;
+		font-style: normal;
+		letter-spacing: normal;
+		line-height: normal;
+		text-transform: uppercase;
 
-  &-overtitle {
-    color: $main-inverse-text-color;
-    letter-spacing: 4px;
-    font-size: 35px;
-    text-align: center;
-  }
+		margin: 0;
+	}
 
-  &-book {
-    margin-top: 10px;
-    background-color: $main-background-color;
-    color: $main-inverse-text-color;
-    padding: 20px 61px 20px 61px;
-    font-weight: bold;
-    font-size: 40px;
-    text-transform: uppercase;
-    border-radius: 50px;
-    text-align: center;
-    width: 70%;
-    margin-right: auto;
-    margin-left: auto;
-  }
+	&-text {
+		width: 710px;
+		color: $main-inverse-text-color;
+
+		margin-top: 30px;
+
+		font-family: Roboto;
+		font-size: 24px;
+		font-weight: 400;
+
+		line-height: 32px;
+
+		text-align: center;
+	}
+
+	&-time {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		&-blocks {
+			display: flex;
+			margin-bottom: 57px;
+		}
+		&-block {
+			width: 137px;
+			border: 4px solid #ffffff;
+
+			padding: 30px 0 20px 0;
+			margin-right: 19px;
+
+			color: #ffffff;
+			font-family: Oswald;
+			font-size: 16px;
+			font-weight: 400;
+			text-transform: uppercase;
+			text-align: center;
+			letter-spacing: 3.2px;
+			line-height: 40px;
+
+			& span {
+				font-size: 50px;
+			}
+		}
+	}
+
+	&-button {
+		width: 212px;
+		height: 59px;
+		border-radius: 40px;
+		border: none;
+		background-color: #00559e;
+		color: $main-inverse-text-color;
+
+		font-size: 32px;
+		font-weight: 500;
+		line-height: 32px;
+		text-align: center;
+		margin-bottom: 105px;
+		& button {
+			border: none;
+			background: none;
+			text-transform: uppercase;
+			letter-spacing: 3.5px;
+			width: 100%;
+			height: 100%;
+			outline: none;
+		}
+	}
+
+	&-free {
+		margin-bottom: 20px;
+		font-size: 50px;
+		color: $tickets-bg;
+	}
+
+	&-info {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	&-countdown {
+		text-align: center;
+	}
+
+	&-overtitle {
+		color: $main-inverse-text-color;
+		letter-spacing: 4px;
+		font-size: 35px;
+		text-align: center;
+	}
+
+	&-book {
+		margin-top: 10px;
+		background-color: $main-background-color;
+		color: $main-inverse-text-color;
+		padding: 20px 61px 20px 61px;
+		font-weight: bold;
+		font-size: 40px;
+		text-transform: uppercase;
+		border-radius: 50px;
+		text-align: center;
+		width: 70%;
+		margin-right: auto;
+		margin-left: auto;
+	}
 }
-
 
 /*****************************/
 /***** SPEAKERS styles *******/
 /*****************************/
 .speaker {
-  &-speaker {
-    text-align: center;
-  }
+	&-speaker {
+		text-align: center;
+	}
 
-  &-name {
-    position: relative;
-    display: inline-block;
-    // text-align: center;
-    font-size: 20px;
-    color: $main-header-color;
-    transition: all 0.2s;
+	&-name {
+		position: relative;
+		display: inline-block;
+		// text-align: center;
+		font-size: 20px;
+		color: $main-header-color;
+		transition: all 0.2s;
 
-    &::after {
-      content: '';
-      position: absolute;
-      left: 50%;
-      top: 23px;
-      width: 0;
-      height: 1px;
-      background-color: $main-action-text-color;
-      transition: all 0.2s;
-    }
+		&::after {
+			content: "";
+			position: absolute;
+			left: 50%;
+			top: 23px;
+			width: 0;
+			height: 1px;
+			background-color: $main-action-text-color;
+			transition: all 0.2s;
+		}
 
-    &:hover {
-      color: $main-action-text-color;
-      cursor: pointer;
+		&:hover {
+			color: $main-action-text-color;
+			cursor: pointer;
 
-      &::after {
-        width: 100%;
-        left: 0;
-      }
-    }
-  }
+			&::after {
+				width: 100%;
+				left: 0;
+			}
+		}
+	}
 
-  &-description {
-    text-align: center;
-    font-size: 18px;
-    color: $session-content-text-color;
+	&-description {
+		text-align: center;
+		font-size: 18px;
+		color: $session-content-text-color;
+	}
 
-  }
+	&s {
+		text-align: left;
 
-  &s {
-    text-align: left;
+		&-section {
+			background-color: $alt-background-color;
+			padding-top: 153px;
+			padding-bottom: 80px;
+		}
 
-    &-section {
-      background-color: $alt-background-color;
-      padding-top: 153px;
-      padding-bottom: 80px;
-    }
+		&-overtitle {
+			margin-top: 0;
+		}
 
-    &-overtitle {
-      margin-top: 0;
-    }
+		&-title {
+			margin-top: 0;
+		}
 
-    &-title {
-      margin-top: 0;
-    }
+		&-button {
+			height: 58px;
+			width: 209px;
+			font-size: 20px;
+			background-color: $main-action-text-color;
+			color: $main-inverse-text-color;
+		}
 
-    &-button {
-      height: 58px;
-      width: 209px;
-      font-size: 20px;
-      background-color: $main-action-text-color;
-      color: $main-inverse-text-color;
-    }
-
-    .card {
-      &-speaker {
-        margin-bottom: 30px;
-      }
-    }
-  }
+		.card {
+			&-speaker {
+				margin-bottom: 30px;
+			}
+		}
+	}
 }
 /* End of Speakers styles */
-
 
 /*****************************/
 /***** SCHEDULE styles *******/
 /*****************************/
 .schedule {
-  padding-top: 110px;
-  padding-bottom: 100px;
+	padding-top: 110px;
+	padding-bottom: 100px;
 
-  &-entries {
-    display: flex;
-    flex-direction: column;
-    background-color: $alt-background-color;
-  }
+	&-entries {
+		display: flex;
+		flex-direction: column;
+		background-color: $alt-background-color;
+	}
 
-  &-day {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+	&-day {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
 
-    .schedule-entry {
-      display: flex;
-      &:first-child {
-        .body {
-          margin-top: 20px;
-        }
-        .thumb {
-          margin-top: 20px;
-        }
-      }
-      &:last-child {
-        .body {
-          margin-bottom: 20px;
-          padding-bottom: 20px;
-        }
-        .thumb {
-          margin-bottom: 20px;
-        }
-      }
+		.schedule-entry {
+			display: flex;
+			&:first-child {
+				.body {
+					margin-top: 20px;
+				}
+				.thumb {
+					margin-top: 20px;
+				}
+			}
+			&:last-child {
+				.body {
+					margin-bottom: 20px;
+					padding-bottom: 20px;
+				}
+				.thumb {
+					margin-bottom: 20px;
+				}
+			}
 
-      &:nth-child(2n) {
-        .body-texts {
-          background-color: $alt-background-color;
-        }
-      }
+			&:nth-child(2n) {
+				.body-texts {
+					background-color: $alt-background-color;
+				}
+			}
 
-      .thumb {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 98px;
-        min-height: 150px;
-        background-color: $alt2-active-color;
-        margin-top: 5px;
-        margin-bottom: 5px;
+			.thumb {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 98px;
+				min-height: 150px;
+				background-color: $alt2-active-color;
+				margin-top: 5px;
+				margin-bottom: 5px;
 
-        &-name {
-          font-size: 18px;
-          font-weight: 400;
-          line-height: 24px;
-          text-transform: uppercase;
-          color: $main-inverse-text-color;
-        }
+				&-name {
+					font-size: 18px;
+					font-weight: 400;
+					line-height: 24px;
+					text-transform: uppercase;
+					color: $main-inverse-text-color;
+				}
 
-        &-rotated {
-          display: inline-block;
-          margin: 0;
-          text-align: center;
-          transform: rotate(-90deg);
-        }
+				&-rotated {
+					display: inline-block;
+					margin: 0;
+					text-align: center;
+					transform: rotate(-90deg);
+				}
 
-        &.keynote {
-          background-color: $main-active-link-color;
-        }
-        &.working-session {
+				&.keynote {
+					background-color: $main-active-link-color;
+				}
+				&.working-session {
+				}
+				&.user-session {
+					background-color: $main-text-color-alt;
+				}
+			}
+			.body {
+				background-color: $main-inverse-text-color;
+				margin-left: 20px;
+				margin-right: 20px;
 
-        }
-        &.user-session {
-          background-color: $main-text-color-alt;
-        }
-      }
-      .body {
-        background-color: $main-inverse-text-color;
-        margin-left: 20px;
-        margin-right: 20px;
+				display: flex;
+				width: 100%;
+				padding: 0;
+				padding-left: 38px;
+				padding-top: 5px;
+				padding-bottom: 5px;
 
-        display: flex;
-        width: 100%;
-        padding: 0;
-        padding-left: 38px;
-        padding-top: 5px;
-        padding-bottom: 5px;
+				&-organizer {
+					&.real {
+						z-index: 1;
+					}
+					position: relative;
+					display: block;
+					margin-top: -100px;
+					&:nth-child(1) {
+						margin-top: 0;
+					}
+					&:hover {
+						z-index: 10;
+					}
+					img {
+						width: $schedule-organizer-icon-size;
+						border-radius: 50%;
+					}
+					&-s {
+						display: flex;
+						flex-direction: column;
+						align-items: center;
+						justify-content: center;
+						margin-right: 47px;
+						min-width: $schedule-organizer-icon-size;
+						background-color: $main-inverse-text-color;
+						border-radius: 50%;
+					}
+				}
+				&-texts {
+					width: 100%;
+					padding: 10px 30px;
+					min-height: 160px;
+					align-items: center;
+					margin-right: 20px;
+				}
+				&-time {
+					font-size: 18px;
+					letter-spacing: 3.6px;
+					line-height: 50px;
+					color: $main-text-color-alt;
+				}
+				&-title {
+					font-size: 34px;
+					font-weight: 400;
+					line-height: 50px;
+					text-transform: uppercase;
+					color: $main-background-color;
+				}
 
-        &-organizer {
-          &.real {
-            z-index: 1;
-          }
-          position: relative;
-          display: block;
-          margin-top: -100px;
-          &:nth-child(1) {
-            margin-top: 0;
-          }
-          &:hover {
-            z-index: 10;
-          }
-          img {
-            width: $schedule-organizer-icon-size;
-            border-radius: 50%;
-          }
-          &-s {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            margin-right: 47px;
-            min-width: $schedule-organizer-icon-size;
-            background-color: $main-inverse-text-color;
-            border-radius: 50%;
-          }
-        }
-        &-texts {
-          width: 100%;
-          padding: 10px 30px;
-          min-height: 160px;
-          align-items: center;
-          margin-right: 20px;
-        }
-        &-time {
-          font-size: 18px;
-          letter-spacing: 3.6px;
-          line-height: 50px;
-          color: $main-text-color-alt;
-        }
-        &-title {
-          font-size: 34px;
-          font-weight: 400;
-          line-height: 50px;
-          text-transform: uppercase;
-          color: $main-background-color;
-        }
-
-        &-author {
-          font-size: 20px;
-          line-height: 40px;
-          &-link {
-            color: $main-active-link-color;
-          }
-        }
-        &-info {
-          display: flex;
-          justify-content: space-between;
-        }
-
-      }
-
-    }
-    &-header {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    &-title {
-      text-transform: uppercase;
-      font-size: 20px;
-      color: $main-action-text-color;
-    }
-    &-subtitle {
-      text-transform: uppercase;
-      font-size: 56px;
-      color: $main-background-color;
-    }
-  }
+				&-author {
+					font-size: 20px;
+					line-height: 40px;
+					&-link {
+						color: $main-active-link-color;
+					}
+				}
+				&-info {
+					display: flex;
+					justify-content: space-between;
+				}
+			}
+		}
+		&-header {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+		&-title {
+			text-transform: uppercase;
+			font-size: 20px;
+			color: $main-action-text-color;
+		}
+		&-subtitle {
+			text-transform: uppercase;
+			font-size: 56px;
+			color: $main-background-color;
+		}
+	}
 }
 /* end of SCHEDULE styles */
-
 
 /*****************************/
 /** PHOTO GALLERY styles *****/
 /*****************************/
 .photo {
-  &-gallery {
-    &-header {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+	&-gallery {
+		&-header {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
 
-    &-overtitle {
-      font-size: 20px;
-      letter-spacing: 4px;
-      text-transform: uppercase;
-      color: $main-action-text-color;
-    }
+		&-overtitle {
+			font-size: 20px;
+			letter-spacing: 4px;
+			text-transform: uppercase;
+			color: $main-action-text-color;
+		}
 
-    &-title {
-      font-size: 56px;
-      font-weight: 700;
-      text-transform: uppercase;
-      color: $main-background-color;
-    }
+		&-title {
+			font-size: 56px;
+			font-weight: 700;
+			text-transform: uppercase;
+			color: $main-background-color;
+		}
 
-    &-grid {
-      // width: 100vw;
-      display: grid;
-      grid-template-columns: auto auto auto auto;
-      grid-gap: 10px;
+		&-grid {
+			// width: 100vw;
+			display: grid;
+			grid-template-columns: auto auto auto auto;
+			grid-gap: 10px;
 
-      > img {
-        max-width: 100%;
-      }
-    }
+			> img {
+				max-width: 100%;
+			}
+		}
 
-    &-item {
-      &-1 {
-        grid-column: 1 / span 2;
-      }
+		&-item {
+			&-1 {
+				grid-column: 1 / span 2;
+			}
 
-      &-6 {
-        grid-column: 3 / span 2;
-      }
-    }
-  }
+			&-6 {
+				grid-column: 3 / span 2;
+			}
+		}
+	}
 }
 /* end of GALLERY styles */
-
 
 /*****************************/
 /** TESTIMONIALS styles *****/
 /*****************************/
 .testimonial {
-  &s {
-    &-section {
-      padding: 40px 0;
-      background-color: $alt-background-color;
-      background-image: url("#{$base-url}/img/backgrounds/testimonials-bg.png");
-      background-position-x: center;
-      .section {
-        &-overtitle {
-          letter-spacing: 4px;
-          font-weight: 500;
-        }
-        &-title {
-          font-weight: 700;
-          letter-spacing: 2.0px;
-        }
-      }
+	&s {
+		&-section {
+			padding: 40px 0;
+			background-color: $alt-background-color;
+			background-image: url("#{$base-url}/img/backgrounds/testimonials-bg.png");
+			background-position-x: center;
+			.section {
+				&-overtitle {
+					letter-spacing: 4px;
+					font-weight: 500;
+				}
+				&-title {
+					font-weight: 700;
+					letter-spacing: 2px;
+				}
+			}
 
-      .swiper {
-        &-pagination {
-          position: initial;
-          margin-top: 75px;
-          margin-bottom: 75px;
-          &-bullet {
-            display: inline-block;
-            width: $schedule-organizer-icon-size;
-            height: $schedule-organizer-icon-size;
-            color: $main-inverse-text-color;
-            opacity: 0.4;
-            background: rgba(0, 0, 0, 0.2);
-            margin-top: 10px;
-            &-active {
-              opacity: 1;
-            }
-            img {
-              width: 100%;
-              border-radius: 50%;
-              height: 100%;
-            }
-            &s {
-              bottom: initial;
-            }
-          }
-        }
-        &-container-horizontal {
-          > .swiper-pagination-bullets {
-            .swiper-pagination-bullet {
-              margin-top: 8px;
-            }
-          }
-        }
-      }
-    }
-    &-title {
-      color: $main-header-color;
-    }
-  }
+			.swiper {
+				&-pagination {
+					position: initial;
+					margin-top: 75px;
+					margin-bottom: 75px;
+					&-bullet {
+						display: inline-block;
+						width: $schedule-organizer-icon-size;
+						height: $schedule-organizer-icon-size;
+						color: $main-inverse-text-color;
+						opacity: 0.4;
+						background: rgba(0, 0, 0, 0.2);
+						margin-top: 10px;
+						&-active {
+							opacity: 1;
+						}
+						img {
+							width: 100%;
+							border-radius: 50%;
+							height: 100%;
+						}
+						&s {
+							bottom: initial;
+						}
+					}
+				}
+				&-container-horizontal {
+					> .swiper-pagination-bullets {
+						.swiper-pagination-bullet {
+							margin-top: 8px;
+						}
+					}
+				}
+			}
+		}
+		&-title {
+			color: $main-header-color;
+		}
+	}
 
-  &-author {
-    color: $main-text-color-alt;
-  }
+	&-author {
+		color: $main-text-color-alt;
+	}
 
-  &-text {
-    font-size: 36px;
-    color: $main-header-color;
-    margin-bottom: 100px;
-  }
+	&-text {
+		font-size: 36px;
+		color: $main-header-color;
+		margin-bottom: 100px;
+	}
 
-  &-item {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    font-size: 24px;
-    color: $session-content-text-color;
-  }
+	&-item {
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		font-size: 24px;
+		color: $session-content-text-color;
+	}
 }
 /* end of TESTIMONIALS styles */
-
 
 /*****************************/
 /** ARTICLES styles *****/
 /*****************************/
 .articles {
-  &-section {
-    padding: 40px 0;
+	&-section {
+		padding: 40px 0;
 
-    .section {
-      &-overtitle {
-        letter-spacing: 4px;
-        font-weight: 500;
-      }
-      &-title {
-        font-weight: 700;
-        letter-spacing: 2.0px;
-      }
-    }
-  }
-  &-body {
-    display: grid;
-    grid-template-columns: repeat(3, auto);
-    grid-gap: 10px;
-    max-width: 100%;
-  }
+		.section {
+			&-overtitle {
+				letter-spacing: 4px;
+				font-weight: 500;
+			}
+			&-title {
+				font-weight: 700;
+				letter-spacing: 2px;
+			}
+		}
+	}
+	&-body {
+		display: grid;
+		grid-template-columns: repeat(3, auto);
+		grid-gap: 10px;
+		max-width: 100%;
+	}
 
-  &-title {
-    color: $main-header-color;
-  }
-  &-author {
-    color: $main-text-color-alt;
-  }
+	&-title {
+		color: $main-header-color;
+	}
+	&-author {
+		color: $main-text-color-alt;
+	}
 
-  &-card {
-    font-size: 20px;
-    color: $session-content-text-color;
-  }
-  &-image {
-    img {
-      width: 100%;
-      //min-width: 100%;
-      height: $articles-image-height;
-      //max-height: $articles-image-height;
-    }
-  }
+	&-card {
+		font-size: 20px;
+		color: $session-content-text-color;
+	}
+	&-image {
+		img {
+			width: 100%;
+			//min-width: 100%;
+			height: $articles-image-height;
+			//max-height: $articles-image-height;
+		}
+	}
 
-  &-readmore {
-    margin-top: 20px;
-    font-weight: 400;
-    text-transform: uppercase;
-    background-color: $main-text-color-alt;
-    color: $main-inverse-text-color;
-    padding: 6px 16px;
-    font-size: 14px;
-    border-radius: 20px;
-    border-width: 0;
-    outline-width: 0;
-    letter-spacing: 4px;
-    &:focus {
-      border-width: 0;
-      outline-width: 0;
-    }
-  }
+	&-readmore {
+		margin-top: 20px;
+		font-weight: 400;
+		text-transform: uppercase;
+		background-color: $main-text-color-alt;
+		color: $main-inverse-text-color;
+		padding: 6px 16px;
+		font-size: 14px;
+		border-radius: 20px;
+		border-width: 0;
+		outline-width: 0;
+		letter-spacing: 4px;
+		&:focus {
+			border-width: 0;
+			outline-width: 0;
+		}
+	}
 }
 /* end of ARTICLES styles */
-
 
 /*****************************/
 /** NEWSLETTER styles *****/
 /*****************************/
 .newsletter {
-  &-section {
-    background-image: url("#{$base-url}/img/home/summit-dates-bg.jpg");
-    padding: 40px 0;
+	&-section {
+		background-image: url("#{$base-url}/img/home/summit-dates-bg.jpg");
+		padding: 40px 0;
 
-    .section {
-      &-overtitle {
-        color: $main-inverse-text-color;
-        letter-spacing: 4px;
-        font-weight: 500;
-      }
-      &-title {
-        font-weight: 700;
-        letter-spacing: 2.0px;
-      }
-    }
-  }
-  &-subscribe {
-    margin-top: 15px;
-  }
-  &-email {
-    width: 430px;
-    background-color: #c1dc9e;
-    margin-right: 10px;
-    &::placeholder {
-      font-weight: 500;
-      letter-spacing: 4px;
-    }
-  }
-  &-button {
-    //width: 130px;
-    font-weight: 400;
-    text-transform: uppercase;
-    background-color: $main-background-color;
-    color: $main-inverse-text-color;
-  }
-  &-email, &-button {
-    padding: 15px 25px;
-    font-size: 16px;
-    border-width: 0;
-    outline-width: 0;
-    &:focus {
-      border-width: 0;
-      outline-width: 0;
-    }
-  }
+		.section {
+			&-overtitle {
+				color: $main-inverse-text-color;
+				letter-spacing: 4px;
+				font-weight: 500;
+			}
+			&-title {
+				font-weight: 700;
+				letter-spacing: 2px;
+			}
+		}
+	}
+	&-subscribe {
+		margin-top: 15px;
+	}
+	&-email {
+		width: 430px;
+		background-color: #c1dc9e;
+		margin-right: 10px;
+		&::placeholder {
+			font-weight: 500;
+			letter-spacing: 4px;
+		}
+	}
+	&-button {
+		//width: 130px;
+		font-weight: 400;
+		text-transform: uppercase;
+		background-color: $main-background-color;
+		color: $main-inverse-text-color;
+	}
+	&-email,
+	&-button {
+		padding: 15px 25px;
+		font-size: 16px;
+		border-width: 0;
+		outline-width: 0;
+		&:focus {
+			border-width: 0;
+			outline-width: 0;
+		}
+	}
 }
 /* end of NEWSLETTER styles */
-
 
 /*****************************/
 /** PREV SUMMITS  styles **/
 /*****************************/
 .prevsummits {
-  &-section {
-    margin-bottom: -66px;
-    padding-bottom: 30px;
-    padding-top: 30px;
-    background-color: $alt-background-color;
-  }
-  &-container {
-    text-align: center;
-  }
-  &-button {
-    &s {
-      display: flex;
-      justify-content: center;
-      a:first-child {
-        margin-right: 20px;
-      }
-    }
-    font-size: 32px;
-    line-height: 38px;
-    padding: 12px 50px;
-    letter-spacing: 6px;
-    border-radius: 37px;
-    background-image: linear-gradient(to top, $button-green-gradient-start 0%, $main-action-text-color 100%);
-    color: $main-inverse-text-color;
-  }
+	&-section {
+		margin-bottom: -66px;
+		padding-bottom: 30px;
+		padding-top: 30px;
+		background-color: $alt-background-color;
+	}
+	&-container {
+		text-align: center;
+	}
+	&-button {
+		&s {
+			display: flex;
+			justify-content: center;
+			a:first-child {
+				margin-right: 20px;
+			}
+		}
+		font-size: 32px;
+		line-height: 38px;
+		padding: 12px 50px;
+		letter-spacing: 6px;
+		border-radius: 37px;
+		background-image: linear-gradient(
+			to top,
+			$button-green-gradient-start 0%,
+			$main-action-text-color 100%
+		);
+		color: $main-inverse-text-color;
+	}
 }
 /* end of PREV SUMMITS styles */
-
 
 /*****************************/
 /** SUMMITS DATES  styles **/
 /*****************************/
 .summitdates {
-  &-section {
-    background-image: url("#{$base-url}/img/home/summit-dates-bg.jpg");
-    height: $summit-section-height;
-  }
-  &-container {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    height: 100%;
-    //margin-top: 0;
-    //margin-bottom: 0;
-    position: relative;
-    &:before {
-      content: ' ';
-      position: absolute;
-      display: block;
-      height: 188px;
-      width: 1px;
-      top: 80px;
-      left: calc(50% - 20px);
-      background-color: white;
-    }
-  }
-  &-block {
-    margin: 0 70px;
-    color: $main-inverse-text-color;
-    letter-spacing: 4px;
-    text-align: center;
-    font-size: 40px;
-  }
-  &-session {
-    font-family: 'Oswald Medium', helvetica neue, helvetica, sans-serif;
-    font-weight: 500;
-    min-width: 460px;
-  }
-  &-date {
-    //font-family: 'Oswald Medium', helvetica neue, helvetica, sans-serif;
-    min-width: 460px;
-  }
+	&-section {
+		background-image: url("#{$base-url}/img/home/summit-dates-bg.jpg");
+		height: $summit-section-height;
+	}
+	&-container {
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+		height: 100%;
+		//margin-top: 0;
+		//margin-bottom: 0;
+		position: relative;
+		&:before {
+			content: " ";
+			position: absolute;
+			display: block;
+			height: 188px;
+			width: 1px;
+			top: 80px;
+			left: calc(50% - 20px);
+			background-color: white;
+		}
+	}
+	&-block {
+		margin: 0 70px;
+		color: $main-inverse-text-color;
+		letter-spacing: 4px;
+		text-align: center;
+		font-size: 40px;
+	}
+	&-session {
+		font-family: "Oswald Medium", helvetica neue, helvetica, sans-serif;
+		font-weight: 500;
+		min-width: 460px;
+	}
+	&-date {
+		//font-family: 'Oswald Medium', helvetica neue, helvetica, sans-serif;
+		min-width: 460px;
+	}
 }
 /* end of summits dates styles */
-
 
 /*****************************/
 /*** XXL BREAKPOINT ONLY *****/
 /*****************************/
 @media screen and (min-width: $xxl-breakpoint) {
-  .container-managed {
-    &.xxl {
-      .container {
-        width: 100%;
-      }
+	.container-managed {
+		&.xxl {
+			.container {
+				width: 100%;
+			}
 
-      section {
-        > .container {
-          width: $xxl-container-width;
+			section {
+				> .container {
+					width: $xxl-container-width;
 
-          &.container-xl {
-            width: $xl-container-width;
-          }
-        }
-      }
+					&.container-xl {
+						width: $xl-container-width;
+					}
+				}
+			}
 
-      .attend-summit-section {
-        .container {
-          width: $xl-container-width;
-        }
-      }
+			.attend-summit-section {
+				.container {
+					width: $xl-container-width;
+				}
+			}
 
-      .booktickets-section {
-        background-repeat: repeat-x;
-      }
-    }
-  }
+			.booktickets-section {
+				background-repeat: repeat-x;
+			}
+		}
+	}
 }
-
 
 /*****************************/
 /****** XXL BREAKPOINT *******/
 /*****************************/
 @media screen and (max-width: $xxl-breakpoint) {
-  .section {
-    &-title {
-      font-size: 48px;
-    }
-  }
+	.section {
+		&-title {
+			font-size: 48px;
+		}
+	}
 
-  .hero {
-    &-title {
-      font-size: 80px;
-      line-height: 100px;
-      max-width: 600px;
-    }
+	.hero {
+		&-title {
+			font-size: 80px;
+			line-height: 100px;
+			max-width: 600px;
+		}
 
-    &-numbers {
-      font-size: 26px;
-    }
+		&-numbers {
+			font-size: 26px;
+		}
 
-    &-badge-next {
-      height: 42px;
-      width: 270px;
-      font-size: 18px;
-      line-height: 42px;
-      margin-bottom: 16px;
-    }
+		&-badge-next {
+			height: 42px;
+			width: 270px;
+			font-size: 18px;
+			line-height: 42px;
+			margin-bottom: 16px;
+		}
 
-    &-over-message {
-      font-size: 24px;
-      margin-bottom: 18px;
-    }
+		&-over-message {
+			font-size: 24px;
+			margin-bottom: 18px;
+		}
 
-    &-over {
-      &.hero {
-        &-section {
-          .container {
-            background-image: url("#{$base-url}/img/backgrounds/hero-xxl-bg.png");
-            height: 510px;
-          }
-        }
-      }
-      .hero {
-        &-block {
-          padding-top: 0;
+		&-over {
+			&.hero {
+				&-section {
+					.container {
+						background-image: url("#{$base-url}/img/backgrounds/hero-xxl-bg.png");
+						height: 510px;
+					}
+				}
+			}
+			.hero {
+				&-block {
+					padding-top: 0;
+				}
+				&-title {
+					font-size: 64px;
+					line-height: 78px;
+					min-width: 700px;
+				}
+			}
+		}
+	}
 
-        }
-        &-title {
-          font-size: 64px;
-          line-height: 78px;
-          min-width: 700px;
-        }
-      }
-    }
+	.booking {
+		&-section {
+			height: 845px;
+		}
+		&-blocks {
+			flex-direction: column;
+			width: 100%;
+			height: 845px;
+		}
+		&-title {
+			font-size: 65px;
+			margin-bottom: 0;
+		}
+		&-free {
+			font-size: 30px;
+			margin-bottom: 0;
+		}
+		&-leader,
+		&-students {
+			//font-size: 26px;
+			img {
+			}
+		}
+		&-banner {
+			padding-left: 0;
+			padding-right: 0;
+			&-text {
+				padding: 0 35px 0 0;
+			}
+		}
+		&-book {
+			font-size: 30px;
+		}
+		&-overtitle {
+			font-size: 24px;
+		}
+	}
 
-
-  }
-
-  .booking {
-    &-section {
-      height: 300px;
-    }
-    &-blocks {
-      width: 100%;
-      height: 300px;
-    }
-    &-title {
-      font-size: 35px;
-      margin-bottom: 0;
-    }
-    &-free {
-      font-size: 30px;
-      margin-bottom: 0;
-    }
-    &-leader, &-students {
-      //font-size: 26px;
-      img {
-      }
-    }
-    &-banner {
-      padding-left: 0;
-      padding-right: 0;
-      &-text {
-        padding: 0 35px 0 0;
-      }
-    }
-    &-book {
-      font-size: 30px;
-    }
-    &-overtitle {
-      font-size: 24px;
-    }
-  }
-
-  .prevsummits {
-    &-button {
-      padding-top: 8px;
-      padding-bottom: 8px;
-    }
-  }
+	.prevsummits {
+		&-button {
+			padding-top: 8px;
+			padding-bottom: 8px;
+		}
+	}
 }
-
 
 /*****************************/
 /******* XL BREAKPOINT *******/
 /*****************************/
 @media screen and (max-width: $xl-breakpoint) {
-  .section {
-    &-title {
-      font-size: 42px;
-    }
-  }
+	.section {
+		&-title {
+			font-size: 42px;
+		}
+	}
 
-  .hero {
-    &-badge-next {
-      height: 32px;
-      width: 209px;
-      font-size: 14px;
-      line-height: 32px;
-      margin-bottom: 18px;
-    }
+	.hero {
+		&-badge-next {
+			height: 32px;
+			width: 209px;
+			font-size: 14px;
+			line-height: 32px;
+			margin-bottom: 18px;
+		}
 
-    &-over-message {
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
+		&-over-message {
+			font-size: 18px;
+			margin-bottom: 10px;
+		}
 
+		&-over {
+			&.hero {
+				&-section {
+					.container {
+						background-image: url("#{$base-url}/img/backgrounds/hero-xl-bg.png");
+						height: 450px;
+					}
+				}
+			}
+			.hero {
+				&-title {
+					font-size: 64px;
+					line-height: 78px;
+					min-width: 600px;
+				}
+			}
+		}
+		&-block {
+			margin-top: $main-menu-height;
+		}
 
-    &-over {
-      &.hero {
-        &-section {
-          .container {
-            background-image: url("#{$base-url}/img/backgrounds/hero-xl-bg.png");
-            height: 450px;
-          }
-        }
-      }
-      .hero {
-        &-title {
-          font-size: 64px;
-          line-height: 78px;
-          min-width: 600px;
-        }
-      }
-    }
-    &-block {
-      margin-top: $main-menu-height;
-    }
+		&-button {
+			padding: 8px 30px;
+		}
 
-    &-button {
-      padding: 8px 30px;
-    }
+		&-title {
+			font-size: 60px;
+			line-height: 80px;
+			max-width: 500px;
+		}
 
-    &-title {
-      font-size: 60px;
-      line-height: 80px;
-      max-width: 500px;
-    }
+		&-numbers {
+			font-size: 26px;
+		}
+	}
 
-    &-numbers {
-      font-size: 26px;
-    }
-  }
+	.attend {
+		&-block {
+			padding-top: 75px;
+		}
 
-  .attend {
-    &-block {
-      padding-top: 75px;
-    }
+		&-paragraph {
+			padding-left: 10px;
+			padding-right: 10px;
+		}
 
-    &-paragraph {
-      padding-left: 10px;
-      padding-right: 10px;
-    }
+		&-hero {
+			max-width: 90%;
+			margin: auto;
 
-    &-hero {
-      max-width: 90%;
-      margin: auto;
+			img {
+				width: 100%;
+			}
+		}
+	}
 
-      img {
-        width: 100%;
-      }
-    }
-  }
+	.booking {
+		&-section {
+			height: 240px;
+		}
+		&-blocks {
+			height: 240px;
+		}
+		&-title {
+			font-size: 30px;
+		}
+		&-free {
+			font-size: 24px;
+		}
+		&-leader,
+		&-students {
+			font-size: 22px;
+			img {
+				width: 18px;
+			}
+		}
+		&-banner {
+			&-text {
+				padding-left: 0;
+				padding-right: 35px;
+			}
+		}
+		&-book {
+			font-size: 20px;
+			padding-top: 14px;
+			padding-bottom: 14px;
+			width: 60%;
+		}
+		&-overtitle {
+			font-size: 18px;
+		}
+	}
 
-  .booking {
-    &-section {
-      height: 240px;
-    }
-    &-blocks {
-      height: 240px;
-    }
-    &-title {
-      font-size: 30px;
-    }
-    &-free {
-      font-size: 24px;
-    }
-    &-leader, &-students {
-      font-size: 22px;
-      img {
-        width: 18px;
-      }
-    }
-    &-banner {
-      &-text {
-        padding-left: 0;
-        padding-right: 35px;
-      }
-    }
-    &-book {
-      font-size: 20px;
-      padding-top: 14px;
-      padding-bottom: 14px;
-      width: 60%;
-    }
-    &-overtitle {
-      font-size: 18px;
-    }
-  }
+	.speakers {
+		.card {
+			&-description {
+				text-align: center;
+			}
+		}
+	}
 
-  .speakers {
-    .card {
-      &-description {
-        text-align: center;
-      }
-    }
-  }
+	.summitdates {
+		&-block {
+			margin: 0 20px;
+			font-size: 30px;
+		}
+		&-session {
+			min-width: 400px;
+		}
+		&-date {
+			min-width: 400px;
+		}
+	}
 
-  .summitdates {
-    &-block {
-      margin: 0 20px;
-      font-size: 30px;
-    }
-    &-session {
-      min-width: 400px;
-    }
-    &-date {
-      min-width: 400px;
-    }
-  }
+	.joinnext {
+		&-badge-next {
+			font-size: 20px;
+			margin-bottom: 50px;
+		}
+		&-title {
+			margin-top: 50px;
+		}
+	}
 
-  .joinnext {
-    &-badge-next {
-      font-size: 20px;
-      margin-bottom: 50px;
-    }
-    &-title {
-      margin-top: 50px;
-    }
-  }
+	.promote {
+		&-section {
+			.swiper-container {
+				.video-item {
+					margin-top: 80px;
+					height: 650px;
+				}
+			}
+		}
+	}
 
-  .promote {
-    &-section {
-      .swiper-container {
-        .video-item {
-          margin-top: 80px;
-          height: 650px;
-        }
-      }
-    }
-  }
+	.testimonial {
+		&s {
+			&-section {
+				padding: 30px 0;
+				.swiper {
+					&-pagination {
+						margin-top: 60px;
+						margin-bottom: 60px;
+					}
+				}
+			}
+		}
+		&-text {
+			font-size: 32px;
+			margin-bottom: 80px;
+		}
 
-  .testimonial {
-    &s {
-      &-section {
-        padding: 30px 0;
-        .swiper {
-          &-pagination {
-            margin-top: 60px;
-            margin-bottom: 60px;
-          }
-        }
-      }
-    }
-    &-text {
-      font-size: 32px;
-      margin-bottom: 80px;
-    }
+		&-item {
+			font-size: 22px;
+		}
+	}
 
-    &-item {
-      font-size: 22px;
-    }
-  }
+	.articles {
+		&-image {
+			img {
+				height: $articles-image-height-xl;
+			}
+		}
+	}
 
-  .articles {
-    &-image {
-      img {
-        height: $articles-image-height-xl;
-      }
-    }
-  }
+	.prevsummits {
+		&-button {
+			font-size: 30px;
+		}
+	}
 
-  .prevsummits {
-    &-button {
-      font-size: 30px;
-    }
-  }
-
-  .schedule {
-    &-section {
-      .description {
-        .title {
-          font-size: 40px;
-        }
-      }
-    }
-    &-day {
-      &-entries {
-        //padding: 40px 10px;
-      }
-      .schedule-entry {
-        .body {
-          &-title {
-            font-size: 28px;
-          }
-        }
-      }
-    }
-  }
-
+	.schedule {
+		&-section {
+			.description {
+				.title {
+					font-size: 40px;
+				}
+			}
+		}
+		&-day {
+			&-entries {
+				//padding: 40px 10px;
+			}
+			.schedule-entry {
+				.body {
+					&-title {
+						font-size: 28px;
+					}
+				}
+			}
+		}
+	}
 }
-
 
 /*****************************/
 /******* LG BREAKPOINT *******/
 /*****************************/
 @media screen and (max-width: $lg-breakpoint) {
-  .section {
-    &-title {
-      font-size: 38px;
-    }
-  }
+	.section {
+		&-title {
+			font-size: 38px;
+		}
+	}
 
-  .hero {
-    &-section {
-      .container {
-        height: 310px;
-        .hero {
-          &-when-where {
-            font-size: 16px;
-            line-height: 34px;
-          }
-        }
-      }
-    }
-    &-badge-next {
-      height: 24px;
-      width: 157px;
-      font-size: 12px;
-      line-height: 24px;
-      margin-bottom: 14px;
-      margin-top: 0;
-    }
-    &-over-message {
-      font-size: 13px;
-      margin-bottom: 20px;
-    }
-    &-over {
-      &.hero {
-        &-section {
-          .container {
-            background-image: url("#{$base-url}/img/backgrounds/hero-lg-bg.png");
-            height: 320px;
-          }
-        }
-      }
-      .hero {
-        &-block {
-          padding-top: 0;
-        }
-        &-title {
-          font-size: 34px;
-          line-height: 44px;
-          min-width: 350px;
-          max-width: 200px;
-        }
-      }
-    }
-  }
+	.hero {
+		&-section {
+			.container {
+				height: 310px;
+				.hero {
+					&-when-where {
+						font-size: 16px;
+						line-height: 34px;
+					}
+				}
+			}
+		}
+		&-badge-next {
+			height: 24px;
+			width: 157px;
+			font-size: 12px;
+			line-height: 24px;
+			margin-bottom: 14px;
+			margin-top: 0;
+		}
+		&-over-message {
+			font-size: 13px;
+			margin-bottom: 20px;
+		}
+		&-over {
+			&.hero {
+				&-section {
+					.container {
+						background-image: url("#{$base-url}/img/backgrounds/hero-lg-bg.png");
+						height: 320px;
+					}
+				}
+			}
+			.hero {
+				&-block {
+					padding-top: 0;
+				}
+				&-title {
+					font-size: 34px;
+					line-height: 44px;
+					min-width: 350px;
+					max-width: 200px;
+				}
+			}
+		}
+	}
 
-  .booking {
-    &-blocks {
-      flex-direction: column;
-      align-items: stretch;
-    }
-    &-free {
-      color: $main-header-color;
-    }
-    &-leader, &-students {
-      font-size: 22px;
-    }
-    &-banner {
-      transform: none;
-      background-color: initial;
-      &-text {
-        padding: 0 0 0 20px;
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 528px;
-        width: 100%;
-        transform: none;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-    }
-    &-buy {
-      margin-bottom: 30px;
-    }
-    &-book {
-      padding-left: 30px;
-      padding-right: 30px;
-      text-align: center;
-    }
-    &-overtitle {
-    }
-  }
+	.booking {
+		&-blocks {
+			flex-direction: column;
+			align-items: stretch;
+		}
+		&-free {
+			color: $main-header-color;
+		}
+		&-leader,
+		&-students {
+			font-size: 22px;
+		}
+		&-banner {
+			transform: none;
+			background-color: initial;
+			&-text {
+				padding: 0 0 0 20px;
+				margin-left: auto;
+				margin-right: auto;
+				max-width: 528px;
+				width: 100%;
+				transform: none;
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+			}
+		}
+		&-buy {
+			margin-bottom: 30px;
+		}
+		&-book {
+			padding-left: 30px;
+			padding-right: 30px;
+			text-align: center;
+		}
+		&-overtitle {
+		}
+	}
 
-  .speaker {
-    &s {
-      padding-top: 50px;
-      padding-bottom: 20px;
+	.speaker {
+		&s {
+			padding-top: 50px;
+			padding-bottom: 20px;
 
-      .card {
-        &-speaker {
-          text-align: center;
-        }
-      }
-    }
-  }
+			.card {
+				&-speaker {
+					text-align: center;
+				}
+			}
+		}
+	}
 
-  .joinnext {
-    &-badge-next {
-      font-size: 16px;
-      margin-bottom: 40px;
-    }
-    &-title {
-      margin-top: 40px;
-    }
-  }
+	.joinnext {
+		&-badge-next {
+			font-size: 16px;
+			margin-bottom: 40px;
+		}
+		&-title {
+			margin-top: 40px;
+		}
+	}
 
-  .promote {
-    &-section {
-      .swiper-container {
-        .video-item {
-          margin-top: 60px;
-          height: 550px;
-        }
-      }
-    }
-  }
+	.promote {
+		&-section {
+			.swiper-container {
+				.video-item {
+					margin-top: 60px;
+					height: 550px;
+				}
+			}
+		}
+	}
 
-  .articles {
-    &-image {
-      img {
-        height: $articles-image-height-lg;
-      }
-    }
-    &-card {
-      font-size: 16px;
-    }
-    &-title {
-      margin: 10px 0;
-      font-size: 22px;
-    }
-    &-readmore {
-      font-size: 12px;
-    }
-  }
+	.articles {
+		&-image {
+			img {
+				height: $articles-image-height-lg;
+			}
+		}
+		&-card {
+			font-size: 16px;
+		}
+		&-title {
+			margin: 10px 0;
+			font-size: 22px;
+		}
+		&-readmore {
+			font-size: 12px;
+		}
+	}
 
-  .newsletter {
-    &-section {
-      padding: 30px 0;
-    }
-    &-subscribe {
-      margin-top: 10px;
-    }
-    &-email {
-      width: 350px;
-      margin-right: 5px;
-      &::placeholder {
-        letter-spacing: 2px;
-      }
-    }
-    &-button {
-    }
-    &-email, &-button {
-      padding: 10px 15px;
-      font-size: 14px;
-    }
-  }
+	.newsletter {
+		&-section {
+			padding: 30px 0;
+		}
+		&-subscribe {
+			margin-top: 10px;
+		}
+		&-email {
+			width: 350px;
+			margin-right: 5px;
+			&::placeholder {
+				letter-spacing: 2px;
+			}
+		}
+		&-button {
+		}
+		&-email,
+		&-button {
+			padding: 10px 15px;
+			font-size: 14px;
+		}
+	}
 
-  .prevsummits {
-    &-button {
-      font-size: 26px;
-    }
-  }
+	.prevsummits {
+		&-button {
+			font-size: 26px;
+		}
+	}
 
-  .summitdates {
-    &-block {
-      margin: 0 10px;
-      font-size: 24px;
-    }
-    &-session {
-      min-width: 350px;
-    }
-    &-date {
-      min-width: 350px;
-    }
-  }
+	.summitdates {
+		&-block {
+			margin: 0 10px;
+			font-size: 24px;
+		}
+		&-session {
+			min-width: 350px;
+		}
+		&-date {
+			min-width: 350px;
+		}
+	}
 
-  .schedule {
-    &-section {
-      .description {
-        .title {
-          font-size: 40px;
-        }
-      }
-    }
-    &-subtitle {
-      font-size: 38px;
-    }
-    &-day {
-      .schedule-entry {
-        .body {
-          padding-left: 0;
-          &-organizers {
-            margin-right: 10px;
-            margin-left: 10px;
-            min-width: inherit;
-            a {
-              img {
-                max-width: $schedule-organizer-icon-size * 0.8;
-                margin-top: 10px;
-              }
-            }
-          }
-          &-texts {
-            padding-left: 15px;
-            padding-right: 15px;
-          }
-          &-title {
-            font-size: 22px;
-            line-height: 28px;
-          }
-          &-author {
-            font-size: 18px;
-            line-height: 24px;
-          }
-        }
-        .thumb {
-          min-width: 60px;
-          width: 60px;
-          &-name {
-            font-size: 14px;
-            line-height: 18px;
-          }
-        }
-      }
-    }
-  }
-
+	.schedule {
+		&-section {
+			.description {
+				.title {
+					font-size: 40px;
+				}
+			}
+		}
+		&-subtitle {
+			font-size: 38px;
+		}
+		&-day {
+			.schedule-entry {
+				.body {
+					padding-left: 0;
+					&-organizers {
+						margin-right: 10px;
+						margin-left: 10px;
+						min-width: inherit;
+						a {
+							img {
+								max-width: $schedule-organizer-icon-size * 0.8;
+								margin-top: 10px;
+							}
+						}
+					}
+					&-texts {
+						padding-left: 15px;
+						padding-right: 15px;
+					}
+					&-title {
+						font-size: 22px;
+						line-height: 28px;
+					}
+					&-author {
+						font-size: 18px;
+						line-height: 24px;
+					}
+				}
+				.thumb {
+					min-width: 60px;
+					width: 60px;
+					&-name {
+						font-size: 14px;
+						line-height: 18px;
+					}
+				}
+			}
+		}
+	}
 }
-
 
 /*****************************/
 /******* MD BREAKPOINT *******/
 /*****************************/
 @media screen and (max-width: $md-breakpoint) {
-  .section {
-    &-paragraph {
-      font-size: 16px;
-    }
+	.section {
+		&-paragraph {
+			font-size: 16px;
+		}
 
-    &-overtitle {
-      font-size: 14px;
-    }
+		&-overtitle {
+			font-size: 14px;
+		}
 
-    &-title {
-      font-size: 36px;
-    }
-  }
+		&-title {
+			font-size: 36px;
+		}
+	}
 
-  .hero {
-    &-icon {
-      margin: 0 8px;
-    }
+	.hero {
+		&-icon {
+			margin: 0 8px;
+		}
 
-    &-when-where {
-      flex-direction: column;
-    }
+		&-when-where {
+			flex-direction: column;
+		}
 
-    &-button {
-      &s {
-        flex-direction: column;
-        align-items: center;
-        a {
-          &:first-child {
-            margin-right: 0;
-          }
-        }
-      }
+		&-button {
+			&s {
+				flex-direction: column;
+				align-items: center;
+				a {
+					&:first-child {
+						margin-right: 0;
+					}
+				}
+			}
 
-      &:first-child {
-        margin-bottom: 10px;
-        margin-right: 0;
-      }
-    }
+			&:first-child {
+				margin-bottom: 10px;
+				margin-right: 0;
+			}
+		}
 
-    &-when-where {
-      margin-bottom: 15px;
-      font-size: 18px;
-    }
+		&-when-where {
+			margin-bottom: 15px;
+			font-size: 18px;
+		}
 
-    &-where {
-      margin-right: 0;
-    }
-    &-over {
-      &-badge-next {
-        //height: 24px;
-        //width: 157px;
-        //font-size: 12px;
-        //line-height: 24px;
-        margin-bottom: 10px;
-        //margin-top: 0;
-      }
-      &-over-message {
-        font-size: 13px;
-        margin-bottom: 0;
-      }
-      &.hero {
-        &-section {
-          .container {
-            background-image: url("#{$base-url}/img/backgrounds/hero-md-bg.png");
-            background-position-x: center;
-            height: 270px;
-          }
-        }
-      }
-      .hero {
-        &-title {
-          font-size: 28px;
-          line-height: 38px;
-          min-width: 300px;
-        }
-      }
-    }
-  }
+		&-where {
+			margin-right: 0;
+		}
+		&-over {
+			&-badge-next {
+				//height: 24px;
+				//width: 157px;
+				//font-size: 12px;
+				//line-height: 24px;
+				margin-bottom: 10px;
+				//margin-top: 0;
+			}
+			&-over-message {
+				font-size: 13px;
+				margin-bottom: 0;
+			}
+			&.hero {
+				&-section {
+					.container {
+						background-image: url("#{$base-url}/img/backgrounds/hero-md-bg.png");
+						background-position-x: center;
+						height: 270px;
+					}
+				}
+			}
+			.hero {
+				&-title {
+					font-size: 28px;
+					line-height: 38px;
+					min-width: 300px;
+				}
+			}
+		}
+	}
 
-  .attend {
-    &-block {
-      //padding-top: 75px;
-    }
+	.attend {
+		&-block {
+			//padding-top: 75px;
+		}
 
-    &-card {
-      height: 120px;
-    }
+		&-card {
+			height: 120px;
+		}
 
-    &-hero {
-      margin-top: 10px;
-    }
-  }
+		&-hero {
+			margin-top: 10px;
+		}
+	}
 
-  .booking {
-    &-section {
-      display: flex;
-      align-items: center;
-    }
-    &-blocks {
-      height: 200px;
-    }
-    &-title {
-      font-size: 24px;
-      line-height: 20px;
-    }
-    &-free {
-      font-size: 20px;
-    }
-    &-leader, &-students {
-      font-size: 18px;
-      img {
-        width: 16px;
-      }
-    }
-    &-banner {
-      &-text {
-        max-width: 460px;
-      }
-    }
-    &-buy {
-      //justify-content: center;
-      //font-size: 20px;
-    }
-    &-book {
-      width: 50%;
-    }
-    &-overtitle {
-    }
-  }
+	.booking {
+		&-section {
+			display: flex;
+			align-items: center;
+		}
+		&-blocks {
+			height: 200px;
+		}
+		&-title {
+			font-size: 24px;
+			line-height: 20px;
+		}
+		&-free {
+			font-size: 20px;
+		}
+		&-leader,
+		&-students {
+			font-size: 18px;
+			img {
+				width: 16px;
+			}
+		}
+		&-banner {
+			&-text {
+				max-width: 460px;
+			}
+		}
+		&-buy {
+			//justify-content: center;
+			//font-size: 20px;
+		}
+		&-book {
+			width: 50%;
+		}
+		&-overtitle {
+		}
+	}
 
-  .joinnext {
-    &-badge-next {
-      font-size: 12px;
-    }
-    &-title {
-      margin-top: 25px;
-    }
-    &-badge-next {
-      margin-bottom: 25px;
-    }
-    &-title {
-      font-size: 32px;
-    }
-  }
+	.joinnext {
+		&-badge-next {
+			font-size: 12px;
+		}
+		&-title {
+			margin-top: 25px;
+		}
+		&-badge-next {
+			margin-bottom: 25px;
+		}
+		&-title {
+			font-size: 32px;
+		}
+	}
 
-  .promote {
-    &-section {
-      .swiper-container {
-        .video-item {
-          margin-top: 50px;
-          height: 470px;
-        }
-      }
-    }
-  }
+	.promote {
+		&-section {
+			.swiper-container {
+				.video-item {
+					margin-top: 50px;
+					height: 470px;
+				}
+			}
+		}
+	}
 
-  .summitdates {
-    &-section {
-      height: 250px;
-    }
-    &-container {
-      flex-direction: column;
-      &:before {
-        height: 1px;
-        width: 188px;
-        top: 120px;
-        left: calc(50% - 100px);
-      }
-    }
-    &-block {
-      margin-top: 25px;
-      margin-bottom: 15px;
-    }
+	.summitdates {
+		&-section {
+			height: 250px;
+		}
+		&-container {
+			flex-direction: column;
+			&:before {
+				height: 1px;
+				width: 188px;
+				top: 120px;
+				left: calc(50% - 100px);
+			}
+		}
+		&-block {
+			margin-top: 25px;
+			margin-bottom: 15px;
+		}
+	}
 
-  }
+	.schedule {
+		&-subtitle {
+			font-size: 36px;
+			text-align: center;
+		}
+		&-day {
+			.schedule-entry {
+				&:first-child {
+					.body {
+						margin-top: 10px;
+					}
+				}
+				&:last-child {
+					.body {
+						margin-bottom: 10px;
+						padding-bottom: 10px;
+					}
+				}
+				.thumb {
+					display: none;
+					min-height: inherit;
+				}
+				.body {
+					margin-left: 10px;
+					margin-right: 10px;
+					padding-left: 10px;
+					padding-right: 10px;
+					&-organizers {
+						background-color: transparent;
+						margin-right: 10px;
+						min-width: 80px;
+						//height: 80px;
+						a {
+							img {
+								margin-top: 20px;
+							}
+						}
+						&-time {
+							line-height: 36px;
+						}
+					}
+					&-texts {
+						padding-left: 10px;
+						margin-right: 0;
+						min-height: inherit;
+						padding-bottom: 15px;
+					}
+					&-author {
+						&-link {
+							font-size: 16px;
+							line-height: 20px;
+						}
+					}
+					&-title {
+						font-size: 20px;
+						line-height: 28px;
+					}
+				}
+			}
+		}
+	}
 
-  .schedule {
-    &-subtitle {
-      font-size: 36px;
-      text-align: center;
-    }
-    &-day {
-      .schedule-entry {
-        &:first-child {
-          .body {
-            margin-top: 10px;
-          }
-        }
-        &:last-child {
-          .body {
-            margin-bottom: 10px;
-            padding-bottom: 10px;
-          }
-        }
-        .thumb {
-          display: none;
-          min-height: inherit;
-        }
-        .body {
-          margin-left: 10px;
-          margin-right: 10px;
-          padding-left: 10px;
-          padding-right: 10px;
-          &-organizers {
-            background-color: transparent;
-            margin-right: 10px;
-            min-width: 80px;
-            //height: 80px;
-            a {
-              img {
-                margin-top: 20px;
-              }
-            }
-            &-time {
-              line-height: 36px;
-            }
-          }
-          &-texts {
-            padding-left: 10px;
-            margin-right: 0;
-            min-height: inherit;
-            padding-bottom: 15px;
-          }
-          &-author {
-            &-link {
-              font-size: 16px;
-              line-height: 20px;
-            }
-          }
-          &-title {
-            font-size: 20px;
-            line-height: 28px;
-          }
-        }
-      }
-    }
-  }
+	.testimonial {
+		&s {
+			&-section {
+				padding: 20px 0;
+				.swiper {
+					&-pagination {
+						margin-top: 40px;
+						margin-bottom: 40px;
+					}
+				}
+			}
+		}
+		&-text {
+			font-size: 28px;
+			margin-bottom: 60px;
+		}
 
-  .testimonial {
-    &s {
-      &-section {
-        padding: 20px 0;
-        .swiper {
-          &-pagination {
-            margin-top: 40px;
-            margin-bottom: 40px;
-          }
-        }
-      }
-    }
-    &-text {
-      font-size: 28px;
-      margin-bottom: 60px;
-    }
+		&-item {
+			font-size: 20px;
+		}
+	}
 
-    &-item {
-      font-size: 20px;
-    }
-  }
+	.articles {
+		&-body {
+			grid-template-columns: repeat(2, auto);
+		}
+		&-image {
+			img {
+				height: $articles-image-height-md;
+			}
+		}
+		&-card {
+			font-size: 16px;
+		}
+		&-title {
+			margin: 10px 0;
+			font-size: 22px;
+		}
+		&-readmore {
+			font-size: 12px;
+		}
+	}
 
-  .articles {
-
-    &-body {
-      grid-template-columns: repeat(2, auto);
-    }
-    &-image {
-      img {
-        height: $articles-image-height-md;
-      }
-    }
-    &-card {
-      font-size: 16px;
-    }
-    &-title {
-      margin: 10px 0;
-      font-size: 22px;
-    }
-    &-readmore {
-      font-size: 12px;
-    }
-  }
-
-  .prevsummits {
-    &-button {
-      font-size: 22px;
-      margin-top: 5px;
-      margin-bottom: 5px;
-      padding: 4px 30px;
-      &s {
-        flex-direction: column;
-        a {
-          &:first-child {
-            margin-right: 0;
-            margin-top: 10px;
-          }
-        }
-      }
-    }
-  }
-
+	.prevsummits {
+		&-button {
+			font-size: 22px;
+			margin-top: 5px;
+			margin-bottom: 5px;
+			padding: 4px 30px;
+			&s {
+				flex-direction: column;
+				a {
+					&:first-child {
+						margin-right: 0;
+						margin-top: 10px;
+					}
+				}
+			}
+		}
+	}
 }
-
 
 /*****************************/
 /******* SM BREAKPOINT *******/
 /*****************************/
 @media screen and (max-width: $sm-breakpoint) {
+	.section {
+		&-title {
+			font-size: 32px;
+		}
+	}
 
-  .section {
-    &-title {
-      font-size: 32px;
-    }
-  }
+	.hero {
+		&-numbers {
+			font-size: 18px;
+			letter-spacing: 1.5px;
+		}
+		&-title {
+			font-size: 45px;
+		}
+		&-badge-next {
+			margin-bottom: 14px;
+		}
+		&-over-message {
+			//font-size: 13px;
+			margin-bottom: 5px;
+		}
+		&-over {
+			&.hero {
+				&-section {
+					.container {
+						background-image: url("#{$base-url}/img/backgrounds/hero-md-bg.png");
+						height: 270px;
+					}
+				}
+			}
+			.hero {
+				&-block {
+					padding-top: 0;
+				}
+				&-title {
+					font-size: 22px;
+					line-height: 32px;
+					min-width: 200px;
+					max-width: 180px;
+				}
+			}
+		}
+	}
 
-  .hero {
-    &-numbers {
-      font-size: 18px;
-      letter-spacing: 1.5px;
-    }
-    &-title {
-      font-size: 45px;
-    }
-    &-badge-next {
-      margin-bottom: 14px;
-    }
-    &-over-message {
-      //font-size: 13px;
-      margin-bottom: 5px;
-    }
-    &-over {
-      &.hero {
-        &-section {
-          .container {
-            background-image: url("#{$base-url}/img/backgrounds/hero-md-bg.png");
-            height: 270px;
-          }
-        }
-      }
-      .hero {
-        &-block {
-          padding-top: 0;
-        }
-        &-title {
-          font-size: 22px;
-          line-height: 32px;
-          min-width: 200px;
-          max-width: 180px;
-        }
-      }
-    }
-  }
+	.booking {
+		&-blocks {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+		&-container {
+			width: 99%;
+			padding-left: 4px;
+			padding-right: 4px;
+		}
+		&-banner {
+			max-width: 380px;
+			width: 100%;
+			&-text {
+				max-width: 100%;
+				justify-content: space-between;
+				width: 100%;
+				padding: 0 0 0 14px;
+			}
+		}
+		&-overtitle {
+			font-size: 16px;
+			letter-spacing: initial;
+		}
+		&-book {
+			padding-left: 16px;
+			padding-right: 16px;
+			font-size: 14px;
+		}
+		&-buy {
+			max-width: 400px;
+			width: 100%;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+		}
+		&-summit {
+			width: 100%;
+		}
+	}
 
-  .booking {
-    &-blocks {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    &-container {
-      width: 99%;
-      padding-left: 4px;
-      padding-right: 4px;
-    }
-    &-banner {
-      max-width: 380px;
-      width: 100%;
-      &-text {
-        max-width: 100%;
-        justify-content: space-between;
-        width: 100%;
-        padding: 0 0 0 14px;
-      }
-    }
-    &-overtitle {
-      font-size: 16px;
-      letter-spacing: initial;
-    }
-    &-book {
-      padding-left: 16px;
-      padding-right: 16px;
-      font-size: 14px;
-    }
-    &-buy {
-      max-width: 400px;
-      width: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-    &-summit {
-      width: 100%;
-    }
+	.joinnext {
+		&-badge-next {
+			font-size: 10px;
+		}
+		&-title {
+			font-size: 26px;
+		}
+	}
 
-  }
+	.promote {
+		&-section {
+			.swiper-container {
+				.video-item {
+					margin-top: 40px;
+					height: 410px;
+				}
+			}
+		}
+	}
 
-  .joinnext {
-    &-badge-next {
-      font-size: 10px;
-    }
-    &-title {
-      font-size: 26px;
-    }
-  }
+	.testimonial {
+		&s {
+			&-section {
+				.swiper {
+					&-pagination {
+						margin-top: 20px;
+						margin-bottom: 20px;
+						&-bullet {
+							margin-top: 10px;
+							width: $schedule-organizer-icon-size - 20px;
+							height: $schedule-organizer-icon-size - 20px;
+						}
+					}
+				}
+			}
+		}
+		&-text {
+			font-size: 24px;
+			margin-bottom: 60px;
+		}
 
-  .promote {
-    &-section {
-      .swiper-container {
-        .video-item {
-          margin-top: 40px;
-          height: 410px;
-        }
-      }
-    }
-  }
+		&-item {
+			font-size: 18px;
+		}
+	}
 
-  .testimonial {
-    &s {
-      &-section {
-        .swiper {
-          &-pagination {
-            margin-top: 20px;
-            margin-bottom: 20px;
-            &-bullet {
-              margin-top: 10px;
-              width: $schedule-organizer-icon-size - 20px;
-              height: $schedule-organizer-icon-size - 20px;
-            }
-          }
-        }
-      }
-    }
-    &-text {
-      font-size: 24px;
-      margin-bottom: 60px;
-    }
+	.articles {
+		&-body {
+			grid-template-columns: auto;
+		}
+		&-image {
+			img {
+				height: $articles-image-height-md;
+			}
+		}
+		&-card {
+			font-size: 16px;
+		}
+		&-title {
+			margin: 10px 0;
+			font-size: 22px;
+		}
+		&-readmore {
+			font-size: 12px;
+		}
+	}
 
-    &-item {
-      font-size: 18px;
-    }
-  }
+	.newsletter {
+		&-email {
+			width: 350px;
+			margin-right: 5px;
+			&::placeholder {
+				letter-spacing: 2px;
+			}
+		}
+		&-button {
+			margin-top: 10px;
+		}
+		&-email,
+		&-button {
+			width: 100%;
+		}
+	}
 
-  .articles {
-    &-body {
-      grid-template-columns: auto;
-    }
-    &-image {
-      img {
-        height: $articles-image-height-md;
-      }
-    }
-    &-card {
-      font-size: 16px;
-    }
-    &-title {
-      margin: 10px 0;
-      font-size: 22px;
-    }
-    &-readmore {
-      font-size: 12px;
-    }
-  }
+	.prevsummits {
+		&-button {
+			font-size: 18px;
+			padding-top: 0;
+			padding-bottom: 0;
+		}
+	}
 
-  .newsletter {
-    &-email {
-      width: 350px;
-      margin-right: 5px;
-      &::placeholder {
-        letter-spacing: 2px;
-      }
-    }
-    &-button {
-      margin-top: 10px;
-    }
-    &-email, &-button {
-      width: 100%;
-    }
-  }
-
-  .prevsummits {
-    &-button {
-      font-size: 18px;
-      padding-top: 0;
-      padding-bottom: 0;
-    }
-  }
-
-  .schedule {
-    &-subtitle {
-      font-size: 28px;
-    }
-    &-day {
-      .schedule-entry {
-        .body {
-          padding-left: 10px;
-          padding-right: 10px;
-          &-organizers {
-            display: none;
-          }
-          &-texts {
-            width: 100%;
-            padding-left: 18px;
-            padding-top: 2px;
-          }
-          &-time {
-            line-height: 36px;
-          }
-          &-author {
-            &-link {
-              font-size: 16px;
-              line-height: 20px;
-            }
-          }
-          &-title {
-            font-size: 18px;
-            line-height: 30px;
-          }
-
-        }
-      }
-    }
-  }
-
+	.schedule {
+		&-subtitle {
+			font-size: 28px;
+		}
+		&-day {
+			.schedule-entry {
+				.body {
+					padding-left: 10px;
+					padding-right: 10px;
+					&-organizers {
+						display: none;
+					}
+					&-texts {
+						width: 100%;
+						padding-left: 18px;
+						padding-top: 2px;
+					}
+					&-time {
+						line-height: 36px;
+					}
+					&-author {
+						&-link {
+							font-size: 16px;
+							line-height: 20px;
+						}
+					}
+					&-title {
+						font-size: 18px;
+						line-height: 30px;
+					}
+				}
+			}
+		}
+	}
 }
-
 
 /*****************************/
 /******* XS BREAKPOINT *******/
 /*****************************/
 @media screen and (max-width: $xs-breakpoint) {
-  .section {
-    &-title {
-      font-size: 22px;
-    }
-  }
+	.section {
+		&-title {
+			font-size: 22px;
+		}
+	}
 
-  .hero {
-    &-over {
-      &.hero {
-        &-section {
-          .container {
-            background-image: url("#{$base-url}/img/backgrounds/hero-md-bg.png");
-            height: 270px;
-          }
-        }
-      }
-      .hero {
-        &-block {
-          padding-top: 0;
-        }
-        &-title {
-          font-size: 22px;
-          line-height: 32px;
-          min-width: 200px;
-          max-width: 180px;
-        }
-      }
-    }
-  }
+	.hero {
+		&-over {
+			&.hero {
+				&-section {
+					.container {
+						background-image: url("#{$base-url}/img/backgrounds/hero-md-bg.png");
+						height: 270px;
+					}
+				}
+			}
+			.hero {
+				&-block {
+					padding-top: 0;
+				}
+				&-title {
+					font-size: 22px;
+					line-height: 32px;
+					min-width: 200px;
+					max-width: 180px;
+				}
+			}
+		}
+	}
 
-  .joinnext {
-    &-badge-next {
-      font-size: 8px;
-      margin-bottom: 15px;
-    }
-    &-title {
-      font-size: 18px;
-      margin-top: 15px;
-      margin-bottom: 5px;
-    }
-  }
+	.joinnext {
+		&-badge-next {
+			font-size: 8px;
+			margin-bottom: 15px;
+		}
+		&-title {
+			font-size: 18px;
+			margin-top: 15px;
+			margin-bottom: 5px;
+		}
+	}
 
-  .promote {
-    &-section {
-      .swiper-container {
-        .video-item {
-          margin-top: 20px;
-          height: 350px;
-        }
-      }
-    }
-  }
+	.promote {
+		&-section {
+			.swiper-container {
+				.video-item {
+					margin-top: 20px;
+					height: 350px;
+				}
+			}
+		}
+	}
 
-  .testimonial {
-    &s {
-      &-section {
-        .swiper {
-          &-pagination {
-            &-bullet {
-              margin-top: 10px;
-              width: $schedule-organizer-icon-size - 40px;
-              height: $schedule-organizer-icon-size - 40px;
-            }
-          }
-        }
-      }
-    }
-    &-text {
-      font-size: 22px;
-      margin-bottom: 30px;
-    }
+	.testimonial {
+		&s {
+			&-section {
+				.swiper {
+					&-pagination {
+						&-bullet {
+							margin-top: 10px;
+							width: $schedule-organizer-icon-size - 40px;
+							height: $schedule-organizer-icon-size - 40px;
+						}
+					}
+				}
+			}
+		}
+		&-text {
+			font-size: 22px;
+			margin-bottom: 30px;
+		}
 
-    &-image {
-      margin-top: 10px;
-    }
+		&-image {
+			margin-top: 10px;
+		}
 
-    &-item {
-      font-size: 16px;
-    }
-  }
-
+		&-item {
+			font-size: 16px;
+		}
+	}
 }

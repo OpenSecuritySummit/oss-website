@@ -1,5 +1,5 @@
 /* Base URL for github pages migration */
-$base-url: '';
+$base-url: "";
 $screen-xs: 480px;
 $screen-sm: 768px;
 $screen-md: 992px;
@@ -19,8 +19,10 @@ $alt2-active-color: #0379a7;
 $theme-green-main-text-color: #87bb40;
 $main-action-text-color: $theme-green-main-text-color;
 $button-green-gradient-start: #61872e;
-$schedule-table-background-color: lighten(desaturate($main-action-text-color, 1.11), 38.24);
-
+$schedule-table-background-color: lighten(
+	desaturate($main-action-text-color, 1.11),
+	38.24
+);
 
 $main-text-color: #9696a3;
 $main-text-color-alt: #86ba40;
@@ -40,7 +42,7 @@ $xs-breakpoint: 400px;
 $xxs-breakpoint: 320px;
 
 $xxl-container-width: 1894px;
-$xl-container-width: 1140px;
+$xl-container-width: 1250px;
 $lg-container-width: 960px;
 $md-container-width: 720px;
 $sm-container-width: 546px;
