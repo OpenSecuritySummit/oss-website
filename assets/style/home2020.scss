@@ -304,7 +304,6 @@ $testimonials-image-height: 100px;
 /*****************************/
 /**** BOOK TICKETS styles ****/
 /*****************************/
-//! ***************************************
 .booking {
 	&-section {
 		//background-color: $tickets-bg;
@@ -312,6 +311,8 @@ $testimonials-image-height: 100px;
 		background-repeat: repeat-x;
 		background-position: top left;
 		height: $booking-section-height;
+
+		margin-bottom: 120px;
 	}
 
 	&-blocks {
@@ -470,7 +471,6 @@ $testimonials-image-height: 100px;
 	&-name {
 		position: relative;
 		display: inline-block;
-		// text-align: center;
 		font-size: 20px;
 		color: $main-header-color;
 		transition: all 0.2s;
@@ -504,7 +504,11 @@ $testimonials-image-height: 100px;
 	}
 
 	&s {
-		text-align: left;
+		text-align: center;
+
+		&-banner {
+			display: flex;
+		}
 
 		&-section {
 			background-color: $alt-background-color;
@@ -531,6 +535,18 @@ $testimonials-image-height: 100px;
 		.card {
 			&-speaker {
 				margin-bottom: 30px;
+				text-align: left;
+				h3 {
+					font-size: 26px;
+					margin: 0;
+					color: #58595b;
+				}
+				p {
+					font-size: 26px;
+					font-family: Roboto;
+					font-weight: 400;
+					line-height: 32px;
+				}
 			}
 		}
 	}
@@ -1292,6 +1308,8 @@ $testimonials-image-height: 100px;
 	}
 
 	.speakers {
+		text-align: center;
+
 		.card {
 			&-description {
 				text-align: center;
