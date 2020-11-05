@@ -1,13 +1,16 @@
 {{ $valid_days := .valid_days}}
-{{ $self := .self }}
+{{ $self       := .self }}
+{{ $.self.Scratch.Set "has-session" false }}
+
 {{ range $valid_days }}
     {{ $.self.Scratch.Delete . }}
 {{ end }}
-{{ $.self.Scratch.Set "has-session" false }}
 
 {{ range .pages }}
     {{ if eq .Params.when_time $.time }}
+
         {{ $days := split .Params.when_day "," }}
+
         {{ $page := . }}
         {{ range $days }}
             {{if in $valid_days $page.Params.when_day }}

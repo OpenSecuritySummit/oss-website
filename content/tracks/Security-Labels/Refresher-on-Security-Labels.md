@@ -3,8 +3,10 @@ title        : "Refresher on Security Labels"
 type         : working-session
 track        : Security Labels
 topics       : 
+when         : Nov 10th Tuesday
 when_week    : 
-when_day     : 10th - Tuesday
+when_month   : 
+when_day     : Tue
 when_time    : LT-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/refresher-on-security-labels/
 session_slack:

@@ -14,12 +14,8 @@
     {{ end }}
 {{ end}}
 
+{{ $this.Scratch.Set "has-session-in-week" true }} <!-- hack -->
 
-{{ $days_next_training := $this.Site.Data.schedule.days.days_next_training }}
-{{ $days_next_summit   := $this.Site.Data.schedule.days.days_next_summit }}
-{{ $days_past          := $this.Site.Data.schedule.days.days_past }}
-
-{{ $title := "Training sessions"}}
 
 {{ if $this.Scratch.Get "has-session-in-week"}}
     <h4>{{.title}}</h4>
@@ -38,7 +34,6 @@
         </thead>
         <tbody>
             {{ range $times }}
-             THIS IS TIME {{ . }}
                 {{ partial "schedule/table/track-tr-time.html" (dict "self" $this "pages" $pages "valid_days" $valid_days "time" . )}}
             {{ end }}
         </tbody>
