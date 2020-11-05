@@ -1152,6 +1152,7 @@ $testimonials-image-height: 100px;
 		text-align: center;
 	}
 	&-button {
+		white-space: nowrap;
 		&s {
 			margin-top: 40px;
 			display: flex;
@@ -2114,6 +2115,7 @@ $testimonials-image-height: 100px;
 			&s {
 				flex-direction: column;
 				a {
+					margin-right: 0;
 					&:first-child {
 						margin-right: 0;
 						margin-top: 10px;
