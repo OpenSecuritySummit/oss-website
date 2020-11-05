@@ -1,10 +1,10 @@
 ---
 title        : "Refresher on Security Labels"
-type         : training-session
-track        : Threat Modeling
+type         : working-session
+track        : Security Labels
 topics       : 
 when_week    : 
-when_day     : 10th- Tuesday
+when_day     : 10th - Tuesday
 when_time    : LT-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/refresher-on-security-labels/
 session_slack:

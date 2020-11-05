@@ -1,7 +1,7 @@
 ---
 title        : "Security Labels & Schrems II"
-type         : training-session
-track        : Threat Modeling
+type         : working-session
+track        : Security Labels
 topics       : 
 when_week    : 
 when_day     : 12th- Thursday
