@@ -17,3 +17,9 @@ zoom_link    : https://zoom.us/j/97434180998
 organizers   : 
        - James Bore
 ---
+
+## Session Description
+
+In preparation from Friday's Playing at Security: Designing, building, and running tabletop
+ scenarios for fail-safe incident handling and incident response training.
+
