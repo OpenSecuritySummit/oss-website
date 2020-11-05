@@ -21,3 +21,18 @@ organizers   :
        - Adam Leon Smith
 ---
 
+## Session Description
+
+Following from the [Security Labels for Covid Apps](https://2020.open-security-summit.org/tracks/covid/security-labels-for-covid-apps) session at the 2020 Open Security Summit
+and in preparation for the [Security Labels & Schrems II](/tracks/security-labels/security-labels-and-schrems-ii/) happening on Thursday
+this session will focus on :
+
+- Concept of 'Security Labels' and how it can be used in practice
+- Past examples of Security Labels efforts
+- Security Labels as a way to prevent 'Markets for Lemons'
+- Labels to use during [Security Labels & Schrems II](/tracks/security-labels/security-labels-and-schrems-ii/) session 
+
+### References
+ 
+- [Security Labels for Covid Apps](https://2020.open-security-summit.org/tracks/covid/security-labels-for-covid-apps) at 2020 Open Security Summit
+- [Security Labels & Schrems II](/tracks/security-labels/security-labels-and-schrems-ii/)
