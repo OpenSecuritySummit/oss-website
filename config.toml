@@ -34,12 +34,12 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 8
     url = "/video/"
-[[menu.main]]
-    name = "Merchandise"
-    identifier = "Merchandise"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 9
-    url = "https://pre-summit-training-sessions.heysummit.com/merchandise-3/"
+#[[menu.main]]
+#    name = "Merchandise"
+#    identifier = "Merchandise"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 9
+#    url = "https://pre-summit-training-sessions.heysummit.com/merchandise-3/"
 
 #    name = "Photo Gallery"
 #    identifier = "PhotoGallery"

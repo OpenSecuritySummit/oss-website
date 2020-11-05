@@ -3,7 +3,8 @@ title        : "Playing at Security: Designing, building, and running tabletop s
 type         : training-session
 track        : Secure by Scenario
 topics       : 
-when_week    : 
+when_week    :
+when_month   : Nov 
 when_day     : 9th - Monday
 when_time    : LT-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-to-build-your-own-scenario-and-run-it/
