@@ -1,0 +1,116 @@
+<section class="section videos-section">
+  <div class="container container-xxl container-centric">
+    <div class="swiper-container ">
+      <h2 class="section-title">2020 Summit videos</h2>
+      <div class="swiper-wrapper">
+        {{ range .Site.Data.videos.promote }}
+        <div class="swiper-slide">
+          <div class="video-item">
+            <div class="source">
+              <iframe height="100%" width="100%" allowFullScreen src="https://www.youtube-nocookie.com/embed/{{ .video }}"
+                                                                    srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/{{ .video }}?autoplay=1>
+                  <img src=https://img.youtube.com/vi/{{ .video }}/hqdefault.jpg
+                  alt='{{ .description }}'><span>▶</span></a>"
+               frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+               allowfullscreen></iframe>
+            </div>
+            <div class="words">
+              <div class="author">{{- .author -}}</div>
+              <div class="description">{{- .description -}}</div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+
+  <script>
+      let promotePlayers = window.promotePlayers = [];
+      let promoteSwiper = window.promoteSwiper = null;
+      $(document).ready(function () {
+          // create youtube player
+          //initialize swiper when document ready
+          promoteSwiper = new Swiper('.videos-section .swiper-container', {
+              loop: false,
+              pagination: {
+                  el: '.videos-section .swiper-pagination',
+                  clickable: true,
+              },
+              autoplay: {
+                  delay: 30000,
+              },
+              on: {
+                  slideChange: (swiper) => {
+                      stopAllPlayers();
+                      let player = promotePlayers[swiper.realIndex];
+                      if (player.getPlayerState() === YT.PlayerState.PAUSED && !promoteSwiper.autoplay.running) {
+                          player.playVideo();
+                      }
+                  },
+              }
+          });
+      });
+
+
+      function initPlayer(promoteId) {
+          let videoId = promoteId && promoteId.replace('promote-', '');
+          promotePlayers.push( new YT.Player(promoteId, {
+              width: '100%',
+              height: '600',
+              videoId: videoId,
+              autoplay: false,
+              events: {
+                  onStateChange: onPlayerStateChange,
+              },
+          }));
+      }
+
+      function initPlayers(query) {
+          let playerElements = $.find(query)
+          playerElements.forEach( (playerEl) => {
+              initPlayer(playerEl.id)
+          })
+      }
+
+      function onYouTubePlayerAPIReady() {
+          initPlayers('.promote-section .source');
+      }
+
+      // when video ends
+      function onPlayerStateChange(event) {
+          const me = event.target;
+          const myState = me.getPlayerState();
+          if (YT.PlayerState.PLAYING === myState) {
+              promoteSwiper.autoplay.stop();
+          }
+          if (YT.PlayerState.ENDED === myState) {
+              // check if any next un-ended videos are available
+              let myIndex = -1
+              for ( const player of promotePlayers ) {
+                  let index = promotePlayers.indexOf(player);
+                  if (myIndex < 0) {
+                      if (me === player) {
+                          myIndex = index;
+                      }
+                  } else if ( myIndex >= 0 ) {
+                      if ( YT.PlayerState.ENDED !== player.getPlayerState()) {
+                          promoteSwiper.slideTo(index);
+                          player.playVideo();
+                          break;
+                      }
+                  }
+              }
+          }
+      }
+
+      function stopAllPlayers() {
+          promotePlayers.forEach((player) => {
+              if ( YT.PlayerState.PLAYING === player.getPlayerState()) {
+                  player.pauseVideo();
+              }
+          })
+      }
+  </script>
+</section>

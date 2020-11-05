@@ -244,7 +244,10 @@ $testimonials-image-height: 100px;
 /*****************************/
 .promote {
 	&-section {
+		margin: 113px 0;
 		.swiper-container {
+			text-align: center;
+			border: 2px solid #f8f8f8;
 			.video-item {
 				margin-top: 100px;
 				height: 700px;
@@ -334,8 +337,9 @@ $testimonials-image-height: 100px;
 		margin: 0;
 		margin-bottom: 22px;
 
+		letter-spacing: 4.8px;
+
 		&-upper {
-			letter-spacing: 4.8px;
 			font-weight: 700;
 		}
 	}
@@ -347,6 +351,8 @@ $testimonials-image-height: 100px;
 		letter-spacing: normal;
 		line-height: normal;
 		text-transform: uppercase;
+
+		font-size: 65px;
 
 		margin: 0;
 	}
@@ -508,12 +514,16 @@ $testimonials-image-height: 100px;
 
 		&-banner {
 			display: flex;
+			//justify-content: center;
+			justify-content: space-between;
 		}
 
 		&-section {
 			background-color: $alt-background-color;
+			padding: 0 30px;
 			padding-top: 153px;
 			padding-bottom: 80px;
+			margin-bottom: 127px;
 		}
 
 		&-overtitle {
@@ -552,6 +562,80 @@ $testimonials-image-height: 100px;
 	}
 }
 /* End of Speakers styles */
+
+/*****************************/
+/***** HIGHLIGHTS styles *******/
+/*****************************/
+
+.highlights {
+	background-color: #efefef;
+	text-align: center;
+	padding: 70px 0;
+	&-block {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+	&-card {
+		display: flex;
+		align-items: center;
+		width: 820px;
+		height: 220px;
+		padding: 24px 50px;
+		margin: 28px;
+
+		box-shadow: 0 0 13px rgba(2, 2, 2, 0.07);
+		background-color: #ffffff;
+
+		text-align: left;
+		img {
+			margin-right: 50px;
+		}
+		h3 {
+			font-size: 32px;
+			font-weight: 400;
+			line-height: 32px;
+			color: #86ba40;
+		}
+		p {
+			font-size: 32px;
+			line-height: 32px;
+			font-family: "Roboto";
+			font-weight: 400;
+			color: #8c8c9a;
+		}
+	}
+}
+
+/* End of Highlights styles */
+
+/*****************************/
+/** SUMMIT VIDEOS styles */
+/*****************************/
+.videos {
+	&-section {
+		margin: 113px 82px;
+		padding-bottom: 40px;
+		border: 4px solid #efefef;
+
+		.swiper-container {
+			width: 100%;
+			text-align: center;
+			padding: 100px 0;
+			.video-item {
+				margin: 0 auto;
+				margin-top: 70px;
+				width: 992px;
+				height: 700px;
+				.source {
+					height: inherit;
+				}
+			}
+		}
+	}
+}
+
+/* End of Summit videos styles */
 
 /*****************************/
 /***** SCHEDULE styles *******/
@@ -774,6 +858,85 @@ $testimonials-image-height: 100px;
 /* end of GALLERY styles */
 
 /*****************************/
+/** INFORMATION styles *****/
+/*****************************/
+
+.information {
+	&-section {
+		padding: 40px 0;
+	}
+
+	&-board {
+		display: flex;
+		//justify-content: center;
+		justify-content: space-between;
+
+		.blocks {
+			display: flex;
+			justify-content: space-between;
+		}
+
+		.block {
+			padding: 40px 100px;
+			margin-left: 40px;
+			text-align: center;
+			background-color: #ffffff;
+			box-shadow: 0 0 13px rgba(2, 2, 2, 0.07);
+			&:last-child {
+				margin-right: 40px;
+			}
+			span {
+				font-size: 100px;
+				font-weight: 500;
+			}
+			p {
+				font-size: 40px;
+				color: #8c8c9a;
+			}
+		}
+
+		.summit {
+			margin-bottom: 70px;
+			&-info {
+				span {
+					color: #86ba40;
+				}
+			}
+		}
+
+		.training {
+			&-info {
+				span {
+					color: #23c3f3;
+				}
+			}
+		}
+	}
+
+	&-weeks {
+		padding-top: 60px;
+		padding-bottom: 80px;
+		margin-right: 40px;
+		text-align: center;
+		background-color: #efefef;
+		h2 {
+			color: #808285;
+			font-size: 48px;
+			font-weight: 300;
+			text-transform: uppercase;
+			margin: 0;
+			margin-bottom: 40px;
+		}
+	}
+
+	&-twitter {
+		//height: 100%;
+		box-shadow: 0 0 13px rgba(2, 2, 2, 0.07);
+	}
+}
+/* end of INFORMATION styles */
+
+/*****************************/
 /** TESTIMONIALS styles *****/
 /*****************************/
 .testimonial {
@@ -979,18 +1142,22 @@ $testimonials-image-height: 100px;
 .prevsummits {
 	&-section {
 		margin-bottom: -66px;
-		padding-bottom: 30px;
-		padding-top: 30px;
-		background-color: $alt-background-color;
+		padding-bottom: 130px;
+		padding-top: 130px;
+		//padding-bottom: 30px;
+		//padding-top: 30px;
+		//background-color: $alt-background-color;
 	}
 	&-container {
 		text-align: center;
 	}
 	&-button {
 		&s {
+			margin-top: 40px;
 			display: flex;
 			justify-content: center;
-			a:first-child {
+
+			a {
 				margin-right: 20px;
 			}
 		}
@@ -1155,6 +1322,7 @@ $testimonials-image-height: 100px;
 		}
 		&-title {
 			font-size: 65px;
+
 			margin-bottom: 0;
 		}
 		&-free {
@@ -1309,7 +1477,6 @@ $testimonials-image-height: 100px;
 
 	.speakers {
 		text-align: center;
-
 		.card {
 			&-description {
 				text-align: center;
