@@ -7,7 +7,8 @@
 {{ $keynotes         := where (where .Site.Pages ".Params.type" "keynote") ".Params.title" "ne" "" }}
 {{ $sessions         := union (union $user_sessions $working_sessions) $keynotes }}
 
-{{ $title := "Summit Week (15th - 19th June)" }}
+
+{{ $title := "Mini Summit (9th - 13th November)" }}
 {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
 
 
@@ -20,10 +21,10 @@
 <!--{{ $title := "Training sessions"}}-->
 <!--{{ partial "schedule/list/days.html" (dict "this" $this "days" $days_next_training "title" $title) }}-->
 
-{{ $title := "Summit sessions"}}
+{{ $title := "Mini Summit sessions"}}
 {{ partial "schedule/list/days.html" (dict "this" $this "days" $days_next_summit   "title" $title) }}
 
-{{ $title := "Watch past sessions"}}
-{{ partial "schedule/list/days.html" (dict "this" $this "days" $days_past          "title" $title) }}
+<!--{{ $title := "Watch past sessions"}}-->
+<!--{{ partial "schedule/list/days.html" (dict "this" $this "days" $days_past          "title" $title) }}-->
 
 

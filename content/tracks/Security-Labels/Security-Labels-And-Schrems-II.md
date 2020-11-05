@@ -3,8 +3,9 @@ title        : "Security Labels & Schrems II"
 type         : working-session
 track        : Security Labels
 topics       : 
+when         : Nov 12th Thursday
 when_week    : 
-when_day     : 12th- Thursday
+when_day     : Thu
 when_time    : LT-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/main-session-security-labels-schrems-ii/
 session_slack:

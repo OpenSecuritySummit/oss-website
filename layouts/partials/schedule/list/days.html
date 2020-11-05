@@ -31,7 +31,7 @@
     {{ with .days}}
         {{ range sort . "order"}}
             {{ $sessions := where $pages ".Params.when_day" .key }}
-            {{ partial "schedule/list/day.html" (dict "this" $this "sessions" $sessions "day" .day "date" .date) }}
+            {{ partial "schedule/list/day.html" (dict "this" $this "sessions" $sessions "day" .day "date" .date "month" .month) }}
         {{ end}}
     {{ end}}
 {{ end}}
