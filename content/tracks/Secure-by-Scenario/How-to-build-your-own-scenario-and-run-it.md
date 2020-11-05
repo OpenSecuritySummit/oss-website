@@ -20,6 +20,4 @@ organizers   :
 
 ## Session Description
 
-In preparation from Friday's Playing at Security: Designing, building, and running tabletop
- scenarios for fail-safe incident handling and incident response training.
-
+Join this session to lean how to design, build, and run tabletop scenarios for fail-safe incident handling and incident response training
