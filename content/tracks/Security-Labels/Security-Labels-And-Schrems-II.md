@@ -43,5 +43,6 @@ Before joining this talk, listen to these previous talks:
 
 ## Related to
 
+- [Threat Modeling for Schrems II](/tracks/threat-modeling/threat-modeling-for-schrems-ii/)
 - [Refresher on Security Labels](/tracks/security-labels/refresher-on-security-labels/) working session at 2020 Open Security Summit
 
