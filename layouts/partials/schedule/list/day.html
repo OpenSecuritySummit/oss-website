@@ -12,7 +12,7 @@
 {{ if $this.Scratch.Get "has-session" }}
 
     <div class="schedule-day-block">
-        <p class="schedule-day">{{ .day }} - {{.date}} June</p>
+        <p class="schedule-day">{{ .day }} - {{.date}} {{.month}} </p>
         {{ range sort .sessions ".Params.when_time"}}
             {{ if .Params.hey_summit}}
 
