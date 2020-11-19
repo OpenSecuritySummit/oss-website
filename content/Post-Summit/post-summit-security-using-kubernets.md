@@ -18,6 +18,10 @@ organizers   :
        - Ben Schofield
        - Nick Drage
        - Wallaby Curtis
+<<<<<<< HEAD
        
+=======
+      
+>>>>>>> parent of 1693cce... Update post-summit-security-using-kubernets.md
 ---
 
