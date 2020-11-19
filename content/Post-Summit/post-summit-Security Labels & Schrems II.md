@@ -1,7 +1,7 @@
 ---
 title        : "Security Labels & Schrems II"
 type         : training-session
-track        : Schrems II
+track        : schrems-ii
 topics       : 
 when_day     : 10th- Thursday
 when_time    : LT-5
