@@ -6,7 +6,7 @@ topics       :
 event        : mini-summit
 when_month   : Dec
 when_day     : Mon
-when_time    : LT-5
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/secure-by-scenario-1/
 session_slack:
 status       :            # draft, review-content

@@ -6,7 +6,7 @@ when         : Nov 11th Wednesday
 topics       : 
 when_week    : 
 when_day     : Wed
-when_time    : LT-5
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-for-schrems-ii/
 session_slack:
 status       :      partials/admin/social/day.html     # draft, review-content

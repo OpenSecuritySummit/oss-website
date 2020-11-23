@@ -5,7 +5,7 @@ track        : Using Proxies
 topics       : 
 when_week    : 
 when_day     : 13th- Tuesday
-when_time    : LT-4
+when_time    : WS-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-proxies-1/
 session_slack:
 status       :           # draft, review-content
