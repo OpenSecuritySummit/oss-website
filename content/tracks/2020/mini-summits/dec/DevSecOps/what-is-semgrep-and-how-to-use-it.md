@@ -7,7 +7,7 @@ featured     :
 event        : mini-summit
 when_month   : Dec
 when_day     : Fri
-when_time    : LT-5
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/what-is-semgrep-and-how-to-use-it/
 session_slack:
 #status       : draft

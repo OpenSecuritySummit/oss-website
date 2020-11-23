@@ -6,7 +6,7 @@ topics       :
 when         : Nov 12th Thursday
 when_week    : 
 when_day     : Thu
-when_time    : LT-5
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/main-session-security-labels-schrems-ii/
 session_slack:
 status       :           # draft, review-content

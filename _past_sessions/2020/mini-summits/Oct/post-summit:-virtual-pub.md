@@ -5,7 +5,7 @@ track        : Miscellenous
 topics       : 
 when_week    : 
 when_day     : 16th - Friday
-when_time    : LT-5
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/virtual-pub/
 session_slack:
 status       :           # draft, review-content
