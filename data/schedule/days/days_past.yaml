@@ -73,3 +73,28 @@ day-15:
   day : "Friday"
   key : "Fri"
   order: 15
+
+day-16:
+  date : "9th"
+  day  : "Monday"
+  month: "November"
+  key  : "Mon"
+  order: 1
+day-17:
+  date : "10th"
+  day  : "Tuesday"
+  month: "November"
+  key  : "Tue"
+  order: 2
+day-18:
+  date : "11th"
+  day  : "Wednesday"
+  month: "November"
+  key  : "Wed"
+  order: 3
+day-19:
+  date : "12th"
+  day  : "Thursday"
+  month: "November"
+  key  : "Thu"
+  order: 4

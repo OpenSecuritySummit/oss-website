@@ -28,12 +28,12 @@ paginate = 10
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 2
 #    url = "/outcomes/"
-[[menu.main]]
-    name = "Video"
-    identifier = "Video"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 8
-    url = "/video/"
+#[[menu.main]]
+#    name = "Video"
+#    identifier = "Video"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 8
+#    url = "/video/"
 #[[menu.main]]
 #    name = "Merchandise"
 #    identifier = "Merchandise"
@@ -59,12 +59,12 @@ paginate = 10
     weight = 3
     url = "/tracks/"
 
-[[menu.main]]
-    name = "Trainings"
-    identifier = "training"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 4
-    url = "/training/"
+#[[menu.main]]
+#    name = "Trainings"
+#    identifier = "training"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 4
+#    url = "/training/"
 
 [[menu.main]]
     name = "Schedule"
@@ -109,13 +109,13 @@ paginate = 10
 #    weight = 18
 #    parent = "sessions"
 #    url = "/product-sessions"
-[[menu.main]]
-    name = "Participants"
-    identifier = "participants"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 7
-    url = "/participant/"
-    parent = "about"
+#[[menu.main]]
+#    name = "Participants"
+#    identifier = "participants"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 7
+#    url = "/participant/"
+#    parent = "about"
 #[[menu.main]]
 #    name = "Onsite Participants"
 #    identifier = "onsite-participants"
@@ -166,7 +166,7 @@ paginate = 10
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
-    weight = 11
+    weight = 51
     pre = "<i class='fa fa-road'></i>&nbsp;"
     url = "/sponsors/"
     parent = "about"
