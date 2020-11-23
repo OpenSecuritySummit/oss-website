@@ -6,7 +6,7 @@ topics       :
 event        : mini-summit
 when_month   : Dec
 when_day     : Thu
-when_time    : LT-5
+when_time    : LT-4
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-labels-schrems-ii/
 session_slack:
 status       :           # draft, review-content

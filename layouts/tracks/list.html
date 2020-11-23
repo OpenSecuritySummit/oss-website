@@ -40,7 +40,7 @@
         {{ $days_next_training := .Site.Data.schedule.days.days_next_training }}
         {{ $days_next_summit := .Site.Data.schedule.days.days_next_summit }}
         {{ partial "schedule/list/days.html" (dict "this" . "pages" $sessions "days" $days_next_training "title" "Training") }}
-        {{ partial "schedule/list/days.html" (dict "this" . "pages" $sessions "days" $days_next_summit "title" "Summit") }}
+        {{ partial "schedule/list/days.html" (dict "this" . "pages" $sessions "days" $days_next_summit "title" "") }}
 
 
         <h1>Schedule (Weekly View)</h1>
@@ -50,13 +50,14 @@
         {{ $summit_days   := .Site.Data.schedule.days.summit}}
 
 
-        {{ $title := "Training - week one (1st - 5th June)" }}
-        {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $week_one_days "title" $title )}}
+<!--        {{ $title := "Training - week one (1st - 5th June)" }}-->
+<!--        {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $week_one_days "title" $title )}}-->
 
-        {{ $title := "Training - week two (8th - 12th June)" }}
-        {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $week_two_days "title" $title )}}
+<!--        {{ $title := "Training - week two (8th - 12th June)" }}-->
+<!--        {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $week_two_days "title" $title )}}-->
 
-        {{ $title := "Summit Week (15th - 19th June)" }}
+<!--        {{ $title := "Summit Week (15th - 19th June)" }}-->
+        {{ $title := "" }}
         {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
 
 {{ end }}
