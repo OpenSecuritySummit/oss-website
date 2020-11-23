@@ -1,14 +1,14 @@
 ---
-title        :
-track        :
+title        : Wardley Maps and services model at Glasswall
+track        : Wardley Maps
 type         : working-session
 topics       :
 featured     :
 event        : mini-summit
 when_month   : Dec
-when_day     :
-when_time    : LT-5
-hey_summit   :
+when_day     : Mon
+when_time    : WS-3
+hey_summit   : TBD
 session_slack:
 #status       : draft
 description  :

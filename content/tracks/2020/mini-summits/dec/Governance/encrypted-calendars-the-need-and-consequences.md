@@ -1,6 +1,6 @@
 ---
 title        : Encrypted Calendars - the need and consequences
-track        :
+track        : Governance
 type         : working-session
 topics       :
 featured     :

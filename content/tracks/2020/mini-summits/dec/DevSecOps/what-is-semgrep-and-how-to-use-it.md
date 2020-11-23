@@ -1,6 +1,6 @@
 ---
 title        : What is Semgrep and how to use it
-track        :
+track        : DevSecOps
 type         : working-session
 topics       :
 featured     :
