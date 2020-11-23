@@ -9,7 +9,7 @@ when_day     : Wed
 when_time    : LT-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-for-schrems-ii/
 session_slack:
-status       :           # draft, review-content
+status       :      partials/admin/social/day.html     # draft, review-content
 description  : 
 youtube_link : 
 zoom_link    : https://zoom.us/j/92529010689

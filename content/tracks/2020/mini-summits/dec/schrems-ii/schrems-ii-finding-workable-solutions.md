@@ -1,9 +1,11 @@
 ---
-title        : "Security Labels & Schrems II"
-type         : training-session
+title        : "Schrems II - Finding workable solutions"
+type         : working-session
 track        : Schrems II
-topics       : 
-when_day     : 10th- Thursday
+topics       :
+event        : mini-summit
+when_month   : Dec
+when_day     : Thu
 when_time    : LT-5
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-labels-schrems-ii/
 session_slack:
@@ -21,7 +23,8 @@ organizers   :
       
 ---
 ## About this talk:
-We will continue talking about Schrems II, its impact and measures that can be taken to make personal data transfers work legally.
+We will continue talking about Schrems II, its impact and measures that can
+be taken to make personal data transfers work legally.
 
 Please check the November event for context: https://post-summit-sessions.heysummit.com/talks/main-session-security-labels-schrems-ii
 

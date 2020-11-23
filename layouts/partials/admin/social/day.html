@@ -1,40 +1,43 @@
 {{ $this := .this }}
 {{ $all_sessions := partial "params/all-summit-sessions.html" $this  }}
-{{ $all_sessions := where  $all_sessions ".Params.when_day" .day }}
 
-<h3>{{ .day }}</h3>
+{{ if $all_sessions }}
+    {{ $all_sessions := where  $all_sessions ".Params.when_day" .day }}
 
-<table class="table schedule-cell">
-    <thead>
-        <th>#         </th>
-        <th>title     </th>
-        <th>when day  </th>
-        <th>when time </th>
-        <th>track</th>
-        <th>organisers</th>
-        <th>linkedIn</th>
-        <th>twitter</th>
-        <th>PROMOTE</th>
-    </thead>
-    <tbody>
-        {{ range $index, $element := sort $all_sessions ".Params.hosted_by"}}
-            {{ $organizers := partial "params/organizers.html" . }}
-            {{ $time := index .Site.Data.schedule.times .Params.when_time }}
+    <h3>{{ .day }}</h3>
 
-            {{ if .Params.title}}
-                <tr>
-                    <td>{{ add $index 1}}</td>
-                    <td><a target="_blank" href="{{ .Permalink }}">{{ .Params.title }}</a></td>
-                    {{ partial "admin/sessions/cell.html"      (dict "value" .Params.when_day  "error" "missing") }}
-                    {{ partial "admin/sessions/cell.html"      (dict "value" $time "error" "missing") }}
+    <table class="table schedule-cell">
+        <thead>
+            <th>#         </th>
+            <th>title     </th>
+            <th>when day  </th>
+            <th>when time </th>
+            <th>track</th>
+            <th>organisers</th>
+            <th>linkedIn</th>
+            <th>twitter</th>
+            <th>PROMOTE</th>
+        </thead>
+        <tbody>
+            {{ range $index, $element := sort $all_sessions ".Params.hosted_by"}}
+                {{ $organizers := partial "params/organizers.html" . }}
+                {{ $time := index .Site.Data.schedule.times .Params.when_time }}
 
-                    {{ partial "admin/sessions/cell-link.html"          (dict "title" .Params.track  "error" "missing" "this" . ) }}
-                    {{ partial "admin/social/organizers-links.html"     ( dict "this" . "organizers" $organizers) }}
-                    {{ partial "admin/social/organizers-linkedin.html"  ( dict "this" . "organizers" $organizers) }}
-                    {{ partial "admin/social/organizers-twitter.html"   ( dict "this" . "organizers" $organizers) }}
-                    {{ partial "admin/social/twitter-message-link.html" ( dict "this" . "organizers" $organizers) }}
-                </tr>
+                {{ if .Params.title}}
+                    <tr>
+                        <td>{{ add $index 1}}</td>
+                        <td><a target="_blank" href="{{ .Permalink }}">{{ .Params.title }}</a></td>
+                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.when_day  "error" "missing") }}
+                        {{ partial "admin/sessions/cell.html"      (dict "value" $time "error" "missing") }}
+
+                        {{ partial "admin/sessions/cell-link.html"          (dict "title" .Params.track  "error" "missing" "this" . ) }}
+                        {{ partial "admin/social/organizers-links.html"     ( dict "this" . "organizers" $organizers) }}
+                        {{ partial "admin/social/organizers-linkedin.html"  ( dict "this" . "organizers" $organizers) }}
+                        {{ partial "admin/social/organizers-twitter.html"   ( dict "this" . "organizers" $organizers) }}
+                        {{ partial "admin/social/twitter-message-link.html" ( dict "this" . "organizers" $organizers) }}
+                    </tr>
+                {{ end }}
             {{ end }}
-        {{ end }}
-    </tbody>
-</table>
+        </tbody>
+    </table>
+{{ end }}
