@@ -1,6 +1,6 @@
 ---
 title        : Threat Modeling Manifesto
-track        :
+track        : Threat Modeling
 type         : working-session
 topics       :
 featured     :

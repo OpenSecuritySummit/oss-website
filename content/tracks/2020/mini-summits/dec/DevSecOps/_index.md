@@ -1,5 +1,5 @@
 ---
-title        : DecSecOps
+title        : DevSecOps
 type         : track
 featured     : yes
 when_day     : 

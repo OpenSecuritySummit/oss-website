@@ -1,5 +1,5 @@
 ---
-title        : "Secure by Scenario - Data breach at the North Pole"
+title        : Secure by Scenario - Data breach at the North Pole
 track        : Secure by Scenario
 type         : working-session
 topics       :
