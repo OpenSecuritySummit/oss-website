@@ -17,6 +17,9 @@ organizers   :
     - Jonathan Marcil
     - Chris Romeo
     - Izar Tarandach
+    - Kim Wuyts
+    - Brook S.E. Schoenfield
+    - Matthew Coles
 youtube_link :
 zoom_link    : https://zoom.us/j/91470027729?pwd=NXFxTW0yMW1Banh3bDBteGxyZXc1UT09
 ---
