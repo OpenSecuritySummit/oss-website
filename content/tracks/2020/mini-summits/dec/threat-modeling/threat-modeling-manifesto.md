@@ -10,7 +10,7 @@ when_day     : Wed
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-manifesto/
 session_slack:
-#status       : draft
+#status       : 
 description  :
 organizers   :
     - Avi Douglen
