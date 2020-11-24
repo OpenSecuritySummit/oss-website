@@ -8,8 +8,6 @@ manage-container: true
 
 Take a look at our broad range of sponsorship package and [register your interest](mailto:info@opensecsummit.org).
 
-See the [Sponsorship Opportunities 2021](/docs/OSS_SponsorPack_Screen.pdf) brochure for additional information.
-
 
 
 
