@@ -1,5 +1,5 @@
 ---
-title        : Scaling Kubernetes
+title        : Scaling Threat Models visualisations using PlantUML and VisJS
 track        : DevSecOps
 type         : working-session
 topics       :
