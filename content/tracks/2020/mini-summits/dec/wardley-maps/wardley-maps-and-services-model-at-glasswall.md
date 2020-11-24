@@ -13,6 +13,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
+  - Steve Purkis
 youtube_link :
 zoom_link    :
 ---
