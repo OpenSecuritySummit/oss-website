@@ -13,6 +13,12 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
+- Dinis Cruz
+- Petra Vukmirovic
+- M. Lucía Pappaterra
+- Chris Diao
+- Lwasampijja Baker
+- Abbas Haidar
 youtube_link :
 zoom_link    :
 ---
