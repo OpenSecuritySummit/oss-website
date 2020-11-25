@@ -15,7 +15,7 @@ description  :
 organizers   :
     - Petra Vukmirovic
 youtube_link :
-zoom_link    :https://zoom.us/j/96114424927?pwd=RzFtczhRV3lUUnNpZFdMbndxYnNJdz09
+zoom_link    : https://zoom.us/j/96114424927?pwd=RzFtczhRV3lUUnNpZFdMbndxYnNJdz09
 ---
 
 ## About this session
