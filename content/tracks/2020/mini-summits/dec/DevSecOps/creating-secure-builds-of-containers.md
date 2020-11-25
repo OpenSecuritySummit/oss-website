@@ -8,14 +8,14 @@ event        : mini-summit
 when_month   : Dec
 when_day     : Fri
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/creating-secure-builds-of-containers/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Petra Vukmirovic
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/95748688932?pwd=cTl6d3QybGtacEs2VzM5ekZDNFM5dz09
 ---
 
 ## About this session
