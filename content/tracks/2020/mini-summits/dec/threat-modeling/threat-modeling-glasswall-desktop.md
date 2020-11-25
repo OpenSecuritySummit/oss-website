@@ -8,7 +8,7 @@ event        : mini-summit
 when_month   : Dec
 when_day     : Tue
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-glasswall-desktop
 session_slack:
 #status       : draft
 description  :
@@ -16,7 +16,7 @@ organizers   :
     - Dinis Cruz
     - Petra Vukmirovic
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/95147858149?pwd=b2h4VGRYbWNFRTZibC84RE1zb2huZz09
 ---
 
 ## About this session:
