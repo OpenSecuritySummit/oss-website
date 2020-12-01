@@ -1,5 +1,5 @@
 ---
-title: Brook Schoenfield
+title: Brook S.E. Schoenfield
 image: https://pbs.twimg.com/profile_images/941785486967934983/TrQLdwUl_400x400.jpg
 company: 
 job_title: 
