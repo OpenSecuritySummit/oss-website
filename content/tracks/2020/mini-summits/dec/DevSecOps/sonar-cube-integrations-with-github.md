@@ -14,6 +14,7 @@ session_slack:
 description  :
 organizers   :
     - Petra Vukmirovic
+    - Jameel Nabbo
 youtube_link :
 zoom_link    : https://zoom.us/j/96114424927?pwd=RzFtczhRV3lUUnNpZFdMbndxYnNJdz09
 ---
