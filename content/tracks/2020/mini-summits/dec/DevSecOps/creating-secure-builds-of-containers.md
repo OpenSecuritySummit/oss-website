@@ -14,6 +14,7 @@ session_slack:
 description  :
 organizers   :
     - Petra Vukmirovic
+    - Michael Hidalgo
 youtube_link :
 zoom_link    : https://zoom.us/j/95748688932?pwd=cTl6d3QybGtacEs2VzM5ekZDNFM5dz09
 ---
