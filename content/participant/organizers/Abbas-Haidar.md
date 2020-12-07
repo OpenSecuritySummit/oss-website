@@ -5,7 +5,7 @@ company: Glasswall
 job_title: Head of IT & InfoSec, DPO
 facebook:
 linkedin: 
-twitter: 
+twitter: AbbasHaidar_
 website:
 notes:
 status: 
