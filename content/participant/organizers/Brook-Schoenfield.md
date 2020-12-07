@@ -1,11 +1,11 @@
 ---
 title: Brook S.E. Schoenfield
 image: https://pbs.twimg.com/profile_images/941785486967934983/TrQLdwUl_400x400.jpg
-company: 
-job_title: 
+company: IOActive, Inc.
+job_title: Master Security Architect, Director of Advisory Services
 facebook:
-linkedin: 
-twitter: 
+linkedin: brookschoenfield
+twitter: brkschoenfield 
 website:
 notes:
 status: 
