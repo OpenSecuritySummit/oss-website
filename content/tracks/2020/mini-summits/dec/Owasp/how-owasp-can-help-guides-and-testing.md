@@ -15,6 +15,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Sam Stepanyan
+    - Grant Ongers
     - Vandana Verma
 
 youtube_link :
