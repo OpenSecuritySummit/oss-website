@@ -19,7 +19,7 @@ organizers   :
 - Chris Diao
 - Lwasampijja Baker
 - Abbas Haidar
-youtube_link :
+youtube_link : r15T7-4w9PU
 zoom_link    : https://zoom.us/j/92114814247?pwd=ZlpUblBFZzZEYUFkRHJMUzNGd2VZdz09
 gslides_edit : 1X4iqmQpluRiQ13Fngr75Ucxf0Zi20RHsU2BI8VWMjQM
 slide_id     : 2PACX-1vQfS2eqsdLpyXVkwK7mlQA-50VUk5rDBpceqrEMzRPJY4p-pUS0ZrUVZkA68IE8VyXq3edl_xBoTZYn
