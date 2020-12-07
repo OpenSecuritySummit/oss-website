@@ -4,8 +4,8 @@ image: https://pbs.twimg.com/profile_images/1328281535859089413/BmbtdKZj_400x400
 company: 
 job_title: 
 facebook:
-linkedin: 
-twitter: 
+linkedin: kwuyts
+twitter: Wuytski
 website:
 notes:
 status: 
