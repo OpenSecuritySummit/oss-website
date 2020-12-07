@@ -5,7 +5,7 @@ company: Complex adaptive systems, strategy, society & technology.
 job_title: 
 facebook:
 linkedin: 
-twitter: 
+twitter: spurkis
 website:
 notes:
 status: 
