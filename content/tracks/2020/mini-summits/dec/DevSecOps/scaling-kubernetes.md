@@ -24,3 +24,6 @@ zoom_link    : https://zoom.us/j/92114814247?pwd=ZlpUblBFZzZEYUFkRHJMUzNGd2VZdz0
 ---
 
 ## About this session
+
+{{< img src="https://pbs.twimg.com/media/EolSCoRXYAMYl__?format=jpg" >}}
+

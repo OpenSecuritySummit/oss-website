@@ -20,3 +20,5 @@ zoom_link    : https://zoom.us/j/95748688932?pwd=cTl6d3QybGtacEs2VzM5ekZDNFM5dz0
 ---
 
 ## About this session
+
+{{< img src="https://pbs.twimg.com/media/EoaVc-qXUAABA3z?format=jpg&" >}}
