@@ -4,7 +4,7 @@ image: https://pbs.twimg.com/profile_images/1217752805496311808/5zahH4ox_400x400
 company: Glasswall
 job_title: Head of IT & InfoSec, DPO
 facebook:
-linkedin: 
+linkedin: abbashaidar
 twitter: AbbasHaidar_
 website:
 notes:
