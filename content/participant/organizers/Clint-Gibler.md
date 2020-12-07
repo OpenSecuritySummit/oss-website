@@ -5,7 +5,7 @@ company:
 job_title: 
 facebook:
 linkedin: 
-twitter: 
+twitter: clintgibler
 website:
 notes:
 status: 
