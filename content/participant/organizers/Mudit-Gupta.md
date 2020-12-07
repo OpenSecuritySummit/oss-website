@@ -5,7 +5,7 @@ company:
 job_title:
 facebook:
 linkedin: 
-twitter: 
+twitter: Mudit__Gupta
 website:
 notes:
 status: 
