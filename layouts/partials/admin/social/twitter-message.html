@@ -1,12 +1,15 @@
-{{ $this       := .this              -}}
-{{ $title      := $this.Params.title -}}
-{{ $track      := $this.Params.track -}}
+{{ $this       := .this                 -}}
+{{ $title      := $this.Params.title    -}}
+{{ $track      := $this.Params.track    -}}
 {{ $time       := index $this.Site.Data.schedule.times $this.Params.when_time -}}
-{{ $organizers := .organizers        -}}
-Today at {{ $time }} BST the @opensecsummit proudly hosts the "{{ $title }}" session delivered by {{ partial "admin/social/twitter-handles.html" ( dict "this" $this "organizers" $organizers) }}
+{{ $day        := $this.Params.when_day -}}
+{{ $organizers := .organizers           -}}
+Join the "{{ $title }}" @opensecsummit session by {{ partial "admin/social/twitter-handles.html" ( dict "this" $this "organizers" $organizers) }}
 
-{{ $this.Permalink }}
+{{ $day }} {{ $time }} GMT.
 
-(part of the "{{$track}}" Track)
+All sessions are Free to attend
+
+Register at {{ $this.Permalink }}
 
 #oss2020
