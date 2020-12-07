@@ -13,7 +13,7 @@ status       :            # draft, review-content
 description  :
 organizers   : 
         - James Bore
-youtube_link : 
+youtube_link :  3UJftokAsuw
 zoom_link    :  https://zoom.us/j/94814721987?pwd=MDFnZnJ4MCtBa3FySjdaZHYvZXptQT09
 
 
