@@ -4,7 +4,7 @@ image: https://ca.slack-edge.com/T016NMV79PD-U01A4PHA78S-33318eeabff1-512
 company: 
 job_title: 
 facebook:
-linkedin: 
+linkedin: maría-lucía-pappaterra
 twitter: 
 website:
 notes:
