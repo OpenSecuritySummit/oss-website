@@ -26,3 +26,5 @@ We will brainstorm about;
 - FISA's impact on surveillance on unsuspecting civilians
 - Third-party mobile mail/calendar apps, how they interact with the native calendar
 - and other relevant topics relating to calendar privacy/confidentiality
+
+{{< img src="https://pbs.twimg.com/media/EoEdUhyXcAUpvtZ?format=jpg" >}}
