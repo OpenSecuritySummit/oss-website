@@ -16,6 +16,7 @@ organizers   :
   - Steve Purkis
 youtube_link : GS8Vndr-B4A
 zoom_link    : https://zoom.us/j/99982882154?pwd=eHdHSkhMc08wcGFFcklQVXNTeWZIZz09
+gslides_edit : 19_nXd6Ne1396sQsOcyc2VP1NWx_-erZn
 ---
 
 ## About this session
