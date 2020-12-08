@@ -14,7 +14,7 @@ session_slack:
 description  : We'll give people a quick tour of the Wardley Maps & Doctrine assessment created at Glasswall over the past few months, and touch on challenges & the road ahead.  The bulk of the session will be a panel discussion digging into the way maps were used and the planned services model (e.g. cell-based structure).
 organizers   :
   - Steve Purkis
-youtube_link :
+youtube_link : GS8Vndr-B4A
 zoom_link    : https://zoom.us/j/99982882154?pwd=eHdHSkhMc08wcGFFcklQVXNTeWZIZz09
 ---
 
