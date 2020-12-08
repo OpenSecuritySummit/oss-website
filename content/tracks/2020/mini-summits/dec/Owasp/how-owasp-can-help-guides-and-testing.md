@@ -24,4 +24,5 @@ zoom_link    : https://zoom.us/j/97060112467?pwd=UStCcDBuS3Z5dEg1eHFUbWVZNW1sUT0
 
 ## About this session
 
+{{< img src="https://pbs.twimg.com/media/EoscyV9WEAAppMe?format=jpg&name=4096x4096" >}} 
 In this session we will look at the amazing Guides and Testing Tools that OWASP community has created
