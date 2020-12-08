@@ -21,7 +21,7 @@ zoom_link    : https://zoom.us/j/95147858149?pwd=b2h4VGRYbWNFRTZibC84RE1zb2huZz0
 ---
 
 ## About this session:
-
+{{< img src="https://pbs.twimg.com/media/Eoq43S5W4A4heWj?format=jpg&name=4096x4096" >}} 
 Hands on Threat Modeling session for the Glaswall Desktop
 product (currently in beta) which can be downloaded from https://glasswall-desktop.com/
 
