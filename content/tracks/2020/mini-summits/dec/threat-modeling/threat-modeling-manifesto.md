@@ -29,4 +29,4 @@ https://www.threatmodelingmanifesto.org/
 15 OWASP authors have come up with the Manifesto, excited to have a number of them joining us in this session.
 We will start with an overview of what the manifesto is and continue discussing how can this be used by security people and devs together.
 What are you most interested about it? Come and share you opinion and questions. All are welcome!
-
+{{< img src="https://pbs.twimg.com/media/Eov1SKgWMAEp7hI?format=jpg&name=4096x4096" >}}
