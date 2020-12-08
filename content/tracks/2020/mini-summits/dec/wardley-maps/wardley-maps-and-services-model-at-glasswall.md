@@ -17,7 +17,7 @@ organizers   :
 youtube_link : GS8Vndr-B4A
 zoom_link    : https://zoom.us/j/99982882154?pwd=eHdHSkhMc08wcGFFcklQVXNTeWZIZz09
 gslides_edit : 19_nXd6Ne1396sQsOcyc2VP1NWx_-erZn
-slide_id.    : 2PACX-1vRkBlOC-O4aVHy8UK8aM_ijA0fhIdVGCOVjRHtDX0QcoYZOtSW2b9e6GZuiUunqiw
+slide_id     : 2PACX-1vRkBlOC-O4aVHy8UK8aM_ijA0fhIdVGCOVjRHtDX0QcoYZOtSW2b9e6GZuiUunqiw
 ---
 
 ## About this session
