@@ -26,3 +26,4 @@ of the multiple engines (across file types)
 
 This session aims to kickstart the process of creating such standard.
 
+{{< img src="https://pbs.twimg.com/media/Eov2gi-W8AMlTW5?format=jpg&name=medium" >}}
