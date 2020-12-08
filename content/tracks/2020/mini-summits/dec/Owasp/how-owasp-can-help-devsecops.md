@@ -14,7 +14,6 @@ session_slack:
 description  :
 organizers   :
     - Dinis Cruz
-    - Vandana Verma
     - Sam Stepanyan
     - Grant Ongers
 
