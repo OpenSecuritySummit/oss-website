@@ -13,7 +13,7 @@ session_slack:
 description  :
 organizers   :
         - Mark Potkewitz
-youtube_link :
+youtube_link : ooeNFRCmDTk
 zoom_link    :  https://zoom.us/j/6691335189?pwd=UzgxK05lQThMem1razZjT0EvamhtUT09
 slide_id    : 2PACX-1vRqLhK4DsVAuxOtukPlycFQ5ejsQz3gG4-jC-qFfaIxStHF4iJWoodS2jG8gbddeexZDeZsX_LGfcxz
 
