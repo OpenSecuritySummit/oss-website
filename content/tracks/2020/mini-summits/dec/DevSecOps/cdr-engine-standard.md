@@ -14,7 +14,7 @@ session_slack:
 description  :
 organizers   :
     - Paul Burke
-youtube_link :
+youtube_link : g5toOjFu5IM
 zoom_link    : https://zoom.us/j/99056251043?pwd=M3k2Qkh1dVRVZnJ0cjJ5azBHWjZwZz09
 ---
 
