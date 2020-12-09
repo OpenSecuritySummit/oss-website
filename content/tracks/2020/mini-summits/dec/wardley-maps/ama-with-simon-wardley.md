@@ -21,3 +21,4 @@ zoom_link    :
 ## About this session
 
 Come and join this AMA (Ask me Anything) session with Wardley Maps creator Simon Wardley
+{{< img src="https://pbs.twimg.com/media/EozKUJfXcAI0BXO?format=jpg&name=4096x4096" >}}
