@@ -17,7 +17,7 @@ organizers   :
     - Sam Stepanyan
     - Grant Ongers
 
-youtube_link :
+youtube_link : rJFWDhEfC_M
 zoom_link    : https://zoom.us/j/92373582934?pwd=UGgyVUVZSVJMLzVheTBUcHNLVkVJZz09
 slide_id     : 2PACX-1vQHQoRVvo6abK_JHSIrQ5RoXsbHPaX9PHNF59-26EZ-f9fpAVNV8hAqkKZqHwZPnIxmtPVc6QWqw6Dc
 ---
