@@ -16,7 +16,7 @@ organizers   :
     - Dinis Cruz
     - Petra Vukmirovic
     - Mudit Gupta
-youtube_link :
+youtube_link : aK0YHxQDT6w
 zoom_link    : https://zoom.us/j/95147858149?pwd=b2h4VGRYbWNFRTZibC84RE1zb2huZz09
 ---
 
