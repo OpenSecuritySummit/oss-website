@@ -20,7 +20,7 @@ organizers   :
     - Kim Wuyts
     - Brook S.E. Schoenfield
     - Matthew Coles
-youtube_link :
+youtube_link : CZxPZ-G3Gys
 zoom_link    : https://zoom.us/j/91470027729?pwd=NXFxTW0yMW1Banh3bDBteGxyZXc1UT09
 ---
 
