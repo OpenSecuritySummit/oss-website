@@ -25,3 +25,6 @@ slide_id     : 2PACX-1vQHQoRVvo6abK_JHSIrQ5RoXsbHPaX9PHNF59-26EZ-f9fpAVNV8hAqkKZ
 ## About this session
 
 In this session we will look at the amazing DecSecOps tools that OWASP community has created
+
+{{< img src="https://pbs.twimg.com/media/EoyEisVXcAUcI2F?format=jpg&name=medium" >}}
+
