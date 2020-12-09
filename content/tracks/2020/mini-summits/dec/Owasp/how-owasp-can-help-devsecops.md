@@ -24,3 +24,6 @@ zoom_link    : https://zoom.us/j/92373582934?pwd=UGgyVUVZSVJMLzVheTBUcHNLVkVJZz0
 ## About this session
 
 In this session we will look at the amazing DecSecOps tools that OWASP community has created
+
+{{< img src="https://pbs.twimg.com/media/EoyEisVXcAUcI2F?format=jpg&name=medium" >}}
+
