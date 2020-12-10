@@ -14,7 +14,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Simon Wardley
-youtube_link :
+youtube_link : OAwmV3VsjaY
 zoom_link    : https://zoom.us/j/94921248191?pwd=SWtXWVZHbHY3cldGRm9IRkxubStGUT09
 ---
 
