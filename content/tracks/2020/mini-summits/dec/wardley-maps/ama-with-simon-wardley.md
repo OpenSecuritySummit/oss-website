@@ -15,7 +15,7 @@ organizers   :
     - Dinis Cruz
     - Simon Wardley
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/94921248191?pwd=SWtXWVZHbHY3cldGRm9IRkxubStGUT09
 ---
 
 ## About this session
