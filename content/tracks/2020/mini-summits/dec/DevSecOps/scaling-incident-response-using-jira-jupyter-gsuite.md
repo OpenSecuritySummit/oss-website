@@ -5,9 +5,9 @@ type         : working-session
 topics       :
 featured     :
 event        : mini-summit
-when_month   : Dec
-when_day     : Fri
-when_time    : WS-2
+when_month   : 
+when_day     : 
+when_time    : 
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/scaling-incident-response-using-jira-jupyter-and-gsuite/
 session_slack:
 #status       : draft
@@ -17,7 +17,7 @@ organizers   :
     - Abbas Haidar
     - Petra Vukmirovic
 youtube_link :
-zoom_link    : https://zoom.us/j/94262330023?pwd=cDlMNjFwb3lqbktvaVNqazV1VG0yQT09
+zoom_link    : 
 ---
 
 ## About this session
