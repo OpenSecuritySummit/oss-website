@@ -10,7 +10,7 @@ when_day     : Fri
 when_time    : WS-2
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/scaling-incident-response-using-jira-jupyter-and-gsuite/
 session_slack:
-#status       : draft
+status       : draft
 description  :
 organizers   :
     - Luke Robbertse
