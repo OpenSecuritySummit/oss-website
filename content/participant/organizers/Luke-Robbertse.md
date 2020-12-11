@@ -1,6 +1,6 @@
 ---
 title: Luke Robbertse
-image: https://media-exp1.licdn.com/dms/image/C5603AQHKfbogozVVzw/profile-displayphoto-shrink_400_400/0?e=1611792000&v=beta&t=2J7DTeARyudi-ZhprnPlHhqFKKt85tj4bdDzhO7X9X4
+image: https://pbs.twimg.com/profile_images/1291351057700880385/CsRAQcXN_400x400.jpg
 company: Glasswall
 job_title: Technology Operations Manager
 facebook: Luke Robbertse
