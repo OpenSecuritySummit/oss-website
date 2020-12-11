@@ -30,22 +30,22 @@ Please check the November event for context: https://post-summit-sessions.heysum
 
 ## chat.txt from the session
 
-18:37:03	 From Mark Potkewitz : For those who have just joined, here’s a link to the live document we’re introducing/talking around: https://docs.google.com/document/d/12dGTMmo0298kUigJNBMyZah7oXeuJ33c7wftVKUkH1k/edit?usp=sharing
-18:49:55	 From Didar Gelici : feel free to contribute at any time
-19:01:45	 From Mark Potkewitz : Guinness is Irish.  Bushmills in Northern Irish. :)
-19:02:20	 From Carey Lening : 'processing' means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
-19:20:53	 From Jeff J : Data inventories, classifications, flows and pretty much required by GDPR for real compliance.
-19:29:14	 From Didar Gelici : internet should be canceled altogether ..
-19:31:35	 From James Bore : The idea of laying out 'here are your risk scenarios, make a choice' sounds very familiar.
-19:51:45	 From Carey Lening : "Tutanota uses a standardized, hybrid method consisting of a symmetrical and an asymmetrical algorithm - AES with a length of 128 bit and RSA with 2048 bit.[19][20][dead link][non-primary source needed] To external recipients who do not use Tutanota a notification is sent with a link to a temporary Tutanota account. After entering a previously exchanged password, the recipient can read the message and reply end-to-end encrypted"
-19:52:48	 From Carey Lening : Also, womp womp : "German e2e encrypted email provider Tutanota has been ordered by a regional court to develop a function that allows it to monitor an individual account."
-19:53:33	 From Jeff J : I use Tutanota - they claim they are working on encrypted calendar. -Had forgotten about that.
-19:53:41	 From James Bore : https://wiki.bitmessage.org//
-19:57:05	 From Arlene McDaid : https://www.theregister.com/2020/12/08/tutanota_backdoor_court_order/
-20:02:38	 From David Clarke @1davidclarke : Thanks great event, sorry have to drop off 
-20:07:29	 From Mark Potkewitz : Hi, folks — this has been great.  I need to run, but I”ll catch up in the doc and w/the rest of the group later.  Thanks everybody!
-20:08:12	 From Carey Lening : Seeya all
-20:13:09	 From Didar Gelici : wrapping up in 10mins?
-20:14:13	 From Jeff J : is there value in having encryption at both client AND process/ID layer?
-20:21:27	 From Didar Gelici : can we talk about this in the next?
+18:37:03	 From Mark Potkewitz : For those who have just joined, here’s a link to the live document we’re introducing/talking around: https://docs.google.com/document/d/12dGTMmo0298kUigJNBMyZah7oXeuJ33c7wftVKUkH1k/edit?usp=sharing <br>
+18:49:55	 From Didar Gelici : feel free to contribute at any time<br>
+19:01:45	 From Mark Potkewitz : Guinness is Irish.  Bushmills in Northern Irish. :)<br>
+19:02:20	 From Carey Lening : 'processing' means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;<br>
+19:20:53	 From Jeff J : Data inventories, classifications, flows and pretty much required by GDPR for real compliance.<br>
+19:29:14	 From Didar Gelici : internet should be canceled altogether ..<br>
+19:31:35	 From James Bore : The idea of laying out 'here are your risk scenarios, make a choice' sounds very familiar.<br>
+19:51:45	 From Carey Lening : "Tutanota uses a standardized, hybrid method consisting of a symmetrical and an asymmetrical algorithm - AES with a length of 128 bit and RSA with 2048 bit.[19][20][dead link][non-primary source needed] To external recipients who do not use Tutanota a notification is sent with a link to a temporary Tutanota account. After entering a previously exchanged password, the recipient can read the message and reply end-to-end encrypted"<br>
+19:52:48	 From Carey Lening : Also, womp womp : "German e2e encrypted email provider Tutanota has been ordered by a regional court to develop a function that allows it to monitor an individual account."<br>
+19:53:33	 From Jeff J : I use Tutanota - they claim they are working on encrypted calendar. -Had forgotten about that.<br>
+19:53:41	 From James Bore : https://wiki.bitmessage.org//<br>
+19:57:05	 From Arlene McDaid : https://www.theregister.com/2020/12/08/tutanota_backdoor_court_order/<br>
+20:02:38	 From David Clarke @1davidclarke : Thanks great event, sorry have to drop off <br>
+20:07:29	 From Mark Potkewitz : Hi, folks — this has been great.  I need to run, but I”ll catch up in the doc and w/the rest of the group later.  Thanks everybody!<br>
+20:08:12	 From Carey Lening : Seeya all<br>
+20:13:09	 From Didar Gelici : wrapping up in 10mins?<br>
+20:14:13	 From Jeff J : is there value in having encryption at both client AND process/ID layer?<br>
+20:21:27	 From Didar Gelici : can we talk about this in the next?<br>
 
