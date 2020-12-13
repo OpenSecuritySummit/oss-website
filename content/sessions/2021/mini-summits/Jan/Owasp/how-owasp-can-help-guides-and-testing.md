@@ -26,5 +26,4 @@ slide_id     : 2PACX-1vQHQoRVvo6abK_JHSIrQ5RoXsbHPaX9PHNF59-26EZ-f9fpAVNV8hAqkKZ
 
 ## About this session
 
-{{< img src="https://pbs.twimg.com/media/EoscyV9WEAAppMe?format=jpg&name=4096x4096" >}} 
 In this session we will look at the amazing Guides and Testing Tools that OWASP community has created

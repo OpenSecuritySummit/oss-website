@@ -7,7 +7,7 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : Jan
-when_day     : Wed
+when_day     : Thu
 when_time    : WS-3
 hey_summit   : TBD
 session_slack:
@@ -26,5 +26,3 @@ there isn't a good way to differentiate between the capabilities
 of the multiple engines (across file types)
 
 This session aims to kickstart the process of creating such standard.
-
-{{< img src="https://pbs.twimg.com/media/Eov2gi-W8AMlTW5?format=jpg&name=medium" >}}
