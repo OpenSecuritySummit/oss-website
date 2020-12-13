@@ -1,24 +1,7 @@
 {{ $this  := .this}}
 {{ $days  := .days}}
 
-{{ if .pages }}
-    {{ $this.Scratch.Set "pages" .pages }}
-{{ else }}
-    {{ $this.Scratch.Set "pages" $this.Site.Pages }}
-{{ end}}
-{{ $pages := $this.Scratch.Get "pages" }}
-
-{{ $this.Scratch.Set "has-session" false }}
-{{ range $pages }}
-    {{ $when_day := .Params.when_day }}
-
-    {{ range $days}}
-        {{ if eq .key $when_day }}
-          {{ $this.Scratch.Set "has-session" true }}
-      {{ end }}
-    {{ end }}
-
-{{ end }}
+{{ $pages         := partial "params/next-event-sessions.html" $this  }}
 
 {{ if  $this.Scratch.Get "has-session" }}
     {{ if .title}}

@@ -2,14 +2,17 @@
     <div class="container container-xl">
         <div class="tracks-wrapper">
 <!--            <div class="title">SUMMIT TRACKS</div>-->
-
             <div class="table">
                 {{ $styles := (slice "ciso" "cloud-security" "content-disarm" "covid" "devsecops" "hacking" "isg" "lightning" "misc" "owasp-asvs" "owasp-juice-shop" "owasp-projects" "security-standards" "social" "threat-modeling" "wardleymaps") }}
                 {{ $tracks := where .Site.Pages ".Params.type" "track" }}
+                {{ $sessions         := partial "params/next-event-sessions.html" .  }}
 
                 {{ range $index, $track := $tracks }}
-                    {{ $style := index $styles $index}}
-                    {{ partial "tracks/track.html" (dict "track" $track "style" $style ) }}
+                    {{ $style          := index $styles $index}}
+                    {{ $sessions_track := where $sessions ".Params.track" .Title}}
+                    {{ if gt (len $sessions_track) 0 }}
+                        {{ partial "tracks/track.html" (dict "track" $track "sessions" $sessions_track "style" $style ) }}
+                    {{ end }}
                 {{ end }}
             </div>
 

@@ -1,4 +1,6 @@
-{{ $sessions := where .track.Site.Pages ".Params.track" .track.Title}}
+{{ $this := . }}
+
+{{ $sessions := .sessions }}
 
 <div class="table-item {{.style}}">
     <div class="title ">

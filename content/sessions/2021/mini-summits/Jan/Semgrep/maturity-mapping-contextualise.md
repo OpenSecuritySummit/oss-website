@@ -1,18 +1,20 @@
 ---
-title        :
-track        :
+title        : "Maturity Mapping: Contextualise"
+track        : Semgrep
 type         : working-session
 topics       :
 featured     :
 event        : mini-summit
-when_month   : Dec
-when_day     :
+when_year    : 2021
+when_month   : Jan
+when_day     : Thu
 when_time    : WS-6
-hey_summit   :
+hey_summit   : TBD
 session_slack:
 #status       : draft
 description  :
 organizers   :
+    - Chris McDermot
 youtube_link :
 zoom_link    :
 ---
