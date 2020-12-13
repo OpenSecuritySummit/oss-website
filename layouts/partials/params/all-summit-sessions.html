@@ -1,5 +1,4 @@
 {{ $this := .}}
-{{ $summit_days := .Site.Data.schedule.days.summit}}
 {{ $working_sessions := where $this.Site.Pages ".Params.type" "working-session"  }}
 {{ $user_sessions    := where .Site.Pages ".Params.type" "user-session"          }}
 {{ $keynotes         := where .Site.Pages ".Params.type" "keynote"               }}

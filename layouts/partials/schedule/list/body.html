@@ -1,29 +1,17 @@
-{{ $this := .}}
-<!--calendar view-->
-{{ $summit_days := .Site.Data.schedule.days.summit}}
+{{ $this := . }}
 
-{{ $working_sessions := where (where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit") ".Params.title" "ne" "" }}
-{{ $user_sessions    := where (where .Site.Pages ".Params.type" "user-session") ".Params.title" "ne" "" }}
-{{ $keynotes         := where (where .Site.Pages ".Params.type" "keynote") ".Params.title" "ne" "" }}
-{{ $sessions         := union (union $user_sessions $working_sessions) $keynotes }}
+{{ $summit_days      := .Site.Data.schedule.next_event.days              }}
+{{ $title            := .Site.Data.schedule.next_event.title             }}
+{{ $sessions         := partial "params/next-event-sessions.html" $this  }}
+{{ $days_next_summit := $this.Site.Data.schedule.days.days_next_summit   }}
 
-{{ $title := .Site.Data.schedule.next_event.title }}
-
+<!--Table view-->
 {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
 
-<!--list view-->
-{{ $days_next_training := $this.Site.Data.schedule.days.days_next_training }}
-{{ $days_next_summit   := $this.Site.Data.schedule.days.days_next_summit }}
-{{ $days_past          := $this.Site.Data.schedule.days.days_past }}
+<!--List view-->
 
 
-<!--{{ $title := "Training sessions"}}-->
-<!--{{ partial "schedule/list/days.html" (dict "this" $this "days" $days_next_training "title" $title) }}-->
+
 <div class="alert alert-warning">All times bellow are GMT (London time)</div>
 {{ $title := ""}}
-{{ partial "schedule/list/days.html" (dict "this" $this "days" $days_next_summit   "title" $title) }}
-
-<!--{{ $title := "Watch past sessions"}}-->
-<!--{{ partial "schedule/list/days.html" (dict "this" $this "days" $days_past          "title" $title) }}-->
-
-
+{{ partial "schedule/list/days.html" (dict "this" $this "days" $days_next_summit "title" $title) }}

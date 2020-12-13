@@ -1,21 +1,22 @@
 ---
 title        : CDR Engine Standard
-track        : DevSecOps
+track        : CDR
 type         : working-session
 topics       :
 featured     :
 event        : mini-summit
-when_month   : Dec
+when_year    : 2021
+when_month   : Jan
 when_day     : Wed
 when_time    : WS-3
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/cdr-engine-standard/
+hey_summit   : TBD
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Paul Burke
-youtube_link : g5toOjFu5IM
-zoom_link    : https://zoom.us/j/99056251043?pwd=M3k2Qkh1dVRVZnJ0cjJ5azBHWjZwZz09
+youtube_link :
+zoom_link    :
 ---
 
 ## About this session

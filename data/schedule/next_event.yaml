@@ -1,7 +1,8 @@
-title: 'Mini Summit (7th - 11th December)'
-type: mini-summit
-month: Dec
-days:
+title: 'Mini Summit (11th - 15th January 2021)'
+year : 2021
+event: mini-summit
+month: Jan
+days :
   - Mon
   - Tue
   - Wed

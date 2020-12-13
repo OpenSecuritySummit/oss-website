@@ -1,0 +1,11 @@
+{{ $this := .}}
+{{ $year  := .Site.Data.schedule.next_event.year }}
+{{ $event := .Site.Data.schedule.next_event.event }}
+{{ $month := .Site.Data.schedule.next_event.month }}
+
+
+{{ $all_sessions  := partial "params/all-summit-sessions.html" $this  }}
+{{ $sessions_year := where $all_sessions ".Params.when_year" $year    }}
+{{ $sessions      := where $sessions_year ".Params.when_month" $month }}
+
+{{ return $sessions}}
