@@ -5,6 +5,7 @@ type         : working-session
 topics       :
 featured     :
 event        : mini-summit
+when_year    : 2020
 when_month   : Dec
 when_day     : Fri
 when_time    : WS-3
@@ -15,7 +16,7 @@ description  :
 organizers   :
     - Petra Vukmirovic
     - Michael Hidalgo
-youtube_link :
+youtube_link : X5J5IQHBJP0
 zoom_link    : https://zoom.us/j/95748688932?pwd=cTl6d3QybGtacEs2VzM5ekZDNFM5dz09
 ---
 

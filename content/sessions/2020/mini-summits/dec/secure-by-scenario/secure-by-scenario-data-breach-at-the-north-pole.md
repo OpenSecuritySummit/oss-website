@@ -4,6 +4,7 @@ track        : Secure by Scenario
 type         : working-session
 topics       :
 event        : mini-summit
+when_year    : 2020
 when_month   : Dec
 when_day     : Mon
 when_time    : WS-6

@@ -3,7 +3,7 @@
         {{ partial "utils/title-to-link.html" (dict "this" .this "title" .title )  }}
     </td>
 {{ else}}
-    {{ if  .value }}
+    {{ if  and (.value) (ne .value "TBD")}}
         <td>
 
             <a target="_blank" href="{{ .value }}">

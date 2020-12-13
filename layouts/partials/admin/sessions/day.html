@@ -22,7 +22,7 @@
             <th>day       </th>
             <th>time      </th>
             <th>organisers</th>
-            <th>zoom host </th>
+<!--            <th>zoom host </th>-->
             <th>hey summit</th>
             <th>zoom id   </th>
             <th>slide view</th>
@@ -63,7 +63,7 @@
                         {{ partial "admin/sessions/cell.html"      (dict "value" .Params.when_day                                       "error" "missing")                                                           }}
                         {{ partial "admin/sessions/cell.html"      (dict "value" $time                                                  "error" "missing")                                                           }}
                         <td> {{ partial "schedule/list/organizers-links.html" ( dict "this" . "organizers" $organizers) }}</td>
-                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.hosted_by                                      "error"     "missing"                                                      ) }}
+<!--                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.hosted_by                                      "error"     "missing"                                                      ) }}-->
                         {{ partial "admin/sessions/cell-link.html" (dict "value" .Params.hey_summit "text" "hey summit"                 "error"     "needs hey summit"  "img" "/img/logos/heysummit-logo.png"      ) }}
                         {{ partial "admin/sessions/cell-link.html" (dict "value" .Params.zoom_link "text" "zoom"                        "error"     "missing"           "img" "/img/logos/zoom-logo.png"           ) }}
                         {{ partial "admin/sessions/cell-link.html" (dict "value" ($this.Scratch.Get "gslides_link")     "text" "slide"  "warning"   "missing"           "img" "/img/logos/google-slides-logo.png"  ) }}
