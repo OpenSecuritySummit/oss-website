@@ -29,3 +29,4 @@ be taken to make personal data transfers work legally.
 
 Please check the November and December event for context:
  - https://post-summit-sessions.heysummit.com/talks/main-session-security-labels-schrems-ii
+ - ["Schrems II - Finding workable solutions" - Dec 2020](/sessions/2020/mini-summits/dec/schrems-ii/schrems-ii-finding-workable-solutions/)

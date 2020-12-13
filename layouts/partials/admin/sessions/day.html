@@ -1,21 +1,28 @@
 
 
-{{ $this := .this }}
-{{ $all_sessions := partial "params/all-summit-sessions.html" $this  }}
+{{ $this              := .this }}
+{{ $year              := .year  }}
+{{ $all_sessions      := partial "params/all-summit-sessions.html" $this  }}
+{{ $all_sessions_year := where  $all_sessions ".Params.when_year" $year }}
+
 
 {{ if $all_sessions }}
-    {{ $all_sessions := where  $all_sessions ".Params.when_day" .day }}
+    {{ $all_sessions_day := where  $all_sessions_year ".Params.when_day" .day }}
+
 
     <h3>{{ .day }}</h3>
 
     <table class="table schedule-cell">
         <thead>
             <th>#         </th>
-            <th>zoom host </th>
-            <th>title     </th>
-            <th>when day  </th>
-            <th>when time </th>
+            <th>session title</th>
+            <th>edit      </th>
+            <th>year      </th>
+            <th>month     </th>
+            <th>day       </th>
+            <th>time      </th>
             <th>organisers</th>
+            <th>zoom host </th>
             <th>hey summit</th>
             <th>zoom id   </th>
             <th>slide view</th>
@@ -23,9 +30,9 @@
             <th>youtube   </th>
         </thead>
         <tbody>
-            {{ range $index, $element := sort $all_sessions ".Params.hosted_by"}}
+            {{ range $index, $element := sort $all_sessions_day ".Params.when_time"}}
                 {{ $organizers := partial "params/organizers.html" . }}
-                {{ $time := index .Site.Data.schedule.times .Params.when_time }}
+                {{ $time  := index .Site.Data.schedule.times .Params.when_time }}
                 {{ $this.Scratch.Set "gslides_link" "" }}
                 {{ if .Params.slide_id  }}
                     {{ $this.Scratch.Set "gslides_link" (add (add "https://docs.google.com/presentation/d/e/" .Params.slide_id) "/pub?start=false&loop=false&delayms=3000" )}}
@@ -45,15 +52,22 @@
                 {{ if .Params.title}}
                     <tr>
                         <td>{{ add $index 1}}</td>
-                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.hosted_by                                           "error"     "missing"                                                      ) }}
                         <td><a target="_blank" href="{{ .Permalink }}">{{ .Params.title }}</a></td>
-                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.when_day  "error" "missing") }}
-                        {{ partial "admin/sessions/cell.html"      (dict "value" $time "error" "missing") }}
+                        <td>
+                            <a href="{{.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank">
+                                <i class="fa fa-pencil-square-o"></i>
+                            </a>
+                        </td>
+                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.when_year                                      "error" "missing")                                                           }}
+                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.when_month                                     "error" "missing")                                                           }}
+                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.when_day                                       "error" "missing")                                                           }}
+                        {{ partial "admin/sessions/cell.html"      (dict "value" $time                                                  "error" "missing")                                                           }}
                         <td> {{ partial "schedule/list/organizers-links.html" ( dict "this" . "organizers" $organizers) }}</td>
-                        {{ partial "admin/sessions/cell-link.html" (dict "value" .Params.hey_summit "text" "hey summit"                      "error"     "needs hey summit"  "img" "/img/logos/heysummit-logo.png"      ) }}
-                        {{ partial "admin/sessions/cell-link.html" (dict "value" .Params.zoom_link "text" "zoom"                             "error"     "missing"           "img" "/img/logos/zoom-logo.png"           ) }}
-                        {{ partial "admin/sessions/cell-link.html" (dict "value" ($this.Scratch.Get "gslides_link")     "text" "slide"       "warning"   "missing"           "img" "/img/logos/google-slides-logo.png"  ) }}
-                        {{ partial "admin/sessions/cell-link.html" (dict "value" ($this.Scratch.Get "gslides_edit")     "text" "slide"       "warning"   "missing"           "img" "/img/logos/google-slides-logo.png"  ) }}
+                        {{ partial "admin/sessions/cell.html"      (dict "value" .Params.hosted_by                                      "error"     "missing"                                                      ) }}
+                        {{ partial "admin/sessions/cell-link.html" (dict "value" .Params.hey_summit "text" "hey summit"                 "error"     "needs hey summit"  "img" "/img/logos/heysummit-logo.png"      ) }}
+                        {{ partial "admin/sessions/cell-link.html" (dict "value" .Params.zoom_link "text" "zoom"                        "error"     "missing"           "img" "/img/logos/zoom-logo.png"           ) }}
+                        {{ partial "admin/sessions/cell-link.html" (dict "value" ($this.Scratch.Get "gslides_link")     "text" "slide"  "warning"   "missing"           "img" "/img/logos/google-slides-logo.png"  ) }}
+                        {{ partial "admin/sessions/cell-link.html" (dict "value" ($this.Scratch.Get "gslides_edit")     "text" "slide"  "warning"   "missing"           "img" "/img/logos/google-slides-logo.png"  ) }}
                         {{ partial "admin/sessions/cell-link.html" (dict "value" $youtube_link "text" "you tube"                        "warning"   "missing"           "img" "/img/logos/youtube-icon-red.png"    ) }}
 
                     </tr>

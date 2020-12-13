@@ -5,9 +5,11 @@
     <hr/>
 
     <p>{{.Content}}</p>
-<!--    {{ partial "admin/sessions/day.html" (dict "this" . "day" "Mon" ) }}-->
-<!--    {{ partial "admin/sessions/day.html" (dict "this" . "day" "Tue" ) }}-->
-<!--    {{ partial "admin/sessions/day.html" (dict "this" . "day" "Wed" ) }}-->
+    {{ partial "admin/sessions/table.html" (dict "this" . "year" "2021" ) }}
+
+    {{ partial "admin/sessions/day.html" (dict "this" . "day" "Mon" ) }}
+    {{ partial "admin/sessions/day.html" (dict "this" . "day" "Tue" ) }}
+    {{ partial "admin/sessions/day.html" (dict "this" . "day" "Wed" ) }}
     {{ partial "admin/sessions/day.html" (dict "this" . "day" "Thu" ) }}
     {{ partial "admin/sessions/day.html" (dict "this" . "day" "Fri" ) }}
 

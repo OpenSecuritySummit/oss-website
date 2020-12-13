@@ -1,0 +1,12 @@
+{{ $this := .this }}
+{{ $days := $this.Site.Data.schedule.days.summit }}
+
+{{ $year := 2021  }}
+<h1>{{ $year }}</h1>
+{{ range $days }}
+    {{ partial "admin/sessions/day.html" (dict "this" $this "day" . "year" $year ) }}
+    {{ . }}
+{{ end }}
+
+<hr/>
+<h1>--------</h1>
