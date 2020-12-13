@@ -1,5 +1,5 @@
 ---
-title: Chris McDermot
+title: Chris McDermott
 image: https://pbs.twimg.com/profile_images/1180202140293353472/plrV5Ok-_400x400.jpg
 company:
 job_title:
