@@ -1,6 +1,6 @@
 ---
 title        : "Maturity Mapping: Contextualise change and learning"
-track        : Wardley-Maps
+track        : Wardley Maps
 type         : working-session
 topics       :
 featured     :
@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : Jan
 when_day     : Thu
 when_time    : WS-6
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/maturity-mapping-contextualise-change-and-learning/
 session_slack:
 #status       : draft
 description  :
