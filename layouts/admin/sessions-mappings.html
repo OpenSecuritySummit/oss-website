@@ -1,0 +1,11 @@
+
+{{ define "content" }}
+    <hr/>
+    <a href="/admin">Admin</a> | {{.Params.title}}
+    <hr/>
+
+    <p>{{.Content}}</p>
+    {{ partial "admin/sessions/table.html" (dict "this" . "year" 2021 ) }}
+    {{ partial "admin/sessions/table.html" (dict "this" . "year" 2020 ) }}
+
+{{ end }}

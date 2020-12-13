@@ -4,6 +4,7 @@ type         : working-session
 track        : Schrems II
 topics       :
 event        : mini-summit
+when_year    : 2020
 when_month   : Dec
 when_day     : Thu
 when_time    : WS-6

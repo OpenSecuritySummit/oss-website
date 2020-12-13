@@ -1,9 +1,11 @@
-{{if  .Params.hey_summit}}
+{{ $hey_summit := .Params.hey_summit}}
+
+{{ if  and ($hey_summit) (ne $hey_summit "TBD")}}
     <a href="{{.Params.hey_summit}}">
         <button class="label label-success">
             Add this session to my schedule
         </button>
     </a>
 {{ else }}
-    <span class="label label-danger">not scheduled</span>
+    <span class="label label-warning">not scheduled</span>
 {{ end}}

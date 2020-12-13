@@ -5,6 +5,7 @@ type         : working-session
 topics       :
 featured     :
 event        : mini-summit
+when_year    : 2020
 when_month   : Dec
 when_day     : Thu
 when_time    : WS-2
