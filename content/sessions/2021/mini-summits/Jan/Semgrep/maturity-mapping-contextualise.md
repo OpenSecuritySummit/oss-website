@@ -1,6 +1,6 @@
 ---
-title        : "Maturity Mapping: Contextualise"
-track        : Semgrep
+title        : "Maturity Mapping: Contextualise change and learning"
+track        : Wardley-Maps
 type         : working-session
 topics       :
 featured     :
@@ -14,9 +14,9 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - Chris McDermot
+    - Chris McDermott
 youtube_link :
-zoom_link    :
+zoom_link    :  https://zoom.us/j/95325478809?pwd=cXVaWTBRNzc2clk5UTltTHdaSG9lQT09
 ---
 
 ## About this session
