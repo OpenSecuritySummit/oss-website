@@ -52,12 +52,28 @@ paginate = 10
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 3
 #    url = "/working-sessions/"
+
 [[menu.main]]
-    name = "Tracks"
+    name = "Schedule (Jan 2021)"
+    identifier = "schedule"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 2
+#    parent = "sessions"
+    url = "/schedule"
+[[menu.main]]
+    name = "Tracks (Jan 2021)"
     identifier = "tracks"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 3
     url = "/tracks/"
+
+[[menu.main]]
+    name = "Dec 2020 Mini-Summit"
+    identifier = "2020-dec-event"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 5
+    url = "/sessions/2020/mini-summits/dec/"
+
 
 #[[menu.main]]
 #    name = "Trainings"
@@ -66,13 +82,6 @@ paginate = 10
 #    weight = 4
 #    url = "/training/"
 
-[[menu.main]]
-    name = "Schedule"
-    identifier = "schedule"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 2
-#    parent = "sessions"
-    url = "/schedule"
 #[[menu.main]]
 #    name = "Topics"
 #    identifier = "topics"
