@@ -17,6 +17,8 @@ organizers   :
     - Paul Burke
 youtube_link : g5toOjFu5IM
 zoom_link    : https://zoom.us/j/99056251043?pwd=M3k2Qkh1dVRVZnJ0cjJ5azBHWjZwZz09
+gslides_edit : 1N9Xala4OlYe_BtB5H71oI_fYJ45zz84y
+slide_id     : 2PACX-1vTD7JQhJrbAeL0DXt8P08ZZ-EVnMKBeS3NH0EAH6v9yBe34si86ogHpt16XalcMjA
 ---
 
 ## About this session
