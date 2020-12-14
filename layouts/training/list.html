@@ -43,7 +43,7 @@
     {{ $week_one := where .Data.Pages ".Params.when_week" "one" }}
     {{ $week_one_days := .Site.Data.schedule.days.week_one}}
 
-    {{ partial "schedule/table/table.html" (dict "self" . "pages" $week_one "valid_days" $week_one_days  )}}
+    {{ partial "schedule/table/table.html" (dict "this" . "pages" $week_one "valid_days" $week_one_days  )}}
 
 
     <h3>Schedule (Week 2) - 8th to 12th of June</h3>
@@ -52,7 +52,7 @@
     {{ $week_two := where .Data.Pages ".Params.when_week" "two"  }}
     {{ $week_two_days := .Site.Data.schedule.days.week_two}}
 
-    {{ partial "schedule/table/table.html" (dict "self" . "pages" $week_two "valid_days" $week_two_days  )}}
+    {{ partial "schedule/table/table.html" (dict "this" . "pages" $week_two "valid_days" $week_two_days  )}}
 
     <h2>Schedule - Table view</h2>
     <h3>Week 1 -  1st to 5th of June</h3>

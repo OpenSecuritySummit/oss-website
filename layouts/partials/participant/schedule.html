@@ -85,10 +85,10 @@
 {{ $summit_days   := .Site.Data.schedule.days.summit}}
 
 {{ $title := "Training - week one (1st - 5th June)" }}
-{{ partial "schedule/table/table.html" (dict "self" . "pages" $pages "valid_days" $week_one_days "title" $title )}}
+{{ partial "schedule/table/table.html" (dict "this" . "pages" $pages "valid_days" $week_one_days "title" $title )}}
 
 {{ $title := "Training - week two (8th - 12th June)" }}
-{{ partial "schedule/table/table.html" (dict "self" . "pages" $pages "valid_days" $week_two_days "title" $title )}}
+{{ partial "schedule/table/table.html" (dict "this" . "pages" $pages "valid_days" $week_two_days "title" $title )}}
 
 {{ $title := "Summit Week (15th - 19th June)" }}
-{{ partial "schedule/table/table.html" (dict "self" . "pages" $pages "valid_days" $summit_days   "title" $title )}}
+{{ partial "schedule/table/table.html" (dict "this" . "pages" $pages "valid_days" $summit_days   "title" $title )}}

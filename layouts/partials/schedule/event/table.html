@@ -1,0 +1,8 @@
+{{ $this  := .this }}
+{{ $year  := .year }}
+{{ $event := .event }}
+{{ $month := .month }}
+
+{{ $sessions := partial "params/event-sessions.html" (dict "this" $this "year" $year "event" $event "month" $month) }}
+
+{{ partial "schedule/table/table.html" (dict "this" $this "pages" $sessions )}}

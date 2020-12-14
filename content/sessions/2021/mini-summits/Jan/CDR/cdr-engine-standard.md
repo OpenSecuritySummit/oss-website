@@ -1,5 +1,5 @@
 ---
-title        : CDR Engine Standard
+title        : CDR Engine Standard (Part 2)
 track        : CDR
 type         : working-session
 topics       :
