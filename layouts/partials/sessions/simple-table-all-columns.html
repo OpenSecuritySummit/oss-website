@@ -3,9 +3,10 @@
         <thead>
         <tr>
         <th style="width:300px">Title</th>
-        <th>Type</th>
+<!--        <th>Type</th>-->
         <th>Track</th>
-        <th>Description</th>
+        <th>Year</th>
+        <th>Month</th>
         </tr>
         </thead>
         {{ range . }}
@@ -14,14 +15,17 @@
                     <td>
                         <a href="{{.Permalink }}">{{.Params.title}}</a>
                     </td>
+<!--                    <td>-->
+<!--                        {{ with .Params.type }}{{ . }}{{ end }}-->
+<!--                    </td>-->
                     <td>
-                      {{ with .Params.type }}{{ . }}{{ end }}
+                        {{ with .Params.track }}{{ . }}{{ end }}
                     </td>
                     <td>
-                      {{ with .Params.track }}{{ . }}{{ end }}
+                        {{ with .Params.when_year }}{{ . }}{{ end }}
                     </td>
                     <td>
-                        {{ .Params.description}}
+                        {{ with .Params.when_month }}{{ . }}{{ end }}
                     </td>
                 </tr>
             {{ end}}

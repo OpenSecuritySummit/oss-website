@@ -1,0 +1,9 @@
+{{ $this  := .this  }}
+{{ $year  := .year  }}
+{{ $month := .month }}
+
+{{ $all_sessions  := partial "params/all-summit-sessions.html" $this  }}
+{{ $sessions_year := where $all_sessions ".Params.when_year" $year    }}
+{{ $sessions      := where $sessions_year ".Params.when_month" $month }}
+
+{{ return $sessions }}

@@ -51,13 +51,13 @@
 
 
 <!--        {{ $title := "Training - week one (1st - 5th June)" }}-->
-<!--        {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $week_one_days "title" $title )}}-->
+<!--        {{ partial "schedule/table/table.html" (dict "this" . "pages" $sessions "valid_days" $week_one_days "title" $title )}}-->
 
 <!--        {{ $title := "Training - week two (8th - 12th June)" }}-->
-<!--        {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $week_two_days "title" $title )}}-->
+<!--        {{ partial "schedule/table/table.html" (dict "this" . "pages" $sessions "valid_days" $week_two_days "title" $title )}}-->
 
 <!--        {{ $title := "Summit Week (15th - 19th June)" }}-->
         {{ $title := "" }}
-        {{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
+        {{ partial "schedule/table/table.html" (dict "this" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
 
 {{ end }}

@@ -6,7 +6,7 @@
 {{ $days_next_summit := $this.Site.Data.schedule.days.days_next_summit   }}
 
 <!--Table view-->
-{{ partial "schedule/table/table.html" (dict "self" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
+{{ partial "schedule/table/table.html" (dict "this" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
 
 <!--List view-->
 
