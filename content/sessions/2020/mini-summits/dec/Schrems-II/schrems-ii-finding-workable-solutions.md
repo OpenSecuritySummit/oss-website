@@ -12,7 +12,7 @@ hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-labels-
 session_slack:
 status       :           # draft, review-content
 description  : 
-youtube_link : 
+youtube_link : aCmmFkmmNv4
 zoom_link    : https://zoom.us/j/99019343769?pwd=RmtpL0txb3A5YmFrNHFsYndzaUhDdz09
 organizers   : 
        - Dinis Cruz
