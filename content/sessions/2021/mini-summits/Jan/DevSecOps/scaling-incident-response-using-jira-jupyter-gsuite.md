@@ -18,7 +18,7 @@ organizers   :
     - Abbas Haidar
     - Petra Vukmirovic
 youtube_link :
-zoom_link    : 
+zoom_link    : https://zoom.us/j/6691335189?pwd=UzgxK05lQThMem1razZjT0EvamhtUT09
 ---
 
 ## About this session
