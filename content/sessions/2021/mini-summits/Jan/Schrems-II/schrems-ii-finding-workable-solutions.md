@@ -8,12 +8,12 @@ when_year    : 2021
 when_month   : Jan
 when_day     : Tue
 when_time    : WS-6
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/schrems-ii-finding-workable-solutions/
 session_slack:
 status       :           # draft, review-content
 description  : 
 youtube_link : 
-zoom_link    :
+zoom_link    : https://zoom.us/j/6691335189?pwd=UzgxK05lQThMem1razZjT0EvamhtUT09
 organizers   : 
        - Dinis Cruz
        - James Bore
