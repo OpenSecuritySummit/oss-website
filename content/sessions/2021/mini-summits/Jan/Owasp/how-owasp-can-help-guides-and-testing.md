@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : Jan
 when_day     : Tue
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-owasp-can-help-security-teams-guides-and-testing/
 session_slack:
 #status       : draft
 description  :
@@ -18,9 +18,8 @@ organizers   :
     - Sam Stepanyan
     - Grant Ongers
     - Vandana Verma
-
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/6691335189?pwd=UzgxK05lQThMem1razZjT0EvamhtUT09
 slide_id     : 2PACX-1vQHQoRVvo6abK_JHSIrQ5RoXsbHPaX9PHNF59-26EZ-f9fpAVNV8hAqkKZqHwZPnIxmtPVc6QWqw6Dc
 ---
 
