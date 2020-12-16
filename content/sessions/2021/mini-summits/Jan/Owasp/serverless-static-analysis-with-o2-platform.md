@@ -23,7 +23,7 @@ youtube_link :
 
 This session will focus on how to use O2 Platform's Static Analysis tools in a serverless (AWS Lambda) environment
 
-### O2 Platform 
+### O2 Platform
 
 The O2 platform represents a new paradigm for how to perform, document and distribute Web Application security tests and scripts.
 
