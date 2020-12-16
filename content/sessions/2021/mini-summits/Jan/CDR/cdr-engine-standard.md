@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Paul Burke
 youtube_link :
-zoom_link    : https://zoom.us/j/6691335189?pwd=UzgxK05lQThMem1razZjT0EvamhtUT09
+zoom_link    : https://zoom.us/j/99011962180?pwd=WmxnSi9JRUhoclBkZFBRVWZBWFlOdz09
 ---
 
 ## About this session
