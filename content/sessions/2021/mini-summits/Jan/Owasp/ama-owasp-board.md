@@ -23,7 +23,7 @@ youtube_link :
 
 ## About this session
 
-AMA Session with the OWAPS Board
+AMA Session with the OWASP Board
 
 We have lots to talk about :) 
 
