@@ -21,3 +21,8 @@ youtube_link :
 ---
 
 ## About this session
+
+
+We have lots to talk about :) 
+
+If there are topics you would like to be covered during this session, [USE THIS FORM TO ADD YOUR QUESTION](https://docs.google.com/forms/d/e/1FAIpQLSfzcKgeD6TL5QfcDcKt8DOglBqm1RABZWLZfhC59MCPPJDJUQ/viewform)
