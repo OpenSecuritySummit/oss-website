@@ -25,4 +25,6 @@ youtube_link :
 
 AMA Session with the OWAPS Board
 
-Lots to talk about, and please if you have questions submit them in advanced
+We have lots to talk about :) 
+
+If there are topics you would like to be covered during this session, [USE THIS FORM TO ADD YOUR QUESTION](https://docs.google.com/forms/d/e/1FAIpQLSfzcKgeD6TL5QfcDcKt8DOglBqm1RABZWLZfhC59MCPPJDJUQ/viewform)
