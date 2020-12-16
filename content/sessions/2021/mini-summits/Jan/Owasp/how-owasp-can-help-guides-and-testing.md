@@ -19,7 +19,7 @@ organizers   :
     - Grant Ongers
     - Vandana Verma
 youtube_link :
-zoom_link    : https://zoom.us/j/6691335189?pwd=UzgxK05lQThMem1razZjT0EvamhtUT09
+zoom_link    : https://zoom.us/j/98854847324?pwd=cTJVYzZtL0FUV3QrSWNza2ZDUTc5QT09
 slide_id     : 2PACX-1vQHQoRVvo6abK_JHSIrQ5RoXsbHPaX9PHNF59-26EZ-f9fpAVNV8hAqkKZqHwZPnIxmtPVc6QWqw6Dc
 ---
 
