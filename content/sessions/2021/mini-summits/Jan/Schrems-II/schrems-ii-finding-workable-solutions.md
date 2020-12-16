@@ -13,7 +13,7 @@ session_slack:
 status       :           # draft, review-content
 description  : 
 youtube_link : 
-zoom_link    : https://zoom.us/j/6691335189?pwd=UzgxK05lQThMem1razZjT0EvamhtUT09
+zoom_link    : https://zoom.us/j/97453994144?pwd=aWp3OWRzLzAzV1pVRU9mZFNPZEI0QT09
 organizers   : 
        - Dinis Cruz
        - James Bore
