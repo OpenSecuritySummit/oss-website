@@ -19,6 +19,8 @@ organizers   :
     - Mudit Gupta
 youtube_link : aK0YHxQDT6w
 zoom_link    : https://zoom.us/j/95147858149?pwd=b2h4VGRYbWNFRTZibC84RE1zb2huZz09
+gslides_edit : 17EjbZ4k8byQXF39qBpbTW2yJ6BerKETnTdEQ9hS0mBk
+slide_id     : 2PACX-1vQzbjTCErhZ4H8hO4HD5pahQythvW7ci8ptoaWFzTQDqDksyeMoDBHpcMd_55QpN8kFV5tRTBzlGiT3
 ---
 
 ## About this session:
