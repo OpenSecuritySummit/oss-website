@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : Jan
 when_day     : Mon
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-owasp-board/
 session_slack:
 #status       : draft
 description  :
@@ -18,7 +18,7 @@ organizers   :
     - Grant Ongers 
     - Vandana Verma
 youtube_link :
-#zoom_link    : 
+zoom_link    : https://zoom.us/j/98956816672?pwd=dzBtbTNwcUFkNzhaTVNGOThNTFIxdz09
 ---
 
 ## About this session
