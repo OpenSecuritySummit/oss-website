@@ -1,6 +1,6 @@
 ---
 title        : Secure By Scenario
-track        : secure-by-scenario
+track        : Secure by Scenario
 type         : working-session
 topics       :
 featured     :
