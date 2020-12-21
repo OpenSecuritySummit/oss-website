@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : Jan
 when_day     : Mon
 when_time    : WS-6
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-jeremiah-grossman/
 session_slack:
 #status       : draft
 description  :
