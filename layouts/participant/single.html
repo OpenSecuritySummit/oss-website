@@ -51,14 +51,10 @@
 
         {{ $sessions := partial "params/participant-organiser.html" (dict "this" . "title" .Params.title )}}
 
-        {{ partial "schedule/in-rows/still-to-happen.html" (dict "this" . "pages" $sessions )}}
+        <h3>All {{ .Params.Title }} sessions</h3>
 
-<!--        <br/>-->
-<!--        <h1>Schedule (all sessions)</h1>-->
-<!--        &lt;!&ndash; table view&ndash;&gt;-->
-<!--        {{ partial "participant/when-day.html"        . }}-->
-<!--        {{ partial "participant/schedule.html"        . }}-->
-<!--        {{ partial "participant/sessions.html"        . }}-->
+        {{ partial "sessions/simple-table-all-columns.html" $sessions }}
+
 
         {{ partial "session/register-as-organizer.html" . }}
 

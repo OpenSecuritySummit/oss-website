@@ -31,33 +31,11 @@
             {{ .Content }}
           </div>
         </div>
+        
+        <h1>All {{ .Params.Title }} Sessions</h1>
 
-
-
-        <h1>Schedule(Daily View)</h1>
         {{ $sessions  := where .Site.Pages ".Params.track"  .Params.title  }}
+        {{ partial "sessions/simple-table-all-columns.html" $sessions }}
 
-        {{ $days_next_training := .Site.Data.schedule.days.days_next_training }}
-        {{ $days_next_summit := .Site.Data.schedule.days.days_next_summit }}
-        {{ partial "schedule/list/days.html" (dict "this" . "pages" $sessions "days" $days_next_training "title" "Training") }}
-        {{ partial "schedule/list/days.html" (dict "this" . "pages" $sessions "days" $days_next_summit "title" "") }}
-
-
-        <h1>Schedule (Weekly View)</h1>
-        {{ $week_one :=  where $sessions ".Site.Pages.when_week" "one"}}
-        {{ $week_one_days := .Site.Data.schedule.days.week_one}}
-        {{ $week_two_days := .Site.Data.schedule.days.week_two}}
-        {{ $summit_days   := .Site.Data.schedule.days.summit}}
-
-
-<!--        {{ $title := "Training - week one (1st - 5th June)" }}-->
-<!--        {{ partial "schedule/table/table.html" (dict "this" . "pages" $sessions "valid_days" $week_one_days "title" $title )}}-->
-
-<!--        {{ $title := "Training - week two (8th - 12th June)" }}-->
-<!--        {{ partial "schedule/table/table.html" (dict "this" . "pages" $sessions "valid_days" $week_two_days "title" $title )}}-->
-
-<!--        {{ $title := "Summit Week (15th - 19th June)" }}-->
-        {{ $title := "" }}
-        {{ partial "schedule/table/table.html" (dict "this" . "pages" $sessions "valid_days" $summit_days "title" $title )}}
 
 {{ end }}
