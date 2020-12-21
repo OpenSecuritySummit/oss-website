@@ -7,8 +7,8 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : Jan
-when_day     : Mon
-when_time    : WS-6
+when_day     : Tue
+when_time    : WS-7
 hey_summit   : TBD
 session_slack:
 #status       : draft

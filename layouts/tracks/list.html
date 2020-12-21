@@ -31,7 +31,7 @@
             {{ .Content }}
           </div>
         </div>
-        
+
         <h1>All {{ .Params.Title }} Sessions</h1>
 
         {{ $sessions  := where .Site.Pages ".Params.track"  .Params.title  }}
