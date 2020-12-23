@@ -1,5 +1,5 @@
 ---
-title        : Write CodeQL Queries
+title        : "Variant Analysis with CodeQL: How I got root in Germany Contact-Tracing infrastructure"
 track        : DevSecOps
 type         : working-session
 topics       :
