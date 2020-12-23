@@ -5,7 +5,7 @@ company:
 job_title:
 facebook:
 linkedin:
-twitter:
+twitter: chrisvmcd
 website: http://maturitymapping.com/
 notes:
 status: add-details
