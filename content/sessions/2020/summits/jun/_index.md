@@ -1,5 +1,5 @@
 ---
-title        : Open Security Summit
+title        : Open Security Summit 2020
 layout       : mini-summit
 year         : 2020
 month        : Jun

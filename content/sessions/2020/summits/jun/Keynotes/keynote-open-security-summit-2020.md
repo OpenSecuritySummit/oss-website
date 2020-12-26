@@ -1,7 +1,7 @@
 ---
 title        : Keynote - Open Security Summit 2020
 type         : working-session
-track        : "CISO and Risk Management"
+track        : Keynotes
 technology   :
 topics       :                    # for example ["GDPR"]
 featured     : yes                   # review with summit team "yes"
