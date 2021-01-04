@@ -11,7 +11,7 @@ when_day     : Wed
 when_time    : WS-2
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cto-roundtable/
 session_slack:
-#status       : draft
+status       : draft
 description  :
 organizers   :
     - Dinis Cruz
