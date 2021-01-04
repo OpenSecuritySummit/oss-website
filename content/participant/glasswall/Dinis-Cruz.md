@@ -1,7 +1,7 @@
 ---
 company: Glasswall
 image: https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
-job_title: CISO and SVP Engineering
+job_title: CTO and CISO
 linkedin: diniscruz
 owasp_leadership:
 - Board Member (20??-2011)
