@@ -8,7 +8,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Jan
 when_day     : Wed
-when_time    : WS-6
+when_time    : WS-7
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-jim-manico/
 session_slack:
 #status       : draft
