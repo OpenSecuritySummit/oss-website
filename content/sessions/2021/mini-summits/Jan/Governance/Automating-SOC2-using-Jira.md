@@ -14,6 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
+    - Dinis Cruz
     - Luke Robbertse
     - Abbas Haidar
 youtube_link :
