@@ -11,7 +11,7 @@ when_day     : Fri
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/secure-by-scenario-jan-2021/
 session_slack:
-status       : draft
+status       : 
 description  :
 organizers   :
     - Juan Spinel
