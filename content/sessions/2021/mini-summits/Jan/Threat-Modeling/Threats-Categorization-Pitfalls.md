@@ -14,7 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - Didar Gelici
+    - James Bore
 youtube_link :
 zoom_link    : https://zoom.us/j/95485514717?pwd=enZXT3lBWVh2NVBJM2VpSTUybXdHQT09
 ---
