@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : Jan
 when_day     : Mon
 when_time    : WS-7
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/automating-soc2-using-jira/
 session_slack:
 #status       : draft
 description  :
@@ -18,7 +18,7 @@ organizers   :
     - Luke Robbertse
     - Abbas Haidar
 youtube_link :
-zoom_link    :
+zoom_link    :  https://zoom.us/j/92693502068?pwd=ZngyWXRvNS9UMHphemQ0U1ZFVldLQT09
 ---
 
 ## About this session
