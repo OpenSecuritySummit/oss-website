@@ -14,7 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - Paul Burke
+    - Elvin White
 youtube_link :
 zoom_link    : https://zoom.us/j/99011962180?pwd=WmxnSi9JRUhoclBkZFBRVWZBWFlOdz09
 ---
