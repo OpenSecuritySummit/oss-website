@@ -20,3 +20,7 @@ zoom_link    :  https://zoom.us/j/92852359434?pwd=QUxSZUZTQnFaS2pCbFA1RnppdUo4QT
 ---
 
 ## About this session
+
+Domain-Specific Languages (DSLs) are special types of programming languages for specific needs. For example, SQL is a DSL for relational database queries, and YAML is a DSL for text file formats.
+
+In this talk, I'll explain why I think that using a DSL is one of the best ways to write and automate tests. This talk is meant to be a "think big" talk rather than a technical demonstration. I'll share the story of how I came to this conclusion, using real examples to illustrate the lessons learned in creating and using DSLs. I'll also show how to use existing DSLs like Gherkin to write security tests.
