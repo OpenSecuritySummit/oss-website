@@ -19,7 +19,7 @@ organizers   :
     - Andrew van der Stock
     - Vandana Verma
 youtube_link :
-zoom_link    : https://zoom.us/j/98956816672?pwd=dzBtbTNwcUFkNzhaTVNGOThNTFIxdz09
+zoom_link    : QiciZtbMYVU
 ---
 
 ## About this session
