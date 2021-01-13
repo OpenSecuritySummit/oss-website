@@ -15,6 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Elvin White
+    - Harry Georgiou
     - Paul Burke
 
 youtube_link :
