@@ -16,8 +16,8 @@ description  :
 organizers   :
     - Dinis Cruz
     - Jeremiah Grossman
-youtube_link :
-zoom_link    :  https://zoom.us/j/93503930481?pwd=em80V1Z1bWd6QTdEdjlvSlM0YVpSdz09
+youtube_link : k7_sFloPUBE
+zoom_link    : 
 ---
 
 ## About this session
