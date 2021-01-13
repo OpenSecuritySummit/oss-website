@@ -15,8 +15,8 @@ session_slack:
 description  : Have you tried doin threat modeling with all-remote teams? What worked? What didn't? Let's share our experience. 
 organizers   :
     - Didar Gelici
-youtube_link :
-zoom_link    : https://zoom.us/j/93824707505?pwd=UjJZQ2VLV0NXWXRXQ1FUMndiV0FrZz09
+youtube_link : D8rn8KuHp_g
+zoom_link    : 
 ---
 
 ## About this session
