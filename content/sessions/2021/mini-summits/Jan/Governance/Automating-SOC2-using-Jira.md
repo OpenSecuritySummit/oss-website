@@ -17,8 +17,8 @@ organizers   :
     - Dinis Cruz
     - Luke Robbertse
     - Abbas Haidar
-youtube_link :
-zoom_link    :  https://zoom.us/j/92693502068?pwd=ZngyWXRvNS9UMHphemQ0U1ZFVldLQT09
+youtube_link : xX2b88v8SeU
+zoom_link    : 
 ---
 
 ## About this session
