@@ -17,7 +17,6 @@ organizers   :
     - Elvin White
     - Harry Georgiou
     - Paul Burke
-
 youtube_link :
 zoom_link    : https://zoom.us/j/99011962180?pwd=WmxnSi9JRUhoclBkZFBRVWZBWFlOdz09
 ---
