@@ -12,7 +12,7 @@ hey_summit   : https://post-summit-sessions.heysummit.com/talks/schrems-ii-findi
 session_slack:
 status       :           # draft, review-content
 description  : 
-youtube_link : 
+youtube_link : 40XqQlKLw74
 zoom_link    : https://zoom.us/j/97453994144?pwd=aWp3OWRzLzAzV1pVRU9mZFNPZEI0QT09
 organizers   : 
        - Dinis Cruz
