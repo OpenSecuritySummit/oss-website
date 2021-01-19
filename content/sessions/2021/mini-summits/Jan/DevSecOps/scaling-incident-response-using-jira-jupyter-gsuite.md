@@ -17,7 +17,7 @@ organizers   :
     - Luke Robbertse
     - Abbas Haidar
     - Petra Vukmirovic
-youtube_link :
+youtube_link : LOs8w9aySTU
 zoom_link    : https://zoom.us/j/92561643486?pwd=TFgzRDhyTjMxWkQyMjZ2NGo5cFpWdz09
 ---
 
