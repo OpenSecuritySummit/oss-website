@@ -15,7 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Pandy Knight
-youtube_link :
+youtube_link : CYu9YT3EmmI
 zoom_link    :  https://zoom.us/j/92852359434?pwd=QUxSZUZTQnFaS2pCbFA1RnppdUo4QT09
 ---
 
