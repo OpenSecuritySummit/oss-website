@@ -15,7 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Alvaro Muñoz
-youtube_link :
+youtube_link : 5beYejYfhjY
 zoom_link    : https://zoom.us/j/99007108913?pwd=SDRHQUcybVNrQXVXb1VGeTMwT0o3Zz0
 ---
 
