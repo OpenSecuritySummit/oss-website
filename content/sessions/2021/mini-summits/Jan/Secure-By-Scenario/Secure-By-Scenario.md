@@ -15,7 +15,7 @@ status       :
 description  :
 organizers   :
     - Juan Spinel
-youtube_link :
+youtube_link : 6XX5pBTNb8w
 zoom_link    :  https://zoom.us/j/96369531768?pwd=ZThVcGlrZUoxcklLRm9MWnFHM0lUZz09
 ---
 
