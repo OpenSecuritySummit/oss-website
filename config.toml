@@ -54,14 +54,14 @@ paginate = 10
 #    url = "/working-sessions/"
 
 [[menu.main]]
-    name = "Schedule (Jan 2021)"
+    name = "Schedule (Mar 2021)"
     identifier = "schedule"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 2
 #    parent = "sessions"
     url = "/schedule"
 [[menu.main]]
-    name = "Tracks (Jan 2021)"
+    name = "Tracks (Mar 2021)"
     identifier = "tracks"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 3
