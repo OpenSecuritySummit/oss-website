@@ -15,7 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Chris McDermott
-youtube_link :
+youtube_link : ytYT8nhC5RQ
 zoom_link    :  https://zoom.us/j/95325478809?pwd=cXVaWTBRNzc2clk5UTltTHdaSG9lQT09
 ---
 

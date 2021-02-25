@@ -17,7 +17,7 @@ organizers   :
     - Dinis Cruz
     - Sam Stepanyan
     - Grant Ongers
-youtube_link :
+youtube_link : Yr6c-njRs8M
 zoom_link    : https://zoom.us/j/94390465580?pwd=OWhuSUQ3UU5hd1FTellHRGpYL0U5UT09
 slide_id     : 2PACX-1vQHQoRVvo6abK_JHSIrQ5RoXsbHPaX9PHNF59-26EZ-f9fpAVNV8hAqkKZqHwZPnIxmtPVc6QWqw6Dc
 ---
