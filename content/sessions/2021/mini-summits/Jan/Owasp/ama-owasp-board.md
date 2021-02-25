@@ -18,7 +18,7 @@ organizers   :
     - Grant Ongers
     - Andrew van der Stock
     - Vandana Verma
-youtube_link :
+youtube_link : QiciZtbMYVU
 zoom_link    : QiciZtbMYVU
 ---
 
