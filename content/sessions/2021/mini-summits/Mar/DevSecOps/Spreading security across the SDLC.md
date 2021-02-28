@@ -8,7 +8,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Mar
 when_day     : Thu
-when_time    : WS-
+when_time    : WS-2
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/spreading-security-across-the-sdlc-with-semgrep-and-other-tools/
 session_slack:
 status       : draft

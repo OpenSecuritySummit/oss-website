@@ -1,5 +1,5 @@
 ---
-title        : Mini-Summit March 2020
+title        : Mini-Summit March 2021
 layout       : mini-summit
 year         : 2021
 month        : Mar
