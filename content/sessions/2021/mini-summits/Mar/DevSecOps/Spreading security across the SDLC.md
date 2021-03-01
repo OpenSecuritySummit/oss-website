@@ -15,7 +15,7 @@ status       : draft
 description  :
 organizers   :
     - John Melton
-youtube_link : LOs8w9aySTU
+youtube_link : 
 zoom_link    : https://zoom.us/j/96013540868?pwd=VWgvU0dTWG90MmpvQVpMWHFpTm1Ldz09
 ---
 
