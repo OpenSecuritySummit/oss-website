@@ -1,6 +1,6 @@
 ---
 title: John Melton
-image: https://twitter.com/_jtmelton/photo
+image: https://pbs.twimg.com/profile_images/770124664618225666/qIcfjZqk_400x400.jpg
 company: 
 job_title: 
 facebook:
