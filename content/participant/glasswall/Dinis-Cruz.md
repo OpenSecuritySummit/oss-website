@@ -1,6 +1,6 @@
 ---
 company: Glasswall
-image: https://twitter.com/DinisCruz/photo
+image: https://pbs.twimg.com/profile_images/1363406150658629632/-BdkX94u_400x400.jpg
 job_title: CTO and CISO
 linkedin: diniscruz
 owasp_leadership:
