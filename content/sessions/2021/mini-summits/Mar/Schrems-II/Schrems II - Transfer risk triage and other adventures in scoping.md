@@ -13,7 +13,7 @@ session_slack:
 status       : draft
 description  : 
 youtube_link : 
-zoom_link    : https://zoom.us/j/92516808362
+zoom_link    : https://zoom.us/j/92606685679?pwd=YTdXTlpkWUdMMlArRkFhOERBcXJVUT09
 organizers   : 
        - Sarah Clarke
       
