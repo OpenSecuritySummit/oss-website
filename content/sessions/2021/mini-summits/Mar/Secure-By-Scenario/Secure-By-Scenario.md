@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Juan Spinel
 youtube_link : 
-zoom_link    :  https://zoom.us/j/96369531768?pwd=ZThVcGlrZUoxcklLRm9MWnFHM0lUZz09https://zoom.us/j/98767751967
+zoom_link    :  https://zoom.us/j/97771881849?pwd=V3pSdXNHVi9Jb2llVnV0REREdjlXQT09
 ---
 
 ## About this session
