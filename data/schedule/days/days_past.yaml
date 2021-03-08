@@ -131,4 +131,34 @@ day-24:
   month: "December"
   key  : "Fri"
   order: 5
+day-25:
+  date : "12th"
+  day  : "Monday"
+  month: "January"
+  key  : "Mon"
+  order: 1
+day-26:
+  date : "13th"
+  day  : "Tuesday"
+  month: "January"
+  key  : "Tue"
+  order: 2
+day-27:
+  date : "14th"
+  day  : "Wednesday"
+  month: "January"
+  key  : "Wed"
+  order: 3
+day-28:
+  date : "15th"
+  day  : "Thursday"
+  month: "January"
+  key  : "Thu"
+  order: 4
+day-29:
+  date : "16th"
+  day  : "Friday"
+  month: "January"
+  key  : "Fri"
+  order: 5
 
