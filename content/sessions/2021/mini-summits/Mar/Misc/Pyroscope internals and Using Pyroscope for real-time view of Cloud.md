@@ -20,3 +20,8 @@ zoom_link : https://zoom.us/j/98065258878?pwd=ai9ENlJjbzlQcGVHMVRyQ3Q0SmF0UT09
 ---
 
 ## About this session
+
+Pyroscope is an open source continuous profiling platform. It allows you to profile applications 24/7 in production environments and find performance issues down to a single line of code.
+
+In this session we're gonna go over the internals of Pyroscope storage engine and how we are able to store data efficiently and also talk about how pyroscope can be useful for various use cases.
+
