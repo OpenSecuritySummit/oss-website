@@ -17,7 +17,7 @@ organizers :
 - Dinis Cruz
 - Tudor Girba
 youtube_link :
-zoom_link : https://zoom.us/j/94007529746?pwd=a3hrMXJCQ1hQc0hVbmdzZG9sbGRTZz09
+zoom_link : https://zoom.us/j/93474678284?pwd=aWNBZC9qUGNhUEdreWF5OHRxQ2FUdz09
 ---
 	
 
