@@ -16,7 +16,7 @@ description :
 organizers :
 - Dinis Cruz
 - Tudor Girba
-youtube_link :
+youtube_link : SehtbBoemyk
 zoom_link : https://zoom.us/j/95996202195?pwd=RHArejhzTG4vRVU1ZGpndHRkL0lwZz09
 ---
 
