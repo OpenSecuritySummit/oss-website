@@ -23,3 +23,8 @@ zoom_link : https://zoom.us/j/93474678284?pwd=aWNBZC9qUGNhUEdreWF5OHRxQ2FUdz09
 
 ## About this session
 Glamorous Toolkit is the moldable development environment. It is a live notebook. It is a flexible search interface. It is a fancy code editor. It is a software analysis platform. It is a data visualization engine. All in one.
+
+See Part 1 Part 2 videos for reference:
+- https://open-security-summit.org/sessions/2021/mini-summits/mar/misc/moldable-development-with-glamorous-toolkit-part-1/
+- https://open-security-summit.org/sessions/2021/mini-summits/mar/misc/moldable-development-with-glamorous-toolkit-part-2/
+
