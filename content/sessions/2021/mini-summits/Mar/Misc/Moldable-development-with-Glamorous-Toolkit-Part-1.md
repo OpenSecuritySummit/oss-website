@@ -31,4 +31,10 @@ Glamorous Toolkit is the moldable development environment.
 
 All in one.
 
-See it in action at https://gtoolkit.com/
+Try it at https://gtoolkit.com/
+
+
+See also Part 2 and Part 3 videos/sessions:
+- https://open-security-summit.org/sessions/2021/mini-summits/mar/misc/moldable-development-with-glamorous-toolkit-part-2/
+- https://open-security-summit.org/sessions/2021/mini-summits/mar/misc/moldable-development-with-glamorous-toolkit-part-3/
+
