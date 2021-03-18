@@ -15,7 +15,7 @@ status       : draft
 description  :
 organizers   :
     - Timo Pagel
-youtube_link : 
+youtube_link : AElSBKSizc
 zoom_link    : https://zoom.us/j/98439115985?pwd=WnREL25sUzBlcnAraXpyaDkveHNWQT09
 ---
 
