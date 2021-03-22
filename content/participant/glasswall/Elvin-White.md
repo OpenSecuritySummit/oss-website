@@ -1,6 +1,6 @@
 ---
 title: Elvin White
-image: https://media-exp1.licdn.com/dms/image/C5603AQFlsvYbmw9GCw/profile-displayphoto-shrink_800_800/0/1517431680938?e=1616025600&v=beta&t=JyMW2jEScL2F-p1700AY4-a5VF5pZhkQlVCxjL6dzlA
+image: https://media-exp1.licdn.com/dms/image/C5603AQFlsvYbmw9GCw/profile-displayphoto-shrink_800_800/0/1517431680938?e=1622073600&v=beta&t=deZk4afa-kkr7BUqes3YnhSMRxkyrmHXrip77_4U0N4
 company: Glasswall
 job_title: Head of Core Engineering
 facebook:
