@@ -1,5 +1,5 @@
 ---
-title        : Serverless static analysis with O2 Platform
+title        : Static analysis with O2 Platform
 track        : Owasp
 type         : working-session
 topics       :
@@ -21,7 +21,7 @@ zoom_link    : https://zoom.us/j/95468269751?pwd=Y3c4NkNQK1doRXhnUmJSR1BJdENSZz0
 
 ## About this session
 
-This session will focus on how to use O2 Platform's Static Analysis tools in a serverless (AWS Lambda) environment
+This session will focus on how to use O2 multiple Platform's Static Analysis tools
 
 ### O2 Platform
 
