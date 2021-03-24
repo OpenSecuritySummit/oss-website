@@ -1,5 +1,5 @@
 ---
-title        : Graph based Risk Framework
+title        : The RATs and CATs of Risk - Graph based Risk Framework
 track        :
 type         : working-session
 topics       :
