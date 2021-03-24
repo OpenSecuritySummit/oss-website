@@ -1,6 +1,6 @@
 ---
 title        : Secure Access to Kubernetes pods using teleport
-track        :
+track        : DevSecOps
 type         : working-session
 topics       :
 featured     :
@@ -9,14 +9,14 @@ when_year    : 2021
 when_month   : Apr
 when_day     : Mon
 when_time    : WS-4
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/secure-access-to-kubernetes-pods-using-teleport/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - TBD
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/97852745916?pwd=YlFZeXlsTVFCVUVMOTZKb1dNVFM2Zz09
 ---
 
 ## About this session
