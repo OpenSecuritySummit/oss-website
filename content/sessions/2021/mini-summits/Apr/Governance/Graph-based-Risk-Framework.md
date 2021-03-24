@@ -9,17 +9,18 @@ when_year    : 2021
 when_month   : Apr
 when_day     : Fri
 when_time    : WS-2
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-cats-and-rats-of-risk-graph-based-risk-framework/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Petra Vukmirovic
     - Abbas Haidar
+    - Chris Holman
 youtube_link :
-zoom_link    :
+zoom_link    :  https://zoom.us/j/93960677862?pwd=dWRMeGdJeWlWSCtvZDFFU043a2ZPUT09
 ---
 
 ## About this session
 
-Petra and Abbas are going to be presenting the latest version of the Graph-based Risk Framework
+Petra, Chris and Abbas are going to be presenting the latest version of the Graph-based Risk Framework
