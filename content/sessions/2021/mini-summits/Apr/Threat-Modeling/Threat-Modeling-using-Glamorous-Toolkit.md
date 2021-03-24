@@ -9,14 +9,14 @@ when_year    : 2021
 when_month   : Apr
 when_day     : Thu
 when_time    : WS-2
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-using-glamorous-toolkit/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Tudor Girba
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/99321087894?pwd=M0NwdGJOWnVvVm1BeEhFK25OUE9yQT09
 ---
 
 ## About this session
