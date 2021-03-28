@@ -9,14 +9,14 @@ when_year    : 2021
 when_month   : Apr
 when_day     : Mon
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-vpc-flows-to-monitor-ec2-traffic/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Michael Hidalgo
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/95592565242?pwd=TDdpMURseXNlZHVtYjF5dUpqRm1Odz09
 ---
 
 ## About this session
