@@ -1,6 +1,6 @@
 ---
 title        : Creating 1 million kubernetes pods - Lessons learned
-track        :
+track        : DevSecOps
 type         : working-session
 topics       :
 featured     :
@@ -9,14 +9,14 @@ when_year    : 2021
 when_month   : Apr
 when_day     : Tue
 when_time    : WS-4
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/creating-1-million-kubernetes-pods-lessons-learned/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - TBD
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/94856510339?pwd=VWFpa2tYQXV3Qy96NGFqdDk2VnFjUT09
 ---
 
 ## About this session
