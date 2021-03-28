@@ -1,6 +1,6 @@
 ---
 title        : Graph based Risk Policy
-track        :
+track        : Governance
 type         : working-session
 topics       :
 featured     :

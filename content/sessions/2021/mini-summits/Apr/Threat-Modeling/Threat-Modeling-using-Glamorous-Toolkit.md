@@ -1,6 +1,6 @@
 ---
 title        : Threat Modeling using Glamorous Toolkit
-track        :
+track        : Threat Modeling
 type         : working-session
 topics       :
 featured     :

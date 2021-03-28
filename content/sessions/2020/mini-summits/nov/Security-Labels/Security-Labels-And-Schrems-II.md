@@ -4,7 +4,9 @@ type         : working-session
 track        : Security Labels
 topics       : 
 when         : Nov 12th Thursday
-when_week    : 
+event        : mini-summit
+when_year    : 2020
+when_month   : Nov
 when_day     : Thu
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/main-session-security-labels-schrems-ii/

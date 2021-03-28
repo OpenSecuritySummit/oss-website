@@ -5,7 +5,9 @@ track        : Secure by Scenario
 topics       : 
 when         : Nov 9th Mon
 when_week    :
-when_month   : Nov 
+event        : mini-summit
+when_year    : 2020
+when_month   : Nov
 when_day     : Mon
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-to-build-your-own-scenario-and-run-it/

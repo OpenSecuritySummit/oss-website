@@ -1,6 +1,6 @@
 ---
 title        : Positive Security models and Rebuilding into a "Known Good" state
-track        : DevSecOps
+track        : CDR
 type         : working-session
 topics       :
 featured     :
@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Dinis Cruz
 youtube_link :
-zoom_link    : 
+zoom_link    :
 ---
 
 ## About this session

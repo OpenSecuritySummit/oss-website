@@ -1,6 +1,6 @@
 ---
 title        : Modern Office Spaces
-track        :
+track        : Governance
 type         : working-session
 topics       :
 featured     :

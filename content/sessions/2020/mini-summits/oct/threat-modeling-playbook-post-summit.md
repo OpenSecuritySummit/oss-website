@@ -1,11 +1,13 @@
 ---
 title        : Threat Modeling Playbook
 track        : Threat Modeling
-type         : training-session
+type         : working-session
 topics       :
-when_week    : 
-when_day     : 12th - Monday
-when_time    : BK-2
+event        : mini-summit
+when_year    : 2020
+when_month   : Oct
+when_day     : Mon
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-playbook-session-one/
 session_slack:
 status       :            # draft, review-content

@@ -1,6 +1,6 @@
 ---
 title: Andrew van der Stock
-image: https://media-exp1.licdn.com/dms/image/C5603AQGZf77he2LMeg/profile-displayphoto-shrink_800_800/0/1584729004298?e=1614211200&v=beta&t=ABNK55AIZiV77TIsLz3BR_I5OmhDhBnOQ3ctPKxYq5Q
+image: /content/participant/Andrew-van-der-Stock.jpeg
 company: OWASP
 job_title: Executive Director
 facebook:

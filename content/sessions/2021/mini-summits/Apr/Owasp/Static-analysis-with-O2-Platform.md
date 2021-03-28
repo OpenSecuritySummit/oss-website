@@ -1,5 +1,5 @@
 ---
-title        : O2 Platform tools you can use today
+title        : Static analysis with Owasp O2 Platform
 track        : Owasp
 type         : working-session
 topics       :
@@ -7,7 +7,7 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : Apr
-when_day     : Wed
+when_day     : Fri
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/serverless-static-analysis-with-o2-platform
 session_slack:
@@ -21,7 +21,7 @@ zoom_link    : https://zoom.us/j/95468269751?pwd=Y3c4NkNQK1doRXhnUmJSR1BJdENSZz0
 
 ## About this session
 
-This session will focus on how the multiple O2 Platform tools you can use today
+This session will focus on how to use O2 multiple Platform's Static Analysis tools
 
 ### O2 Platform
 

@@ -4,7 +4,9 @@ type         : working-session
 track        : Threat Modeling
 when         : Nov 11th Wednesday
 topics       : 
-when_week    : 
+event        : mini-summit
+when_year    : 2020
+when_month   : Nov
 when_day     : Wed
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-for-schrems-ii/

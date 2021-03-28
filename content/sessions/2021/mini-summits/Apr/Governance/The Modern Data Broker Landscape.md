@@ -1,6 +1,6 @@
 ---
 title        : The Modern Data Broker Landscape
-track        :
+track        : Governance
 type         : working-session
 topics       :
 featured     :

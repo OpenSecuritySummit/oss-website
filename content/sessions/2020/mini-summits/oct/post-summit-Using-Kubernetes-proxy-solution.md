@@ -1,11 +1,14 @@
 ---
 title        : "Using Kubernetes to create a scalable Security Proxy solution"
-type         : training-session
-track        : Using Proxies
+type         : working-session
+track        : DevSecOps
 topics       : 
-when_week    : 
-when_day     : 13th- Tuesday
-when_time    : WS-5
+when_week    :
+event        : mini-summit
+when_year    : 2020
+when_month   : Oct
+when_day     : Tue
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-proxies-1/
 session_slack:
 status       :           # draft, review-content

@@ -1,6 +1,6 @@
 ---
 title        : The RATs and CATs of Risk - Graph based Risk Framework
-track        :
+track        : Governance
 type         : working-session
 topics       :
 featured     :

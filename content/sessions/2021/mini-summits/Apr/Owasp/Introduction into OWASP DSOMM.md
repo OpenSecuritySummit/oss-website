@@ -1,6 +1,6 @@
 ---
 title        : Introduction into OWASP DSOMM
-track        : DevSecOps
+track        : Owasp
 type         : working-session
 topics       :
 featured     :

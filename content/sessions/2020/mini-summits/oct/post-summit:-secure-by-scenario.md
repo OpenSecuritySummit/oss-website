@@ -1,11 +1,13 @@
 ---
 title        : "Secure by Scenario"
 track        : Secure by Scenario
-type         : training-session
+type         : working-session
 topics       :
-when_week    : 
-when_day     : 14th Wednesday
-when_time    : WS-3
+event        : mini-summit
+when_year    : 2020
+when_month   : Oct
+when_day     : Wed
+when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-by-scenario-1/
 session_slack:
 status       :            # draft, review-content
@@ -15,8 +17,6 @@ organizers   :
         - Didar Gelici
 youtube_link : 
 zoom_link    :  https://zoom.us/j/95512016922?pwd=QkdkY1NLNkxnWGpObEVqOTZnTG92dz09
-
-
 ---
 ## About this talk:
 

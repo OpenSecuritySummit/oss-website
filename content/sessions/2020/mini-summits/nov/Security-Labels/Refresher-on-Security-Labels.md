@@ -4,8 +4,10 @@ type         : working-session
 track        : Security Labels
 topics       : 
 when         : Nov 10th Tuesday
-when_week    : 
-when_month   : 
+when_week    :
+event        : mini-summit
+when_year    : 2020
+when_month   : Nov
 when_day     : Tue
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/refresher-on-security-labels/

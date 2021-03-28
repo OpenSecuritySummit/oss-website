@@ -15,6 +15,95 @@ paginate = 10
 
 [menu]
 
+[[menu.main]]
+    name = "Schedule"
+    identifier = "schedule"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 2
+#    parent = "sessions"
+    url = "/schedule"
+[[menu.main]]
+    name = "Tracks"
+    identifier = "tracks"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 3
+    url = "/tracks/"
+
+[[menu.main]]
+    name = "Past Summits"
+    identifier = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 5
+
+[[menu.main]]
+    name = "Mar 2021"
+    identifier = "event-mar-2021"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 5
+    url = "/sessions/2021/mini-summits/mar/"
+[[menu.main]]
+    name = "Jan 2021"
+    identifier = "event-jan-2021"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 6
+    url = "/sessions/2021/mini-summits/jan/"
+
+[[menu.main]]
+    name = "Dec 2020"
+    identifier = "event-dec-2020"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 7
+    url = "/sessions/2020/mini-summits/dec/"
+
+[[menu.main]]
+    name = "Nov 2020"
+    identifier = "event-nov-2020"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 8
+    url = "/sessions/2020/mini-summits/nov/"
+
+[[menu.main]]
+    name = "Oct 2020"
+    identifier = "event-ot-2020"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 9
+    url = "/sessions/2020/mini-summits/oct/"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 10
+    url = "/about/"
+[[menu.main]]
+    name = "The Summit"
+    identifier = "about-the-summit"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 20
+    parent = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "Faq"
+    identifier = "faq"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 22
+    parent = "about"
+    url = "/faq/"
+[[menu.main]]
+    name = "Sponsors"
+    identifier = "sponsors"
+    weight = 51
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    url = "/sponsors/"
+    parent = "about"
+
+### OLD menus
+
 # Main menu
 #[[menu.main]]
 #    name = "Reactions"
@@ -52,28 +141,6 @@ paginate = 10
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 3
 #    url = "/working-sessions/"
-
-[[menu.main]]
-    name = "Schedule (Mar 2021)"
-    identifier = "schedule"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 2
-#    parent = "sessions"
-    url = "/schedule"
-[[menu.main]]
-    name = "Tracks (Mar 2021)"
-    identifier = "tracks"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 3
-    url = "/tracks/"
-
-[[menu.main]]
-    name = "Dec 2020 Mini-Summit"
-    identifier = "2020-dec-event"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 5
-    url = "/sessions/2020/mini-summits/dec/"
-
 
 #[[menu.main]]
 #    name = "Trainings"
@@ -139,25 +206,7 @@ paginate = 10
 #    weight = 14
 #    parent = "participants"
 #    url = "/participant-remote/"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 10
-    url = "/about/"
-#[[menu.main]]
-#    name = "Schedule Redisgin"
-#    identifier = "schedule-new"
-#    weight = 11
-#    parent = "about"
-#    url = "/schedule-new/"
-[[menu.main]]
-    name = "The Summit"
-    identifier = "about-the-summit"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 20
-    parent = "about"
-    url = "/about/"
+
 #[[menu.main]]
 #    name = "Venue"
 #    identifier = "venue"
@@ -165,20 +214,6 @@ paginate = 10
 #    weight = 21
 #    parent = "about"
 #    url = "/venue/"
-[[menu.main]]
-    name = "Faq"
-    identifier = "faq"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 22
-    parent = "about"
-    url = "/faq/"
-[[menu.main]]
-    name = "Sponsors"
-    identifier = "sponsors"
-    weight = 51
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    url = "/sponsors/"
-    parent = "about"
 
 #[[menu.main]]
 #    name = "Partners"
