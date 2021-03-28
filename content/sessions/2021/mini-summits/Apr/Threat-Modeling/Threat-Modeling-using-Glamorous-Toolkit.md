@@ -14,6 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
+    - Dinis Cruz
     - Tudor Girba
 youtube_link :
 zoom_link    : https://zoom.us/j/99321087894?pwd=M0NwdGJOWnVvVm1BeEhFK25OUE9yQT09
