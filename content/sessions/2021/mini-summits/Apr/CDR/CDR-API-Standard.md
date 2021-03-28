@@ -7,8 +7,8 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : Apr
-when_day     : Thu
-when_time    : WS-3
+when_day     : Wed
+when_time    : WS-4
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cdr-api-standard/
 session_slack:
 #status       : draft

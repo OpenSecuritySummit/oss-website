@@ -1,21 +1,20 @@
 ---
-title        : Modern Office Spaces
-track        :
+title        : ASVS User Stories creation (part 2)
+track        : OWASP
 type         : working-session
 topics       :
 featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : Apr
-when_day     : Thu
-when_time    : WS-3
+when_day     : Fri
+when_time    : WS-4
 hey_summit   : TBD
 session_slack:
 #status       : draft
 description  :
 organizers   :
-    - Dinis Cruz
-    - Adam Leon Smith
+    - Mario Platt
 youtube_link :
 zoom_link    :
 ---

@@ -8,7 +8,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Apr
 when_day     : Fri
-when_time    : WS-3
+when_time    : WS-2
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/graph-based-risk-policy/
 session_slack:
 #status       : draft
