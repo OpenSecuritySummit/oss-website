@@ -3,22 +3,18 @@
 
 {{ $pages         := partial "params/next-event-sessions.html" $this  }}
 
-{{ $this.Scratch.Set "has-session" true }}
 
-{{ if  $this.Scratch.Get "has-session" }}
-    {{ if .title}}
-        <div class="container schedule-session-group">
-            <div class="row">
-            <h2>{{upper .title}}</h2>
-        </div>
-      </div>
-    {{ end }}
+{{ if .title}}
+    <div class="container schedule-session-group">
+        <div class="row">
+        <h2>{{upper .title}}</h2>
+    </div>
+  </div>
+{{ end }}
 
-    {{ with .days}}
-        {{ range sort . "order"}}
-            {{ $sessions := where $pages ".Params.when_day" .key }}
-            {{ printf "%+v" $sessions }}
-            {{ partial "schedule/list/day.html" (dict "this" $this "sessions" $sessions "day" .day "date" .date "month" .month) }}
-        {{ end}}
+{{ with .days}}
+    {{ range sort . "order"}}
+        {{ $sessions := where $pages ".Params.when_day" .key }}
+        {{ partial "schedule/list/day.html" (dict "this" $this "sessions" $sessions "day" .day "date" .date "month" .month) }}
     {{ end}}
 {{ end}}

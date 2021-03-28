@@ -7,8 +7,8 @@ day-35:
 day-36:
   date : "13th"
   day  : "Tuesday"
-  month: "March"
-  key  : "April"
+  month: "April"
+  key  : "Tue"
   order: 2
 day-37:
   date : "14th"
