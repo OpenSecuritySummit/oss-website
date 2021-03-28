@@ -1,6 +1,6 @@
 ---
 title: Tudor Girba
-image: https://pbs.twimg.com/profile_images/1370148445/me-closeup-square_400x400.jpg
+image: /content/participant/Tudor-Girba.jpeg
 company: feenk
 job_title: CEO / Software Environmentalist
 facebook:

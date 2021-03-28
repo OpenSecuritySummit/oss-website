@@ -1,6 +1,6 @@
 ---
 title: Abbas Haidar
-image: https://pbs.twimg.com/profile_images/1336253077284933633/1Zlmg9t3_400x400.jpg
+image: /content/participant/Abbas-Haidar.jpeg
 company: Glasswall
 job_title: Head of IT & InfoSec, DPO
 facebook:
