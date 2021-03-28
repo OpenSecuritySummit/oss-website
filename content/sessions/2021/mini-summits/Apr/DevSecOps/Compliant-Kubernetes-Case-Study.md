@@ -1,6 +1,6 @@
 ---
 title        : Compliant Kubernetes - Case Study
-track        :
+track        : DevSecOps
 type         : working-session
 topics       :
 featured     :
@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : Apr
 when_day     : Tue
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/compliant-kubernetes-case-study/
 session_slack:
 #status       : draft
 description  :
@@ -17,7 +17,7 @@ organizers   :
     - Jakub Krzywda
     - Cristian Klein
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/99696922692?pwd=Sm5EQUVZeGt6dnpnN3pKVWFpd292dz09
 ---
 
 ## About this session
