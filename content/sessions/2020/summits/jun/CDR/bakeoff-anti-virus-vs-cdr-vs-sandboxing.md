@@ -2,8 +2,6 @@
 title        : Bakeoff - Anti-virus vs CDR vs Sandboxing
 track        : Content Disarm & Reconstruction
 type         : working-session
-topics       :
-    - CDR
 featured     : yes
 event        : summit
 when_year    : 2020

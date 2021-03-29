@@ -1,0 +1,36 @@
+{{ define "nav" }}
+    <header class="full-bg background-FAQs">
+
+        <div class="dark-mask"></div>
+        {{ partial "nav.html" . }}
+
+    </header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+    <div class="inner_main_working_sessions">
+        <div class="center_heading">
+            <div class="container">
+                <h1>{{ .Title }} (OSS Project)</h1>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
+
+{{ define "content" }}
+
+    {{ .Content }}
+
+    <h3>Related Sessions</h3>
+        <ul>
+            {{ $sessions_from_track := where $.Site.Pages ".Params.track" "==" .Title}}
+            {{ $sessions_from_project := where $.Site.Pages ".Params.project" "==" .Title}}
+            {{ $sessions := union $sessions_from_track $sessions_from_project }}
+            {{ partial "sessions/simple-table-all-columns.html" $sessions }}
+        </ul>
+    <hr/>
+    <a href="/projects">Back to list of Projects</a>
+    <hr/>
+{{ end }}

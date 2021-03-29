@@ -1,6 +1,7 @@
 ---
 title        : ASVS User Stories creation (part 2)
 track        : Owasp
+project      : ASVS User Stories
 type         : working-session
 topics       :
 featured     :

@@ -1,0 +1,34 @@
+{{ define "nav" }}
+    <header class="full-bg background-FAQs">
+
+        <div class="dark-mask"></div>
+        {{ partial "nav.html" . }}
+
+    </header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+    <div class="inner_main_working_sessions">
+        <div class="center_heading">
+            <div class="container">
+                <h1>{{ .Title }}</h1>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
+
+{{ define "content" }}
+
+    {{ .Content }}
+
+    <ul>
+        {{ range where .Pages ".Params.type" "==" "project" }}
+            <li><a href="{{.Permalink}}">{{.Params.Title}}</a></li>
+        {{ end}}
+    </ul>
+
+
+
+{{ end }}
