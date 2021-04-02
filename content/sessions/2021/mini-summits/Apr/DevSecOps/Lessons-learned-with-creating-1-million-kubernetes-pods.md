@@ -14,7 +14,8 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - TBD
+    - Matthew Pigram
+    - Dharam Patel
 youtube_link :
 zoom_link    : https://zoom.us/j/94856510339?pwd=VWFpa2tYQXV3Qy96NGFqdDk2VnFjUT09
 ---

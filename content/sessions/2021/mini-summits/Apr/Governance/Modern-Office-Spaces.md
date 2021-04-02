@@ -7,7 +7,7 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : Apr
-when_day     : Mon
+when_day     : Wed
 when_time    : WS-6
 hey_summit   : TBD
 session_slack:
