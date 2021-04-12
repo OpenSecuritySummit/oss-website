@@ -20,9 +20,12 @@ zoom_link    : https://zoom.us/j/92028618998?pwd=UStsckFRNldjamw0cE8zMXkxOHR1UT0
 ---
 
 ## About this session
-In this workshop we will discuss questions like
+This is a hands-on workshop, your experience is very welcome.
+
+In this workshop we will think in small groups and present outcomes regarding questions like
 * Introduction of more activities like Web Application Firewalls (your experience is needed here)
-* Discussion of priorization of one dimension voted by the audiance
+* Comparation of OWASP DSOMM with [DevSecOps Maturity Model - A Team centric view - Public Request for comments](https://docs.google.com/spreadsheets/d/117qhaw7wEJ465_wLgv2e4C1FgcIiYWVOw2A3KZEiBl8/edit#gid=2096996119), specially security empowerment and take aways
+* Discussion of priorization of one dimension (maybe voted by the audiance)
 * Enhancement of maturity levels (e.g. 5 instead of 4) to provide a better priorization
 * Mapping to other models like [Gartner DevSecOps model/loop](https://github.com/wurstbrot/DevSecOps-MaturityModel/issues/14) and expected outcome/value
 * Gathering of requirements for the application
