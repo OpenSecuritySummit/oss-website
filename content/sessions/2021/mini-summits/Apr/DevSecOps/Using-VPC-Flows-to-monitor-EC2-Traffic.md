@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Michael Hidalgo
 youtube_link :
-zoom_link    : https://zoom.us/j/95592565242?pwd=TDdpMURseXNlZHVtYjF5dUpqRm1Odz09
+zoom_link    : https://zoom.us/j/95128317589?pwd=R3JmV3pkT0RYUkhldElBd3hqc0g1Zz09
 ---
 
 ## About this session
