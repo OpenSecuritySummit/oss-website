@@ -6,7 +6,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2021
-when_month   : Apr
+when_month   : May
 when_day     : Thu
 when_time    : WS-2
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-using-glamorous-toolkit/
