@@ -17,7 +17,7 @@ organizers   :
     - Jakub Krzywda
     - Cristian Klein
 youtube_link :
-zoom_link    : https://zoom.us/j/99696922692?pwd=Sm5EQUVZeGt6dnpnN3pKVWFpd292dz09
+zoom_link    : https://zoom.us/j/96180920546?pwd=WnFyYllwaVpMTyt2MkhiREM3b25Sdz09
 ---
 
 ## About this session
