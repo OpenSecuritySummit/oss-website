@@ -9,14 +9,14 @@ when_year    : 2021
 when_month   : May
 when_day     : Thu
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/positive-security-models-and-rebuilding-into-a-known-good-state/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Dinis Cruz
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/95728684273?pwd=WXZNZzh5ZWhzY3Job0s2L25FL3RYQT09
 ---
 
 ## About this session
