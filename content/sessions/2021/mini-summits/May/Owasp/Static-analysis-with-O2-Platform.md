@@ -9,14 +9,14 @@ when_year    : 2021
 when_month   : May
 when_day     : Fri
 when_time    : WS-6
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/static-analysis-with-owasp-o2-platform/
 session_slack:
 status       : 
 description  :
 organizers   :
     - Dinis Cruz
 youtube_link :
-zoom_link    : TBD
+zoom_link    : https://zoom.us/j/95576745474?pwd=Rk1EUk1jQTVEOVQvZ1NiVW9INTFTQT09
 ---
 
 ## About this session
