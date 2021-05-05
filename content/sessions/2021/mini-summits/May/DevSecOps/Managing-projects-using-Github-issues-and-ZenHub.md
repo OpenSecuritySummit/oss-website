@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Georgina Gonzalez
 youtube_link :
-zoom_link    :
+zoom_link    : https://zoom.us/j/92454483467?pwd=SE41M3JZZUFqcUMwaTZyTktmRG9zQT09
 ---
 
 ## About this session
