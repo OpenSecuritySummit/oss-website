@@ -1,10 +1,10 @@
 ---
 title: Georgina Gonzalez
-image: https://pbs.twimg.com/profile_images/1313790993137831938/GQr8Mc0F_400x400.jpg
+image: https://media-exp1.licdn.com/dms/image/C4E03AQGhP4hS731PBw/profile-displayphoto-shrink_800_800/0/1527028451382?e=1625702400&v=beta&t=7S5iXrMBnMKKEiTlJ_ucZAAGZ41hdLmdzi-17iCmQNo
 company: 
 job_title: Project Manager
 facebook: 
-linkedin: 
+linkedin: ggonzalezc
 twitter: 
 website:
 notes:
