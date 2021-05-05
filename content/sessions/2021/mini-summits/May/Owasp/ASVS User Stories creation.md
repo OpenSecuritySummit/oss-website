@@ -21,3 +21,4 @@ zoom_link    : https://zoom.us/j/95793165996?pwd=ZUlQdWNVTGVYdjBsRXlhRWhoaGdVUT0
 ---
 
 ## About this session
+Continuing a project started at OSS in 2018, we’ll talk about User stories (what they are and how to write them, and continue the contribution to the ASVS Agile Delivery guide https://github.com/mario-platt/ASVS-Agile-Delivery-Guide with the intent of breaking down into smaller groups and continue development
