@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : May
 when_day     : Tue
 when_time    : WS-3
-hey_summit   : TBC
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-glasswall-folder-to-folder-plugin/
 session_slack:
 #status       : draft
 description  :
