@@ -1,5 +1,5 @@
 ---
-title        : Static analysis with Owasp O2 Platform
+title        : Workshop on creating C# Tools using the Owasp O2 Platform
 track        : Owasp
 type         : working-session
 topics       :
@@ -7,7 +7,7 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : May
-when_day     : Fri
+when_day     : Thu
 when_time    : WS-6
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/static-analysis-with-owasp-o2-platform/
 session_slack:
@@ -21,7 +21,7 @@ zoom_link    : https://zoom.us/j/95576745474?pwd=Rk1EUk1jQTVEOVQvZ1NiVW9INTFTQT0
 
 ## About this session
 
-This session will focus on how to use O2 multiple Platform's Static Analysis tools
+This session will focus on how to use the O2 Platform multiple Platform's to easily create and deploy tools
 
 ### O2 Platform
 

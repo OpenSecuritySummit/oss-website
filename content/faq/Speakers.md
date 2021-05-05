@@ -7,7 +7,7 @@ layout      : FAQ
 
 ### who are the speakers?
 
-[Diniz Cruz](https://open-security-summit.org/participant/glasswall/dinis-cruz/)
+[Dinis Cruz](https://open-security-summit.org/participant/glasswall/dinis-cruz/)
 
 [Barak Shoster](https://open-security-summit.org/participant/organizers/-barak-schoster/)
 
