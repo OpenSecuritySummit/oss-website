@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : May
 when_day     : Mon
 when_time    : WS-3
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/scaling-incident-management-using-jira/
 session_slack:
 #status       : draft
 description  :
