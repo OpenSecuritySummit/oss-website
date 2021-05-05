@@ -9,7 +9,7 @@ when_year    : 2021
 when_month   : May
 when_day     : Wed
 when_time    : WS-2
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-we-achieved-s0c2-type-1-compliance-using-jira/
 session_slack:
 #status       : draft
 description  :
