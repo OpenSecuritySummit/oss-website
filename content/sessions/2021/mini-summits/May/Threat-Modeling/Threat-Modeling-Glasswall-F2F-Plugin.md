@@ -7,8 +7,8 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : May
-when_day     : Tue
-when_time    : WS-3
+when_day     : Fri
+when_time    : WS-4
 hey_summit   : TBC
 session_slack:
 #status       : draft

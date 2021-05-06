@@ -1,15 +1,15 @@
 ---
-title        : Scaling incident management using JIRA
+title        : Graph based Risk Policy
 track        : Governance
 type         : working-session
 topics       :
 featured     :
 event        : mini-summit
 when_year    : 2021
-when_month   : May
-when_day     : Mon
-when_time    : WS-3
-hey_summit   : TBD
+when_month   : June
+when_day     : Fri
+when_time    : WS-2
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/graph-based-risk-policy/
 session_slack:
 #status       : draft
 description  :

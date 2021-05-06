@@ -1,5 +1,5 @@
 ---
-title        : Graph based Risk Policy
+title        : What to do in preparation for a Threat Model
 track        : Governance
 type         : working-session
 topics       :
@@ -7,9 +7,9 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : May
-when_day     : Fri
-when_time    : WS-2
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/graph-based-risk-policy/
+when_day     : Mon
+when_time    : WS-3
+hey_summit   : TBD
 session_slack:
 #status       : draft
 description  :
@@ -22,4 +22,5 @@ zoom_link    : https://zoom.us/j/95436334033?pwd=U25QVDRCSGFWVGc3bFdhYnc1akVjZz0
 
 ## About this session
 
-Petra and Abbas are going to be presenting the latest version of the Graph-based Risk Framework
+Petra and Abbas are going to be presenting the guidance provided to developers
+before threat modeling sessions
