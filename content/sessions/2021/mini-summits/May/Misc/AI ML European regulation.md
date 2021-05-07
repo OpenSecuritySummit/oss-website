@@ -15,8 +15,7 @@ status       :
 description  :
 organizers   :
     - Jeff Jockish
-    - Adam Leon-Smith 
-    - Thomas Besore
+    - Adam Leon-Smith
     - Federico Marengo
 youtube_link :
 zoom_link    : https://zoom.us/j/96113890998?pwd=ZUhQQTNjaVZXK3VEc3grMlo0SCthQT09
