@@ -18,7 +18,7 @@ organizers   :
     - Abbas Haidar
     - Chris Holman
 youtube_link :
-zoom_link    : https://zoom.us/j/95436334033?pwd=U25QVDRCSGFWVGc3bFdhYnc1akVjZz09
+zoom_link    : https://zoom.us/j/92360182899?pwd=clNwTjNZQ2VaVlpQUFJVRWViRHQzZz09
 ---
 
 ## About this session
