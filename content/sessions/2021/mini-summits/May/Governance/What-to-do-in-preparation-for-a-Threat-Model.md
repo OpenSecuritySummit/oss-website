@@ -16,11 +16,12 @@ description  :
 organizers   :
     - Petra Vukmirovic
     - Abbas Haidar
+    - Chris Holman
 youtube_link :
 zoom_link    : https://zoom.us/j/95436334033?pwd=U25QVDRCSGFWVGc3bFdhYnc1akVjZz09
 ---
 
 ## About this session
 
-Petra and Abbas are going to be presenting the guidance provided to developers
+Petra, Abbas and Chris are going to be presenting the guidance provided to developers
 before threat modeling sessions
