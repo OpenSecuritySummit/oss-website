@@ -17,6 +17,7 @@ organizers   :
     - Dinis Cruz
     - Petra Vukmirovic
     - Chris Holman
+    - Abbas Haider
 youtube_link :
 zoom_link    : https://zoom.us/j/98467712978?pwd=ZFg2bXJvUzQ4YW1wbjdSblF2NjQrZz09
 ---
