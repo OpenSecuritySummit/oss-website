@@ -36,6 +36,22 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
+    name = "May 2021"
+    identifier = "event-may-2021"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 3
+    url = "/sessions/2021/mini-summits/may/"
+
+[[menu.main]]
+    name = "Apr 2021"
+    identifier = "event-apr-2021"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 4
+    url = "/sessions/2021/mini-summits/apr/"
+
+[[menu.main]]
     name = "Mar 2021"
     identifier = "event-mar-2021"
     parent = "past-summits"
