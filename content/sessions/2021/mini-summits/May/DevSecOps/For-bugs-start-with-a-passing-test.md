@@ -17,6 +17,7 @@ organizers   :
     - Dinis Cruz
 youtube_link : https://www.youtube.com/watch?v=mVqGYlTGSic
 zoom_link    : 
+slide_id     : 2PACX-1vQy3jIPaCWcfjFxLec0c9nKiIPGiOQJjKXjo8VdLRdhUZNQMfgfdqsGbP3EycyKWkBW7Kg6O2JQ1t5n
 ---
 
 ## About this session
