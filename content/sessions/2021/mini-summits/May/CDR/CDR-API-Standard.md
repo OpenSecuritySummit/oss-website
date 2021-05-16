@@ -19,7 +19,7 @@ organizers   :
     - Elvin White
     - Paul Farrington
 youtube_link :
-zoom_link    : https://zoom.us/j/96259860695?pwd=djNZVFJWSmltKzRtZ3dYaXdYd3NLUT09
+zoom_link    :  https://zoom.us/j/94951892968?pwd=TFppTi9pU2lPSVNaL1FObXE5TCttUT09
 ---
 
 ## About this session

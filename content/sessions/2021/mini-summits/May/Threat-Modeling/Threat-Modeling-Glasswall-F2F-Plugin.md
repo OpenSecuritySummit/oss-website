@@ -17,10 +17,12 @@ description  :
 organizers   :
     - Dinis Cruz
     - Petra Vukmirovic
+    - Chris Holman
+    - Abbas Haidar
 youtube_link :
-zoom_link    : https://zoom.us/j/99321087894?pwd=M0NwdGJOWnVvVm1BeEhFK25OUE9yQT09
+zoom_link    : https://zoom.us/j/96181131761?pwd=UkxCbzFtMzdRanFCTWFCbjNmbmdmUT09
 ---
 
 ## About this session
 
-Practical session on Threat Modeling the Glasswal Cloud SDK
+Practical session on Threat Modeling the Glasswall Cloud SDK

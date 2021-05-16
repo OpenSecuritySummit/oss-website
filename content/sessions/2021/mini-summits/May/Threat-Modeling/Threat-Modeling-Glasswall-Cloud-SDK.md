@@ -9,15 +9,17 @@ when_year    : 2021
 when_month   : May
 when_day     : Fri
 when_time    : WS-2
-hey_summit   : TBC
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-glasswall-cloud-sdk/
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Dinis Cruz
     - Petra Vukmirovic
+    - Chris Holman
+    - Abbas Haidar
 youtube_link :
-zoom_link    : https://zoom.us/j/99321087894?pwd=M0NwdGJOWnVvVm1BeEhFK25OUE9yQT09
+zoom_link    : https://zoom.us/j/98467712978?pwd=ZFg2bXJvUzQ4YW1wbjdSblF2NjQrZz09
 ---
 
 ## About this session
