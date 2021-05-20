@@ -8,7 +8,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Jun
 when_day     : Wed
-when_time    : WS-2
+when_time    : WS-3
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-we-achieved-s0c2-type-1-compliance-using-jira/
 session_slack:
 #status       : draft
@@ -17,7 +17,7 @@ organizers   :
     - Petra Vukmirovic
     - Abbas Haidar
 youtube_link :
-zoom_link    : https://zoom.us/j/95436334033?pwd=U25QVDRCSGFWVGc3bFdhYnc1akVjZz09
+zoom_link    : https://zoom.us/j/91763874252?pwd=Z3RMTzBFcXFQS0tRa2dLYnI4dlE1UT09
 ---
 
 ## About this session
