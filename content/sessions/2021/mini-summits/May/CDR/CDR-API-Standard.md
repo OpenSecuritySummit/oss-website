@@ -18,7 +18,7 @@ organizers   :
     - Paul Burke
     - Elvin White
     - Paul Farrington
-youtube_link :
+youtube_link : https://www.youtube.com/watch?v=bxacD5z4Zhg
 zoom_link    :  https://zoom.us/j/94951892968?pwd=TFppTi9pU2lPSVNaL1FObXE5TCttUT09
 ---
 
