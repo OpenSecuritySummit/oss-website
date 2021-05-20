@@ -15,7 +15,7 @@ status       :
 description  :
 organizers   :
     - Georgina Gonzalez
-youtube_link :
+youtube_link : https://www.youtube.com/watch?v=v7XkBBhJaqo
 zoom_link    : https://zoom.us/j/92013873110?pwd=Wm1HZUhYd2ZKWTVteTZ3a0VmQ1Bsdz09
 ---
 
