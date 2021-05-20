@@ -15,7 +15,7 @@ status       :
 description  :
 organizers   :
     - Dinis Cruz
-youtube_link :
+youtube_link : https://www.youtube.com/watch?v=zjfUyHudUro
 zoom_link    : https://zoom.us/j/94412369063?pwd=TkdKemh2YjdNNFM1OWo1UW1UOHFpUT09
 ---
 
