@@ -17,7 +17,7 @@ organizers   :
     - Jeff Jockisch
     - Adam Leon Smith
     - Federico Marengo
-youtube_link :
+youtube_link : https://www.youtube.com/watch?v=eLfC-0Jrrso
 zoom_link    : https://zoom.us/j/96113890998?pwd=ZUhQQTNjaVZXK3VEc3grMlo0SCthQT09
 ---
 
