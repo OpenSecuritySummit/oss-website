@@ -18,7 +18,7 @@ organizers   :
     - Petra Vukmirovic
     - Chris Holman
     - Abbas Haidar
-youtube_link :
+youtube_link : https://www.youtube.com/watch?v=-nLd6hDf-kE
 zoom_link    : https://zoom.us/j/98467712978?pwd=ZFg2bXJvUzQ4YW1wbjdSblF2NjQrZz09
 ---
 
