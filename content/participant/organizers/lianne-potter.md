@@ -1,6 +1,6 @@
 ---
 title: Lianne Potter
-image: https://media-exp1.licdn.com/dms/image/D4E35AQFtTXGOhtciVw/profile-framedphoto-shrink_200_200/0/1621594745973?e=1622106000&v=beta&t=AYJChMKVWu8cPuPeLcbCGs-Ely9ulVL6T4-iFli5aN0
+image: https://media-exp1.licdn.com/dms/image/D4E35AQFtTXGOhtciVw/profile-framedphoto-shrink_800_800/0/1621594745973?e=1622296800&v=beta&t=UrkyqC33Mju5qCPoe_GAi-S89eDdggtNFZhEPn1LTsE
 company: The AnthroSecurist
 job_title: Cybersecurity Transformation Leader 
 facebook:
