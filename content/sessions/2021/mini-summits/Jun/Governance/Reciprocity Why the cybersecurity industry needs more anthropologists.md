@@ -20,6 +20,8 @@ zoom_link    : https://zoom.us/j/98781646462?pwd=ZmNRaW1kNXBXeUlpNnR6d0lFbjZvZz0
 ---
 
 ## About this session
+In this 1 hour session Lianne will discuss:
+
 By 2025 it is estimated $10.5 trillion will be lost to cyber criminals.
 
 Hacking humans is a very lucrative business. Social engineering is one of the easiest and most effective ways to access a secure system. Cyber criminals know this, and they are increasingly leaning on the research and techniques of the social science disciplines to leverage the human element into letting them into our lives, our businesses and our bank accounts. Yet, while the security industry is always striving to be ‘one step ahead’ of the criminals in terms of technical capabilities, it often neglects the need to consider the very social nature of hacking.
