@@ -1,5 +1,5 @@
 ---
-title        : ASVS User Stories creation (part 5)
+title        : ASVS User Stories creation 
 track        : Owasp
 project      : ASVS User Stories
 type         : working-session
