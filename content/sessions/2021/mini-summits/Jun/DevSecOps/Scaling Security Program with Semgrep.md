@@ -30,19 +30,19 @@ Semgrep can be used to manually find bugs and code hotspots, or easily integrate
 
 Why Semgrep?
 
-* It’s free and open source - use it in your environment however you like!
-* It supports 10+ languages, with more constantly being added. Master one tool and use it everywhere in your polyglot environment, no need to learn and maintain many language-specific tools.
-* Over 1,000 out-of-the-box, community-written open source rules covering the OWASP Top 10 and security anti-patterns. There’s also performance, correctness and robustness rules as well - win over your colleagues in engineering!
-* It’s fast - Semgrep scans large code bases in minutes, not hour or days.
-* Semgrep rules look like the code you’re targeting - target bad code specific to your company in minutes, no need to spend weeks learning a complicated, proprietary DSL.
+- It’s free and open source - use it in your environment however you like!
+- It supports 10+ languages, with more constantly being added. Master one tool and use it everywhere in your polyglot environment, no need to learn and maintain many language-specific tools.
+- Over 1,000 out-of-the-box, community-written open source rules covering the OWASP Top 10 and security anti-patterns. There’s also performance, correctness and robustness rules as well - win over your colleagues in engineering!
+- It’s fast - Semgrep scans large code bases in minutes, not hour or days.
+-Semgrep rules look like the code you’re targeting - target bad code specific to your company in minutes, no need to spend weeks learning a complicated, proprietary DSL.
 
 This workshop will be about 90% live walkthroughs and hands-on lab exercises.
 
 We’ll cover:
 
-* How use Semgrep to start getting security coverage of all of your repos continuously in CI in minutes
-* Best practices in rolling out continuous code scanning - what to focus on, what to ignore, and how to maintain good working relationships with development teams
-* How to use this scanning to enforce secure defaults across your org
-* How to write custom Semgrep rules - find anti-patterns and enforce security best practices unique to your organization.
+- How use Semgrep to start getting security coverage of all of your repos continuously in CI in minutes
+- Best practices in rolling out continuous code scanning - what to focus on, what to ignore, and how to maintain good working relationships with development teams
+- How to use this scanning to enforce secure defaults across your org
+- How to write custom Semgrep rules - find anti-patterns and enforce security best practices unique to your organization.
 
 You’ll leave this workshop with knowledge and skills you can immediately put into practice: for internal security engineers, you’ll have new capabilities for scaling your company’s security. For pen testers and offense-focused security professionals, we’ll up your bug finding game to a new level.
