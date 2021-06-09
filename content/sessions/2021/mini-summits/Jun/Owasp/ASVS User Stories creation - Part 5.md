@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Jun
 when_day     : Fri
-when_time    : WS-3
+when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/asvs-user-stories-creations-1/
 session_slack:
 #status       : draft
