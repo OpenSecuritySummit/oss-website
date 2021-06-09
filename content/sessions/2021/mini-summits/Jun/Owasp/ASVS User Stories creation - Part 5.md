@@ -1,5 +1,5 @@
 ---
-title        : ASVS User Stories creation (part 5)
+title        : ASVS User Stories creation 
 track        : Owasp
 project      : ASVS User Stories
 type         : working-session
@@ -7,9 +7,9 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2021
-when_month   : Jun
+when_month   : 
 when_day     : Fri
-when_time    : WS-3
+when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/asvs-user-stories-creations-1/
 session_slack:
 #status       : draft
