@@ -8,7 +8,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Jun
 when_day     : Thu
-when_time    : WS-15-17
+when_time    : WS-17-19
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/scaling-your-security-program-with-semgrep/
 session_slack:
 #status      : draft
