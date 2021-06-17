@@ -16,7 +16,8 @@ description  :
 organizers   :
     - Clint Gibler
 youtube_link :
-zoom_link    :  https://zoom.us/j/98959666558?pwd=Z0h1UDZZU1I3ckNaRHhpQjkxdXJUUT09
+slide_id     : 2PACX-1vTqt3ZMx2X8REYsXw2hkvigRzCKg9yjiPwLMq-rovrsyC7scZZ7ne_rHlyrFEDQ6KhnTO5G6UFgBMSH 
+zoom_link    : https://zoom.us/j/98959666558?pwd=Z0h1UDZZU1I3ckNaRHhpQjkxdXJUUT09
 ---
 
 ## About this session
