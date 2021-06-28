@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Mario Platt
 youtube_link :
-zoom_link    : https://zoom.us/j/95793165996?pwd=ZUlQdWNVTGVYdjBsRXlhRWhoaGdVUT09
+zoom_link    :  https://zoom.us/j/95793165996?pwd=ZUlQdWNVTGVYdjBsRXlhRWhoaGdVUT09
 ---
 
 ## About this session
