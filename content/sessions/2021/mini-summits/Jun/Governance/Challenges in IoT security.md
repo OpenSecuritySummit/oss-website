@@ -15,8 +15,8 @@ session_slack:
 description  :
 organizers   :
     - Nicolas Boeckh
-youtube_link :
-zoom_link    : https://zoom.us/j/93266724892?pwd=SXpHVThvdTdwSW5tdG9wenJjcTcrUT09
+youtube_link : https://www.youtube.com/watch?v=CxmfTh72MyU
+zoom_link    : 
 ---
 
 ## About this session
