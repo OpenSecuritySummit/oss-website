@@ -15,8 +15,8 @@ session_slack:
 description  :
 organizers   :
     - James Bore
-youtube_link :
-zoom_link    : https://zoom.us/j/98427383833?pwd=ZXFYVml2WHUxbUx3Q25yQXRIR1RRdz09
+youtube_link : https://www.youtube.com/watch?v=VPEOb41jqVY
+zoom_link    : 
 ---
 
 ## About this session
