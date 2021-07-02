@@ -15,8 +15,8 @@ session_slack:
 description  :
 organizers   :
     - Lianne Potter
-youtube_link :
-zoom_link    : https://zoom.us/j/98781646462?pwd=ZmNRaW1kNXBXeUlpNnR6d0lFbjZvZz09
+youtube_link : https://www.youtube.com/watch?v=d3-zt772dMU
+zoom_link    : 
 ---
 
 ## About this session
