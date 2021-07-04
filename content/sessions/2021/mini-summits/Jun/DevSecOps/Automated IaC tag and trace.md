@@ -15,8 +15,8 @@ session_slack:
 description  :
 organizers   :
     - Steve Giguere
-youtube_link :
-zoom_link    :  https://zoom.us/j/97722585735?pwd=bUlDdUdQbk82cUVhY0dvOGFjdmsvUT09
+youtube_link : 4va8kCSKbXE
+zoom_link    : 
 ---
 
 ## About this session
