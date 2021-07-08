@@ -15,7 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Clint Gibler
-youtube_link :
+youtube_link : https://www.youtube.com/watch?v=kb8oo7Wyk84&t=49s
 slide_id     : 2PACX-1vTqt3ZMx2X8REYsXw2hkvigRzCKg9yjiPwLMq-rovrsyC7scZZ7ne_rHlyrFEDQ6KhnTO5G6UFgBMSH 
 zoom_link    : 
 ---
