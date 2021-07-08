@@ -15,7 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Christian Schneider
-youtube_link :
+youtube_link : https://www.youtube.com/watch?v=mYD25nIGpKw
 zoom_link    : https://zoom.us/j/96040944702?pwd=dnpzWDNaRzFNYzZWbkJibFRoUk9kQT09
 ---
 
