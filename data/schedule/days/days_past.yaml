@@ -221,3 +221,34 @@ day-39:
   month: "May"
   key  : "Fri"
   order: 5
+day-40:
+  date : "14th"
+  day  : "Monday"
+  month: "Jun"
+  key  : "Mon"
+  order: 1
+day-41:
+  date : "15th"
+  day  : "Tuesday"
+  month: "Jun"
+  key  : "Tue"
+  order: 2
+day-42:
+  date : "16th"
+  day  : "Wednesday"
+  month: "Jun"
+  key  : "Wed"
+  order: 3
+day-43:
+  date : "17th"
+  day  : "Thursday"
+  month: "Jun"
+  key  : "Thu"
+  order: 4
+day-44:
+  date : "18th"
+  day  : "Friday"
+  month: "Jun"
+  key  : "Fri"
+  order: 5
+
