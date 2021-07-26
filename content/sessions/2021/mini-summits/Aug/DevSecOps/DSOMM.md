@@ -1,5 +1,5 @@
 ---
-title        : DSOMM
+title        : DSOMM News and Belts-Workshop
 track        : DevSecOps
 type         : working-session
 topics       :
@@ -20,3 +20,4 @@ zoom_link    : https://us06web.zoom.us/j/89035862312?pwd=S05xOTV4RWR2UFoyVHkyNnV
 ---
 
 ## About this session
+Some updates regarding the application will be disscussed. Afterwards, we will discuss the learning path/Belt Sytem from [AppsecureNrw](https://github.com/AppSecure-nrw/security-belts) and how to provide guidance like that into DSOMM.
