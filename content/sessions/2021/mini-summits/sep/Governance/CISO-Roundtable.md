@@ -6,7 +6,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2021
-when_month   : Aug
+when_month   : Sep
 when_day     : Tue
 when_time    : WS-2
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ciso-round-table/
