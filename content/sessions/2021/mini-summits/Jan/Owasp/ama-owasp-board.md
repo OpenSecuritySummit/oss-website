@@ -1,6 +1,6 @@
 ---
 title        : AMA with OWASP Board
-track        : Owasp
+project      : OWASP
 type         : working-session
 topics       :
 featured     :

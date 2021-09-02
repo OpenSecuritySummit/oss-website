@@ -1,6 +1,6 @@
 ---
 title        : Workshop on creating C# Tools using the Owasp O2 Platform
-track        : Owasp
+project      : OWASP
 type         : working-session
 topics       :
 featured     :

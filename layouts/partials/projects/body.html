@@ -1,0 +1,20 @@
+<section class="tracks-section">
+    <div class="container container-xl">
+        <div class="tracks-wrapper">
+            <div class="table">
+                {{ $styles := (slice "ciso" "cloud-security" "content-disarm" "covid" "devsecops" "hacking" "isg" "lightning" "misc" "owasp-asvs" "owasp-juice-shop" "owasp-projects" "security-standards" "social" "threat-modeling" "wardleymaps") }}
+                {{ $projects := where .Site.Pages ".Params.type" "project" }}
+
+
+                <hr>
+
+                {{ range $index, $project := $projects }}
+                    {{ $style          := index $styles $index}}
+                    {{ partial "projects/project-box.html" (dict "project" $project "style" $style ) }}
+
+                {{ end }}
+            </div>
+
+        </div>
+    </div>
+</section>

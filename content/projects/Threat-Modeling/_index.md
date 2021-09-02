@@ -1,8 +1,15 @@
 ---
-title        : Threat Modeling
-type         : project
-layout       : project
-organizers   :
+title          : Threat Modeling
+type           : project
+layout         : project
+no-breadcrumbs :
+organizers     :
+description    : Project focused on Threat Modeling
+sponsor        : Irius Risk
+active_members:
+ - abc
+ - def
+ - ghi
 ---
 
 ## Threat Modeling

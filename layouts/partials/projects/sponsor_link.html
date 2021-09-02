@@ -1,0 +1,8 @@
+{{ if .Params.sponsor}}
+    {{ $sponsor := (where $.Site.Pages ".Params.title" .Params.sponsor)}}
+    {{ range $sponsor }}
+        <a href="{{.Permalink}}">{{.Params.Title}}</a>
+    {{ end }}
+{{ else }}
+    <a href="/sponsors">Become a sponsor</a>
+{{ end }}

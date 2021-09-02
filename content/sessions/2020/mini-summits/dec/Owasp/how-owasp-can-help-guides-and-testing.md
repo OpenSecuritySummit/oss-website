@@ -1,6 +1,6 @@
 ---
 title        : How Owasp can help Security Teams - Guides and Testing Tools
-track        : Owasp
+project      : OWASP
 type         : working-session
 topics       :
 featured     :

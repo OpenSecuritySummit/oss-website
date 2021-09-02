@@ -7,29 +7,65 @@
     </header>
 {{ end }}
 
-{{ define "breadcrumbs" }}
+{{ define "content" }}
 
-    <div class="inner_main_working_sessions">
-        <div class="center_heading">
-            <div class="container">
-                <h1>{{ .Title }} (OSS Project)</h1>
+
+
+    <div class="container-fluid">
+        <br/>
+        <div class="label label-success project_label">Project</div>
+        <div class="row">
+            <div class="col-xs-6 col-md-6 col-lg-6">
+                <div class="package project_name">
+                    <div class="sponsorship_options">
+                        <div class="packages">
+                            <div class="package gold"><h3 class="package-level">{{.Params.title}}</h3></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-6 col-md-6 col-lg-6">
+                <div>
+                    <div class="project_description">{{.Params.description}}</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6 col-md-6 col-lg-6">
+                <h1>Highlight Videos</h1>
+                {{ partial "projects/highlight_videos.html" . }}
+
+                <h1>Project Sessions</h1>
+                <ul>
+                    {{ $sessions_from_track := where $.Site.Pages ".Params.track" "==" .Title}}
+                    {{ $sessions_from_project := where $.Site.Pages ".Params.project" "==" .Title}}
+                    {{ $sessions := union $sessions_from_track $sessions_from_project }}
+                    {{ partial "sessions/simple-table-all-columns.html" $sessions }}
+                </ul>
+            </div>
+            <div class="col-xs-6 col-md-6 col-lg-6">
+
+                <h1>Sponsored by</h1>
+
+                {{ partial "projects/sponsor_link.html" .}}
+
+                <h1>Active Members</h1>
+                {{$pages := .Site.Pages}}
+                    {{range .Params.active_members}}
+                        {{ $participant := (where $pages ".Params.title" .)}}
+                        {{ range $participant }}
+                            <div class="list_attendees">
+                                <div class="list-attendees-container">
+                                        {{ partial "participant/card.html" . }}
+                                </div>
+                            </div>
+                        {{end}}
+                    {{end}}
             </div>
         </div>
     </div>
 
-{{ end }}
-
-{{ define "content" }}
-
-    {{ .Content }}
-
-    <h3>Related Sessions</h3>
-        <ul>
-            {{ $sessions_from_track := where $.Site.Pages ".Params.track" "==" .Title}}
-            {{ $sessions_from_project := where $.Site.Pages ".Params.project" "==" .Title}}
-            {{ $sessions := union $sessions_from_track $sessions_from_project }}
-            {{ partial "sessions/simple-table-all-columns.html" $sessions }}
-        </ul>
     <hr/>
     <a href="/projects">Back to list of Projects</a>
     <hr/>
