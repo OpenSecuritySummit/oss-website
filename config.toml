@@ -29,12 +29,20 @@ paginate = 10
     weight = 20
 #    parent = "sessions"
     url = "/schedule"
+
 [[menu.main]]
-    name = "Tracks"
-    identifier = "tracks"
+    name = "Members"
+    identifier = "members"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 30
-    url = "/tracks/"
+    url = "/membership/"
+
+#[[menu.main]]
+#    name = "Tracks"
+#    identifier = "tracks"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 30
+#    url = "/tracks/"
 
 [[menu.main]]
     name = "Past Summits"

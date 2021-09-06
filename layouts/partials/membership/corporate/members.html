@@ -1,0 +1,15 @@
+<div class="project-section-title">
+    Members
+</div>
+{{ $pages := .Site.Pages }}
+
+<ul>
+    {{ range .Params.members }}
+        {{ $project := (where $pages ".Params.title" .)}}
+        {{ range $project }}
+            <li>
+                <a href="{{.Permalink}}"> {{.Params.Title}}</a>
+            </li>
+        {{end}}
+    {{ end }}
+</ul>

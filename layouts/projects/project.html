@@ -33,35 +33,16 @@
         </div>
         <div class="row">
             <div class="col-xs-6 col-md-6 col-lg-6">
-                <h1>Highlight Videos</h1>
+
                 {{ partial "projects/highlight_videos.html" . }}
 
-                <h1>Project Sessions</h1>
-                <ul>
-                    {{ $sessions_from_track := where $.Site.Pages ".Params.track" "==" .Title}}
-                    {{ $sessions_from_project := where $.Site.Pages ".Params.project" "==" .Title}}
-                    {{ $sessions := union $sessions_from_track $sessions_from_project }}
-                    {{ partial "sessions/simple-table-all-columns.html" $sessions }}
-                </ul>
+                {{ partial "projects/project_sessions.html" . }}
             </div>
             <div class="col-xs-6 col-md-6 col-lg-6">
 
-                <h1>Sponsored by</h1>
+                {{ partial "projects/sponsored_by.html" .}}
 
-                {{ partial "projects/sponsor_link.html" .}}
-
-                <h1>Active Members</h1>
-                {{$pages := .Site.Pages}}
-                    {{range .Params.active_members}}
-                        {{ $participant := (where $pages ".Params.title" .)}}
-                        {{ range $participant }}
-                            <div class="list_attendees">
-                                <div class="list-attendees-container">
-                                        {{ partial "participant/card.html" . }}
-                                </div>
-                            </div>
-                        {{end}}
-                    {{end}}
+                {{ partial "projects/active_members.html" .}}
             </div>
         </div>
     </div>

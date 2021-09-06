@@ -1,0 +1,21 @@
+<div class="project-section-title">
+    Active Members
+</div>
+{{ $pages          := .Site.Pages}}
+{{ $active_members := .Params.active_members}}
+
+{{ if $active_members }}
+
+    {{range $active_members}}
+        {{ $participant := (where $pages ".Params.title" .)}}
+        {{ range $participant }}
+            <div class="list_attendees">
+                <div class="list-attendees-container">
+                        {{ partial "participant/card.html" . }}
+                </div>
+            </div>
+        {{end}}
+    {{end}}
+{{ else }}
+Coming soon
+{{ end }}

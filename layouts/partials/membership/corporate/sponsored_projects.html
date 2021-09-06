@@ -1,0 +1,18 @@
+<div class="project-section-title">
+    Sponsored Projects
+</div>
+{{ $pages := .Site.Pages }}
+
+<ul>
+    {{ range .Params.sponsored_projects }}
+        {{ $project := (where (where $pages ".Params.title" .) ".Params.type" "project") }}
+        {{ range $project }}
+            <li>
+                <a href="{{.Permalink}}"> {{.Params.Title}}</a>
+            </li>
+        {{end}}
+    {{ end }}
+</ul>
+
+<hr/>
+<a href="/membership/corporate">back to corporate members</a>

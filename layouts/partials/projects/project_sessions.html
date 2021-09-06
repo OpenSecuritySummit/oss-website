@@ -1,0 +1,9 @@
+<div class="project-section-title">
+    Project Sessions
+</div>
+<ul>
+    {{ $sessions_from_track := where $.Site.Pages ".Params.track" "==" .Title}}
+    {{ $sessions_from_project := where $.Site.Pages ".Params.project" "==" .Title}}
+    {{ $sessions := union $sessions_from_track $sessions_from_project }}
+    {{ partial "sessions/simple-table-all-columns.html" $sessions }}
+</ul>
