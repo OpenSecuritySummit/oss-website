@@ -1,5 +1,5 @@
 ---
-title        : CDSA
+title        : Content Delivery & Security Association
 track        : Governance
 type         : working-session
 topics       :
