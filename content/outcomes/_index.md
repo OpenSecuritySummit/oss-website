@@ -1,5 +1,0 @@
----
-title: Outcomes
-type : outcome
----
-

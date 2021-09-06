@@ -49,6 +49,7 @@
   {{ $carousel := resources.Get "style/carousel.scss" }}
   {{ $tickets := resources.Get "style/tickets.scss" }}
   {{ $participant := resources.Get "style/participant.scss" }}
+  {{ $projects := resources.Get "style/projects.scss" }}
   {{ $sponsor := resources.Get "style/sponsor.scss" }}
   {{ $footer := resources.Get "style/footer.scss" }}
   {{ $oss2019 := resources.Get "style/oss2019.scss" }}
@@ -56,7 +57,7 @@
   {{ $pages := resources.Get "style/pages.scss" }}
   {{ $tracks := resources.Get "style/tracks.scss" }}
   {{ $video := resources.Get "style/video.scss" }}
-  {{ $bundle_scss := slice $vars $fonts $style $header $carousel $tickets $participant $sponsor $footer $oss2019 $home2020 $pages $tracks $video | resources.Concat "css/bundle.scss" }}
+  {{ $bundle_scss := slice $vars $fonts $style $header $carousel $tickets $participant $projects $sponsor $footer $oss2019 $home2020 $pages $tracks $video | resources.Concat "css/bundle.scss" }}
   {{ $scss := $bundle_scss | resources.ToCSS $options | minify | fingerprint }}
   <link href="{{ $scss.Permalink }}" integrity="{{ $scss.Data.Integrity }}" rel="stylesheet">
   {{ $slider := resources.Get "style/lightslider.css" | minify | fingerprint }}

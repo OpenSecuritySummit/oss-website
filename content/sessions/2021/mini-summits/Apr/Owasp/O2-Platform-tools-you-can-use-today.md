@@ -1,6 +1,6 @@
 ---
 title        : Owasp O2 Platform tools you can use today
-track        : Owasp
+project      : OWASP
 type         : working-session
 topics       :
 featured     :

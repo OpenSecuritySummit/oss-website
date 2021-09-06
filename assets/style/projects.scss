@@ -1,0 +1,20 @@
+.project {
+  &_label {
+    margin-top: 30px;
+  }
+  &_description {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    vertical-align: center;
+  }
+  &-section-title{
+    text-align: center;
+    padding: 10px;
+    background-color: #d9e5f0;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    font-family: 'Oswald Bold', sans-serif;
+  }
+}
