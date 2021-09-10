@@ -12,6 +12,6 @@ members:
 sponsored_projects:
 ---
 
-## Glasswall
+## Culture Gem
 
 More details coming soon
