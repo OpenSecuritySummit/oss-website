@@ -14,7 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - TBD
+    - Dinis Cruz
 youtube_link :
 zoom_link    : https://us06web.zoom.us/j/83438871249?pwd=RTFKK3pVN1A5Y05meCtVQ2laT09Cdz09
 ---
