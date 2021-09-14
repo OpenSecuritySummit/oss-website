@@ -36,6 +36,6 @@ highlight_videos:
 sponsor: 
 ---
 
-##  DevSecOps
+## DevSecOps
 
 Welcome to the OSS Project focused on  DevSecOps
