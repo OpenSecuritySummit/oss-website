@@ -1,6 +1,6 @@
 ---
 title: Carey Lening
-image: https://pbs.twimg.com/profile_images/1295013782956187649/F7YQXH55_400x400.jpg
+image: https://media-exp1.licdn.com/dms/image/C4D03AQGGKnOChq9dpA/profile-displayphoto-shrink_800_800/0/1619002959191?e=1637193600&v=beta&t=zejbVeOwUZY8ikG0q86BzYT6csb-vHZCF-e2I3vrCQg
 company: Knowligence
 job_title: 
 facebook:
