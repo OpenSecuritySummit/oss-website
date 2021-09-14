@@ -1,6 +1,6 @@
 
 ---
-title           :  DevSecOps
+title           : DevSecOps
 type            : project
 layout          : project
 no-breadcrumbs  :
@@ -15,7 +15,7 @@ organizers      :
     - David Prince
     - ROberto Polli
    
-description     :  Project focused on DevSecOps and shifting left
+description     : Project focused on DevSecOps and shifting left
 active_members:
     
 highlight_videos:
