@@ -1,9 +1,10 @@
 ---
-title        : Schrems II
-type         : project
-layout       : project
-organizers   :
-description  : Project focused on the implications of Schrems II
+title           : Schrems II
+type            : project
+layout          : project
+no-breadcrumbs  :
+organizers      :
+description     : Project focused on the implications of Schrems II
 ---
 
 ## Schrems II
