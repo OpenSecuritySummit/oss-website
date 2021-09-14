@@ -1,5 +1,5 @@
 ---
-title        : OSS Threat Modeling Project
+title        : OSS Threat Modeling and Moldable Development Projects
 track        :
 type         : working-session
 topics       :
