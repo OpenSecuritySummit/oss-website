@@ -16,7 +16,7 @@ session_slack:
 description  :
 organizers   :
     - Ben Schofield
-youtube_link :
+youtube_link : https://youtu.be/G_PVv1nnNj8
 zoom_link    : https://us06web.zoom.us/j/89448979309?pwd=R3AwQ05GaHZLeG4yelR6MzJNc2xrUT09
 ---
 
