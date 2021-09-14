@@ -15,6 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Dinis Cruz
+    - Tudor Girba
 youtube_link :
 zoom_link    : https://us06web.zoom.us/j/89494767340?pwd=UDQyM0tEZmcyOE02Z1FuWEpGb0F4QT09
 ---
