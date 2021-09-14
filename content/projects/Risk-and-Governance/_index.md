@@ -1,9 +1,10 @@
 ---
-title        : Risk and Governance
-type         : project
-layout       : project
-organizers   :
-description  : Project focused on multiple Risk and Governance topics
+title           : Risk and Governance
+type            : project
+layout          : project
+no-breadcrumbs  :
+organizers      :
+description     : Project focused on multiple Risk and Governance topics
 ---
 
 ## Risk and Governance

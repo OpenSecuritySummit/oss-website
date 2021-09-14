@@ -2,6 +2,7 @@
 title           : Kubernetes
 type            : project
 layout          : project
+no-breadcrumbs  :
 organizers      :
 description     : Project focused on Kubernetes
 sponsor         : Glasswall

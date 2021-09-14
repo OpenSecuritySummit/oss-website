@@ -1,6 +1,6 @@
 name = "Universal"
 license = "MIT"
-licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
+licenselink = "https://github.com/devcows/hugo-universal-theme/blob/main/LICENSE"
 description = "A port of the Universal theme"
 homepage = "//github.com/devcows/hugo-universal-theme"
 tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
