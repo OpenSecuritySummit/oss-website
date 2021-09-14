@@ -4,7 +4,9 @@ title           : DevSecOps
 type            : project
 layout          : project
 no-breadcrumbs  :
-organizers      :
+organizers      :  
+description     : Project focused on DevSecOps and shifting left
+active_members:
     - Timo Pagel
     - Dinis Cruz
     - Didar Gelici
@@ -14,9 +16,6 @@ organizers      :
     - Leila Rao
     - David Prince
     - ROberto Polli
-   
-description     : Project focused on DevSecOps and shifting left
-active_members:
     
 highlight_videos:
     - X5J5IQHBJP0
