@@ -5,7 +5,7 @@ company:
 job_title: 
 facebook:
 linkedin: 
-twitter: https://twitter.com/cschneider4711
+twitter: cschneider4711
 website: christian-schneider.net
 notes:
 status: add-details

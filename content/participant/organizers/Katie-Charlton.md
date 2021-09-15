@@ -5,7 +5,7 @@ company: Culture Gem
 job_title: 
 facebook:
 linkedin: katie-charlton-534581a8
-twitter: https://twitter.com/OSS_Katie
+twitter: OSS_Katie
 website:
 notes:
 status: done

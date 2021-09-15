@@ -1,6 +1,6 @@
 ---
 title: Hanuma
-image: https://twitter.com/castasint/photo
+image: castasint/photo
 company:
 job_title: Technology Architect
 facebook:

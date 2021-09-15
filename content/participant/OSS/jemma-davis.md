@@ -1,6 +1,6 @@
 ---
 company: Culture Gem Ltd
-image: https://twitter.com/InfosecJem/photo
+image: https://pbs.twimg.com/profile_images/1273599565363634178/TvkEZ9hF_400x400.jpg
 job_title: Security Culture and Awareness Consultant
 linkedin: jemma-davis-6a562792
 status: done

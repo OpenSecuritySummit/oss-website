@@ -5,7 +5,7 @@ company: The AnthroSecurist
 job_title: Cybersecurity Transformation Leader 
 facebook:
 linkedin: liannep
-twitter: https://twitter.com/anthrosecurist
+twitter: anthrosecurist
 website: 
 notes:
 status: add-details
