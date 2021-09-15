@@ -4,7 +4,7 @@ image: https://media-exp1.licdn.com/dms/image/C5603AQHvB44qbLV8rw/profile-displa
 company: Culture Gem
 job_title: 
 facebook:
-linkedin: https://www.linkedin.com/in/katie-charlton-534581a8/
+linkedin: katie-charlton-534581a8
 twitter: https://twitter.com/OSS_Katie
 website:
 notes:
