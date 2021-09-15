@@ -2,6 +2,8 @@
 title           : DevSecOps
 type            : project
 layout          : project
+slack_channel     : oss-proj-devsecops
+slack_channel-id  : CAVDNF1NE       # https://os-summit.slack.com/archives/CAVDNF1NE
 no-breadcrumbs  :
 organizers      :  
 description     : Project focused on DevSecOps and shifting left
@@ -21,15 +23,16 @@ highlight_videos:
     - G6rhffzUbto
     - mdUP1XtYTLI
     - h37zp5g5tO4
-    - VcmCrE8chJQ
-    - meVN1MqL8TY
-    - dHkptfSUWlo
-    - j184Av-LJvI
-    - 2HFODRXFPBA
-    - 8ZuQ8MX0dMs
-    - HbGvO0uxk2k
-    - H2BA6gaeKBE
-    - X5J5IQHBJP0
+videos:
+    - VcmCrE8chJQ: "Secrets and Credentials scanning lab by Practical DevSecOps"
+    - meVN1MqL8TY: "Lightning Talk - DevSecOps by Imran A. Mohammed"
+    - dHkptfSUWlo: "To DevSecOps or not to DevSecOps: is that a question?"
+    - j184Av-LJvI: "Dependency scanning lab by Practical DevSecOps"
+    - 2HFODRXFPBA: "Pre Summit DevSecOps Masterclass"
+    - 8ZuQ8MX0dMs: "Pre-summit: DevSecOps, SecChampions, OWASP Projects"
+    - HbGvO0uxk2k: "Debrief - Making The Business Case For Devsecops by Leila Rao and David Prince"
+    - H2BA6gaeKBE: "Inspection of DSOMM Dimension Consolidation"
+    - X5J5IQHBJP0: "Creating Secure Builds of Containers"
 sponsor: 
 ---
 
