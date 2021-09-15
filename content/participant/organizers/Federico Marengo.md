@@ -4,7 +4,7 @@ image: https://media-exp1.licdn.com/dms/image/C4E03AQF_YMlI2xmwiA/profile-displa
 company:
 job_title:
 facebook:
-linkedin: https://www.linkedin.com/in/fmarengo/
+linkedin: fmarengo
 twitter:
 website:
 notes:

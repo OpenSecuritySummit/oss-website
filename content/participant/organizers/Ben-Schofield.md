@@ -4,7 +4,7 @@ image: https://media-exp1.licdn.com/dms/image/C4D03AQGaZ80f7-CBUQ/profile-displa
 company: 
 job_title:  
 facebook:
-linkedin: https://www.linkedin.com/in/schofieldben/ 
+linkedin: schofieldben
 twitter: 
 website:
 notes:

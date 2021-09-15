@@ -4,7 +4,7 @@ image: https://pagel.pro/wp-content/uploads/2020/01/profile-1-223x300.png
 company: Timo Pagel IT-Consulting
 job_title: DevSecOps Consultant
 facebook:
-linkedin: https://www.linkedin.com/in/timo-pagel-80900b81/
+linkedin: timo-pagel-80900b81
 twitter:
 website: https://pagel.pro
 notes:

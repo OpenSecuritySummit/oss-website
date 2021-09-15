@@ -4,7 +4,7 @@ image: https://s3.amazonaws.com/heysummit-production/media/thumbnails/uploads/ev
 company: The AnthroSecurist
 job_title: Cybersecurity Transformation Leader 
 facebook:
-linkedin: https://www.linkedin.com/in/liannep/
+linkedin: liannep
 twitter: https://twitter.com/anthrosecurist
 website: 
 notes:
