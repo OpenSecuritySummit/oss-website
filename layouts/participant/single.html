@@ -51,7 +51,7 @@
 
         {{ $sessions := partial "params/participant-organiser.html" (dict "this" . "title" .Params.title )}}
 
-        <h3>All {{ .Params.Title }} sessions</h3>
+        <h3>All {{ .Params.Title }}'s sessions</h3>
 
         {{ partial "sessions/simple-table-all-columns.html" $sessions }}
 
