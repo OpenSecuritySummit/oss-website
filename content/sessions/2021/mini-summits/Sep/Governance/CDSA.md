@@ -1,5 +1,5 @@
 ---
-title        : CDSA
+title        : Content Delivery & Security Association
 track        : Governance
 project      : Control Frameworks Maps
 type         : working-session

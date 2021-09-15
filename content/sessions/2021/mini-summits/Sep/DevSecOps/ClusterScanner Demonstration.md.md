@@ -1,6 +1,7 @@
 ---
 title        : Security-Scan your production images
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
