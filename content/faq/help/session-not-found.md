@@ -20,4 +20,4 @@ or
 
 **The session doesn't exist:**
 
-In that case please create one using [this template](https://github.com/OpenSecuritySummit/oss2020/blob/master/content/working-sessions/_template.md)
+In that case please create one using [this template](https://github.com/OpenSecuritySummit/oss2020/blob/main/content/working-sessions/_template.md)

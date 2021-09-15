@@ -36,4 +36,4 @@ layout      : FAQ
 
 [ ] Outcomes sent to outcomes@opensecsummit.org
    - 1 slide with the outcome, using the [outcome slide template](https://docs.google.com/presentation/d/1-oIbl9U_CKx3kua9YI9wutK6ZCa3_OHd7JhrtIkZbsE/edit?usp=sharing)
-   - Notes of proceedings and outcome in [markdown format](https://www.markdownguide.org/basic-syntax/), using [the outcomes template](https://github.com/OpenSecuritySummit/oss2019/blob/master/content/outcomes/_template.md), available in the OSS19 repository.
+   - Notes of proceedings and outcome in [markdown format](https://www.markdownguide.org/basic-syntax/), using [the outcomes template](https://github.com/OpenSecuritySummit/oss2019/blob/main/content/outcomes/_template.md), available in the OSS19 repository.

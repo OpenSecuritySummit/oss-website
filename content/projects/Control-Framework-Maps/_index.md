@@ -1,12 +1,12 @@
 ---
-title             : Control Frameworks Maps
+title             : Control Framework Maps
 type              : project
 layout            : project
 slack_channel     : oss-proj-control-frameworks-maps
 slack_channel-id  : C01H86Q6HCH
 no-breadcrumbs    :
 organizers        :
-description       : Project focused on Control Frameworks Maps
+description       : Project focused on Control Framework Maps
 active_members:
     - Ben Schofield
 highlight_videos:
@@ -17,7 +17,7 @@ videos:
     - OwQNaspKzzs : "Open Control Frameworks in Media and Entertainment"
 sponsor         :
 ---
-https://app.slack.com/client/TAULHPATC/CUEQBJNLW
+
 ## Control Frameworks Maps
 
-Welcome to the OSS Project focused on Control Frameworks Maps
+Welcome to the OSS Project focused on Control Framework Maps

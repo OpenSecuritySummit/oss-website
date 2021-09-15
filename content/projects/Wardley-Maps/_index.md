@@ -1,9 +1,10 @@
 ---
-title        : Wardley Maps
-type         : project
-layout       : project
-organizers   :
-description  : Project focused on Wardley Maps
+title           : Wardley Maps
+type            : project
+layout          : project
+no-breadcrumbs  :
+organizers      :
+description     : Project focused on Wardley Maps
 ---
 
 ## Threat Modeling
