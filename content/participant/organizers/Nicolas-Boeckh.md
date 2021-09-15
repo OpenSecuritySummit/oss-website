@@ -5,7 +5,7 @@ company:
 job_title: 
 facebook:
 linkedin: nicolas-boeckh
-twitter: https://twitter.com/AtomicNicos
+twitter: AtomicNicos
 website: 
 notes:
 status: add-details

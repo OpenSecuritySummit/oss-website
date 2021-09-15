@@ -4,7 +4,7 @@ image: https://media-exp3.licdn.com/dms/image/C4D03AQHHltDmGEUQCg/profile-displa
 job_title: 
 facebook:
 linkedin: stevegiguere
-twitter: https://twitter.com/StephenGiguere
+twitter: StephenGiguere
 website:
 notes:
 status: done

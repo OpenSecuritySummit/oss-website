@@ -5,7 +5,7 @@ company:
 job_title: 
 facebook:
 linkedin: 
-twitter: https://twitter.com/lfservin
+twitter: lfservin
 website:
 notes:
 status: done

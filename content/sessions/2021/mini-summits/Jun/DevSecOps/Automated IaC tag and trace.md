@@ -14,7 +14,7 @@ session_slack:
 #status      : draft
 description  :
 organizers   :
-    - Steve Giguere
+    - Stephen Giguere
 youtube_link : 4va8kCSKbXE
 zoom_link    : 
 ---
