@@ -1,7 +1,7 @@
 ---
 title           : Teleport
 type            : members
-image           :
+image           : https://twitter.com/goteleport/header_photo
 layout          : corporate-member
 no-breadcrumbs  :
 organizers      :
