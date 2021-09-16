@@ -2,6 +2,7 @@
 title : Moldable development with Glamorous Toolkit Part 2
 track : 
 type : working-session
+project: Moldable Development
 topics :
 featured :
 event : mini-summit

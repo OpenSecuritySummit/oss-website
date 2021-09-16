@@ -1,6 +1,7 @@
 ---
 title : Moldable development with Glamorous Toolkit Part 1
 track : 
+project: Moldable Development
 type : working-session
 topics :
 featured :
