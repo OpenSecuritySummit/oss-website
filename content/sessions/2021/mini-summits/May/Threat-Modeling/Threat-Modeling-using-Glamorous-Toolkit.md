@@ -2,6 +2,7 @@
 title        : Threat Modeling Using Glamorous Toolkit
 track        : Threat Modeling
 type         : working-session
+project: Moldable Development
 topics       :
 featured     :
 event        : mini-summit
