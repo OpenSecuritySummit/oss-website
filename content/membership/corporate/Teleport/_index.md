@@ -1,7 +1,7 @@
 ---
 title           : Teleport
 type            : members
-image           : https://twitter.com/goteleport/header_photo
+image           : https://pbs.twimg.com/profile_images/1328803683342053377/DN_H5DkP_400x400.png
 layout          : corporate-member
 no-breadcrumbs  :
 organizers      :
