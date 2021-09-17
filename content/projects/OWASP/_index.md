@@ -16,7 +16,7 @@ active_members  :
 highlight_videos:
      - 7zs4wezbt8o
      - 1YHjkc3Xzd0
-     - zjfUyHudUro
+     - zjfUyHudUro       
 videos:
  
 sponsor: 
