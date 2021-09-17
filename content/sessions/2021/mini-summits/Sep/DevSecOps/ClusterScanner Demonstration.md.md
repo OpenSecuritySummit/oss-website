@@ -16,7 +16,7 @@ status       :
 description  :
 organizers   :
     - Timo Pagel
-youtube_link : 
+youtube_link : 1owkPo6gpPM
 zoom_link    : https://us06web.zoom.us/j/89554845459?pwd=QlBDcVZxTEp1R1FRTnpJamRNQzlCdz09
 ---
 
