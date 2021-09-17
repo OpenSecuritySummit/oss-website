@@ -25,10 +25,10 @@ highlight_videos:
     - h37zp5g5tO4
 videos:
     - VcmCrE8chJQ : Secrets and Credentials scanning lab by Practical DevSecOps
-    - dHkptfSUWlo : To DevSecOps or not to DevSecOps: is that a question? by Mario Platt
+    - dHkptfSUWlo : "To DevSecOps or not to DevSecOps: is that a question? by Mario Platt"
     - j184Av-LJvI : Dependency scanning lab by Practical DevSecOps
     - 2HFODRXFPBA : Pre Summit DevSecOps Masterclass (Glenn Wilson)
-    - 8ZuQ8MX0dMs : Pre-summit: DevSecOps, SecChampions, OWASP Projects
+    - 8ZuQ8MX0dMs : "Pre-summit: DevSecOps, SecChampions, OWASP Projects"
     - HbGvO0uxk2k : Debrief - Making The Business Case For Devsecops by Leila Rao and David Prince
     - H2BA6gaeKBE : Inspection of DSOMM Dimension Consolidation
     - X5J5IQHBJP0 : Creating Secure Builds of Containers
