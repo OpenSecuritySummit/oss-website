@@ -1,13 +1,13 @@
 ---
-title           : DevSecOps
-type            : project
-layout          : project
+title             : DevSecOps
+type              : project
+layout            : project
 slack_channel     : oss-proj-devsecops
-slack_channel-id  : CAVDNF1NE       # https://os-summit.slack.com/archives/CAVDNF1NE
-no-breadcrumbs  :
-organizers      :  
-description     : Project focused on DevSecOps and shifting left
-active_members  :
+slack_channel-id  : CAVDNF1NE         # https://app.slack.com/client/CAVDNF1NE/{channel_id}
+no-breadcrumbs    :
+organizers        :  
+description       : This project is focused on the DevSecOps tools and techniques to embed security as part of CI/CD pipelines. 
+active_members    :
     - Timo Pagel
     - Dinis Cruz
     - Didar Gelici
