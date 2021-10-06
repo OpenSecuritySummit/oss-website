@@ -23,7 +23,7 @@ active_members:
  - Chris McDermott
  - Ben Schofield
  - Alan Jenkins
- - Mario Platt
+
 highlight_videos:
  - yugHhSp5dbg
  - fq_4L-758N8
