@@ -251,4 +251,33 @@ day-44:
   month: "Jun"
   key  : "Fri"
   order: 5
-
+day-45:
+  date : "13th"
+  day  : "Monday"
+  month: "Sep"
+  key  : "Mon"
+  order: 1
+day-46:
+  date : "14th"
+  day  : "Tuesday"
+  month: "Sep"
+  key  : "Tue"
+  order: 2
+day-47:
+  date : "15th"
+  day  : "Wednesday"
+  month: "Sep"
+  key  : "Wed"
+  order: 3
+day-48:
+  date : "16th"
+  day  : "Thursday"
+  month: "Sep"
+  key  : "Thu"
+  order: 4
+day-49:
+  date : "17th"
+  day  : "Friday"
+  month: "Sep"
+  key  : "Fri"
+  order: 5
