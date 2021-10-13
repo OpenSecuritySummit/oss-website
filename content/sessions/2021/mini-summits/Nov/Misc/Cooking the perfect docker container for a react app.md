@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Luis Servin
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/89282301436?pwd=cDhMRzZTeVRHV2tGRm12RGRLTDZrUT09
 ---
 
 ## About this session
