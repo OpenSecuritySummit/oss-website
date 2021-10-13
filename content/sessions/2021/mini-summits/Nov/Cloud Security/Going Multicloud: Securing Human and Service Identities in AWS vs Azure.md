@@ -1,5 +1,5 @@
 ---
-title        : Going Multicloud: Securing Human and Service Identities in AWS vs Azure
+title        : "Going Multicloud: Securing Human and Service Identities in AWS vs Azure"
 track        : Owasp
 project      : ASVS User Stories
 type         : working-session
