@@ -1,6 +1,6 @@
 ---
 title: Lior Zatlavi
-image: https://twitter.com/CloudLior/photo
+image: https://pbs.twimg.com/profile_images/1446121542530723855/rB5Jmcc6_400x400.jpg
 company: Ermetic
 job_title: Senior Cloud Security Architect
 facebook:
