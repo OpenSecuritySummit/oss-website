@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Lior Zatlavi
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82905050465?pwd=Z0Q5QTNpditOZjNyUENzcTZ1bkJ6Zz09
 ---
 
 ## About this session
