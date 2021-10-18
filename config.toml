@@ -51,11 +51,27 @@ paginate = 10
     weight = 40
 
 [[menu.main]]
+    name = "Sep 2021"
+    identifier = "event-sep-2021"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 38
+    url = "/sessions/2021/mini-summits/sep/"
+
+[[menu.main]]
+    name = "Jun 2021"
+    identifier = "event-jun-2021"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 39
+    url = "/sessions/2021/mini-summits/jun/"
+
+[[menu.main]]
     name = "May 2021"
     identifier = "event-may-2021"
     parent = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 3
+    weight = 40
     url = "/sessions/2021/mini-summits/may/"
 
 [[menu.main]]
@@ -63,7 +79,7 @@ paginate = 10
     identifier = "event-apr-2021"
     parent = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 4
+    weight = 41
     url = "/sessions/2021/mini-summits/apr/"
 
 [[menu.main]]
@@ -71,14 +87,15 @@ paginate = 10
     identifier = "event-mar-2021"
     parent = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 5
+    weight = 42
     url = "/sessions/2021/mini-summits/mar/"
+
 [[menu.main]]
     name = "Jan 2021"
     identifier = "event-jan-2021"
     parent = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 6
+    weight = 43
     url = "/sessions/2021/mini-summits/jan/"
 
 [[menu.main]]
@@ -86,7 +103,7 @@ paginate = 10
     identifier = "event-dec-2020"
     parent = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 7
+    weight = 44
     url = "/sessions/2020/mini-summits/dec/"
 
 [[menu.main]]
@@ -94,7 +111,7 @@ paginate = 10
     identifier = "event-nov-2020"
     parent = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 8
+    weight = 45
     url = "/sessions/2020/mini-summits/nov/"
 
 [[menu.main]]
@@ -102,33 +119,33 @@ paginate = 10
     identifier = "event-ot-2020"
     parent = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 9
+    weight = 46
     url = "/sessions/2020/mini-summits/oct/"
 
 [[menu.main]]
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 50
+    weight = 47
     url = "/about/"
 [[menu.main]]
     name = "The Summit"
     identifier = "about-the-summit"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 20
+    weight = 48
     parent = "about"
     url = "/about/"
 [[menu.main]]
     name = "Faq"
     identifier = "faq"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 22
+    weight = 49
     parent = "about"
     url = "/faq/"
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
-    weight = 51
+    weight = 50
     pre = "<i class='fa fa-road'></i>&nbsp;"
     url = "/sponsors/"
     parent = "about"

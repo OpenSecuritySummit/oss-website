@@ -1,7 +1,7 @@
 ---
 title        : CVE CWE CVSS CWSS where do I look first?
-track        : 
-project      : 
+track        : Governance
+project      : Risk and Governance
 type         : working-session
 topic        :
 featured     :
@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Mon
-when_time    : WS-3
+when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cve-cwe-cvss-cwss-where-do-i-look-first/
 session_slack:
 #status      : 

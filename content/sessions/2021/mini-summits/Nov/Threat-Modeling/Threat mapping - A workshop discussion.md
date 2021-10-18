@@ -1,7 +1,7 @@
 ---
 title        : Threat mapping - A workshop discussion
-track        : Wardley Maps
-project      : Wardley Maps
+track        : Threat Modeling
+project      : Threat Modeling
 type         : working-session
 topics       :
 featured     :
@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Tue
-when_time    : WS-4
+when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-mapping-a-workshopdiscussion/
 session_slack:
 #status      : 

@@ -4,9 +4,9 @@ image: https://pbs.twimg.com/profile_images/1446121542530723855/rB5Jmcc6_400x400
 company: Ermetic
 job_title: Senior Cloud Security Architect
 facebook:
-linkedin: https://www.linkedin.com/in/lior-zatlavi-10865441/
-twitter: https://twitter.com/CloudLior
-website: https://ermetic.com/
+linkedin: lior-zatlavi-10865441
+twitter: CloudLio
+website: https://ermetic.com
 notes:
 status: done
 type: participant

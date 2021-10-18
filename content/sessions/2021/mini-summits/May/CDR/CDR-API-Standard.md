@@ -14,10 +14,8 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - Dinis Cruz
-    - Paul Burke
-    - Elvin White
-    - Paul Farrington
+    - Dinis Cruz    
+    - Elvin White    
 youtube_link : https://www.youtube.com/watch?v=bxacD5z4Zhg
 zoom_link    :  https://zoom.us/j/94951892968?pwd=TFppTi9pU2lPSVNaL1FObXE5TCttUT09
 ---

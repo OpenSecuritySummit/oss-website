@@ -1,7 +1,7 @@
 ---
 title        : Cooking the perfect docker container for a react app
-track        : 
-project      : 
+track        : Kubernetes
+project      : Kubernetes
 type         : working-session
 topics       :
 featured     :
