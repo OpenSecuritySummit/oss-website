@@ -10,14 +10,14 @@ when_year    : 2021
 when_month   : Nov
 when_day     : Wed
 when_time    : WS-5
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/owasp-security-bot-hypercharge-your-cloud-automation/
 session_slack:
 #status      : 
 description  :
 organizers   :
     - Dinis Cruz        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/88082785299?pwd=bmdySmdiMmhhYWNMR3hKZ3JmanF1QT09
 ---
 
 ## About this session
