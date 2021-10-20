@@ -10,7 +10,7 @@ when_year    : 2021
 when_month   : Nov
 when_day     : Wed
 when_time    : WS-16-18
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-jira-to-map-and-visualise-risks/
 session_slack:
 #status      : 
 description  :
@@ -19,7 +19,7 @@ organizers   :
     - Abbas Haidar
     - Chris Holman    
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/87554381543?pwd=RW1Ca0tSdktodXZGWUxpV0N4MU0vZz09
 ---
 
 ## About this session
