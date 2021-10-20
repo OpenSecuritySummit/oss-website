@@ -10,14 +10,14 @@ when_year    : 2021
 when_month   : Nov
 when_day     : Tue
 when_time    : WS-2
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/developing-secure-multi-cloud-kubernetes-applications/
 session_slack:
 #status      : 
 description  :
 organizers   :
     - TBD
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/88492304973?pwd=aTV3bERBbXgyQXVSY0gvZFA5UTlLUT09
 ---
 
 ## About this session
