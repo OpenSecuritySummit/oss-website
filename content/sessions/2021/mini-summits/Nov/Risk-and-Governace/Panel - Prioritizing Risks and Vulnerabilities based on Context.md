@@ -19,7 +19,7 @@ organizers   :
     - Petra Vukmirovic
     - Francesco Cipollon
 youtube_link : 
-zoom_link    :  https://us06web.zoom.us/j/89637876833?pwd=aGtoZ096REJOaXhadGhueHVGVVhmQT09
+zoom_link    :   https://us06web.zoom.us/j/87854880218?pwd=VUx6OEh5dWl5Mzc4QVpucklNYzBXdz09
 ---
 
 ## About this session
