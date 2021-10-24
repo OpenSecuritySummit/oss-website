@@ -6,7 +6,7 @@ job_title: Application Security Specialist
 facebook:
 linkedin: @IreneMichlin
 twitter:
-website: https://neo4j.com/
+website: 
 notes:
 status: 
 type: participant
