@@ -5,7 +5,7 @@ company: Neo4j
 job_title: Application Security Specialist
 facebook:
 linkedin: irene221b
-twitter: @IreneMichlin
+twitter: IreneMichlin
 website: https://neo4j.com/
 notes:
 status: 
