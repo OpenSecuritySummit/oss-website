@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2021
 when_month   : Nov
-when_day     : Fri
-when_time    : WS-2
+when_day     : 
+when_time    : 
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-teleport-to-secure-ssh-and-kubernetes-access/
 session_slack:
 #status      : 
