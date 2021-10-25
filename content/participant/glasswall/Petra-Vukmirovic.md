@@ -2,7 +2,7 @@
 title: Petra Vukmirovic
 image: /content/participant/Petra-Vukmirovic.jpeg
 company: Glasswall
-job_title: Productivity Engineer and InfoSec Squad Member at Glasswall
+job_title: Cyber Security Engineer and InfoSec Squad Member at Glasswall
 facebook:
 linkedin: petravukmirovic
 twitter: PetraVuk1311
