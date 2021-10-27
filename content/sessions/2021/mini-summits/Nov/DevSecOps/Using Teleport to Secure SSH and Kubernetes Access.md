@@ -9,13 +9,13 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Fri
-when_time    : WS-2
+when_time    : WS-14-15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-teleport-to-secure-ssh-and-kubernetes-access/
 session_slack:
 #status      : 
 description  :
 organizers   :
-    - TBD
+    - Sakshyam Shah
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/83259806892?pwd=ek5aTjYrQjVPVXc5ZUIwS2NkQW5RZz09
 ---
