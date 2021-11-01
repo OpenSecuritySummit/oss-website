@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Sakshyam Shah
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/83259806892?pwd=ek5aTjYrQjVPVXc5ZUIwS2NkQW5RZz09
+zoom_link    : https://us06web.zoom.us/j/86973164445?pwd=a2JhNjJQY3EvekltbHl5VkFnekxBQT09
 ---
 
 ## About this session
