@@ -15,7 +15,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - TBD
+    - Dinis Cruz
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/88492304973?pwd=aTV3bERBbXgyQXVSY0gvZFA5UTlLUT09
 ---
