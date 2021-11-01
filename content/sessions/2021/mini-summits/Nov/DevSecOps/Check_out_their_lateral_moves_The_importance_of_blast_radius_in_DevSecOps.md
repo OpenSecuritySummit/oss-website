@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Matt Johnson
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/81870927508?pwd=Tzc1UDZ1WS9wZHRCM1FHTGlGdHhhQT09
 ---
 
 ## About this session
