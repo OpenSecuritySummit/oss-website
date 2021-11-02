@@ -1,6 +1,6 @@
 ---
 title: Sakshyam Shah
-image: https://pbs.twimg.com/profile_images/1408112033124413440/IeBxuTNE_400x400.jpg
+image: https://s3.amazonaws.com/heysummit-production/media/uploads/events/post-summit-sessions/DooUsPZvuJP7UU7uQo2Cji.png
 company: Teleport
 job_title: Developer Relations Engineer
 facebook:
