@@ -15,12 +15,20 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - Dinis Cruz
+    - Petra Vukmirovic
+    - Dinis Cruz    
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/88492304973?pwd=aTV3bERBbXgyQXVSY0gvZFA5UTlLUT09
 ---
 
 ## About this session
 
-Learn how Glasswall has created a multi-layered approach to
-create Multi-Cloud Kubernetes Applications
+Learn how to approach the creation of Multi-Cloud Kubernetes Applications using 
+a multi-layered approach to building images.
+
+Other topics to cover 
+
+- Docker and Base image security (using hardened, secure images)
+- Cluster Infrastructure security (CIS guidelines - kube bench, Snyk...)
+- Cloud environment security (EKS, AKS, GKS)
+- Challenges and pitfalls (e.g. the controller pod running with high permissions)
