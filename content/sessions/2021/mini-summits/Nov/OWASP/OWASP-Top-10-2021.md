@@ -10,7 +10,7 @@ when_year    : 2021
 when_month   : Nov
 when_day     : Thu
 when_time    : WS-22-23
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-owasp-top-ten-2021-release/
 session_slack: 
 #status      : 
 description  : 
