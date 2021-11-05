@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Thu
-when_time    : WS-23-00
+when_time    : WS-22-00
 hey_summit   : TBD
 session_slack: 
 #status      : 
