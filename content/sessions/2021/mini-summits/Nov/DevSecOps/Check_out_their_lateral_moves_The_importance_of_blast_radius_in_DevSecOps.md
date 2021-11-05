@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Fri
-when_time    : WS-2
+when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/check-out-their-lateral-moves-the-importance-of-blast-radius-in-devsecops/?preview=1
 session_slack:
 #status      : 

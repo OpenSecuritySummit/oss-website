@@ -1,12 +1,24 @@
+<!--<table class="table">-->
+<!--    <tr>-->
+<!--        <td><b>{{.time}}</b></td>-->
+<!--    </tr>-->
+<!--    <tr>-->
+<!--        <td class="session-time">-->
+<!--            {{ index .self.Site.Data.schedule.times .time}}-->
+<!--        </td>-->
+<!--    </tr>-->
+<!--</table>-->
 <table class="table">
     <tr>
-        <td><b>{{.time}}</b></td>
+        <td><b>{{ index .self.Site.Data.schedule.times .time}}</b></td>
     </tr>
     <tr>
         <td class="session-time">
-            {{ index .self.Site.Data.schedule.times .time}}
+            {{.time}}
         </td>
     </tr>
 </table>
+
+
 
 

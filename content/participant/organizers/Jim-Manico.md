@@ -1,14 +1,14 @@
 ---
 title: Jim Manico
 image: https://pbs.twimg.com/profile_images/1128010737580818432/cw4SWqUx_400x400.jpg
-company: 
-job_title: 
+company: Manicode Security
+job_title: Secure Coding Educator
 facebook:
-linkedin:
+linkedin: jmanico
 twitter: manicode
-website: https://manicode.com/
+website: https://manicode.com
 notes:
-status: add-details
+status: done
 type: participant
 ---
 

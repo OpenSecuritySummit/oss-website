@@ -1,5 +1,5 @@
 ---
-title        : OSS - Celebrating the Community and plans for 2021
+title        : OSS - Celebrating the Community and plans for 2022
 track        : 
 project      : 
 type         : working-session
@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Fri
-when_time    : WS-5
+when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/oss-celebrating-the-community-and-plans-for-2021/
 session_slack:
 #status      : 

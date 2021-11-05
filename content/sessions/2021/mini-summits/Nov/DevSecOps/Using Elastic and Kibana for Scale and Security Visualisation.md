@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Tue
-when_time    : WS-5
+when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-elastic-and-kibana-for-scale-and-security-visualisation/
 session_slack:
 #status      : 

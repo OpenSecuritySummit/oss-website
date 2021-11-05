@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Tue
-when_time    : WS-2
+when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/developing-secure-multi-cloud-kubernetes-applications/
 session_slack:
 #status      : 
