@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Mon
 when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cve-cwe-cvss-cwss-where-do-i-look-first/
+banner       : https://pbs.twimg.com/media/FDgsOmTWEAAwxX9.png
 session_slack:
 #status      : 
 description  :
