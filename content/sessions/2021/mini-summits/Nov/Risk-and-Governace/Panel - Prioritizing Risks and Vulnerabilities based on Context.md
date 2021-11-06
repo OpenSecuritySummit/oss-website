@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Mon
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/panel-prioritizing-risks-and-vulnerabilities-based-on-context/
+banner       : https://pbs.twimg.com/media/FDgnV43XEAQ9T8t.png
 session_slack:
 #status      : 
 description  :
