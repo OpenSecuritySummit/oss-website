@@ -1,0 +1,64 @@
+<div class="table">
+    <div class="gt3">
+        <div class="table-organizers">
+            {{ partial "session/organizers-images.html" . }}
+        </div>
+        <div class="table-body">
+            <div class="table-line">
+                <div class="title">
+                    When (day):
+                </div>
+                <div class="description">
+                    {{ .Params.when_day  }}
+                </div>
+            </div>
+            <div class="table-line">
+                <div class="title">
+                    At:
+                </div>
+                <div class="description">
+                    {{ partial "session/when-time.html" . }}
+                </div>
+            </div>
+<!--            <div class="table-line">-->
+<!--                <div class="title">-->
+<!--                    Track:-->
+<!--                </div>-->
+<!--                <div class="description">-->
+<!--                    {{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.track)  }}-->
+<!--                </div>-->
+<!--            </div>-->
+            <div class="table-line">
+                <div class="title">
+                    Project:
+                </div>
+                <div class="description">
+                    {{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.project)  }}
+                </div>
+            </div>
+            <div class="table-line">
+                <div class="title">
+                    Topics:
+                </div>
+                <div class="description">
+                    {{ partial "params/topics-links.html" . }}
+                </div>
+            </div>
+            <div class="table-line">
+                <div class="title">
+                    Watch
+                </div>
+                <div class="button">
+                    {{ partial "session/watch-zoom.html" .  }}
+                </div>
+            </div>
+            <div class="table-line">
+                <div class="title">
+                    Register:
+                </div>
+                <div class="button">
+                    {{ partial "session/register-hey-summit.html" . }}
+                </div>
+            </div>
+        </div>
+    </div>

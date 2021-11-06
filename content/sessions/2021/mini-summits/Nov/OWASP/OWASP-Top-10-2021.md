@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Thu
 when_time    : WS-22-23
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-owasp-top-ten-2021-release/
+banner       : https://pbs.twimg.com/media/FDdbPT8WQAIW2hy?format=png&name=small
 session_slack: 
 #status      : 
 description  : 
