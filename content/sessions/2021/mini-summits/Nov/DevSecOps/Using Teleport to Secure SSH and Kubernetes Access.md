@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Fri
 when_time    : WS-14-15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-teleport-to-secure-ssh-and-kubernetes-access/
+banner       : https://pbs.twimg.com/media/FDcyu0nWEAUS-eg.png
 session_slack:
 #status      : 
 description  :
