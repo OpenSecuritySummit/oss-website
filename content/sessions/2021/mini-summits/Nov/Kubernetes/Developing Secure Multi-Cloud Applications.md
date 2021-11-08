@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Tue
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/developing-secure-multi-cloud-kubernetes-applications/
+banner       : https://pbs.twimg.com/media/FDmC2ZXWQAguPMN.png
 session_slack:
 #status      : 
 description  :
