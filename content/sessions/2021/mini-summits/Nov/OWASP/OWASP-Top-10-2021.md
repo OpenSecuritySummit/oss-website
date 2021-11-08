@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Jim Manico
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/87668052327?pwd=cGtuNGpkUjFkdUZEZGxMM2FCVk1lUT09
 ---
 
 ## About this session
