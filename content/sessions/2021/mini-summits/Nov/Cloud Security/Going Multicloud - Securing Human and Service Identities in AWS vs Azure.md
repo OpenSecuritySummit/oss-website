@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Wed
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/going-multicloud-securing-human-and-service-identities-in-aws-vs-azure/
+banner       : https://pbs.twimg.com/media/FDly0mrXIAkv8_T.png
 session_slack:
 #status      : 
 description  :
@@ -37,8 +38,8 @@ where they align and where they differ.
 In this session, you will learn essentials for how to manage access risk in AWS and Azure. 
 
 We will cover: 
-● Structuring cloud resources correctly 
-● Assigning least privilege policies and controlling identities 
-● Protecting sensitive resources with policy controls 
-● Using cloud provider access governance tools 
-● Achieving least privilege with automated analysis
+-  Structuring cloud resources correctly 
+-  Assigning least privilege policies and controlling identities 
+-  Protecting sensitive resources with policy controls 
+-  Using cloud provider access governance tools 
+-  Achieving least privilege with automated analysis
