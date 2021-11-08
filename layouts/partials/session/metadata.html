@@ -5,11 +5,14 @@
 
 <section class="session-section">
     <div class="container container-xl">
-
-        <div class="row">
-            <div class="col-xs-6"><img width='100%' src="{{ .Params.banner }}"/></div>
-            <div class="col-xs-6">{{ partial "session/metadata-table.html" . }}</div>
-        </div>
+        {{ if .Params.banner }}
+            <div class="row"if>
+                <div class="col-xs-6"><img width='100%' src="{{ .Params.banner }}"/></div>
+                <div class="col-xs-6">{{ partial "session/metadata-table.html" . }}</div>
+            </div>
+        {{ else }}
+            {{ partial "session/metadata-table.html" . }}
+        {{ end }}
     </div>
 
     {{ $this := . }}
