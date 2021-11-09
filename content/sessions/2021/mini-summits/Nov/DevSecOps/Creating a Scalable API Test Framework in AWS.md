@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Dinis Cruz        
-youtube_link : 
+youtube_link : 22k02CfAW5g
 zoom_link    : https://us06web.zoom.us/j/89642470925?pwd=VzJSbXBYeGJ3SkxiUDkzekpES2tuUT09
 ---
 
