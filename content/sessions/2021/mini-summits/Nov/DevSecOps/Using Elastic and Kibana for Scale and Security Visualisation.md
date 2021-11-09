@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Tue
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-elastic-and-kibana-for-scale-and-security-visualisation/
+banner       : https://pbs.twimg.com/media/FDs_JbCWEAEOf1n.png
 session_slack:
 #status      : 
 description  :
