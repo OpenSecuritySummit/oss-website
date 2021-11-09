@@ -18,5 +18,5 @@ description  :
 organizers   :
     - Christian Schneider   
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/85772389076
 ---
