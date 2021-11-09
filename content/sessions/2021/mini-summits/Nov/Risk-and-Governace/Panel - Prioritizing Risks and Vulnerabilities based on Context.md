@@ -19,7 +19,7 @@ organizers   :
     - Dinis Cruz
     - Petra Vukmirovic
     - Francesco Cipollon
-youtube_link : 
+youtube_link :   f3qlcj1BM8o
 zoom_link    :   https://us06web.zoom.us/j/87854880218?pwd=VUx6OEh5dWl5Mzc4QVpucklNYzBXdz09
 ---
 
