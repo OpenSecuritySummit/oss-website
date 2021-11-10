@@ -6,8 +6,8 @@ type         : working-session
 topics       :
 featured     :
 event        : mini-summit
-when_year    : 2021
-when_month   : Nov
+when_year    : 2022
+when_month   : Jan
 when_day     : Wed
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/owasp-security-bot-hypercharge-your-cloud-automation/
