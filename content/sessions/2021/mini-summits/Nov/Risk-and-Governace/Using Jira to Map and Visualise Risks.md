@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Wed
 when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-jira-to-map-and-visualise-risks/
+banner       : https://pbs.twimg.com/media/FDyNQjIXEAEXD_p.png
 session_slack:
 #status      : 
 description  :
