@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Petra Vukmirovic
     - Dinis Cruz    
-youtube_link : 
+youtube_link : HOBiRiIAjv0
 zoom_link    : https://us06web.zoom.us/j/88492304973?pwd=aTV3bERBbXgyQXVSY0gvZFA5UTlLUT09
 ---
 
