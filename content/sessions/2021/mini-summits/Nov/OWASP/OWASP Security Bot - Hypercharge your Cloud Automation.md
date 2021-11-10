@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Wed
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/owasp-security-bot-hypercharge-your-cloud-automation/
+banner       : https://pbs.twimg.com/media/FDyLF81X0AkWiM9.png
 session_slack:
 #status      : 
 description  :
