@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Jakub Kaluzny
-youtube_link : 
+youtube_link : hXx3Y78mK8E
 zoom_link    : https://us06web.zoom.us/j/88111904926?pwd=K3NyM1lQSzZkcnhrS2JQendXcTBqZz09
 ---
 
