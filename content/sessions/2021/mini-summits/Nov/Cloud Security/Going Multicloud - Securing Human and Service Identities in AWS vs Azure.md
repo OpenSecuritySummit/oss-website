@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Lior Zatlavi
-youtube_link : 
+youtube_link : vYI2m-2q8J4
 zoom_link    : https://us06web.zoom.us/j/82905050465?pwd=Z0Q5QTNpditOZjNyUENzcTZ1bkJ6Zz09
 ---
 
