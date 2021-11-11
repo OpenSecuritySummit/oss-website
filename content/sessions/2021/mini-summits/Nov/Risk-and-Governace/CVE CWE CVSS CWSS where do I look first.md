@@ -19,9 +19,9 @@ organizers   :
     - Francesco Cipollon
 youtube_link : sOlzTFijG1g
 zoom_link    : https://us06web.zoom.us/j/89847948988?pwd=YVdiOWN5bkxaRmlwQWJ4NDdVRzdFdz09
-slide_id     :
-slide_edit   : 
-Transcript   :
+slide_id     : 1HYVyWfq-xZomGaP_GyHotN3NEVECx9vOxesQqTKY48A
+slide_edit   : 1PzehAIfx4sly39yU_sLrulQScZY-JHCG
+Transcript   : 1CILzS4i4Hyk2xtr2XX3ccIy8T7mmVcqC
 
 ---
 
