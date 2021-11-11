@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2021
 when_month   : Nov
 when_day     : Wed
-when_time    : WS-20-21
+when_time    : WS-20+-21+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/agile-threat-modeling-with-open-source-tools-1
 banner       : https://pbs.twimg.com/media/FDyTPAIWQAYks07.png
 session_slack:

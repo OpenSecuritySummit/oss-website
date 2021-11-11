@@ -6,8 +6,8 @@ type         : working-session
 topics       :
 featured     :
 event        : mini-summit
-when_year    : 2021
-when_month   : Nov
+when_year    : 2022
+when_month   : Jan
 when_day     : Thu
 when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-tool-iriusrisk-community-edition/
