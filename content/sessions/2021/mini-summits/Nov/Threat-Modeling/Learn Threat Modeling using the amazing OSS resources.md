@@ -11,7 +11,7 @@ when_month   : Nov
 when_day     : Thu
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/learn-threat-modeling-using-the-amazing-oss-resources/
-banner       : https://files.slack.com/files-pri/TAULHPATC-F02M6N1QL7J/oss_graphics_templates__1___44_.png
+banner       : https://pbs.twimg.com/media/FD536qKXsAIyt24.png
 session_slack:
 #status      : 
 description  :
