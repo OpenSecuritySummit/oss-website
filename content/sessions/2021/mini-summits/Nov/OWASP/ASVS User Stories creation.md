@@ -11,6 +11,7 @@ when_month   : Nov
 when_day     : Fri
 when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/asvs-user-stories-creation-part-8/
+banner       :
 session_slack:
 #status      : 
 description  :
