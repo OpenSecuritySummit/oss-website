@@ -11,12 +11,13 @@ when_month   : Nov
 when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cooking-the-perfect-docker-container-for-a-react-app/
+banner       : https://pbs.twimg.com/media/FD52q5CXMAQ544z.png
 session_slack:
 #status      : 
 description  :
 organizers   :
     - Luis Servin
-youtube_link : 
+youtube_link : VKkbpsST6Ic
 zoom_link    : https://us06web.zoom.us/j/87239080708?pwd=NUo2Qm5aeHgyVStJb1NOSDVheGhldz09
 ---
 
