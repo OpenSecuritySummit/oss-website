@@ -16,7 +16,7 @@ session_slack:
 description  :
 organizers   :
     - Matt Johnson
-youtube_link : 
+youtube_link :  1NK1kPhx74U
 zoom_link    :  https://us06web.zoom.us/j/81870927508?pwd=Tzc1UDZ1WS9wZHRCM1FHTGlGdHhhQT09
 ---
 
