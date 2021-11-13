@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Sakshyam Shah
-youtube_link : 
+youtube_link : u2GPqRCw754
 zoom_link    : https://us06web.zoom.us/j/86973164445?pwd=a2JhNjJQY3EvekltbHl5VkFnekxBQT09
 ---
 
