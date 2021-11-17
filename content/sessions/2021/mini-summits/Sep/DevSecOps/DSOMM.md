@@ -1,6 +1,7 @@
 ---
 title        : DSOMM News and Belts-Workshop
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
