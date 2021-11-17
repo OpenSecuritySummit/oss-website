@@ -1,6 +1,7 @@
 ---
 title        : "Yor:Automated IaC tag and trace"
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
