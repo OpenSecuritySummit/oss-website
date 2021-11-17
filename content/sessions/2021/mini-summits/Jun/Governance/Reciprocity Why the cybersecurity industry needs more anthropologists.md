@@ -1,6 +1,7 @@
 ---
 title        : "Reciprocity: Tales of an Anthropologist in Cybersecurity"
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
