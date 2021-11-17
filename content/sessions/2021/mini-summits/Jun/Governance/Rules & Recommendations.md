@@ -1,6 +1,7 @@
 ---
 title        : "Rules & Recommendations: Are we pushing our new IoT device out correctly?"
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
