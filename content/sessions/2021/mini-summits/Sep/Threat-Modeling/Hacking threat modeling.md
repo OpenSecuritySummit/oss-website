@@ -1,6 +1,7 @@
 ---
 title        : Hacking threat modeling
-track        : Threat modeling
+track        : Threat Modeling
+project      : Threat Modeling
 type         : working-session
 topics       :
 featured     :
