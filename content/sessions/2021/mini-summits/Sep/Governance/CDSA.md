@@ -1,7 +1,7 @@
 ---
 title        : Content Delivery & Security Association
 track        : Governance
-project      : Control Frameworks Maps
+project      : Control Framework Maps
 type         : working-session
 topics       :
 featured     :
