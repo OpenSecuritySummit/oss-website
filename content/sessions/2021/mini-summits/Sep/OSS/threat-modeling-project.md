@@ -1,6 +1,7 @@
 ---
 title        : OSS Threat Modeling and Moldable Development Projects
-track        :
+track        : Threat Modeling
+project      : Moldable Development
 type         : working-session
 topics       :
 featured     :
