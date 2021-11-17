@@ -1,6 +1,7 @@
 ---
 title        : OSS Semgrep project
-track        :
+track        : Semgrep
+project      : Semgrep
 type         : working-session
 topics       :
 featured     :
