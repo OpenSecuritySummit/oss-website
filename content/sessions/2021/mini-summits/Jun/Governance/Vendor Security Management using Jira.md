@@ -1,6 +1,7 @@
 ---
 title        : Vendor Security Management using Jira
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
