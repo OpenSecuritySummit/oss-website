@@ -1,6 +1,7 @@
 ---
 title        : OSS DevSecOps projet
-track        :
+track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
