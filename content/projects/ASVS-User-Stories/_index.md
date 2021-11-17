@@ -10,6 +10,7 @@ description     : Project focused on creating User stories (what they are and ho
 active_members:
  - Mario Platt
  - Dinis Cruz
+ - Luis Servin
 highlight_videos:
  - c8YZHOSr5cA
  - o0PKHLPqEIs
