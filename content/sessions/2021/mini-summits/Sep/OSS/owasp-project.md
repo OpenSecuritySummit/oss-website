@@ -1,6 +1,7 @@
 ---
 title        : OSS OWASP Project
-track        :
+track        : OWASP
+project      : OWASP
 type         : working-session
 topics       :
 featured     :
