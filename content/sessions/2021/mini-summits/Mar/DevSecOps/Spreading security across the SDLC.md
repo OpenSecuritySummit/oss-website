@@ -1,6 +1,7 @@
 ---
 title        : Spreading security across the SDLC (with semgrep and other tools)
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
