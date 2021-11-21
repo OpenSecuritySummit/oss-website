@@ -1,6 +1,7 @@
 ---
 title        : "How Variant Analysis and CodeQL helped secure the fight against COVID-19"
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
