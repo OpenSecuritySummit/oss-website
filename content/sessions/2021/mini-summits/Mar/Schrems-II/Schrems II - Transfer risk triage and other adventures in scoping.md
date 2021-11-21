@@ -2,6 +2,7 @@
 title        : Schrems II - Transfer risk triage and other adventures in scoping
 type         : working-session
 track        : Schrems II
+project      : Schrems II
 topics       :
 event        : mini-summit
 when_year    : 2021
