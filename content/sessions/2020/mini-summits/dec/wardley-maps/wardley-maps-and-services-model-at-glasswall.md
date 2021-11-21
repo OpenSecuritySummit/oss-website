@@ -1,6 +1,7 @@
 ---
 title        : Wardley Maps and services model at Glasswall
 track        : Wardley Maps
+project      : Wardley Maps
 type         : working-session
 topics       :
 featured     :
