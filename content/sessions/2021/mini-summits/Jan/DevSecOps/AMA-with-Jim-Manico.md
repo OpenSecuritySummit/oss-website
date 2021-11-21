@@ -1,6 +1,7 @@
 ---
 title        : AMA with Jim Manico
 track        : DevSecOps
+project      : DevSecOp
 type         : working-session
 topics       :
 featured     :
