@@ -1,6 +1,7 @@
 ---
 title        : What to do in preparation for a Threat Model
-track        : Governance
+track        : Threat Modeling
+project      : Threat Modeling
 type         : working-session
 topics       :
 featured     :
