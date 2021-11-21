@@ -1,6 +1,7 @@
 ---
 title        : The Modern Data Broker Landscape
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
