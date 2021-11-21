@@ -1,5 +1,0 @@
-{{ $field  := "organizers" }}
-{{ $titles := partial "utils/field-to-array.html"  (dict "this" . "field" $field) }}
-{{ $pages  := partial "utils/titles-to-pages.html" (dict "this" . "titles" $titles) }}
-{{ return $pages}}
-

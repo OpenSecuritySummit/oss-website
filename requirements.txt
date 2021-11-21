@@ -1,5 +1,0 @@
-matplotlib
-ipympl
-python-frontmatter
-qgrid
-pbx_gs_python_utils
