@@ -1,6 +1,7 @@
 ---
 title        : Creating 1 million kubernetes pods - Lessons learned
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
