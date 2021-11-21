@@ -1,6 +1,7 @@
 ---
 title        : SOC2 Certification for SaaS companies
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
