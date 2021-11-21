@@ -1,6 +1,7 @@
 ---
 title        : "For bugs start with a passing test (and 99% code coverage)"
 track        : Owasp
+project      : Owasp
 type         : working-session
 topics       :
 featured     :
