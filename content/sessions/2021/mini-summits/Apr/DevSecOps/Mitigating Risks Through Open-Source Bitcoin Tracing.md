@@ -1,6 +1,7 @@
 ---
 title        : Mitigating Risks Through Open-Source Bitcoin Tracing
-track        : DevSecOps
+track        : Risk and Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
