@@ -1,6 +1,7 @@
 ---
 title        : SDA SE Cluster Scanner is going Open Source
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
