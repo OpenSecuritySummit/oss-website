@@ -1,6 +1,7 @@
 ---
 title        : Automating SOC2 using Jira
-track        :
+track        : Risk and Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
