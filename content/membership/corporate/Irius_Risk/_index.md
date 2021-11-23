@@ -33,3 +33,5 @@ LinkedIn: https://www.linkedin.com/company/iriusrisk
 Twitter: https://twitter.com/IriusRisk
 
 Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
+
+Why you’re probably doing agile threat modeling wrong: https://www.youtube.com/watch?v=zWci7NXyS68
