@@ -10,6 +10,7 @@ members:
     - Jemma Davis
     - Katie Charlton
 sponsored_projects:
+- secure by scenerio
 ---
 
 ## Culture Gem
