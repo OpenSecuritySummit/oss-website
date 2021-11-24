@@ -35,7 +35,7 @@ Twitter: https://twitter.com/IriusRisk
 
 Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
 
-## Videos:
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Rub-zWci7NXyS68" allowfullscreen=""></iframe>
+videos:
+ - zWci7NXyS68 : "Why you’re probably doing agile threat modeling wrong (unless you’re doing agile right)"
 ## Images:
  - https://drive.google.com/file/d/1xcvctp1eN_yqD7DjXHr8YtwppwiQvOo-/view
