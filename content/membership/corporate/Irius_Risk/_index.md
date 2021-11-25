@@ -6,6 +6,8 @@ layout          : corporate-member
 no-breadcrumbs  :
 organizers      :
 description     : IriusRisk is a global threat modeling company that strives to help companies create secure applications by design. Using industry-leading diagramming and powerful automation, its platform enables security and development teams to generate a list of threats and the required fixes to mitigate risk - before a line of code is written.
+videos:
+- zWci7NXyS68 : "Why you’re probably doing agile threat modeling wrong (unless you’re doing agile right)"
 members:
   - Stephen de Vries
   - Stacey Wallis
