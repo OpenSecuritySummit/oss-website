@@ -9,6 +9,7 @@ description     : IriusRisk is a global threat modeling company that strives to 
 members:
   - Stephen de Vries
   - Stacey Wallis
+  - Naresh Chouhan
 sponsored_projects:
  - Threat Modeling
  - ASVS User Stories
@@ -36,9 +37,9 @@ Twitter: https://twitter.com/IriusRisk
 Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
 
 ## videos:
--[![<img width="542" alt="Screenshot 2021-11-25 094153" src="https://user-images.githubusercontent.com/73589720/143417489-76e3e656-7d80-4771-a30a-12a43a831e8c.png">](Why you’re probably doing agile threat modeling wrong (unless you’re doing agile right))](https://www.youtube.com/watch?v=zWci7NXyS68)
+-[![<img width="542" alt="Screenshot 2021-11-25 094153" src="https://user-images.githubusercontent.com/73589720/143417489-76e3e656-7d80-4771-a30a-12a43a831e8c.png">] [Why you’re probably doing agile threat modeling wrong](https://www.youtube.com/watch?v=zWci7NXyS68)
 
 ## Images:
  
 
-<img width="1293" alt="Screenshot 2021-11-23 at 15 43 17 (1)" src="https://user-images.githubusercontent.com/73589720/143415390-bfe5ae35-bad0-4bdf-bf9b-45af173e90b8.png">
+[<img width="1293" alt="Screenshot 2021-11-23 at 15 43 17 (1)" src="https://user-images.githubusercontent.com/73589720/143415390-bfe5ae35-bad0-4bdf-bf9b-45af173e90b8.png">]
