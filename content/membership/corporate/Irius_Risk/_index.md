@@ -38,10 +38,7 @@ Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
 
 ## Video
 
-<figure class="video_container">
-  <iframe src="src="https://www.youtube.com/embed/zWci7NXyS68" frameborder="0" allowfullscreen="true"> </iframe>
- </figure>                                                                                                     
-                                                                                                    
+{{< youtube zWci7NXyS68 >}}
 
 ## Images:
  
