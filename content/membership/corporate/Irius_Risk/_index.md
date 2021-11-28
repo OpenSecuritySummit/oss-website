@@ -27,7 +27,8 @@ Its self-service design opens up secure design to non-security teams, such as de
 Whether you have 1, 10, 1000, 10000+ applications, IriusRisk scales with your architecture and application portfolio, and will help you create a continuous process of secure design that satisfies your organization’s own internal, unique security and compliance requirements.
 
 
-Links
+## Links
+
 Company Website:  https://www.iriusrisk.com/
 
 LinkedIn: iriusrisk
