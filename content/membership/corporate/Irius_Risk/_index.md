@@ -31,11 +31,11 @@ Whether you have 1, 10, 1000, 10000+ applications, IriusRisk scales with your ar
 
 Company Website:  https://www.iriusrisk.com/
 
-LinkedIn: iriusrisk
+LinkedIn: https://www.linkedin.com/in/iriusrisk
 
-Twitter: IriusRisk
+Twitter: https://twitter.com/IriusRisk
 
-Youtube: UCFffTAKLERFpVf_R1VRlDmQ
+Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
 
 ## Video
 
