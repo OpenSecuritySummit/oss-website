@@ -2,6 +2,7 @@
 title        : "Security Labels & Schrems II"
 type         : working-session
 track        : Security Labels
+project      : Miscellaneous
 topics       : 
 when         : Nov 12th Thursday
 event        : mini-summit

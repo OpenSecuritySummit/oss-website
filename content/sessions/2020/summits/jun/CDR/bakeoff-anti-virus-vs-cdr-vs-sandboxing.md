@@ -1,6 +1,7 @@
 ---
 title        : Bakeoff - Anti-virus vs CDR vs Sandboxing
 track        : Content Disarm & Reconstruction
+project      : Miscellaneous
 type         : working-session
 featured     : yes
 event        : summit
