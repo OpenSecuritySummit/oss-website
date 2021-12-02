@@ -1,6 +1,7 @@
 ---
 title        : Scaling Threat Models visualisations using PlantUML and VisJS
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

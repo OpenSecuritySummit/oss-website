@@ -1,6 +1,7 @@
 ---
 title        : Sonar Cube Integrations with GitHub
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

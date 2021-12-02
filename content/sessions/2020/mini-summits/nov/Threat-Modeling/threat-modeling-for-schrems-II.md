@@ -2,6 +2,7 @@
 title        : "Threat Modeling for Schrems II"
 type         : working-session
 track        : Threat Modeling
+project      : Threat Modeling
 when         : Nov 11th Wednesday
 topics       : 
 event        : mini-summit

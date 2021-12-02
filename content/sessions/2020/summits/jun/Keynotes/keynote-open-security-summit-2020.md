@@ -2,6 +2,7 @@
 title        : Keynote - Open Security Summit 2020
 type         : working-session
 track        : Keynotes
+project      : Miscellaneous
 technology   :
 topics       :                    # for example ["GDPR"]
 featured     : yes                   # review with summit team "yes"

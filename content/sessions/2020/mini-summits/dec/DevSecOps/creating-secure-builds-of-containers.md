@@ -1,6 +1,7 @@
 ---
 title        : Creating Secure Builds of Containers
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
