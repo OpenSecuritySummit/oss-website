@@ -1,6 +1,7 @@
 ---
 title        : New OSS Projects
-track        :
+track        : Misc
+project      : Miscellaneous
 type         : working-session
 topics       :
 featured     :

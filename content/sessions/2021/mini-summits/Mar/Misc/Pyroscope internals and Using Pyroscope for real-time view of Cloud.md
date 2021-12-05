@@ -1,7 +1,7 @@
 ---
 title : Pyroscope internals and Using Pyroscope for real-time view of Cloud/Serverless Applications
-track : 
-project : Miscellaneous
+track : DevSecops
+project : DevSecops
 type : working-session
 topics :
 featured :

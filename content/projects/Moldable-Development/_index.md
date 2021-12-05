@@ -12,7 +12,6 @@ active_members:
  - Dinis Cruz
 highlight_videos:
  - SehtbBoemyk
- - g_HbzSKxzxg
  - a-tWIoGSmgk
  - txSK9wFoc_c
 videos:

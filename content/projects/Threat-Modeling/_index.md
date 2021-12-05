@@ -38,9 +38,8 @@ highlight_videos:
  - VPEOb41jqVY
  - mYD25nIGpKw
  - YabZXYGeqMQ
- - g_HbzSKxzxg
+ - 7Pvo20Af_p0
 videos:
- - 7Pvo20Af_p0: "Threat Modeling - Cloud Functions as Detonation Chambers by Dinis Cruz - 4 Jun"
  - yjvSI755auM : "Introduction to Threat Modeling by Avi Douglen - 11 Jun"
  - 6gruQov9YYo : "Threat Modeling Playbook by Sebastien Deleersnyder"
  - CZxPZ-G3Gys : "Threat Modeling Manifesto - 9 Dec 2020"

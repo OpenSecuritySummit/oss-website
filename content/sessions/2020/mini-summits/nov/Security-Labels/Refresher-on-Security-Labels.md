@@ -3,6 +3,7 @@ title        : "Refresher on Security Labels"
 type         : working-session
 project      : Miscellaneous
 track        : Security Labels
+project      : Miscellaneous
 topics       : 
 when         : Nov 10th Tuesday
 when_week    :
