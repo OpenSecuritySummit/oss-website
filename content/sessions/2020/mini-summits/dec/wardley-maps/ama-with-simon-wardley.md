@@ -1,6 +1,7 @@
 ---
 title        : AMA with Simon Wardley
 track        : Wardley Maps
+project      : Wardley Maps
 type         : working-session
 topics       :
 featured     :

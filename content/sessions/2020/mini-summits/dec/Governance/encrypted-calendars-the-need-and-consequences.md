@@ -1,6 +1,7 @@
 ---
 title        : Encrypted Calendars - the need and consequences
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :

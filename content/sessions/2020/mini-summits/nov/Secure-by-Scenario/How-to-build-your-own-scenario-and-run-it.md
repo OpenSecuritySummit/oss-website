@@ -2,6 +2,7 @@
 title        : "Playing at Security: Designing, building, and running tabletop scenarios for fail-safe incident handling and incident response training"
 type         : working-session
 track        : Secure by Scenario
+project      : Secure by Scenario
 topics       : 
 when         : Nov 9th Mon
 when_week    :

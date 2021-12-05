@@ -1,6 +1,7 @@
 ---
 title        : Threat Modeling Manifesto
 track        : Threat Modeling
+project      : THreat Modeling
 type         : working-session
 topics       :
 featured     :
