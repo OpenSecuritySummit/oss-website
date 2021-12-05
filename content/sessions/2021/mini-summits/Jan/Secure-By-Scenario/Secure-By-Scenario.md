@@ -1,6 +1,7 @@
 ---
 title        : Secure By Scenario
 track        : Secure by Scenario
+project      : Secure by Scenario
 type         : working-session
 topics       :
 featured     :

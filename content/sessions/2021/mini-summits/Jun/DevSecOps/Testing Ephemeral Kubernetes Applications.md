@@ -1,6 +1,7 @@
 ---
 title        : Testing Ephemeral Kubernetes Applications
 track        : DevSecOps
+project      : Kubernetes
 type         : working-session
 topics       :
 featured     :

@@ -1,6 +1,7 @@
 ---
 title        : Scaling Incident Response using Jira, Jupyter and GSuite
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

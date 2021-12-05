@@ -1,6 +1,7 @@
 ---
 title        : Using Domain Specific Languages (DSL) for testing
-track        :
+track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

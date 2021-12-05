@@ -1,6 +1,7 @@
 ---
 title        : AI ML European regulation
 track        : 
+project      : Miscellaneous
 type         : working-session
 topics       :
 featured     :
