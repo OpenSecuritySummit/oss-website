@@ -1,6 +1,7 @@
 ---
 title        : CDR Engine Standard (Part 1)
 track        : CDR
+project      : CDR
 type         : working-session
 topics       :
 featured     :

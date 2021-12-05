@@ -1,6 +1,7 @@
 ---
 title        : A perspective on automating 3rd party risk assessment. How to free up your staff, and improve speed by automaton with guardrails.
-track        : 
+track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :

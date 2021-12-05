@@ -1,6 +1,7 @@
 ---
 title        : "Challenges in IoT security: from infinite recommendations to a plethora of implementations"
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :

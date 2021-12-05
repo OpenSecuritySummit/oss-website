@@ -1,6 +1,7 @@
 ---
 title        : Distroless Containers
 track        : Owasp
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

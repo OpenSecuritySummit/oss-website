@@ -1,6 +1,7 @@
 ---
 title        : Threat Modeling Glasswall Cloud SDK
 track        : Threat Modeling
+project      : Threat Modeling
 type         : working-session
 topics       :
 featured     :

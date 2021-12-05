@@ -1,6 +1,7 @@
 ---
 title        : Secure Access to Kubernetes pods using teleport
 track        : DevSecOps
+project      : Kubernetes
 type         : working-session
 topics       :
 featured     :

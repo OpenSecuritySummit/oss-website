@@ -2,6 +2,7 @@
 title        : "Virtual Pub"
 type         : working-session
 track        : Miscellenous
+project      : Social
 topics       : 
 event        : mini-summit
 when_year    : 2020

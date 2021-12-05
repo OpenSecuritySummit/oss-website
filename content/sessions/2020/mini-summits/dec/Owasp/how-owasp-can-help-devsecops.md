@@ -1,6 +1,7 @@
 ---
 title        : How Owasp can help Security Teams - DevSecOps
 project      : OWASP
+track        : Owasp
 type         : working-session
 topics       :
 featured     :

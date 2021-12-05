@@ -1,6 +1,7 @@
 ---
 title        : Mitigating Risks Through Open-Source Bitcoin Tracing
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

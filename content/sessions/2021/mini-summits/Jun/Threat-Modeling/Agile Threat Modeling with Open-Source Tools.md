@@ -1,6 +1,7 @@
 ---
 title        : Agile Threat Modeling with Open-Source Tools
 track        : Threat Modeling
+project      : Threat Modeling
 type         : working-session
 topics       :
 featured     :

@@ -1,6 +1,7 @@
 ---
 title        : Compliant Kubernetes - Case Study
 track        : DevSecOps
+project      : Kubernetes
 type         : working-session
 topics       :
 featured     :

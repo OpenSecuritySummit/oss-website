@@ -1,7 +1,9 @@
 ---
 title        : CDR Engine Standard (Part 2)
 track        : CDR
+project      : CDR
 type         : working-session
+project      : Miscellaneous
 topics       :
 featured     :
 event        : mini-summit

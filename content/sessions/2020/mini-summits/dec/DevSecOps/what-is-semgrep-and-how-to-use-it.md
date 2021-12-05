@@ -1,6 +1,7 @@
 ---
 title        : Embrace Secure Defaults, Block Anti-patterns, and Kill Bug Classes with Semgrep
 track        : DevSecOps
+project      : Semgrep
 type         : working-session
 topics       :
 featured     :

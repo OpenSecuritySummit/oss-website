@@ -2,6 +2,7 @@
 title        : "Schrems II - Finding workable solutions"
 type         : working-session
 track        : Schrems II
+project      : Schrems II
 topics       :
 event        : mini-summit
 when_year    : 2020

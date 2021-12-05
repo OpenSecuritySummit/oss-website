@@ -1,6 +1,7 @@
 ---
 title        : "Maturity Mapping: Contextualise change and learning"
 track        : Wardley Maps
+project      : Wardley Maps
 type         : working-session
 topics       :
 featured     :

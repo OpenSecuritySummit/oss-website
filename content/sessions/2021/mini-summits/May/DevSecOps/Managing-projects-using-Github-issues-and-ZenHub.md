@@ -1,6 +1,7 @@
 ---
 title        : Managing projects using Github Issues and ZenHub
 track        : Owasp
+project      : OWASP
 type         : working-session
 topics       :
 featured     :

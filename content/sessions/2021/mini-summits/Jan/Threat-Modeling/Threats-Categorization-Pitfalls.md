@@ -1,6 +1,7 @@
 ---
 title        : "Threats categorization, pitfalls, different ways of applying it in practise"
 track        : Threat Modeling
+project      : Threat Modeling
 type         : working-session
 topics       :
 featured     :

@@ -10,8 +10,13 @@ members:
     - Jemma Davis
     - Katie Charlton
 sponsored_projects:
+- secure by scenerio
 ---
 
 ## Culture Gem
 
-More details coming soon
+Specialising in cultural and behaviour change activity, Culture Gem works with companies of all sizes, from local businesses and sole traders to national corporations, offering competitive solutions to meet your cultural and behaviour change activity needs. If you can imagine it, Culture Gem can deliver it.
+
+Links Company Website: https://www.culturegem.co.uk/
+
+LinkedIn: https://www.linkedin.com/company/culturegem/

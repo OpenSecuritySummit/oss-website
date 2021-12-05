@@ -1,6 +1,7 @@
 ---
 title        : Threat Modeling Playbook
 track        : Threat Modeling
+project      : Threat Modeling
 type         : working-session
 topics       :
 event        : mini-summit

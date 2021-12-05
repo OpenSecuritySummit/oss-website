@@ -1,17 +1,19 @@
 ---
 title           : Irius Risk
 type            : membership
-image           : /content/members/IriusRisk-logo.png
 layout          : corporate-member
 no-breadcrumbs  :
 organizers      :
 description     : IriusRisk is a global threat modeling company that strives to help companies create secure applications by design. Using industry-leading diagramming and powerful automation, its platform enables security and development teams to generate a list of threats and the required fixes to mitigate risk - before a line of code is written.
 members:
   - Stephen de Vries
+  - Stacey Wallis
+  - Naresh Chouhan
 sponsored_projects:
  - Threat Modeling
  - ASVS User Stories
  - DevSecOps
+youtube_link : zWci7NXyS68
 ---
 
 ## Irius Risk
@@ -25,11 +27,20 @@ Its self-service design opens up secure design to non-security teams, such as de
 Whether you have 1, 10, 1000, 10000+ applications, IriusRisk scales with your architecture and application portfolio, and will help you create a continuous process of secure design that satisfies your organization’s own internal, unique security and compliance requirements.
 
 
-Links
+## Links
+
 Company Website:  https://www.iriusrisk.com/
 
-LinkedIn: https://www.linkedin.com/company/iriusrisk
+LinkedIn: https://www.linkedin.com/in/iriusrisk
 
 Twitter: https://twitter.com/IriusRisk
 
 Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
+
+## Video
+
+{{< youtube zWci7NXyS68 >}}
+
+## Images:
+ 
+

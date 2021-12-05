@@ -17,7 +17,7 @@ session_slack:
 description  : 
 organizers   :
     - Jim Manico
-youtube_link : 
+youtube_link :  eTfZEiiNrZA
 zoom_link    :  https://us06web.zoom.us/j/87668052327?pwd=cGtuNGpkUjFkdUZEZGxMM2FCVk1lUT09
 ---
 
