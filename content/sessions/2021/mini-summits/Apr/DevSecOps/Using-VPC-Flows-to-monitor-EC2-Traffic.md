@@ -1,6 +1,7 @@
 ---
 title        : Using VPC Flows to monitor EC2 Traffic
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

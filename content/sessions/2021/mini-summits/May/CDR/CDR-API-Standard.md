@@ -1,7 +1,7 @@
 ---
 title        : CDR API Standard
 track        : CDR
-project      : Miscellaneous
+project      : CDR
 type         : working-session
 topics       :
 featured     :

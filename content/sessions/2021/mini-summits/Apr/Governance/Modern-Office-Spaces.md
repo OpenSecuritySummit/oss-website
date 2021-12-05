@@ -1,6 +1,7 @@
 ---
 title        : Modern Office Spaces
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :

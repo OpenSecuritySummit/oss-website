@@ -1,6 +1,7 @@
 ---
 title        : "Refresher on Security Labels"
 type         : working-session
+project      : Miscellaneous
 track        : Security Labels
 project      : Miscellaneous
 topics       : 

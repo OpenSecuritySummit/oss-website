@@ -2,6 +2,7 @@
 title        : "Using Kubernetes to create a scalable Security Proxy solution"
 type         : working-session
 track        : DevSecOps
+project      : Kubernetes
 topics       : 
 when_week    :
 event        : mini-summit

@@ -1,6 +1,7 @@
 ---
 title        : OWASP DSOMM Enhancement Workshop
 track        : DevSecOps
+project      : OWASP
 type         : working-session
 topics       :
 featured     :

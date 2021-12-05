@@ -1,6 +1,7 @@
 ---
 title        : AMA with Jeremiah Grossman
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :

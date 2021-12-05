@@ -1,7 +1,7 @@
 ---
 title        : Positive Security models and Rebuilding into a "Known Good" state
 track        : CDR
-project      : Miscellaneous
+project      : CDR
 type         : working-session
 topics       :
 featured     :

@@ -1,6 +1,7 @@
 ---
 title        : "Secure by Scenario"
 track        : Secure by Scenario
+project      : Secure by Scenario
 type         : working-session
 topics       :
 event        : mini-summit

@@ -1,6 +1,7 @@
 ---
 title        : Scaling Your Security Program with Semgrep
 track        : DevSecOps
+project      : Semgrep
 type         : working-session
 topics       :
 featured     :
