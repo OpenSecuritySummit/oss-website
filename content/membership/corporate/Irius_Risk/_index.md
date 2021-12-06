@@ -40,6 +40,8 @@ Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
 ## Video
 
 {{< youtube zWci7NXyS68 >}}
+{{< youtube Tdrphm-riuM >}}
+
 
 ## Images:
  
