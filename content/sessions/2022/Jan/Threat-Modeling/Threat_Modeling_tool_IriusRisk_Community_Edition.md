@@ -17,7 +17,7 @@ description  :
 organizers   :
     - TBD    
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/81883953730?pwd=UU16cXg3SFhBZ2hSVE9FWWhTZmJ2Zz09
+zoom_link    :   https://us06web.zoom.us/j/83227776547?pwd=WDdFZ2M2SzlMZTdLV1oxZ01Vajh2Zz09
 ---
 
 ## About this session
