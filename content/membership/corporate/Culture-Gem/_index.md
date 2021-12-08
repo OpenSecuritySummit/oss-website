@@ -9,6 +9,7 @@ description     : Coming soon
 members:
     - Jemma Davis
     - Katie Charlton
+Sponsored_Members:
 sponsored_projects:
 - secure by scenerio
 ---
