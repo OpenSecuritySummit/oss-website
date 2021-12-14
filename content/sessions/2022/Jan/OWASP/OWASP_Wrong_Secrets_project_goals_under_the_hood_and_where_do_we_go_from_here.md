@@ -1,5 +1,5 @@
 ---
-title        : OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?
+title        : "OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?"
 track        : OWASP
 project      : OWASP
 type         : working-session
