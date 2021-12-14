@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Jan
-when_day     : Tues
-when_time    : WS-18-19+
+when_day     : Tue
+when_time    : WS-18-19
 hey_summit   : 
 banner       : 
 session_slack:
