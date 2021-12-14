@@ -40,7 +40,12 @@ Youtube: https://www.youtube.com/channel/UCFffTAKLERFpVf_R1VRlDmQ/featured
 ## Video
 
 {{< youtube zWci7NXyS68 >}}
+{{< youtube Tdrphm-riuM >}}
+
 
 ## Images:
+![image](https://user-images.githubusercontent.com/73589720/144821436-3226b3c1-ad71-48ec-b895-ee03ba3a6777.png)
+
+
  
 
