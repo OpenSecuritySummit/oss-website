@@ -1,6 +1,6 @@
 ---
 title        : Technical Leadership and Influence
-track        : Treat Modeling
+track        : 
 project      : 
 type         : working-session
 topics       :
