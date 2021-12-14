@@ -1,5 +1,5 @@
 ---
-title        : From Kubernetes to a Portable Secure and Compliant Platform: Databases, Message Queues and Caches
+title        : "From Kubernetes to a Portable Secure and Compliant Platform: Databases, Message Queues and Caches"
 track        : Kubernetes
 project      : Kubernetes
 type         : working-session
