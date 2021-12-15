@@ -9,8 +9,8 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jan
 when_day     : Tue
-when_time    : WS-18-19
-hey_summit   : 
+when_time    : WS-18-19+
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/software-security-and-threat-modelling/
 banner       : 
 session_slack:
 #status      : 
