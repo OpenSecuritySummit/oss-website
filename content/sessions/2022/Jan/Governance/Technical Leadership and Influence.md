@@ -1,7 +1,7 @@
 ---
 title        : Technical Leadership and Influence
 track        : Governance
-project      : RIsk and Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Brook S.E. Schoenfield       
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82287188085?pwd=cU92dG43WERGYnpFOTUwN1VJRnhRUT09
 ---
 
 ## About this session
