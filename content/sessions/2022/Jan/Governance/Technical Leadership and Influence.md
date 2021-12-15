@@ -1,7 +1,7 @@
 ---
 title        : Technical Leadership and Influence
-track        : 
-project      : 
+track        : Governance
+project      : RIsk and Governance
 type         : working-session
 topics       :
 featured     :
