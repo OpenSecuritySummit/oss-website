@@ -1,7 +1,7 @@
 ---
 title        : Software Security and Threat Modelling
 track        : Threat Modeling
-project      : 
+project      : Threat Modeling
 type         : working-session
 topics       :
 featured     :
