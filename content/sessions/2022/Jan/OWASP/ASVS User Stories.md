@@ -1,5 +1,5 @@
 ---
-title        : ASVS User Stories creation - Part 8
+title        : ASVS User Stories creation - Part 9
 track        : OWASP
 project      : ASVS User Stories
 type         : working-session
