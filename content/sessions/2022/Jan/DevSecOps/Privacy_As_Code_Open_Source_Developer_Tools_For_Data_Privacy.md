@@ -19,6 +19,7 @@ organizers   :
     - Thomas La Piana    
 youtube_link : 
 zoom_link    : 
+
 ---
 
 ## About this session
