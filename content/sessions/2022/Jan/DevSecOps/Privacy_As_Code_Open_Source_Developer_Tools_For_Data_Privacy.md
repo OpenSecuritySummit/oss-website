@@ -16,7 +16,8 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - Thomas La Piana    
+    - Thomas La Piana   
+    
 youtube_link : 
 zoom_link    : 
 
