@@ -1,5 +1,5 @@
 ---
-title        : Privacy As Code: Open-Source Developer Tools For Data Privacy
+title        : Privacy As Code: "Open-Source Developer Tools For Data Privacy"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
