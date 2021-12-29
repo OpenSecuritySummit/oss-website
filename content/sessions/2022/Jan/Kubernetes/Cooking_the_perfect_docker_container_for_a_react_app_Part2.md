@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Jan
-when_day     : Thu
+when_day     : Wed
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cooking-the-perfect-reactjs-docker-container-part-2/
 banner       : 
