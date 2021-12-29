@@ -1,7 +1,7 @@
 ---
 title        : Cooking the perfect docker container for a react app Part 2
-track        : Kubernetes
-project      : Kubernetes
+track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
