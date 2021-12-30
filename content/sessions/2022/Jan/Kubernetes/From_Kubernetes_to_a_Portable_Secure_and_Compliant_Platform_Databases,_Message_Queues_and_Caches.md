@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Cristian Klein       
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/86751610001?pwd=SkFSN3ZldXE2WC9Ya2RaWmJHbzQ3UT09
+zoom_link    : https://us06web.zoom.us/j/83464258838?pwd=d1lXNWJBRmlIdEcrVWVWVmlnU0dIdz09
 ---
 
 ## About this session
