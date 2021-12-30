@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Tue
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/privacy-as-code-open-source-developer-tools-for-data-privacy/
-banner       : 
+banner       : https://pbs.twimg.com/media/FH20ZpvX0AAdEXw.png
 session_slack:
 #status      : 
 description  :
