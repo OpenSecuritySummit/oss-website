@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Tue
 when_time    : WS-14-15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/from-kubernetes-to-a-portable-secure-and-compliant-platform-databases-message-queues-and-caches/
-banner       : 
+banner       : https://pbs.twimg.com/media/FHzVHA4XMAYN-8d.png
 session_slack:
 #status      : 
 description  :
