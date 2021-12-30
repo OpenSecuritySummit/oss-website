@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Emil Wåreus      
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/84122888306?pwd=dGhSV2RVL2taWndYY0dmZnJFaWcvQT09
+zoom_link    :  https://us06web.zoom.us/j/84469834082?pwd=SmFkWk4zRTdDR2hQOVUwN0xwK0FzUT09
 ---
 
 ## About this session
