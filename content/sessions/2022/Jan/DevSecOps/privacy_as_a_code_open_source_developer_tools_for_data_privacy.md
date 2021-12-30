@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Thomas La Piana      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/81268136065?pwd=bGlwUmx3SFlOejdRNWswWnFNckU3Zz09
  
 ---
 
