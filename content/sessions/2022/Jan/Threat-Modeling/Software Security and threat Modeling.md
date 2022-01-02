@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Tue
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/software-security-and-threat-modelling/
-banner       : 
+banner       : https://pbs.twimg.com/media/FH49hQ2WYAcRJcy.png
 session_slack:
 #status      : 
 description  :
