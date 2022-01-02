@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Wed
 when_time    : WS-14-15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/predicting-the-rise-and-fall-of-an-open-source-project/
-banner       : 
+banner       : https://pbs.twimg.com/media/FH9BTPLXMAwPxLA.png
 session_slack:
 #status      : 
 description  :
