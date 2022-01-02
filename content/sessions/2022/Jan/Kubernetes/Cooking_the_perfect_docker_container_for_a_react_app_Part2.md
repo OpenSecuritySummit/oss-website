@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Wed
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cooking-the-perfect-reactjs-docker-container-part-2/
-banner       : 
+banner       : https://pbs.twimg.com/media/FIBzoPEXMAIfK7_.png
 session_slack:
 #status      : 
 description  :
