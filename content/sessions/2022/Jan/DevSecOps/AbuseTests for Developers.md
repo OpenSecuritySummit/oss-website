@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Tue
 when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/abusetests-for-developers/
-banner       : 
+banner       : https://pbs.twimg.com/media/FH3fuwlXIAIC2jb.png
 session_slack:
 #status      : 
 description  :
