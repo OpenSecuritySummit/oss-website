@@ -22,3 +22,7 @@ zoom_link    : https://us06web.zoom.us/j/83998213286?pwd=d2Y4MktuMUVQd0t6NjlQTFk
 ---
 
 ## About this session
+Interactive Session about the process of creating AbuseTests for applications, e.g.
+* How to find AbuseTests
+* How to create AbuseTests (e.g. Module-Tests, Integration-Tests, manual Tests)
+* When to create AbuseTests
