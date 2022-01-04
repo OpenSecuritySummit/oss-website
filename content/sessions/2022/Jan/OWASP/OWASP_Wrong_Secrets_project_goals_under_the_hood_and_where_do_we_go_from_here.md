@@ -16,7 +16,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - TBD
+    - Ben Dehaan
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/81703362902?pwd=RnZpcHdkTFBNTTNram9PWnUvMXRpQT09
 ---
