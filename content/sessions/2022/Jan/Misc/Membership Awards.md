@@ -22,6 +22,4 @@ zoom_link    :  https://us06web.zoom.us/j/83978255950?pwd=OTUxWTdoSG1SWWU0dWRTME
 ---
 
 ## About this session
-As we start another year of the Open Security Summit we would like to thank our community for the help and support they have given, 
-without which the Open Security Summit would not be possible. 
-To show are appreciation we will be handing out our new OSS Memberships.
+As we embark on Open Security Summit 2022, we would like to thank our community for the help and support they have given, without which, the Open Security Summit would not be possible. To show are appreciation we will be handing out our new OSS Memberships.
