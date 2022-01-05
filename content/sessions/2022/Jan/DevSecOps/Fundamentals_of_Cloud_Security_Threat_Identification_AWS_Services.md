@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Jan
-when_day     : Tue
+when_day     : Thu
 when_time    : WS-14-15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/fundamentals-of-cloud-security-threat-identification-aws-services/
 banner       : 
