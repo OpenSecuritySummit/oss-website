@@ -318,7 +318,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "OSS"
     defaultKeywords = ["open", "summit", "security"]
-    defaultDescription = "The Open Security Summit 2021 is focused on the collaboration between Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
+    defaultDescription = "The Open Security Summit is focused on the collaboration between Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
     ghRepo = "https://github.com/OpenSecuritySummit/oss2021/"
     slackInviteLink = "https://join.slack.com/t/os-summit/shared_invite/zt-eptzb479-POZlYeYI1vaNNZzVatF2ag"
     youtubeLink = "https://www.youtube.com/channel/UCyse9b_2JLJUxKMLgSpOL-Q/"
@@ -344,15 +344,15 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@opensecsummit.org"
 
-    about_us = "The Open Security Summit 2021 is focused on the collaboration between, Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
-    copyright = "Copyright &copy; 2020, Open Security Summit"
+    about_us = "The Open Security Summit is focused on the collaboration between, Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
+    copyright = ""
     help_center = """<a href="https://os-summit.slack.com/messages/CAVJH8QJV" target="blank">Do you need help <i class="fa fa-question-circle" aria-hidden="true"></i></a>"""
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     # This should be changed each edition
-    summit_edition = "2021"
+    summit_edition = "2022"
 
     logo = "img/logo.png"
     address = """Crown House, 27 Old Gloucester Street, London, WC1N 3AX, United Kingdom.
