@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : Jan
+when_month   : Mar
 when_day     : Thu
 when_time    : WS-16-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-tool-iriusrisk-community-edition/
