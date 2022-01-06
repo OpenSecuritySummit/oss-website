@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jan
 when_day     : Wed
-when_time    : WS-16-18
+when_time    : WS-3
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/owasp-wrongsecrets-project-goals-under-the-hood-and-where-do-we-go-from-here/
 banner       : 
 session_slack:
