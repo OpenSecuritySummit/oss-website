@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Wed
 when_time    : WS-3
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/owasp-wrongsecrets-project-goals-under-the-hood-and-where-do-we-go-from-here/
-banner       : 
+banner       : https://pbs.twimg.com/media/FIa3GHNXwAMSm0l.png
 session_slack:
 #status      : 
 description  :
