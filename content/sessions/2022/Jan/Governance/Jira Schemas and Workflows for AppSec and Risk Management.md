@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : Jan
 when_day     : Mon
 when_time    : WS-18-19+
-hey_summit   : TBD
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/jira-schemas-and-workflows-for-appsec-and-risk-management/
 banner       : TBD
 session_slack:
 #status      : 
@@ -19,7 +19,7 @@ organizers   :
     - Dinis Cruz
     - Chris Holman      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/83070957901?pwd=SGhGVmZnQ004OE85OTNvdVZGQWZsUT09
 ---
 
 ## About this session
