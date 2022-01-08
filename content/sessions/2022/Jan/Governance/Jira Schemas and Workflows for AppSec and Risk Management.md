@@ -16,8 +16,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - Dinis Cruz
-    - Chris Holman      
+    - Dinis Cruz      
 youtube_link : 
 zoom_link    : 
 ---
