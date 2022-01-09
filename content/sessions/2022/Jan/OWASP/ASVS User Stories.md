@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : Jan
 when_day     : Fri
 when_time    : WS-16-18
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/asvs-user-stories-creation-part-9/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/avsv-user-stories-part-9/
 banner       : https://pbs.twimg.com/media/FIMRHt2X0AQGzeI.png
 session_slack:
 #status      : 
