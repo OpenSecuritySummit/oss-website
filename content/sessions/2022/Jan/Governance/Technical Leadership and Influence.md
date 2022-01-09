@@ -11,8 +11,7 @@ when_month   : Jan
 when_day     : Thu
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/technical-leadership-and-influence/
-banner       : https://pbs.twimg.com/media/FIIadZqXoAQxYfH.png
-session_slack:
+banner       : https://pbs.twimg.com/media/FIiNgCbXwAoyF0-.png
 #status      : 
 description  :
 organizers   :
