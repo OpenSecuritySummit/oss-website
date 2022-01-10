@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/making-asvs-truly-yours/
-banner       :
+banner       : https://pbs.twimg.com/media/FIGtSmFXMAc7W8k.png
 session_slack:
 #status      : 
 description  :
