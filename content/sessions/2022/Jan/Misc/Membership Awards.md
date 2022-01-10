@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Fri
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/open-security-membership-awards/
-banner       : 
+banner       : https://pbs.twimg.com/media/FIng6CdXsAEH6ib.png
 session_slack:
 #status      : 
 description  :
