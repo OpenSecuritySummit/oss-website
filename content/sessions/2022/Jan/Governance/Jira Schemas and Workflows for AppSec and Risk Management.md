@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Mon
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/jira-schemas-and-workflows-for-appsec-and-risk-management/
-banner       : https://pbs.twimg.com/media/FIiCwJPWYAACDK2.png
+banner       : https://pbs.twimg.com/media/FIvWVw3XMAA7rGx.png
 session_slack:
 #status      : 
 description  :
