@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Brook S.E. Schoenfield       
-youtube_link : 
+youtube_link : nC1DkiwiT6U
 zoom_link    : https://us06web.zoom.us/j/86358918762?pwd=QWI0b016aGJ5RjkwNmt6U0VKODA1QT09
 ---
 
