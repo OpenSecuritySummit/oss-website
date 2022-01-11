@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Timo Pagel        
-youtube_link : 
+youtube_link : _XfYR_LqqHs
 zoom_link    : https://us06web.zoom.us/j/83998213286?pwd=d2Y4MktuMUVQd0t6NjlQTFk4TVdjQT09
 ---
 
