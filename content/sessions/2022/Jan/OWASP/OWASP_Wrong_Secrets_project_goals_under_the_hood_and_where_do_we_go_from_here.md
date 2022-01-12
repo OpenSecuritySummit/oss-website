@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Ben Dehaan
     - Jeroen Willemsen
-youtube_link : 
+youtube_link : EYkjgGuhOYw
 zoom_link    : https://us06web.zoom.us/j/81703362902?pwd=RnZpcHdkTFBNTTNram9PWnUvMXRpQT09
 ---
 
