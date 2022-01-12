@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Cristian Klein       
-youtube_link : 
+youtube_link : loyJ6NTF6tw
 zoom_link    : https://us06web.zoom.us/j/83464258838?pwd=d1lXNWJBRmlIdEcrVWVWVmlnU0dIdz09
 ---
 
