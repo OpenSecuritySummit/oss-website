@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Emil Wåreus      
-youtube_link : 
+youtube_link : JNOgyL9zvVo
 zoom_link    :  https://us06web.zoom.us/j/84469834082?pwd=SmFkWk4zRTdDR2hQOVUwN0xwK0FzUT09
 ---
 
