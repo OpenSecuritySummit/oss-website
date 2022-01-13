@@ -1,9 +1,8 @@
 ---
 title: Brook S.E. Schoenfield
 image: https://pbs.twimg.com/profile_images/941785486967934983/TrQLdwUl_400x400.jpg
-company: IOActive, Inc.
-job_title: Master Security Architect, Director of Advisory Services
-facebook:
+company: True Positives LLC
+job_title: Principal Software Security Strategist, True Positives, LLC
 linkedin: brookschoenfield
 twitter: brkschoenfield 
 website:
