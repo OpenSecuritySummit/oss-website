@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Luis Servin
-youtube_link : 
+youtube_link : PHj7XcG5xlI
 zoom_link    : https://us06web.zoom.us/j/89730797581?pwd=V0gybE04TGtKSWhlc2dKOW05Z1E3UT09
 ---
 
