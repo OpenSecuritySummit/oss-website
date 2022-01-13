@@ -16,7 +16,7 @@ banner       : https://pbs.twimg.com/media/FIiNgCbXwAoyF0-.png
 description  :
 organizers   :
     - Brook S.E. Schoenfield       
-youtube_link : 
+youtube_link : 7BogKizau3o
 zoom_link    : https://us06web.zoom.us/j/82287188085?pwd=cU92dG43WERGYnpFOTUwN1VJRnhRUT09
 ---
 
