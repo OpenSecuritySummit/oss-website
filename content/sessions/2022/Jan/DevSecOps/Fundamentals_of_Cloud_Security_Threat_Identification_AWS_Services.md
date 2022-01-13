@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Rakesh Elamaran    
-youtube_link : 
+youtube_link : tzf3_V7widk
 zoom_link    : https://us06web.zoom.us/j/86410266465?pwd=TjEvSVNSM0p6VFpRK2M4amhyc0xtUT09
 ---
 
