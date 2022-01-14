@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Mario Platt
-youtube_link : 
+youtube_link : rEmxnHsB93s
 zoom_link    : https://us06web.zoom.us/j/86494492763?pwd=RVRTSEZmTTIrZUdwbmNVYW1jaEU5dz09
 ---
 
