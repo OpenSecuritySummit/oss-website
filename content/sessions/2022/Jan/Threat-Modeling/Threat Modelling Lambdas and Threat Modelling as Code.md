@@ -1,5 +1,5 @@
 ---
-title        : Threat Modelling Lambdas and Threat Modelling as Code
+title        : Threat Modelling as Code and Threat Modelling Challenges
 track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
