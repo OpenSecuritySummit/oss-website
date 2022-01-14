@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Fri
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modelling-lambdas-and-threat-modelling-as-code/
-banner       : https://pbs.twimg.com/media/FIrvyS7XMAICjiG.png
+banner       : https://pbs.twimg.com/media/FJDibH8WQAEoSnn?format=png&name=small
 session_slack:
 #status      : 
 description  :
