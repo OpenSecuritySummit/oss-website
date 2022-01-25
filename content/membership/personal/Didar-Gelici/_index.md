@@ -1,8 +1,8 @@
 ---
-title           : Didar Gelici (personal membership)
+title           : Ben Schofield (personal membership)
 type            : personal
-image           : https://pbs.twimg.com/profile_images/1066975108663820288/nPmqPrbo_400x400.jpg
-membership      : https://pbs.twimg.com/media/FJFvmLxWUAIKhvC.jpg
+image           : 
+membership      : https://pbs.twimg.com/media/FJF7NtUXEAEmQ2I.jpg
 layout          : personal
 ---
 
