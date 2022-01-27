@@ -1,5 +1,5 @@
 ---
-title        : Something on secure coding or application security (TBD)
+title        : OWASP Top Ten Part 2
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : March
 when_day     : Thur
 when_time    : WS-18-19
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/something-on-secure-coding-or-application-security-tbd/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/owasp-top-ten-part-2
 banner       : 
 session_slack:
 #status      : 
