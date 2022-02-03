@@ -1,5 +1,5 @@
 ---
-title        : Security as Code: A DevSecOps Approach
+title        : "Security as Code: A DevSecOps Approach"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
