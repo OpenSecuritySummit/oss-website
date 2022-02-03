@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : March
+when_month   : Mar
 when_day     : Wed
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/purple-teaming-with-owasp-purpleteam/

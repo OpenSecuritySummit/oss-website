@@ -7,9 +7,9 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : March
-when_day     : Thur
-when_time    : WS-18-19
+when_month   : Mar
+when_day     : Thu
+when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/something-on-secure-coding-or-application-security-tbd/
 banner       : 
 session_slack:

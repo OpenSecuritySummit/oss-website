@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : March
+when_month   : Mar
 when_day     : Mon
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/lessons-learned-from-trying-to-create-architecture-diagrams-as-code
