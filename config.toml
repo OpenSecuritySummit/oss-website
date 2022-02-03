@@ -51,6 +51,14 @@ paginate = 10
     weight = 40
 
 [[menu.main]]
+    name = "Jan 2022"
+    identifier = "event-jan-2022"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 37
+    url = "/sessions/2022/mini-summits/jan/"
+
+[[menu.main]]
     name = "Nov 2021"
     identifier = "event-nov-2021"
     parent = "past-summits"
