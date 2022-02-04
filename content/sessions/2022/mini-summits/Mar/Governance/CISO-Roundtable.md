@@ -14,7 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - Dinis Cruz
+    - Chase Fopiano
 youtube_link :
 zoom_link    : https://zoom.us/j/95776620996?pwd=QVVkVXlvWjJQbi9GQmI0WTlFek03Zz09
 ---
