@@ -9,7 +9,7 @@ when_year    : 2022
 when_month   : Mar
 when_day     : Tue
 when_time    : WS-17-18
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/ciso-round-table/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/ciso-roundtable/
 session_slack:
 #status       : draft
 description  :
