@@ -1,11 +1,11 @@
 ---
 title: Paul Farrington
-image: https://media-exp1.licdn.com/dms/image/C5603AQH7uTXcnC6mxQ/profile-displayphoto-shrink_800_800/0/1536785356368?e=1625702400&v=beta&t=GHAug6QTiERkTVcyl3XvydTOEwwldkZ0_FAe_DBMbA4
+image: https://pbs.twimg.com/profile_images/1364698356358995970/Qt-PpILh_400x400.jpg
 company: Glasswall
 job_title: Chief Product Officer
 facebook:
-linkedin: misterbee
-twitter: pfarrington
+linkedin: pfarrington
+twitter: pauljfarrington
 website:
 notes:
 status: done
