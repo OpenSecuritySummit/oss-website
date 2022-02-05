@@ -1,6 +1,6 @@
 ---
 title: Katie Charlton
-image: https://media-exp1.licdn.com/dms/image/C5603AQHvB44qbLV8rw/profile-displayphoto-shrink_800_800/0/1607434395769?e=1643241600&v=beta&t=D-3ViIjerTtcyP8kyWJRP1FlNwCSY4e1Ut_JqOUlMuI
+image: https://media-exp1.licdn.com/dms/image/C5603AQHvB44qbLV8rw/profile-displayphoto-shrink_800_800/0/1607434395769?e=1649289600&v=beta&t=SA7n5OLAGQYLKw5m813kcObrETDAR2nNqRfL6gEW-YQ
 company: Culture Gem
 job_title: 
 facebook:
