@@ -1,6 +1,6 @@
 ---
 title: Jeremiah Grossman
-image: https://media-exp1.licdn.com/dms/image/C5603AQF0SPkSM3tieQ/profile-displayphoto-shrink_800_800/0/1538503118117?e=1614211200&v=beta&t=lsU8B4UFUsVVxTMuq5ZwDf83wml15dxMlLXRdt59bmo
+image: https://media-exp1.licdn.com/dms/image/C5603AQFSwVOebvqfOw/profile-displayphoto-shrink_800_800/0/1636385929023?e=1649289600&v=beta&t=7cPCrq96jqw3k5asUDjenRTbUGl9eQhH1MFZbiK8ihU
 company: Bit Discovery
 job_title: CEO
 facebook:
