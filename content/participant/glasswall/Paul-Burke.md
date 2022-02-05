@@ -1,6 +1,6 @@
 ---
 title: Paul Burke
-image: https://media-exp1.licdn.com/dms/image/C4E03AQGWuU3sYL5N9w/profile-displayphoto-shrink_800_800/0/1516173833200?e=1622073600&v=beta&t=Y0l5GnFIGKX-gmwbwX2t5UZnJF5VZdSQy3Gb5G32Hl8
+image: ![image](https://user-images.githubusercontent.com/62079805/152646815-afd0b2b9-2b30-4a25-b62d-8c3400a3a350.png)
 company: Glasswall
 job_title: Sr VP Product Management
 facebook:
