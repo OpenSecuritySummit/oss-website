@@ -1,6 +1,6 @@
 ---
 title: Alexander Knorr
-image: 
+image: https://pbs.twimg.com/profile_images/1248778169869578241/Zlxx6zhZ_400x400.jpg
 company: GfK SE
 job_title: Information Security Manager
 facebook:
