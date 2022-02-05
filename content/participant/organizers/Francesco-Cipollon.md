@@ -1,6 +1,6 @@
 ---
 title: Francesco Cipollon
-image: https://media-exp1.licdn.com/dms/image/C4D03AQEkNwK7WqYDQA/profile-displayphoto-shrink_800_800/0/1629637942252?e=1640217600&v=beta&t=hG5J2M4f8KTFnNIsKHpM1X-1dDIeWjkTbtYJEafpBiQ
+image: https://pbs.twimg.com/profile_images/1429431399698817033/Qin8OspH_400x400.jpg
 company: Appsec Phoenix
 job_title: CEO and Founder
 facebook:
