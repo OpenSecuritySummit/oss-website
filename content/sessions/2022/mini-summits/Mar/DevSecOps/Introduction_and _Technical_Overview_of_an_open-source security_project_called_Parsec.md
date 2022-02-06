@@ -1,9 +1,9 @@
 ---
-title        : Introduction and Technical Overview of an open-source security project called Parsec
+title        : Parsec-Hardware security at your fingertips
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
-topics       :
+topics       : Parsec
 featured     :
 event        : mini-summit
 when_year    : 2022
