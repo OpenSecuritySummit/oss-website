@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : Mar
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/introduction-and-technical-overview-of-an-open-source-security-project-called-parsec/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/parsec_hardware_security_at_your_fingertips/
 banner       : 
 session_slack:
 #status      : 
