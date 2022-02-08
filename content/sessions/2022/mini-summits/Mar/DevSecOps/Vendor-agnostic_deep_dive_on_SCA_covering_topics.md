@@ -1,5 +1,5 @@
 ---
-title        : Vendor-agnostic deep dive on SCA covering topics
+title        : Tune-up your Toolbox for better AppSec Value (SCA Edition)
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : Mar
 when_day     : Tue
 when_time    : WS-18-19+
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/introduction-and-technical-overview-of-an-open-source-security-project-called-parsec/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/tune-up-your-toolbox-for-better-appsec-value-sca-edition
 banner       : 
 session_slack:
 #status      : 
