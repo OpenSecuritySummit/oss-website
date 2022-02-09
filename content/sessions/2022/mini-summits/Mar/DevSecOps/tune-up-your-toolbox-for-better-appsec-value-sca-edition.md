@@ -1,5 +1,5 @@
 ---
-title        : Tune-up your Toolbox for better AppSec Value (SCA Edition)
+title        : Tune your Toolbox for Velocity and Value (SCA)
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
