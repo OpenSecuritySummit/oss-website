@@ -7,8 +7,8 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : Thu
-when_day     : Tue
+when_month   : Mar
+when_day     : Thu
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modelling-for-dummies-a-live-tm-session/
 banner       : 
