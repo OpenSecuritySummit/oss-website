@@ -24,3 +24,4 @@ zoom_link    :
 ---
 
 ## About the session:
+A discussion on the importance of architecture and data flow diagrams, how the architectural team can aid threat modelling and how threat modelling can be a driving force for engineering improvements.
