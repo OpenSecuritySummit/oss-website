@@ -1,5 +1,5 @@
 ---
-title        : Threat Modeling tool - IriusRisk Community Edition
+title        : Automating Architectural Risk Analysis with the Open Threat Model format
 track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
