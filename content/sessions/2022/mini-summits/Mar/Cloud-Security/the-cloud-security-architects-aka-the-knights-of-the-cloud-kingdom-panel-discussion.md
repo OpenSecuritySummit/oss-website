@@ -24,3 +24,4 @@ zoom_link    :
 ---
 
 ## About this session
+A panel discussion on the cloud security architect role, technical skills, backgrounds, route of entry and career progression.
