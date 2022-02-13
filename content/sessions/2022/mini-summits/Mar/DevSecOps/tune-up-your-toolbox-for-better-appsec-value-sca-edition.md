@@ -22,10 +22,16 @@ zoom_link    :
 ---
 
 ## About this session
-An introduction and technical overview of an open-source security project called Parsec.
+Whether they have a mature Secure Development program or not, a substantial proportion of organizations will be using Application Security scanning tools to try and improve their overall security posture. 
 
-Parsec is a CNCF Sandbox project. Its aim is to provide convenient and portable software interfaces to hardware security features on multiple platforms and in multiple programming languages.
+However, far more important than the tool itself are the processes around it and the ability to get useful, high signal information from the tool.
 
-The project website is here: https://parsec.community
+Software Composition Analysis (SCA) describes a family of tools that provide a Software Bill of Materials and information on risks from 3rd party software. 
 
-There are a variety of recorded presentations from the Linux Foundation and other events. You can explore them from the links available here: https://github.com/parallaxsecond/community/blob/main/presentations.md
+In this session, I will do a vendor-agnostic deep dive on SCA covering topics including the following:
+* How these tools work under the surface, what features they may offer and how to evaluate them.
+* How to generate effective KPIs and reporting from the output.
+* How to optimize your use of the tool and integrate into existing processes.
+* How to assess, triage and prioritize remediation based on the results.
+
+Attendees should leave with a greater appreciation for the subtleties of this tool type as well as actionable ideas they can use to improve their internal processes.
