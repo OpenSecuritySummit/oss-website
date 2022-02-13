@@ -17,8 +17,8 @@ session_slack:
 description  :
 organizers   :
     - Dinis Cruz
-    - Izar Tarandach
     - Brook S.E. Schoenfield
+    - Izar Tarandach
 youtube_link : 
 zoom_link    : 
 ---
