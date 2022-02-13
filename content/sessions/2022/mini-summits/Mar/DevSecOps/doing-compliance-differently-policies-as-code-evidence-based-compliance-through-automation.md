@@ -16,7 +16,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - JLuis Servin       
+    - Luis Servin       
 youtube_link : 
 zoom_link    : 
 ---
