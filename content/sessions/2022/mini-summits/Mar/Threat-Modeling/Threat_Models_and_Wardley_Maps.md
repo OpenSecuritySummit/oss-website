@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Izar Tarandach
-    - Brooke S.E. Schoenfield
+    - Brook S.E. Schoenfield
 youtube_link : 
 zoom_link    : 
 ---
