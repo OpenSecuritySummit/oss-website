@@ -15,7 +15,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - TBD    
+    - Fraser Scott   
 youtube_link : 
 zoom_link    :   
 ---
