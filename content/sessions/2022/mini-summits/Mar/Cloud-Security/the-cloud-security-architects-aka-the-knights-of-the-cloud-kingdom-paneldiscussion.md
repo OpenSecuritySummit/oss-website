@@ -15,10 +15,11 @@ session_slack:
 description  :
 organizers   :
     - Petra Vukmirovic
+    - Manos Skalidis
     - Francesco Cipollone 
     - Lee Newcombe
     - Kriti Mohun
-    - Manos Skalidis
+  
 youtube_link :
 zoom_link    : 
 ---
