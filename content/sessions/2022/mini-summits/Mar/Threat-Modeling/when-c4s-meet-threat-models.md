@@ -18,7 +18,8 @@ description  :
 organizers   :
     - Marios Clark
     - Ahmed Mohamed
-    - Petra Vukmirovic
+    - Petra Vukmirovik
+ 
     
 youtube_link : 
 zoom_link    : 
