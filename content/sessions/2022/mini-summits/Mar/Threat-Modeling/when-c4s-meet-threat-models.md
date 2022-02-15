@@ -17,8 +17,9 @@ session_slack:
 description  :
 organizers   :
     - Marios Clark
-    - Petra Vukmirovic
     - Ahmed Mohamed
+    - Petra Vukmirovic
+    
 youtube_link : 
 zoom_link    : 
 ---
