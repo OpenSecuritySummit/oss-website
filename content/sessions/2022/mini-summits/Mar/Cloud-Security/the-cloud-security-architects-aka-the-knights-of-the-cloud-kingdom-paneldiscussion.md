@@ -1,6 +1,7 @@
 ---
 title        : The Cloud Security Architects aka the knights of the cloud kingdom - Panel Discussion
 track        : Cloud-Security
+Project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
