@@ -1,6 +1,7 @@
 ---
 title        : CISO Roundtable
 track        : Governance
+project      : RIsk and Governance
 type         : working-session
 topics       :
 featured     :
