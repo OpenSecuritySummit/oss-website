@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Mon
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/lessons-learned-from-trying-to-create-architecture-diagrams-as-code
-banner       : 
+banner       : https://pbs.twimg.com/media/FLpVipVX0AUQNet.png
 session_slack:
 #status      : 
 description  :
