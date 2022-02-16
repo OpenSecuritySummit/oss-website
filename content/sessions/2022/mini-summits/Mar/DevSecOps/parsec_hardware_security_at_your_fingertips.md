@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/parsec_hardware_security_at_your_fingertips/
-banner       : 
+banner       : https://pbs.twimg.com/media/FLu0yCkXEAAIEpG.png
 session_slack:
 #status      : 
 description  :
