@@ -1,6 +1,7 @@
 ---
 title        : CTO Roundtable
 track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
