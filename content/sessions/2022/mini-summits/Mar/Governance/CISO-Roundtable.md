@@ -14,15 +14,13 @@ hey_summit   : https://post-summit-sessions.heysummit.com/talks/ciso-roundtable/
 session_slack:
 #status       : draft
 description  :
+youtube_link :
 organizers   :
     - Chase Fopiano
+    - Nick Gibson
+    - Dinis Cruz 
     - Marios Clark
     - Ante Gulam
-    - Dinis Cruz
-    
-    - Nick Gibson
-  
-youtube_link :
 zoom_link    : https://zoom.us/j/95776620996?pwd=QVVkVXlvWjJQbi9GQmI0WTlFek03Zz09
 ---
 
