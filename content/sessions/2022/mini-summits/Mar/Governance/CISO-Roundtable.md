@@ -16,10 +16,10 @@ session_slack:
 description  :
 organizers   :
     - Chase Fopiano
-    - Dinis Crus
+    - Dinis Cruz
+    - Ante Gulam
     - Marios Clark
     - Nick Gibson
-    - Ante Gulam
   
 youtube_link :
 zoom_link    : https://zoom.us/j/95776620996?pwd=QVVkVXlvWjJQbi9GQmI0WTlFek03Zz09
