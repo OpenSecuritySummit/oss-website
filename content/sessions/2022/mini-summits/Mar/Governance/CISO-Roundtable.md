@@ -1,7 +1,7 @@
 ---
 title        : CISO Roundtable
 track        : Governance
-project      : RIsk and Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
@@ -17,6 +17,7 @@ description  :
 organizers   :
     - Chase Fopiano
     - Marios Clark
+    - Nick Gibson
     - Dinis Cruz
     - Ante Gulam
   
