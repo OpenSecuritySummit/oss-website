@@ -22,6 +22,8 @@ zoom_link    :
 ---
 
 ## About this session
+https://www.youtube.com/watch?v=y_-pIbsr7jc
+
 Security as Code (SaC) is the methodology of codifying security tests, scans, and policies. Security is implemented directly into the CI/CD pipeline to automatically and continuously detect security vulnerabilities. 
 
 Adopting SaC tightly couples application development with security and vulnerability management, while simultaneously enabling developers to focus on core features and functionality. More importantly, it improves the collaboration between Development and Security teams and helps nurture a culture of security across the organization.
