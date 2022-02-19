@@ -3,7 +3,7 @@ title        : Purple Teaming with OWASP PurpleTeam
 track        : DevSecOps
 project      : Owasp
 type         : working-session
-topics       :
+topics       : Developer first security, AppSec, CI, build tool, web security, DevSecOps, cloud security, security testing, security regression testing
 featured     :
 event        : mini-summit
 when_year    : 2022
@@ -35,8 +35,24 @@ An overview of the NodeJS micro-services with many features allowing a Build Use
 Allowing multiple options to deal with false/true positives.
 Setting alert thresholds in multiple places and for multiple testers (app-tester, tls-tester, server-tester) allowing the Build User to define what constitutes a successful or failed Test Run.
 
-Publications: PurpleTeam came from a PoC I wrote about, built, ran workshops and spoke about in my first book: https://holisticinfosecforwebdevelopers.com/
+# Why would I want it in my build pipelines?
+
+In this section Kim will discus the problems that PurpleTeam solves, such as training the Build User with advice and tips on security defects as you fix the defects that PurpleTeam highlights.
+As well as the huge cost savings of finding and fixing your application and infrastructure security defects early (as you're introducing them) as opposed to late (weeks or months later with external penetration testing) or not at all.
+
+# OK, I want it, how do we/I set it up?
+
+Kim will walk you through all of the components and how to get them set-up and configured
+
+# Great, but what do the work flows look like and how do I use it?
+
+Let's walk through the different ways PurpleTeam can be run and utilised, such as:
+
+* Running purpleteam stand-alone (with UI)
+* Running purpleteam from within your pipelines as a spawned sub process (headless: without UI)
+* Running all of the PurpleTeam components, including debugging each and every one of them if and when the need arises
+
+Publications: PurpleTeam came from a PoC Kim wrote about, built, ran workshops and spoke about in my first book: https://holisticinfosecforwebdevelopers.com/
 
 Podcasts: Top three here: https://binarymist.io/publication/
 
-Videos: https://purpleteam-labs.com/videos/
