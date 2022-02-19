@@ -5,22 +5,20 @@
     {{ range $day }}
         {{ $when_time := index $this.Site.Data.schedule.times .Params.when_time }}
         {{ $organizers := partial "params/organizers.html" . }}
-        {{ if .Params.hey_summit}}
-            <tr>
-                <td>
-                    <div class="schedule-session">
-                        <a class="schedule-link" href="{{.Permalink}}">
-                            <div class="schedule-session-title">
-                                <h2 class="schedule-session-description">{{.Params.title}}</h2>
-                                <div class="schedule-session-organizers">{{ partial "schedule/list/organizers-links.html" ( dict "this" . "organizers" $organizers) }}</div>
-                            </div>
-                            <div class="schedule-session-person">
-                                {{ partial "schedule/list/organizers-images.html" ( dict "this" . "organizers" $organizers) }}
-                            </div>
-                        </a>
-                    </div>
-                </td>
-            </tr>
-        {{ end }}
+        <tr>
+            <td>
+                <div class="schedule-session">
+                    <a class="schedule-link" href="{{.Permalink}}">
+                        <div class="schedule-session-title">
+                            <h2 class="schedule-session-description">{{.Params.title}}</h2>
+                            <div class="schedule-session-organizers">{{ partial "schedule/list/organizers-links.html" ( dict "this" . "organizers" $organizers) }}</div>
+                        </div>
+                        <div class="schedule-session-person">
+                            {{ partial "schedule/list/organizers-images.html" ( dict "this" . "organizers" $organizers) }}
+                        </div>
+                    </a>
+                </div>
+            </td>
+        </tr>
     {{ end }}
 </table>

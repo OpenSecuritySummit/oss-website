@@ -12,6 +12,7 @@ status       : done           # draft, review-content, done
 youtube_link : dQdQS4TaQ7U
 organizers   : Petra Vukmirovic
 description  : TBD
+pdf          : https://github.com/OpenSecuritySummit/oss2020/raw/master/content/outcomes/presentation/5%20Jun%20-%20Wardley%20Maps%20FIRST%20AID%20by%20Petra%20Vukmirovic.pdf    
 ---
 
 ### Notable logs from the chat during the session
@@ -52,7 +53,3 @@ https://github.com/108bots/threatmodel-as-code    \
 1 - Do you (as a security engineer) call everyone into the same room (devs, devops, product owners maybe), and start asking the questions OR you start alone by understanding the maximum you can, and then create multiple meetings with different teams to improve your model ?   \
 2 - Assuming you are threat modeling a huge web application, with a variety of dependencies on different teams / third parties.  Do you start by a really high level threat model of all journeys, or you pick one specific journey until you feel confortable with the final result ?   \
 3 - A few times you mentioned you can zoom in on a specific process. How do you actually do this ? Does it mean you have a high level threat model and then multiple smal threat models ? are these all different files/ (edited) 
-
-### Session Contents
-
-{{< pdf src="https://github.com/OpenSecuritySummit/oss2020/raw/master/content/outcomes/presentation/5%20Jun%20-%20Wardley%20Maps%20FIRST%20AID%20by%20Petra%20Vukmirovic.pdf" >}}

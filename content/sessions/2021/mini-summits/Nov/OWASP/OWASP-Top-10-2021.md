@@ -19,7 +19,9 @@ organizers   :
     - Jim Manico
 youtube_link :  eTfZEiiNrZA
 zoom_link    :  https://us06web.zoom.us/j/87668052327?pwd=cGtuNGpkUjFkdUZEZGxMM2FCVk1lUT09
+pdf          :  https://github.com/OpenSecuritySummit/oss-pdf-presentations/raw/main/2021/Nov/01-00%20OWASP%20Top%20Ten%202021%2009072021.pdf
 ---
+
 
 ## About this session
 

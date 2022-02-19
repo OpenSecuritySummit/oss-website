@@ -18,7 +18,7 @@
     {{ $this := . }}
     {{ if or .Params.youtube_link .Params.you_tube }}
         <div class="session-content">
-            <h3>Training Session Video</h3>
+            <h1>Session Video</h1>
             {{ $you_tube := partial "utils/get-youtube-id" ( dict "this" . )}}
             <iframe class="video"
                     frameborder="0"
@@ -26,6 +26,18 @@
                     height="600"
                     src="https://www.youtube-nocookie.com/embed/{{ $you_tube }}"
                     allowfullscreen>
+            </iframe>
+        </div>
+    {{ end }}
+    {{ if .Params.pdf  }}
+        {{ $src := .Params.pdf }}
+        <div class="session-content">
+            <h1>Session Presentation</h1>
+            <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url={{$src}}"
+                    frameBorder="0"
+                    scrolling="auto"
+                    height="600"
+                    width="100%" >
             </iframe>
         </div>
     {{ end }}

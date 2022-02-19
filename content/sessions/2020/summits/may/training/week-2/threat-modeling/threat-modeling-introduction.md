@@ -14,9 +14,5 @@ organizers   :
     - Dinis Cruz	
     - Petra Vukmirovic
 description  : 
+pdf          : https://github.com/OpenSecuritySummit/oss2020/raw/master/content/outcomes/presentation/8%20Jun%20-%20Threat%20Modelling%20First%20Aid%20by%20Petra%20Vukmirovic.pdf
 ---
-
-
-### Session Contents
-
-{{< pdf src="https://github.com/OpenSecuritySummit/oss2020/raw/master/content/outcomes/presentation/8%20Jun%20-%20Threat%20Modelling%20First%20Aid%20by%20Petra%20Vukmirovic.pdf" >}}

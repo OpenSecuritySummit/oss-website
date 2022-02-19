@@ -22,14 +22,22 @@ zoom_link    :
 
 ## About this session
 
-This session focus on innovative uses cases for Graph Databases, like for example Neo4j:
+This session will focus on innovative uses cases for Graph Databases, like for example Neo4j:
 
-- Using Graph DBs in Threat Models
-- Using Graph Dbs for Risk Management
+### security specific
+
+- Using Graphs in Threat Models
+- Mapping out Cyber Threat Intelligence, for example using [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html)
+- Using Graphs for Risk Management
+- Using GitHub Repos to hold Graph/Neo4J data
+- Using Graphs to map network architectures, DNS entries
+- Using Graphs to map Attack Trees and Real-World incidents
+- Using Graphs to map AWS IAMs relationships and usage
+
+### Scalability
 - How Neo4J compares with Jira (when Jira is used as a Graph DB)
 - Why Jira + Elastic are a very powerful 'Graph DB'
 - Javascript APIs to visualise Neo4J data
-- Using GitHub Repos to hold Neo4J data
 - Using Neo4j with Hugo (and static generated sites)
 - The power of screenshots of Neo4j visualisations
 - The power of creating 'search paths' with Edges

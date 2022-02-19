@@ -19,6 +19,7 @@ organizers   :
     - Sakshyam Shah
 youtube_link : u2GPqRCw754
 zoom_link    : https://us06web.zoom.us/j/86973164445?pwd=a2JhNjJQY3EvekltbHl5VkFnekxBQT09
+pdf          : https://github.com/OpenSecuritySummit/oss-pdf-presentations/raw/main/2021/Nov/Using%20Teleport%20to%20Secure%20SSH%20and%20Kubernetes%20Access.pdf
 ---
 
 ## About this session

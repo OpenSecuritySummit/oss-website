@@ -16,7 +16,7 @@ description  :
 organizers   : 
         - Sebastien Deleersnyder
         - Didar Gelici 
-youtube_link : 
+youtube_link : 6gruQov9YYo
 zoom_link    : https://zoom.us/j/93765501560?pwd=SGFkSkF5U2xRemF6Q29LdENZTTZsdz09
 
 
