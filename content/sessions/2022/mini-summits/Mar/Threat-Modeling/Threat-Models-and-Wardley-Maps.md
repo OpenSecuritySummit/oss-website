@@ -42,13 +42,13 @@ Explore the use Wardley Maps in Security, and how Wardley Maps could be the miss
  - [Wardley Maps and services model at Glasswall](/sessions/2020/mini-summits/dec/wardley-maps/wardley-maps-and-services-model-at-glasswall/) - by Steve Purkis
  - Pre-Summit 2020 videos [Pre-summit: Wardley maps and Threat Modeling - 11 May](https://www.youtube.com/watch?v=U18cK5UrDkc) , [Pre-summit: Wardley maps and Threat Modelling 19th May](https://www.youtube.com/watch?v=nK0R9nzg4co)
  
- ### Wardley Maps Presentations
+ ### Wardley Maps OSS Presentations
  
  - [Wardley Maps Introduction](https://www.youtube.com/watch?v=fq_4L-758N8) - by Simon Wardley
- - [Maturity Mapping: Contextualise change and learning](https://open-security-summit.org/sessions/2021/mini-summits/jan/wardley-maps/maturity-mapping-contextualise/) - by Chris McDermott
+ - [Maturity Mapping: Contextualise change and learning](/sessions/2021/mini-summits/jan/wardley-maps/maturity-mapping-contextualise/) - by Chris McDermott
  - [Introduction to Wardley Mapping](https://www.youtube.com/watch?v=7TivdJABjJ0) - by Cat Swetel
- - [Introduction to Wardley Mapping](https://open-security-summit.org/sessions/2020/summits/may/training/week-2/wardley-maps/introduction-to-wardley-mapping/) by by Chris Daniel
- - [Wardley Maps First Aid](https://open-security-summit.org/sessions/2020/summits/may/training/week-1/wardley-maps/wardley-maps-introduction5/)  by Petra Vukmirovic
+ - [Introduction to Wardley Mapping](/sessions/2020/summits/may/training/week-2/wardley-maps/introduction-to-wardley-mapping/) by by Chris Daniel
+ - [Wardley Maps First Aid](/sessions/2020/summits/may/training/week-1/wardley-maps/wardley-maps-introduction5/)  by Petra Vukmirovic
  - [Wardley Maps Introduction](https://www.youtube.com/watch?v=yugHhSp5dbg) - by Goher Mohammad 
 
 ### Threat Modeling OSS Presentations
