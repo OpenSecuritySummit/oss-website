@@ -28,8 +28,10 @@ type: participant
 website: http://diniscruz.blogspot.com/
 ---
 
-Dinis Cruz is a CISO and Transformation Agent, focused on creating teams and environments where security is an enabler and accelerator for the business, while securing and protecting the digital assets from existing threats. Dinis was nominated for CISO of the Year 2019 at #CyberSecurityAwards
+Dinis Cruz the CTO and CISO of Glasswall and brings a unique blend of Security and Engineering expertise with 20+ years experience in Cyber Security and Software Development. Dinis is focused on creating teams and environments where engineering and security are enablers and accelerators for the business, with a big focus on the productisation and commercialisation of advanced technologies.
 
-Dinis is also writing a book called Generation Z Developers (but useful for all Generations) available from Amazon: https://www.amazon.co.uk/Gen-Developers-concepts-generation-developers/dp/1724194607 
+Dinis was nominated for CISO of the Year 2019 at #CyberSecurityAwards, and was highlighed as one of the [10 Best CSOs of 2020 by Industry Era](https://www.industry-era.com/Dinis-Cruz-CTO-&-CISO-of-Glasswall-Best-CSOs-of-2020.php)
+
+Dinis is also writing a book called Generation Z Developers (but useful for all Generations) available [at Amazon](https://www.amazon.co.uk/Gen-Developers-concepts-generation-developers/dp/1724194607) 
 
 For more details [see Dinis CV](https://www.slideshare.net/DinisCruz/dinis-cruz-cv-ciso-and-transformation-agent-v12) (done as a presentation)

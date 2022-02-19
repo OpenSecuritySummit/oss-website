@@ -1,11 +1,29 @@
+{{/* We need to do the logic below because the .organizers value could have multiple types of data */}}
+
 {{ if .organizers }}
     {{ $how_many := sub (len .organizers) 1 }}
     {{range $index, $name := .organizers}}
-        {{ if eq (printf "%T" $name) "*hugolib.pageState" }}
-            <span class="schedule-session-organizer" data-url="{{.Permalink}}">{{ $name.Title }}{{ if lt $index $how_many}} , {{ end }}</span>
-        {{else}}
-            <span class="schedule-session-organizer">{{ $name }}{{ if lt $index $how_many}} , {{ end }}</span>
+        {{ $type := (printf "%T" $name) }}
+        {{ $value := . }}
+
+        {{ with (eq $type "*hugolib.pageState")}}
+            <span class="schedule-session-organizer" data-url="{{$value.Permalink}}">{{ $name.Title }}</span>
         {{ end }}
+
+        {{ with (eq $type "string")}}
+             <span class="schedule-session-organizer">{{ $name }}</span>
+        {{ end }}
+        {{ with (eq $type "[]string")}}
+            {{ range $name }}
+                <span class="schedule-session-organizer">{{ . }}</span>
+            {{ end }}
+        {{ end }}
+        {{ with (eq $type "page.Pages")}}
+            {{ range $name }}
+                <span class="schedule-session-organizer" data-url="{{.Permalink}}">{{ .Title }}</span>
+            {{ end}}
+        {{ end }}
+        {{ if lt $index $how_many}} , {{ end }}
     {{ end }}
 {{ end}}
 

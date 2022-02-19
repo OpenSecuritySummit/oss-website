@@ -1,22 +1,45 @@
+{{/* We need to do the logic below because the .organizers value could have multiple types of data */}}
 
 <div class="table-organizers">
-
     {{ $organizers := partial "params/organizers.html" .  }}
     {{ if $organizers }}
         {{range $organizers}}
             <div class="table-organizers-item">
-                {{ if eq (printf "%T"  .) "*hugolib.pageState" }}
-                <a href="{{ .Permalink }}">
-                    <img src="{{ .Params.image }}"  class="img-circle img-responsive" />
-                    {{ .Title }}
-                </a>
-                {{else}}
-                  {{ if eq (printf "%T"  .) "[]string" }}
-                    {{ index . 0 }}
-                  {{else}}
-                    {{ . }}
-                  {{ end }}
+                {{ $type  := (printf "%T"  .) }}
+                {{ $value := . }}
+
+                {{ with (eq $type "string")}}
+                    <a>
+                        <img src="/img/pages/person/person-01.png"  class="img-circle img-responsive" />
+                    {{ $value }}
+                    </a>
                 {{ end }}
+
+                {{ with (eq $type "[]string")}}
+                    {{ range $value }}
+                        <a>
+                            <img src="/img/pages/person/person-01.png"  class="img-circle img-responsive" />
+                            {{ . }}
+                        </a>
+                    {{ end }}
+                {{ end }}
+
+                {{ with (eq $type "*hugolib.pageState")}}
+                    <a href="{{ $value.Permalink }}">
+                        <img src="{{ $value.Params.image }}"  class="img-circle img-responsive" />
+                        {{ $value.Title }}
+                    </a>
+                {{ end }}
+
+                {{ with (eq $type "page.Pages")}}
+                    {{ range $value }}
+                        <a href="{{ .Permalink }}">
+                            <img src="{{ .Params.image }}"  class="img-circle img-responsive" />
+                            {{ .Title }}
+                        </a>
+                    {{ end }}
+                {{ end }}
+
             </div>
         {{ end }}
     {{ else}}

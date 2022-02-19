@@ -1,10 +1,27 @@
+{{/* We need to do the logic below because the .organizers value could have multiple types of data */}}
+{{/* Todo: see if that can be fixed at the .organizers variable level */}}
+
 {{ if .organizers }}
     {{range .organizers}}
         <div class="person-img">
-            {{ if eq (printf "%T"  .) "*hugolib.pageState" }}
-                <img src="{{ .Params.image }}" class="img-circle" alt="{{ .Title }} photo" data-url="{{.Permalink}}"/>
-            {{else}}
+            {{ $type := (printf "%T" .) }}
+            {{ $value := . }}
+
+            {{ with (eq $type "string")}}
                 <img src="/img/pages/person/person-01.png" alt="{{ . }}" class="img-circle"/>
+            {{ end }}
+            {{ with (eq $type "[]string")}}
+                {{ range $value }}
+                    <img src="/img/pages/person/person-01.png" alt="{{ . }}" class="img-circle"/>
+                {{ end }}
+            {{ end }}
+            {{ with (eq $type "*hugolib.pageState")}}
+                <img src="{{ $value.Params.image }}" class="img-circle" alt="{{ $value.Title }} photo" data-url="{{$value.Permalink}}"/>
+            {{ end }}
+            {{ with (eq $type "page.Pages")}}
+                {{ range $value }}
+            <img src="{{ .Params.image }}" class="img-circle" alt="{{ .Title }} photo" data-url="{{.Permalink}}"/>
+                {{ end }}
             {{ end }}
         </div>
     {{ end }}

@@ -1,5 +1,5 @@
 ---
-title        : CISO Roundtable
+title        : CISO Roundtable - Mar 2022
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -16,13 +16,15 @@ session_slack:
 description  :
 youtube_link :
 organizers   :
-    - Dinis Cruz
-    - Marios Clark
-    - Chase Fopiano
-    - Nick Gibson
     - Ante Gulam
-    
+    - Chase Fopiano
+    - Dinis Cruz        
+    - Nick Gibson
+    - Marios Clark
+ 
 zoom_link    : https://zoom.us/j/95776620996?pwd=QVVkVXlvWjJQbi9GQmI0WTlFek03Zz09
 ---
 
 ## About this session
+
+Open discussion about a number of CISO related topics
