@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/runner/work/oss2021/oss2021",
+	"sourceRoot": "/home/runner/work/oss-website/oss-website",
 	"sources": [
 		"stdin"
 	],
