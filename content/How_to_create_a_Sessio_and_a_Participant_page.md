@@ -3,7 +3,7 @@ title    : How to create a Session and a Participant page?
 layout   : jobs
 ---
 
-# How to create an Open Security Summit Security Session
+# How to create an Open Security Summit Security Session and Participant Page?
 
  - *Check on the Request for Pesentation Form for Presentation entries*
   - Reach out to the Participant
