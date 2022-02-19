@@ -16,3 +16,4 @@ layout   : jobs
   - Create next the Session Page
   - Confirm with the Presentor that the session was approved and send the link to speaker's page with the session link in the OSS site
   - Inform the Presentor that they can update the pages by going to the edit button at the bottom of the Page and create a PULL 
+  - Katie will create the session meetings in ZOOM profiles, add to each zoom link to HeySummit and send invites to the participants
