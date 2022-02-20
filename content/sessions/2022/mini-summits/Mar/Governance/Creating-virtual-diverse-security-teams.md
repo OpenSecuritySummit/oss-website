@@ -15,6 +15,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
+    - Alex Emmerson
     - Dinis Cruz
     - Samuel Ubido 
 youtube_link : 
