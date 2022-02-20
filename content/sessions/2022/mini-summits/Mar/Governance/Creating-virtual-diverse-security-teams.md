@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : Mar
 when_day     : Thu
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-presentations-instead-of-cvs-and-creating-diverse-security-teams/
 session_slack:
 #status       : draft
 description  :
