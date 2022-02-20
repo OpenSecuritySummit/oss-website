@@ -1,5 +1,5 @@
 ---
-title        : Creating virtual diverse security teams
+title        : Using Presentations instead of CVs and Creating Diverse Security Teams
 track        : Governance
 project      : Risk and Governance
 type         : working-session
