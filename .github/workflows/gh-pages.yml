@@ -31,5 +31,8 @@ jobs:
       run: |
         pwd
         ls -la
-        ls -la .public
+        ls -la ./public
+        npm install atomic-algolia
+        ls -la node_modules/.bin
+        ./node_modules/.bin/atomic-algolia
 
