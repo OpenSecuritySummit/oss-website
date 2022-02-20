@@ -6,6 +6,6 @@ membership      : https://pbs.twimg.com/media/FJF7BJuXEAUXRs4.jpg
 layout          : personal
 ---
 
-## Dinis Cruz
+## James Bore
 
 More details coming soon
