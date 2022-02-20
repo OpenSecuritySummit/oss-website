@@ -29,10 +29,10 @@ jobs:
 
     - name: Update Agnolia
       run: |
-        pwd
-        ls -la
-        ls -la ./public
-        npm install atomic-algolia
-        ls -la node_modules/.bin
+        #pwd
+        #ls -la
+        #ls -la ./public
+        #npm install atomic-algolia
+        #ls -la node_modules/.bin
         ./node_modules/.bin/atomic-algolia
 

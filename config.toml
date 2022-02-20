@@ -447,7 +447,7 @@ paginate = 10
 #    path = "api"
 
 [outputs]
-home = [ "Algolia"]
+home = [ "HTML", "Algolia"]
 
 [outputFormats.Algolia]
 baseName = "algolia"
