@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Brook S.E. Schoenfield
-    - Dave van Stein
+    - Dave Van Stein
     - Dinis Cruz
     - Izar Tarandach    
     - Jakub Kaluzny
