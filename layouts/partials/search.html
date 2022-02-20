@@ -16,14 +16,32 @@
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
 
 
+<hr/>
 
-<div id="search-box">
+Type here what you want to search for:
+<div id="search-box" style="margin-top: 10px">
     <!-- SearchBox widget will appear here -->
 </div>
 
+
+
+
+<div id="clear-all">
+    <!-- ClearAll widget will appear here -->
+</div>
+
+
+<hr/>
 <div id="hits">
     <!-- Hits widget will appear here -->
 </div>
+
+<br/>
+
+<div id="pagination">
+    <!-- Pagination widget will appear here -->
+</div>
+
 
 <script>
 
@@ -34,6 +52,14 @@
         indexName: "{{$index_name}}",
         hitsPerPage: 10,
         routing: true,
+        searchFunction: function (helper) {
+            if (helper.state.query === '') {
+                document.querySelector('#hits').innerHTML = '';
+                return;
+            }
+
+            helper.search();
+        }
     };
 
     // Parse options to instantsearch
@@ -45,12 +71,19 @@
 
 <script>
 
+    var hitTemplate =
+      '<br/><a href="{{ permalink }}" class="List-item">' +
+        '<div class="List-title">{{{_highlightResult.title.value}}}</div>' +
+      "</a>" +
+      '<div class="List-summary">{{{summary}}}</div>';
+
+
 
     // initialize SearchBox
     search.addWidget(
       instantsearch.widgets.searchBox({
         container: "#search-box",
-        placeholder: "Search OSS",
+        placeholder: "",
         reset: false,
         cssClasses: {
           root: "Search-box-container",
@@ -59,11 +92,7 @@
       })
     );
 
-    var hitTemplate =
-          '<br/><a href="{{ permalink }}" class="List-item">' +
-            '<div class="List-title">{{{_highlightResult.title.value}}}</div>' +
-          "</a>" +
-          '<div class="List-summary">{{{summary}}}</div>';
+
     // initialize hits widget
     search.addWidget(
       instantsearch.widgets.hits({
@@ -81,8 +110,22 @@
         },
       })
     );
+
+
+      // initialize pagination
+      search.addWidget(
+          instantsearch.widgets.pagination({
+              container: '#pagination',
+              maxPages: 20,
+              // default is to scroll to 'body', here we disable this behavior
+              scrollTo: true
+          })
+      );
     // make all this stuff happen
     search.start();
 
 </script>
 ` }}
+
+<hr/>
+Search powered by <a href="https://www.algolia.com/">Agnolia</a>

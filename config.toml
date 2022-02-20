@@ -16,6 +16,13 @@ paginate = 10
 [menu]
 
 [[menu.main]]
+    name = "Search"
+    identifier = "search"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 8
+    url = "/search"
+
+[[menu.main]]
     name = "Projects"
     identifier = "projects"
     pre = "<i class='fa fa-road'></i>&nbsp;"

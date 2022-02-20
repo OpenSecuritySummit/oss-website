@@ -28,7 +28,7 @@ type: participant
 website: http://diniscruz.blogspot.com/
 ---
 
-Dinis Cruz the CTO and CISO of Glasswall and brings a unique blend of Security and Engineering expertise with 20+ years experience in Cyber Security and Software Development. Dinis is focused on creating teams and environments where engineering and security are enablers and accelerators for the business, with a big focus on the productisation and commercialisation of advanced technologies.
+Dinis Cruz is the CTO and CISO of Glasswall and brings a unique blend of Security and Engineering expertise with 20+ years experience in Cyber Security and Software Development. Dinis is focused on creating teams and environments where engineering and security are enablers and accelerators for the business, with a big focus on the productisation and commercialisation of advanced technologies.
 
 Dinis was nominated for CISO of the Year 2019 at #CyberSecurityAwards, and was highlighed as one of the [10 Best CSOs of 2020 by Industry Era](https://www.industry-era.com/Dinis-Cruz-CTO-&-CISO-of-Glasswall-Best-CSOs-of-2020.php)
 
