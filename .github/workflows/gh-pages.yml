@@ -26,3 +26,10 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         publish_branch: gh-pages
+
+    - name: Update Agnolia
+      run: |
+        pwd
+        ls -la
+        ls -la .public
+

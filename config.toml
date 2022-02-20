@@ -445,3 +445,16 @@ paginate = 10
 #[outputFormats]
 #  [outputFormats.json]
 #    path = "api"
+
+[outputs]
+home = [ "Algolia"]
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]
