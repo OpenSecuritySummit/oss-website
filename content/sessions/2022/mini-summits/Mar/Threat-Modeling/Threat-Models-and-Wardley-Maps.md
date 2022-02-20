@@ -16,9 +16,12 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - Dinis Cruz
     - Brook S.E. Schoenfield
-    - Izar Tarandach
+    - Dave van Stein
+    - Dinis Cruz
+    - Izar Tarandach    
+    - Jakub Kaluzny
+    - Krzysztof Daniel
 youtube_link : 
 zoom_link    : 
 ---
