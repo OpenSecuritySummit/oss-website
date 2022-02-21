@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Tue
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/tune-up-your-toolbox-for-better-appsec-value-sca-edition/
-banner       : 
+banner       : https://pbs.twimg.com/media/FL_vEvkWQAM_IsA.png
 session_slack:
 #status      : 
 description  :
