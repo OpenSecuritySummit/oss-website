@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/when-c4s-meet-threat-models/
-banner       : 
+banner       : https://pbs.twimg.com/media/FMH_aOZXIAAtwzE.png
 session_slack:
 #status      : 
 description  :
