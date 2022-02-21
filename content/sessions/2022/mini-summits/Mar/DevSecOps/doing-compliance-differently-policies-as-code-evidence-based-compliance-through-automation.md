@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Mon
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/doing-compliance-differently-policies-as-code-evidence-based-compliance-through-automation
-banner       : 
+banner       : https://pbs.twimg.com/media/FL0_tNtX0AMPO8p.png
 session_slack:
 #status      : 
 description  :
