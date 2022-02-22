@@ -1,6 +1,6 @@
 ---
 title: Lee Newcombe
-image: https://pbs.twimg.com/profile_images/1476973003787411458/ybncSRtC_400x400.jpg
+image: https://drive.google.com/file/d/1Rdq0t90Wbr_jsFydWZr_j3EXHC7VbXZC/view?usp=sharing
 company: Capgemini UK
 job_title: Cybersecurity Director
 facebook:
