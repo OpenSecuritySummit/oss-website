@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Wed
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-champions-andor-security-program-metrics-that-matter
-banner       : 
+banner       : https://pbs.twimg.com/media/FMNfhdMWUAgaenE.png
 #status      : 
 description  :
 organizers   :
