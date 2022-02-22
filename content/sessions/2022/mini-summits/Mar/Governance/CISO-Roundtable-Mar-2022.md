@@ -11,6 +11,7 @@ when_month   : Mar
 when_day     : Tue
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ciso-roundtable/
+banner       : https://pbs.twimg.com/media/FMJ-43OWYAEo1lO.png
 session_slack:
 #status       : draft
 description  :
