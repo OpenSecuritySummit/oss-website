@@ -18,6 +18,7 @@ organizers   :
     - Alex Emmerson
     - Dinis Cruz
     - Samuel Ubido 
+    - Brian Hinojosa
 youtube_link : 
 zoom_link    : 
 ---

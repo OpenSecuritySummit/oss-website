@@ -12,6 +12,7 @@ when_day     : Wed
 when_time    : WS-14-15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/automating-architectural-risk-analysis-with-the-open-threat-model-format/
 session_slack:
+banner       : https://pbs.twimg.com/media/FMDVDPTXMAs0NCK.png
 #status      : 
 description  :
 organizers   :

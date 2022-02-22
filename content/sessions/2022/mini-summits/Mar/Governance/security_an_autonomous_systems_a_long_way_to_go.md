@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Tue
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-an-autonomous-systems-a-long-way-to-go/
-banner       : 
+banner       : https://pbs.twimg.com/media/FMEZ7-uXwAY34oC.png
 #status      : 
 description  :
 organizers   :

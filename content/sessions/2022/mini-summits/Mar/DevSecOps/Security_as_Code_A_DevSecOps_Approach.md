@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Tue
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-as-code-a-devsecops-approach/
-banner       : 
+banner       : https://pbs.twimg.com/media/FL6bJ41XoAE-RUp.png
 session_slack:
 #status      : 
 description  :
