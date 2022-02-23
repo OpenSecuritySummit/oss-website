@@ -1,6 +1,6 @@
 ---
 title: Luis Saiz
-image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/luis.png?raw=true
+image: https://pbs.twimg.com/profile_images/648426389079785472/aX-z2yd0_400x400.jpg
 company: BBVA
 job_title: Head of Innovation in Security
 facebook:
