@@ -22,6 +22,7 @@ organizers   :
     - Dinis Cruz        
     - Nick Gibson
     - Marios Clark
+    - Sheetal Joseph
  
 zoom_link    : https://zoom.us/j/95776620996?pwd=QVVkVXlvWjJQbi9GQmI0WTlFek03Zz09
 ---
