@@ -22,3 +22,11 @@ zoom_link    :
 ---
 
 ## About this session
+
+"Per OWASP A04:2021 – Insecure Design: 
+
+""Write unit and integration tests to validate that all critical flows are resistant to the threat model""
+
+But how to do it at scale and reusing test from different projects/organizations? Can we build a community around the problem?"
+
+https://github.com/BBVA/susto 
