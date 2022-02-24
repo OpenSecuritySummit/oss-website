@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Luis Saiz     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/87615687178?pwd=QlpMUWVTVlp0c0N0SXBuRlB1WE40UT09
 ---
 
 ## About this session
