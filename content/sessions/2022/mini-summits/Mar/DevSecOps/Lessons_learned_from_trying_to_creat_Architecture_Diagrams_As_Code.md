@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Martin Obiols        
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/88689866327?pwd=ekRQWjdnQmVVODR0SDZRbHl4c3BCQT09
 ---
 
 ## About this session
