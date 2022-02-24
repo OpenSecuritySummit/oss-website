@@ -20,7 +20,7 @@ organizers   :
     - Chris Holman
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/87497922420?pwd=Sks4RjlySnNHd0R5M2V2YXdFL0xRUT09
 ---
 
 ## About the session:
