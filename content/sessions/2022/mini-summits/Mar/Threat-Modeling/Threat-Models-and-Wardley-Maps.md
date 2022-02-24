@@ -23,7 +23,7 @@ organizers   :
     - Jakub Kaluzny
     - Krzysztof Daniel
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/81305274673?pwd=N1p4Szc3MlU0Y2RxaHBPaGRlZkVGdz09
 ---
 
 ## About the session:
