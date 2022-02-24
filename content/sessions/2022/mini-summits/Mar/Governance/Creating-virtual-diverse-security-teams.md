@@ -20,7 +20,7 @@ organizers   :
     - Samuel Ubido 
     - Brian Hinojosa
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/84401905992?pwd=Z092T2dTbE12VmpNalI5SU1lc25EZz09
 ---
 
 ## About this session
