@@ -24,7 +24,7 @@ organizers   :
     - Marios Clark
     - Sheetal Joseph
  
-zoom_link    : https://zoom.us/j/95776620996?pwd=QVVkVXlvWjJQbi9GQmI0WTlFek03Zz09
+zoom_link    :  https://us06web.zoom.us/j/81502219505?pwd=ajh3Qy95SmpobXErbE9YRjExSitsZz09
 ---
 
 ## About this session
