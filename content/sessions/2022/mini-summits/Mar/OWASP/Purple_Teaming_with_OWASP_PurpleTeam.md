@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Kim Carter      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/85384368101?pwd=ZkNhUlpIVFFzRndkcnNNaFBJek85QT09
 ---
 
 ## About this session
