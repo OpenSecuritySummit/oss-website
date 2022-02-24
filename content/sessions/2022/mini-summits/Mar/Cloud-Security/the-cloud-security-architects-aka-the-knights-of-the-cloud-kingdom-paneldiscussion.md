@@ -23,7 +23,7 @@ organizers   :
     - Kriti Mohun
   
 youtube_link :
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/84168574768?pwd=M2NDVmd4eHdzdDBvSVJuSEJZN3NMQT09
 ---
 
 ## About this session
