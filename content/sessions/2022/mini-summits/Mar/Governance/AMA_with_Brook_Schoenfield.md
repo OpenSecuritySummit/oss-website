@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Wed
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-brook-schoenfield/
-banner       : 
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQExv2waGPlnjg/feedshare-shrink_2048_1536/0/1645573404202?e=1648684800&v=beta&t=AoL2bs9qql7blCZ7BID2ske6ARktPfLt9SaB3RQC-vs
 #status      : 
 description  :
 organizers   :
