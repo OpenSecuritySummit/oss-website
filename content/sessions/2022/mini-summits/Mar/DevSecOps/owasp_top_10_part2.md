@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Thu
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/owasp-top-ten-part-2/
-banner       : 
+banner       : https://pbs.twimg.com/media/FMT7ZE0XIAkQI0T.png
 session_slack:
 #status      : 
 description  :
