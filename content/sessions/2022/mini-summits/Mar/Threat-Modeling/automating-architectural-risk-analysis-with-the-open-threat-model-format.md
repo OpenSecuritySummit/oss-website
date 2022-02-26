@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Fraser Scott   
 youtube_link : 
-zoom_link    :   
+zoom_link    : https://us06web.zoom.us/j/88069322619?pwd=TTBVNForRjdodW93TngxVms2d3dIUT09
 ---
 
 ## About this session

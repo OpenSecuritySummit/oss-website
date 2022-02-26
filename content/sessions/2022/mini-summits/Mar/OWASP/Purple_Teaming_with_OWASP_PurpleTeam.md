@@ -3,7 +3,7 @@ title        : Purple Teaming with OWASP PurpleTeam
 track        : DevSecOps
 project      : Owasp
 type         : working-session
-topics       : Developer first security, AppSec, CI, build tool, web security, DevSecOps, cloud security, security testing, security regression testing
+topics       : 
 featured     :
 event        : mini-summit
 when_year    : 2022
@@ -11,14 +11,14 @@ when_month   : Mar
 when_day     : Wed
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/purple-teaming-with-owasp-purpleteam/
-banner       : 
+banner       : https://pbs.twimg.com/media/FMSxtqIX0AAHP36.png
 session_slack:
 #status      : 
 description  :
 organizers   :
     - Kim Carter      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/85384368101?pwd=ZkNhUlpIVFFzRndkcnNNaFBJek85QT09
 ---
 
 ## About this session

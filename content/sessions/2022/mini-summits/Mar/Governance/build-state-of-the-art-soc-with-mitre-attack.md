@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Thu
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/build-state-of-the-art-soc-with-mitre-attck/
-banner       : 
+banner       : https://pbs.twimg.com/media/FMT7ZE0XIAkQI0T.png
 #status      : 
 description  :
 organizers   :
