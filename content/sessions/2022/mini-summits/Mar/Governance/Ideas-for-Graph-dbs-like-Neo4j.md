@@ -70,4 +70,7 @@ Here are the main topics for dicussion
     - [Hacked: Threats, Trends and the Power of Connected Data](https://www.slideshare.net/neo4j/hacked-threats-trends-and-the-power-of-connected-data]) (slides)
     - [Real Life Examples of Cybersecurity with Neo4j](https://www.slideshare.net/neo4j/real-life-examples-of-cybersecurity-with-neo4j) (slides)
     - videos for slides are [here](https://neo4j.com/video/connections/graphs-for-cybersecurity/)
+ - [Starbase](https://github.com/JupiterOne/starbase/blob/main/README.md)
+    - [Democratizing Graph-Based Security: Introducing Starbase](https://try.jupiterone.com/blog/democratizing-graph-based-security-introducing-starbase)
+    - [Launching Starbase: A New Open-Source Contribution from JupiterOne](https://try.jupiterone.com/blog/jupiterone-contributes-starbase-to-open-source-community)
         
