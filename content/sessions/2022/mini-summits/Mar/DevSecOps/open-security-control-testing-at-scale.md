@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Fri
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/open-security-control-testing-at-scale/
-banner       :
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQGpfPouYdb0yA/feedshare-shrink_2048_1536/0/1645910486017?e=1648684800&v=beta&t=CXlJm04vdwJhBGu8gArtM4xEn4fmdBNFOnAryvqN9OU
 session_slack:
 #status      : 
 description  :
