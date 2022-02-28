@@ -19,7 +19,7 @@ organizers   :
     - Olu
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/81548852564?pwd=TmVHYjNJV1g4SXFPaEdiWjhYWUtIdz09
 ---
 
 ## About this session
