@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Paul Howard       
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/81887597777?pwd=VmxROC9nZkVKYTE5UmM3SVZSbmIwUT09
 ---
 
 ## About this session
