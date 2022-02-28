@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Marius Poskus       
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82624869273?pwd=Zk1kU1ZCK3hhMGg0OVRYZGF3OTVzUT09
 ---
 
 ## About this session
