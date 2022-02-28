@@ -22,7 +22,7 @@ organizers   :
  
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/88595314817?pwd=SVp2RmtuUWNlSWRWM1Ixdk9jcFJYdz09
 ---
 
 ## About the session:
