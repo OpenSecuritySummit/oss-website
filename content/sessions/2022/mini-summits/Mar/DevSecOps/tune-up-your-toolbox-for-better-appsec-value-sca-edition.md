@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Josh Grossman        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/89826136916?pwd=MEV3VzZ3NW1xWG1ZMFJ2V25pbmQyZz09
 ---
 
 ## About this session
