@@ -18,7 +18,7 @@ organizers   :
     - Brook S.E. Schoenfield       
     - Izar Tarandach
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/85648649782?pwd=MXFCR1hwSmp1RGN5L3krR0ZlREU2UT09
 ---
 
 ## About this session
