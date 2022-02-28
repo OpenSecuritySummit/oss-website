@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Joseph Katsioloudes        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82462854910?pwd=N2I3NlBTTFQrN1VwLzJXQW1TZ282Zz09
 ---
 
 ## About this session
