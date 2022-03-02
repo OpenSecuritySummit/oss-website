@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Thu
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modelling-for-dummies-a-live-tm-session/
-banner       : https://pbs.twimg.com/media/FMdFyt6XoAs6uFg.png
+banner       : https://pbs.twimg.com/media/FMuAIyAXoAQYh9C.png
 session_slack:
 #status      : 
 description  :
