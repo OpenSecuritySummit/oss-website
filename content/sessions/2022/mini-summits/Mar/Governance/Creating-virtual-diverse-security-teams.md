@@ -12,6 +12,7 @@ when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-presentations-instead-of-cvs-and-creating-diverse-security-teams/
 session_slack:
+banner       : https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D22AQFPGDSiAJ5sYA%2Ffeedshare-shrink_2048_1536%2F0%2F1646239835951%3Fe%3D1649289600%26v%3Dbeta%26t%3DE9er9J1dOdkfDil5RrTxnIKRyrqahYPgXQ_0FgR8H6I
 #status       : draft
 description  :
 organizers   :
