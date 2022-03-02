@@ -23,3 +23,7 @@ zoom_link    :  https://us06web.zoom.us/j/88689866327?pwd=ekRQWjdnQmVVODR0SDZRbH
 
 ## About this session
 
+Eaten by SARLaC: lessons learned from failing at trying to scale-up product security teams by managing architecture diagrams, control libraries and collaboration as code.
+
+This is a failure story. This is about how we identified the need of reducing toil and built a framework to try to programatically generate documents about security architecture models of new projects and products. We will deep dive into how we made possible to translate architecture diagrams to code and manage the whole process using CLI tools and git to automatically generate friendly documentation. Spoiler alert: it did not turn out to be so good but lessons learned help us improve the old legacy process into a more scalable and efficient one.
+
