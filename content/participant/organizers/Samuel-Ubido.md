@@ -1,6 +1,6 @@
 ---
 title: Samuel Ubido
-image: https://media-exp1.licdn.com/dms/image/C4D03AQFZ7zr2L1kuHQ/profile-displayphoto-shrink_800_800/0/1609720774612?e=1651104000&v=beta&t=vyDo8cMpje_ve2R8R61f9adGo0NobZAUQx-3Y3hGnbM
+image: https://media-exp1.licdn.com/dms/image/C4D03AQErp2Y0vr1Irg/profile-displayphoto-shrink_400_400/0/1646011261083?e=1651708800&v=beta&t=6Y7MDp26htAoZ96ND0vnhe16OjSNNlDfYvWHBWJ7Ea4
 company: University of Oxford
 job_title: Information Security Manager (OT) 
 facebook:
