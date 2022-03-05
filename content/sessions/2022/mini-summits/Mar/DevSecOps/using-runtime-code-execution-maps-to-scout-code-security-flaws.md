@@ -16,7 +16,8 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - Elizabeth Lawler       
+    - Elizabeth Lawler
+    - Kevin Gilpin
 youtube_link : 
 zoom_link    :  
 ---
