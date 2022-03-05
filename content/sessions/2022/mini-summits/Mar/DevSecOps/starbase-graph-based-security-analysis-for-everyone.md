@@ -23,11 +23,12 @@ zoom_link    :
 ---
 
 ## About this session
-
 Security is a basic human right, but many security teams struggle to answer even seemingly basic questions about attack surface or blast radius due to poor visibility into relationships between assets. This knowledge is key to identifying security vulnerabilities, attack vectors, and the blast radius of compromise.
 
 In this session, we will walk through:
-* Introduction of graph database concepts as they relate to security analysis
-* Setup and configuration of the open-source Starbase project
-* Ingestion of metadata from multiple services into a local Neo4j database
-* Analysis of the collected data using Cypher queries to identify potential vulnerabilities
+- Introduction of graph database concepts as they relate to security analysis
+- Setup and configuration of the open-source Starbase project
+- Ingestion of metadata from multiple services into a local Neo4j database
+-  Analysis of the collected data using Cypher queries to identify potential vulnerabilities
+
+
