@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Mon
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-models-and-wardley-maps/
-banner       : 
+banner       : https://pbs.twimg.com/media/FNHXdn-XsAEfG2K.png
 session_slack:
 #status      : 
 description  :
