@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Mon
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/starbase-graph-based-security-analysis-for-everyone/
-banner       : 
+banner       : https://pbs.twimg.com/media/FNHgYSgXoAMAGlW.png
 session_slack:
 #status      : 
 description  :
