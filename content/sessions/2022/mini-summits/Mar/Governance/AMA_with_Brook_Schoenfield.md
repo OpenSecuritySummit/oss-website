@@ -22,3 +22,4 @@ zoom_link    : https://us06web.zoom.us/j/85648649782?pwd=MXFCR1hwSmp1RGN5L3krR0Z
 ---
 
 ## About this session
+Submit your questions for Brook Schoenfield here: https://bit.ly/AMAwithBrookSchoenfield
