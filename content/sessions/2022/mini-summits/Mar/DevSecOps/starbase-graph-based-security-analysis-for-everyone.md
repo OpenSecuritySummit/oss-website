@@ -19,7 +19,7 @@ organizers   :
     - Austin Kelleher  
     - Adam Pierson
 youtube_link : 
-zoom_link    :  
+zoom_link    : https://us06web.zoom.us/j/84512038769?pwd=SWtxRFNDTzU4L1laR3hNVHpNcUZJdz09
 ---
 
 ## About this session
