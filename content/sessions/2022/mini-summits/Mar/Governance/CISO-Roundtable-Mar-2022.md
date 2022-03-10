@@ -29,4 +29,6 @@ zoom_link    :  https://us06web.zoom.us/j/81502219505?pwd=ajh3Qy95SmpobXErbE9YRj
 
 ## About this session
 
-Open discussion about a number of CISO related topics
+Open discussion about a number of CISO related topics. During virtual roundtables you'll engage in meaningful conversations, benchmark current strategies, and learn from your true peers facing similar challenges. 
+
+Your topics suggestions are most welcome. Please fill in this form:https://forms.gle/RUL8Ss7BbWKPUYVRA
