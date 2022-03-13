@@ -19,7 +19,7 @@ organizers   :
     - Elizabeth Lawler
     - Kevin Gilpin
 youtube_link : 
-zoom_link    :  
+zoom_link    :  https://us06web.zoom.us/j/89642744228?pwd=bmtBdWdVQXJtS2M3YmV2alJFSjJxUT09
 ---
 
 ## About this session
