@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Josh Grossman        
-youtube_link : 
+youtube_link : 2SxHfhvhey8
 zoom_link    : https://us06web.zoom.us/j/89826136916?pwd=MEV3VzZ3NW1xWG1ZMFJ2V25pbmQyZz09
 ---
 
