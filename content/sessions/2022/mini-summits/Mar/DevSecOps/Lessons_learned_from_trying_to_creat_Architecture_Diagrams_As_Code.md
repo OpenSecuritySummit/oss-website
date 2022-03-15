@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Martin Obiols        
-youtube_link : 
+youtube_link :  DmwPPJcVYa4
 zoom_link    :  https://us06web.zoom.us/j/88689866327?pwd=ekRQWjdnQmVVODR0SDZRbHl4c3BCQT09
 ---
 
