@@ -11,7 +11,7 @@ when_month   : Mar
 when_day     : Tue
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-cloud-security-architects-aka-the-knights-of-the-cloud-kingdom-panel-discussion/
-banner       : https://pbs.twimg.com/media/FL4zRlHXIAUGhQK.png
+banner       : https://pbs.twimg.com/media/FN5KG6VWUAQiGbU?format=png&name=small
 session_slack:
 #status       : draft
 description  :
