@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Austin Kelleher  
     - Adam Pierson
-youtube_link : 
+youtube_link : 5dN_c6MyWdk
 zoom_link    : https://us06web.zoom.us/j/84512038769?pwd=SWtxRFNDTzU4L1laR3hNVHpNcUZJdz09
 ---
 
