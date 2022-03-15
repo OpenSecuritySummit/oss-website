@@ -18,6 +18,8 @@ description  :
 organizers   :
     - Paul Howard       
 youtube_link : JNaMTZI5Fp8
+Session Slides: [Parsec_OpenSecuritySummit_Presentation_March2022 (1).pdf](https://github.com/OpenSecuritySummit/oss-website/files/8253982/Parsec_OpenSecuritySummit_Presentation_March2022.1.pdf)
+
 zoom_link    : https://us06web.zoom.us/j/81887597777?pwd=VmxROC9nZkVKYTE5UmM3SVZSbmIwUT09
 ---
 
