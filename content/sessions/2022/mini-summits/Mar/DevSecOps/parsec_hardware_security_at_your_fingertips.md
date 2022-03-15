@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Paul Howard       
-youtube_link : 
+youtube_link : JNaMTZI5Fp8
 zoom_link    : https://us06web.zoom.us/j/81887597777?pwd=VmxROC9nZkVKYTE5UmM3SVZSbmIwUT09
 ---
 
