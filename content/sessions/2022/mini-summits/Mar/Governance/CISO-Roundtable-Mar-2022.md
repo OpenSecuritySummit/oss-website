@@ -15,7 +15,7 @@ banner       : https://pbs.twimg.com/media/FNQTqZAXMAkG4W8.png
 session_slack:
 #status       : draft
 description  :
-youtube_link :
+youtube_link : dEF7MufNeBo
 organizers   :
     - Ante Gulam
     - Chase Fopiano
