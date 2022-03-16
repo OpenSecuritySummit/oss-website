@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Joseph Katsioloudes        
-youtube_link : 
+youtube_link : mshHnvuThpo
 zoom_link    : https://us06web.zoom.us/j/82462854910?pwd=N2I3NlBTTFQrN1VwLzJXQW1TZ282Zz09
 ---
 
