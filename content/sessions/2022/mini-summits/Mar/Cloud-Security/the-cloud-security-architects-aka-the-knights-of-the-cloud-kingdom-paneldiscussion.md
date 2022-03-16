@@ -22,7 +22,7 @@ organizers   :
     - Lee Newcombe
     - Kriti Mohun
   
-youtube_link :
+youtube_link : UcPaVnYZ-8A
 zoom_link    : https://us06web.zoom.us/j/84168574768?pwd=M2NDVmd4eHdzdDBvSVJuSEJZN3NMQT09
 ---
 
