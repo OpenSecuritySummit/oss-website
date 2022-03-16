@@ -18,7 +18,7 @@ organizers   :
     - Dinis Cruz
     - Olu
     
-youtube_link : 
+youtube_link : rVcj7PPhj2Y
 zoom_link    : https://us06web.zoom.us/j/81548852564?pwd=TmVHYjNJV1g4SXFPaEdiWjhYWUtIdz09
 ---
 
