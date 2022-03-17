@@ -20,7 +20,7 @@ organizers   :
     - Dinis Cruz
     - Samuel Ubido 
     - Brian Hinojosa
-youtube_link : 
+youtube_link : nI9WFcWTrQM
 zoom_link    : https://us06web.zoom.us/j/84401905992?pwd=Z092T2dTbE12VmpNalI5SU1lc25EZz09
 ---
 
