@@ -16,7 +16,7 @@ banner       : https://pbs.twimg.com/media/FMT7ZE0XIAkQI0T.png
 description  :
 organizers   :
     - Marius Poskus       
-youtube_link : 
+youtube_link : G9NAgyWz1A8
 zoom_link    : https://us06web.zoom.us/j/82624869273?pwd=Zk1kU1ZCK3hhMGg0OVRYZGF3OTVzUT09
 ---
 
