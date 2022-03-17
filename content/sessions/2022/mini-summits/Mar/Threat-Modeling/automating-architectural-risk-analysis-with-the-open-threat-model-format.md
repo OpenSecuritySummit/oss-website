@@ -17,7 +17,7 @@ banner       : https://pbs.twimg.com/media/FMDVDPTXMAs0NCK.png
 description  :
 organizers   :
     - Fraser Scott   
-youtube_link : 
+youtube_link : c96raRGrf70
 zoom_link    : https://us06web.zoom.us/j/88069322619?pwd=TTBVNForRjdodW93TngxVms2d3dIUT09
 ---
 
