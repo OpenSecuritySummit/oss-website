@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Kim Carter      
-youtube_link : 
+youtube_link : MDDsAiO_ios
 zoom_link    : https://us06web.zoom.us/j/85384368101?pwd=ZkNhUlpIVFFzRndkcnNNaFBJek85QT09
 ---
 
