@@ -21,7 +21,7 @@ organizers   :
     - Petra Vukmirovic
  
     
-youtube_link : 
+youtube_link : RUKORXafXFA
 zoom_link    : https://us06web.zoom.us/j/88595314817?pwd=SVp2RmtuUWNlSWRWM1Ixdk9jcFJYdz09
 ---
 
