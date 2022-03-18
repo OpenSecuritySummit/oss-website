@@ -16,7 +16,7 @@ banner       : https://pbs.twimg.com/media/FOJUjOPXEB4S8pA?format=png&name=small
 description  :
 organizers   :
     - Abbas Haidar  
-youtube_link : 
+youtube_link : xGmxA3Bc0ss
 zoom_link    : https://us06web.zoom.us/j/81033702082?pwd=dG1keGJiMTRrZnJIS1YyZkZCakllQT09
 ---
 
