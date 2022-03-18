@@ -1,5 +1,5 @@
 ---
-title        : Using runtime code execution maps to scout code security flaws
+title        : Using AppMap runtime code visualizations to scout for security flaws
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : Mar
 when_day     : Fri
 when_time    : WS-15-16
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-runtime-code-execution-maps-to-scout-code-security-flaws/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-appmap-runtime-code-visualizations-to-scout-for-security-flaws/
 banner       : https://pbs.twimg.com/media/FNW7URYWUAE_B2g.png
 session_slack:
 #status      : 
