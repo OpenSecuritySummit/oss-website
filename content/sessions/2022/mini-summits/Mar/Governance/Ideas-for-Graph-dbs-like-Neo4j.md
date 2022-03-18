@@ -13,7 +13,7 @@ when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ideas-for-graph-dbs-like-neo4j
 session_slack:
 #status      : draft
-banner       : https://pbs.twimg.com/media/FMmK6PUWUAENWEL.png
+banner       : https://pbs.twimg.com/media/FOJQIChXIAMasVL?format=png&name=small
 description  :
 organizers   :
     - Dinis Cruz
