@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Elizabeth Lawler
     - Kevin Gilpin
-youtube_link : 
+youtube_link :  sJeCzDW1fXY
 zoom_link    :  https://us06web.zoom.us/j/89642744228?pwd=bmtBdWdVQXJtS2M3YmV2alJFSjJxUT09
 ---
 
