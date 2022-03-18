@@ -20,7 +20,7 @@ organizers   :
     - David Fauth
     - Dave Voutila
     - Irene Michlin
-youtube_link : 
+youtube_link : 8FFmT1UHUL4
 zoom_link    : https://us06web.zoom.us/j/82744127568?pwd=SzZqcUs1YTB2dEVzV2dXdGxWcGZqdz09
 ---
 
