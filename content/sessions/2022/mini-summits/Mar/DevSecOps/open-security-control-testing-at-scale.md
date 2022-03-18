@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Luis Saiz     
-youtube_link : 
+youtube_link : L3aShr2NyEU
 zoom_link    : https://us06web.zoom.us/j/87615687178?pwd=QlpMUWVTVlp0c0N0SXBuRlB1WE40UT09
 ---
 
