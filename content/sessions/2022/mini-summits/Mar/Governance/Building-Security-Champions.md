@@ -19,6 +19,7 @@ organizers   :
     
 youtube_link : coq8_Ds-eeQ
 zoom_link    : https://us06web.zoom.us/j/89998773098?pwd=MlVvcW9udHJkWHg3SUk5YklGS20xUT09
+session_slides: 1HrrBoNBaeUs1ywg6dPpTfX2josFS6Lr0
 ---
 
 ## About this session
