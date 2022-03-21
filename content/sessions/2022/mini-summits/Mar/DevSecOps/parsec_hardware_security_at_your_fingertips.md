@@ -20,7 +20,9 @@ organizers   :
 youtube_link : JNaMTZI5Fp8
 zoom_link    : https://us06web.zoom.us/j/81887597777?pwd=VmxROC9nZkVKYTE5UmM3SVZSbmIwUT09
 ---
+### Session slides
 
+{{< gslides id="2PACX-1vTjVbRU2Ipk34_XWA1mDMO0BTHSPHGwa-WeUaaSvQtQy_1epQnNXntL7ndKii-msQ/embed?slide=id.p" >}}
 ## About this session
 
 An introduction and technical overview of an open-source security project called Parsec.
