@@ -20,6 +20,9 @@ organizers   :
 youtube_link : c96raRGrf70
 zoom_link    : https://us06web.zoom.us/j/88069322619?pwd=TTBVNForRjdodW93TngxVms2d3dIUT09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vTUCetvFjibn591rIHsCqxDmLDLpfGju3tcfjBRpo1EcfwARl5TFTPk9SdrLU4G6g/embed?slide=id.p" >}}
 
 ## About this session
 Architectural risk analysis is a crucial security activity that's typically carried out manually in workshops.  
