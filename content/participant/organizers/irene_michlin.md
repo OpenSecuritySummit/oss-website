@@ -11,6 +11,7 @@ notes:
 status: 
 type: participant
 ---
-
-<!-- put more details about participant here -->
+### notes:
+[15 tools for visualising your Neo4j database](https://nielsdejong.nl/neo4j%20projects/2021/04/08/graph-visualizations-survey.html)
+[Build Neo4j dashboards](https://nielsdejong.nl/neo4j%20projects/2020/11/16/neodash.html)
 
