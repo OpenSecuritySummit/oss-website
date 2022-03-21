@@ -21,6 +21,9 @@ youtube_link : coq8_Ds-eeQ
 zoom_link    : https://us06web.zoom.us/j/89998773098?pwd=MlVvcW9udHJkWHg3SUk5YklGS20xUT09
 session_slides: 1HrrBoNBaeUs1ywg6dPpTfX2josFS6Lr0
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vQaICMqemF7PxAEQK5hdzE2PPC8qAItUgJWQWzrtypVJOYo5JxfpcyXFUQgCIDXFw/embed?slide=id.p" >}}
 
 ## About this session
 
