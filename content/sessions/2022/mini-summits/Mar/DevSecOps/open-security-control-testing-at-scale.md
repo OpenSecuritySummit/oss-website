@@ -20,7 +20,9 @@ organizers   :
 youtube_link : L3aShr2NyEU
 zoom_link    : https://us06web.zoom.us/j/87615687178?pwd=QlpMUWVTVlp0c0N0SXBuRlB1WE40UT09
 ---
+### Session slides
 
+{{< gslides id="2PACX-1vQ3Mxnksq6mPd0hewYOZbvhFOb7ehaByQ9ctT6Q73CcWTu7M0YKj_05nZAxrcMr3B7sAFkmTpMR__XX/embed?slide=id.p" >}}
 ## About this session
 
 "Per OWASP A04:2021 – Insecure Design: 
