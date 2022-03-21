@@ -20,6 +20,9 @@ organizers   :
 youtube_link : 2SxHfhvhey8
 zoom_link    : https://us06web.zoom.us/j/89826136916?pwd=MEV3VzZ3NW1xWG1ZMFJ2V25pbmQyZz09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vQpv-idoH4WC2GbmphsWASm7bfzs4IwpD6_NGRJfTWJirPp7biI9NBk-MUoc89sEA/embed?slide=id.p" >}}
 
 ## About this session
 Whether they have a mature Secure Development program or not, a substantial proportion of organizations will be using Application Security scanning tools to try and improve their overall security posture. 
