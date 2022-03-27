@@ -21,6 +21,9 @@ organizers   :
 youtube_link : 5dN_c6MyWdk
 zoom_link    : https://us06web.zoom.us/j/84512038769?pwd=SWtxRFNDTzU4L1laR3hNVHpNcUZJdz09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vS9gnfk19HavJSGPI1QBSX8NKaUE5J7j-IkU-kIc-Icj1QgASIanPao1y1uYpEWtg/embed?slide=id.p" >}}
 
 ## About this session
 Security is a basic human right, but many security teams struggle to answer even seemingly basic questions about attack surface or blast radius due to poor visibility into relationships between assets. This knowledge is key to identifying security vulnerabilities, attack vectors, and the blast radius of compromise.
