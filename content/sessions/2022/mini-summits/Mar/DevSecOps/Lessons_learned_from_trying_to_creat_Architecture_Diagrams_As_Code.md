@@ -21,6 +21,10 @@ youtube_link :  DmwPPJcVYa4
 zoom_link    :  https://us06web.zoom.us/j/88689866327?pwd=ekRQWjdnQmVVODR0SDZRbHl4c3BCQT09
 ---
 
+### Session slides
+
+{{< gslides id="2PACX-1vT1oMSh3pvC8sYH7zCCEfd9MQHjLWd-vxUPWxM0uCP8vzC_Zinv_Cs2-xd4kUIIcA/embed?slide=id.p" >}}
+
 ## About this session
 
 Eaten by SARLaC: lessons learned from failing at trying to scale-up product security teams by managing architecture diagrams, control libraries and collaboration as code.
