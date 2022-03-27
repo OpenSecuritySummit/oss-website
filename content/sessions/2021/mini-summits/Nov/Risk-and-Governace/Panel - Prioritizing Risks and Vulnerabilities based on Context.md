@@ -22,6 +22,9 @@ organizers   :
 youtube_link :   f3qlcj1BM8o
 zoom_link    :   https://us06web.zoom.us/j/87854880218?pwd=VUx6OEh5dWl5Mzc4QVpucklNYzBXdz09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vRTpaH0evUk2DYAlvhjsuwfEK9VU5bjGDNJgm0qll-O6O_PvUlw66TPh5gbrTyBqg/embed?slide=id.p" >}}
 
 ## About this session
 Panel on how to Prioritize Risks and Vulnerabilities based on Context
