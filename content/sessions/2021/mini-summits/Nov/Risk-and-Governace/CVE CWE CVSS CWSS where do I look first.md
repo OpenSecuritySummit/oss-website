@@ -26,5 +26,5 @@ Transcript   : 1CILzS4i4Hyk2xtr2XX3ccIy8T7mmVcqC
 ---
 ### Session slides
 
-{{< gslides id="2PACX-1vQaxUt3gp1WJAacsVHkTxDP-HqySp666cxSEwZjUQZgDGmHTL6mH56FsWWkXlnpOF0gNYqzCC1u3XwR/embed?slide=id.p" >}}
+{{< gslides id="2PACX-1vQRfLnu3hcFV5nXxfDxViBUlxB--TTwq5UkLxFDFSetnZ7neywn2ENAls2m4TW_NA/embed?slide=id.p" >}}
 ## About this session
