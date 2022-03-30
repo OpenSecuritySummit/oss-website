@@ -1,6 +1,6 @@
 ---
 title: Marios Clark
-image: https://media-exp1.licdn.com/dms/image/C4D03AQF0fqUKFgqpMg/profile-displayphoto-shrink_800_800/0/1619679661036?e=1654128000&v=beta&t=KXBkwDKZEGXKjqfV45mAb3UawCarilsWJCG56BF9gwM
+image: https://pbs.twimg.com/profile_images/933834170819858432/QgQC-Grf_400x400.jpg
 company: ZAVA
 job_title: CISO
 facebook:
