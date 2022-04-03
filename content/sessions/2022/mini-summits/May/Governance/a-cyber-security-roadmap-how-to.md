@@ -1,5 +1,5 @@
 ---
-title        : A Cyber Security Roadmap: How To?
+title        : "A Cyber Security Roadmap: How To?"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
