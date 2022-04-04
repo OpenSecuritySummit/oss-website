@@ -16,7 +16,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - Abbas Haider
+    - Abbas Haidar
  
     
 youtube_link : 
