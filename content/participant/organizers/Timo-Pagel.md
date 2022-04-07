@@ -1,6 +1,6 @@
 ---
 title: Timo Pagel
-image: https://pagel.pro/wp-content/uploads/2020/01/profile-1-223x300.png
+image: https://media-exp1.licdn.com/dms/image/C4E03AQHYkIYSefRqUw/profile-displayphoto-shrink_800_800/0/1608031606118?e=1654732800&v=beta&t=R9IIlK076geGwU3Px01CFfhXmgTCCBxjLux_KqjhM9M
 company: Timo Pagel IT-Consulting
 job_title: DevSecOps Consultant
 facebook:
