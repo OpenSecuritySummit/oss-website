@@ -30,33 +30,34 @@ Requirements: Users will need a laptop with wifi and admin access to install a r
 
 
 Outline:
-	- State problems
-	⁃ insecure software is a serious, industry-wide issue
-	⁃ Need for accuracy
-	⁃ Need for speed
-	⁃ Need to test from several angles, and we are zeroing in on Dynamic but will cover other options at a high level
-	⁃ Need to keep a good relationship with devs, or our sec tools will be turned off/circumvented
-	⁃ earlier we do security feedback, the cheaper and faster it is to fix
-        - Define DAST and explain how it works, including proxying. Briefly, this is hopefully review.
-	- Define CI/CD, how it works and benefits. Again, this is hopefully review.
-	- Strategies for DAST in a pipeline
-	⁃ Run it on full blast, lose all of your (dev) friends - explain all reasons why this is a sub-optimal approach
-	⁃ HAR files - pre-defined scope and eliminate need for crawling
-	⁃ Sub sets of tests (for instance, search injection in all pipelines one week, then XSS the next, etc, eliminating as you go)
-	⁃ Technology-specific tests only (if an App is Wordpress, only run word-press related tests, Mongo tests, noSQL tests, AWS tests,etc. 
-	⁃ APIs and Swagger files - How to automate API DSAT scanning + tips
-	- Strategies for DAST NOT in a pipeline
-	⁃ automated/scheduled scans
-	⁃ Manual 1-off
-	⁃ pentests
-	⁃ When each makes sense, strategies and tips
-	- WORKSHOP STARTS
-	- Set up of GitHub account
-	- Clone GitHub Repo
-	- Setup BrightSec account
-	- Install Repeater
-	- Setup a scan using the CI/CD
-	- See the build break when the scanner finds a LOT of vulnerabilities
-	- Review vulnerabilities, discuss potential fixes
-	- Summarize/conclusion
-	- Q&A
+State problems
+-insecure software is a serious, industry-wide issue
+-Need for accuracy
+-Need for speed
+-Need to test from several angles, and we are zeroing in on Dynamic but will cover other options at a high level
+-Need to keep a good relationship with devs, or our sec tools will be turned off/circumvented
+-earlier we do security feedback, the cheaper and faster it is to fix
+-Define DAST and explain how it works, including proxying. Briefly, this is hopefully review.
+-Define CI/CD, how it works and its benefits. Again, this is hopefully a review.
+-Strategies for DAST in a pipeline
+-Run it on full blast, lose all of your (dev) friends - explain all reasons why this is a sub-optimal approach
+-HAR files - pre-defined scope and eliminate need for crawling
+-Sub sets of tests (for instance, search injection in all pipelines one week, then XSS the next, etc, eliminating as you go)
+-Technology-specific tests only (if an App is Wordpress, only run word-press related tests, Mongo tests, noSQL tests, AWS tests,etc. 
+-APIs and Swagger files - How to automate API DSAT scanning + tips
+-Strategies for DAST NOT in a pipeline
+-automated/scheduled scans
+-Manual 1-off
+-pentests
+-When each makes sense, strategies and tips
+-WORKSHOP STARTS
+-Set up of GitHub account
+-Clone GitHub Repo
+-Setup BrightSec account
+-Install Repeater
+-Setup a scan using the CI/CD
+-See the build break when the scanner finds a LOT of vulnerabilities
+-Review vulnerabilities, discuss potential fixes
+-Summarize/conclusion
+-Q&A
+	
