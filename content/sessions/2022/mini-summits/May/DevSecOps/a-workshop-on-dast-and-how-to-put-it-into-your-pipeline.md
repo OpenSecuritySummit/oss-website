@@ -30,7 +30,9 @@ Requirements: Users will need a laptop with wifi and admin access to install a r
 
 
 Outline:
-State problems
+
+-State problems
+
 -insecure software is a serious, industry-wide issue
 
 -Need for accuracy
