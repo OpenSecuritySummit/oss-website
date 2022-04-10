@@ -1,6 +1,6 @@
 ---
 title: Jim Manico
-image: https://pbs.twimg.com/profile_images/1128010737580818432/cw4SWqUx_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/jim.jpg?raw=true
 company: Manicode Security
 job_title: Secure Coding Educator
 facebook:
