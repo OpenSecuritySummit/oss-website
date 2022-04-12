@@ -1,5 +1,5 @@
 ---
-title        : How can we make grafana a great open source security tool
+title        : How can we make grafana a great open source security tool for DevSecOps?
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
