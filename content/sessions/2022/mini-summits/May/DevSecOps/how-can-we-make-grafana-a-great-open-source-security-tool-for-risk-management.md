@@ -1,5 +1,5 @@
 ---
-title        : How can we make grafana a great open source security tool for risk management?
+title        : How can we make Grafana a great open source security tool for risk management?
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
