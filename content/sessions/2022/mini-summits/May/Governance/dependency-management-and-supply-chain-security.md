@@ -23,5 +23,8 @@ session_slides:
 ---
 
 
-
 ## About this session
+
+Modern software has dependencies – lots of dependencies, especially when including the transitive ones. Most of these dependencies are open source packages downloaded from a public software repository. Any of those dependencies may have vulnerabilities, include a supply-chain attack or use unwanted licenses. All this may change with any version. That’s why actively managing dependencies should be one of the focus areas of software development.
+
+In this session we will have a look at different techniques and tools (Renovate, Cosign, syft, …) for choosing and managing dependencies and see how keep your applications and infrastructure secure.
