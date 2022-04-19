@@ -1,7 +1,7 @@
 ---
 title        : The Human Firewall
-track        : DevSecOps
-project      : DevSecOps
+track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
