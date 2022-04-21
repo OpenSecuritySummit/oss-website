@@ -22,3 +22,6 @@ zoom_link    :
 ---
 
 ## About this session
+We are going to explore application security trending on appsec, (web, infra) and the Mean resolution around countries and what can be used to prioritized appsec, and infra vulnerabilities using deployment concepts
+
+The session also covers the common pitfall of organization in throwing technologies at problem and how to include people for a successful programme
