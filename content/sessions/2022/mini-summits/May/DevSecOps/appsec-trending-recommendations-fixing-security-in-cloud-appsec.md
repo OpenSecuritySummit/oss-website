@@ -1,5 +1,5 @@
 ---
-title        : AppSec Trending & recommendations : Fixing Security in Cloud & Appsec
+title        : "AppSec Trending & recommendations:Fixing Security in Cloud & Appsec"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
