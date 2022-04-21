@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : May
 when_day     : Thu
-when_time    : WS-16-17pm
+when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/appsec-trending-recommendations-fixing-security-in-cloud-appsec/
 banner       : 
 session_slack:
