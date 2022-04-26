@@ -1,6 +1,6 @@
 ---
 title: Izar Tarandach
-image: https://media-exp1.licdn.com/dms/image/C5603AQH1qkzC4AzTGQ/profile-displayphoto-shrink_800_800/0/1549516639481?e=1650499200&v=beta&t=EWiq6J4yyyW1fSqk4Z9OBSvPNXZFs7h6QLFs1g019Zo
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/izar.jpg?raw=true
 company: Squarespace
 job_title: Principal Security Engineer
 facebook:
