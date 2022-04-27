@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Thu
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/beat-alert-fatigue-with-cyber-asset-relationship-graphs/
-banner       : 
+banner       : https://pbs.twimg.com/media/FRTAervXIAEk-mb.png
 #status      : 
 description  :
 organizers   :
