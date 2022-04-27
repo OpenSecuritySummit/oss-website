@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Mon
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/a-workshop-on-dast-and-how-to-put-it-into-your-pipeline/
-banner       : 
+banner       : https://pbs.twimg.com/media/FQvY-8pXEAk0mND.png
 session_slack:
 #status      : 
 description  :
