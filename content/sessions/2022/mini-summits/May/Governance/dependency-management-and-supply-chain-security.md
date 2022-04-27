@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Mon
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/dependency-management-and-supply-chain-security/
-banner       : 
+banner       : https://pbs.twimg.com/media/FQ5p0MwX0AERzn3.png
 #status      : 
 description  :
 organizers   :
