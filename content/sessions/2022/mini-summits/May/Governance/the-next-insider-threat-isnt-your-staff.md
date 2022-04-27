@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-next-insider-threat-isnt-your-staff/
-banner       : 
+banner       : https://pbs.twimg.com/media/FQqEvJrX0AIoii6.png
 #status      : 
 description  :
 organizers   :
