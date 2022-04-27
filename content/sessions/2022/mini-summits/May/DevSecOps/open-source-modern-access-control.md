@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Mon
 when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/open-source-modern-access-control/
-banner       : 
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQGLzZaqeWSgIA/feedshare-shrink_2048_1536/0/1650492471105?e=2147483647&v=beta&t=ykGqJkPmogk1_lWnN78ehhWDSHtTUhYQE1pcIoG90vc
 session_slack:
 #status      : 
 description  :
