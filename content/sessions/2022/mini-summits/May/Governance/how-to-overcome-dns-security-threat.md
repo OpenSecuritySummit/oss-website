@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Fri
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-to-overcome-dns-security-threats/
-banner       : 
+banner       : https://www.linkedin.com/feed/update/urn:li:activity:6925082056687255552
 session_slack:
 #status      : 
 description  :
