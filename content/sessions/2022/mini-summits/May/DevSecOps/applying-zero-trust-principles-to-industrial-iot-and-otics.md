@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Tue
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/applying-zero-trust-principles-to-industrial-iot-and-otics/
-banner       : 
+banner       : https://pbs.twimg.com/media/FQ-ZzLMXMAcgRfC.png
 session_slack:
 #status      : 
 description  :
