@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Tue
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-champions-sharing-experiences/
-banner       : 
+banner       : https://pbs.twimg.com/media/FRI2GboWQAEtcrb.png
 #status      : 
 description  :
 organizers   :
