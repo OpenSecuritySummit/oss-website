@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Osman Karan       
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/88098886176?pwd=ZFNTU2FQSmExdHloSXAwdWZFaWNUUT09
 ---
 
 ## About this session
