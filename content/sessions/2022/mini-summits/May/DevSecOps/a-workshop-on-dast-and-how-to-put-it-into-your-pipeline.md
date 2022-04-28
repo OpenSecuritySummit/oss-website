@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Tanya Janca        
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/82108372136?pwd=WllGL1ZScjIyTFh6TWd5SUhyK3VnZz09
 ---
 
 ## About this session
