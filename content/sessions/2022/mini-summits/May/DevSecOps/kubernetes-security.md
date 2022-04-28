@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Uday       
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/81076933432?pwd=NnBMMHAxaG41a3NQdWxOQ2FCWVFYZz09
 ---
 
 ## About this session
