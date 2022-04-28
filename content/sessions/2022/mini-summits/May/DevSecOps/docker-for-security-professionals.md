@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Rakesh Elamaran      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82684945101?pwd=VFVmczNJWCt6QUNLSW50Y21vV21QUT09
 ---
 
 ## About this session
