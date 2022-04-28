@@ -19,7 +19,7 @@ organizers   :
     - Adam Shostack
    
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82781157863?pwd=UFAxN0ZMdWtXKysvQ29HQkxQVDkwUT09
 session_slides:
 ---
 
