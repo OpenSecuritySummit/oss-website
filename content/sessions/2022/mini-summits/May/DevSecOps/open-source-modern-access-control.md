@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Or Weis        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/83756990038?pwd=cXFSQ3ZvQms3a2h6SWVqUTBoQ1dVZz09
 ---
 
 ## About this session
