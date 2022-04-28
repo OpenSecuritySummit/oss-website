@@ -19,7 +19,7 @@ organizers   :
     - Dinis Cruz
     - Jim Manico
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/81042498158?pwd=OVFCejE1MmRnR0ZybW9UOGdnQy8vQT09
 ---
 
 ## About this session
