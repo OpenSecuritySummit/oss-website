@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Celine Pypaert        
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/84064016588?pwd=Q09mUlZHQ2NsUjQrdTFpRXAvS0lVQT09
 ---
 
 ## About this session
