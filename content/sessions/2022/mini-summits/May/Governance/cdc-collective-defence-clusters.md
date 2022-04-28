@@ -19,7 +19,7 @@ organizers   :
     - Dinis Cruz
     - Ante Gulam
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/84149655057?pwd=Z1IwSmh1U0NRVW9PY1RoWkFUWmd3QT09
 ---
 
 ## About this session
