@@ -18,7 +18,7 @@ organizers   :
     - Jasmine Henry
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/86486270043?pwd=YVlVY0JjRDFlYldhUmg5WDFaN0dMQT09
 session_slides:
 ---
 
