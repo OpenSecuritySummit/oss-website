@@ -19,7 +19,7 @@ organizers   :
     - Dinis Cruz
     - Thomas Owen
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/83747891046?pwd=dlJieU1mZWJ0Q1BmY1Q0Rm9lYytDUT09
 ---
 
 ## About this session
