@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Fri
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cdc-collective-defence-clusters/
-banner       : https://pbs.twimg.com/media/FRD3LXMWQAAKVtt.png
+banner       : https://pbs.twimg.com/media/FRnR6cvXoAISIrD?format=png&name=small
 session_slack:
 #status      : 
 description  :
