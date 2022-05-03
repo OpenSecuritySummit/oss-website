@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/docker-for-security-professionals/
-banner       : 
+banner       : https://pbs.twimg.com/media/FRodDMqWYAAY49-?format=png&name=small
 session_slack:
 #status      : 
 description  :
