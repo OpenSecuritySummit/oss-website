@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Thu
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-adam-shostack/
-banner       : 
+banner       : https://pbs.twimg.com/media/FRbrkQEWUAg4hD0?format=png&name=small
 #status      : 
 description  :
 organizers   :
