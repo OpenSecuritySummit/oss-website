@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/a-cyber-security-roadmap-how-to/
-banner       : 
+banner       : https://pbs.twimg.com/media/FR1iIm3WUAAvMoH?format=png&name=small
 #status      : 
 description  :
 organizers   :
