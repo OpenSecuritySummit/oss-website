@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/appsec-trending-recommendations-fixing-security-in-cloud-appsec/
-banner       : 
+banner       : https://pbs.twimg.com/media/FRd4LjmXwAALWjH?format=png&name=small
 session_slack:
 #status      : 
 description  :
