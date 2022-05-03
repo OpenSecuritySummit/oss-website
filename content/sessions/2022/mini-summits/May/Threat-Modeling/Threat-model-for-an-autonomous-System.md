@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-model-for-an-autonomous-system/
-banner       : 
+banner       : https://pbs.twimg.com/media/FRjEk7_XsAA_VJ5?format=png&name=small
 session_slack:
 #status      : 
 description  :
