@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Wed
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/jim-and-dinis-talk-appsec
-banner       : 
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQG0v-MnvcRtaQ/feedshare-shrink_800/0/1651443714421?e=2147483647&v=beta&t=_7_rBVB7f_0q9BKQ5I_5pASmzI0NNeR8HJXS1JhjW9w
 session_slack:
 #status      : 
 description  :
