@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Fri
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-can-we-make-grafana-a-great-open-source-security-tool/
-banner       : 
+banner       : https://pbs.twimg.com/media/FRyTWtJXoAI3dTO?format=png&name=small
 session_slack:
 #status      : 
 description  :
