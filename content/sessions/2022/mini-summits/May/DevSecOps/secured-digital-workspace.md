@@ -11,7 +11,7 @@ when_month   : May
 when_day     : Mon
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/secured-digital-workspace/
-banner       : 
+banner       : https://pbs.twimg.com/media/FSLsEbIXEAEKiPN?format=png&name=small
 session_slack:
 #status      : 
 description  :
