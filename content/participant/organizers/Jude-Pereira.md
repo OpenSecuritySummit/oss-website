@@ -6,7 +6,7 @@ job_title: Managing Director
 facebook:
 linkedin: judepereirauk
 twitter:
-website:www.nanjgel.com
+website: www.nanjgel.com
 notes:
 status: 
 type: participant
