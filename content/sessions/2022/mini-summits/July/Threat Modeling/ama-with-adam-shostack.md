@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : May
+when_month   : Jul
 when_day     : Thu
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-adam-shostack/
