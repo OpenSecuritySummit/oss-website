@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Jude Pereira      
-youtube_link : 
+youtube_link : https://youtu.be/pKqJwnwv6mI
 zoom_link    : https://us06web.zoom.us/j/87921691879?pwd=aTVUUmJZVjlYaDJUMHU5ZXZ4MEVIZz09
 ---
 
