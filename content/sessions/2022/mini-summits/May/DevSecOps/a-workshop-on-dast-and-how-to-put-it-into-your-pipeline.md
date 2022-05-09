@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Tanya Janca        
-youtube_link : 
+youtube_link :  https://youtu.be/NxSspDGZunk
 zoom_link    :  https://us06web.zoom.us/j/82108372136?pwd=WllGL1ZScjIyTFh6TWd5SUhyK3VnZz09
 ---
 
