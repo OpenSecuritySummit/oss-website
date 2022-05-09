@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Christian Köberl
    
-youtube_link : 
+youtube_link : https://youtu.be/jQXv4_ClgCM
 zoom_link    : https://us06web.zoom.us/j/87564265573?pwd=cVd5dVZYSVAzSVFQQVFUZktKYkE0UT09
 session_slides:
 ---
