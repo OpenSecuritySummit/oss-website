@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Akira Brand       
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/87157420063?pwd=UVVqdWN4MkxPcWhNRkNMcW9MZnlhQT09
 ---
 
 ## About this session
