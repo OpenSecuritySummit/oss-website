@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : May
+when_month   : July
 when_day     : Wed
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/blockchain-and-its-security/
