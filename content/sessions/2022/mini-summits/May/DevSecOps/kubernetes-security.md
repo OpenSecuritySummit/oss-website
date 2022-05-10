@@ -16,7 +16,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - Uday       
+    - Uday Thubati       
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/81076933432?pwd=NnBMMHAxaG41a3NQdWxOQ2FCWVFYZz09
 ---
