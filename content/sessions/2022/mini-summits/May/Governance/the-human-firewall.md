@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Richea Perry       
-youtube_link : 
+youtube_link : https://youtu.be/XZ7vnK-Z8q8
 zoom_link    : https://us06web.zoom.us/j/85174419691?pwd=bUszNDljSzNoU210WnoyWXJIbkNaQT09
 ---
 
