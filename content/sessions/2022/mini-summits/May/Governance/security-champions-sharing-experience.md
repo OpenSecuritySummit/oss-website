@@ -18,7 +18,7 @@ organizers   :
     - Dinis Cruz
     - Timo Pagel
     
-youtube_link : 
+youtube_link : https://youtu.be/Awomn5YekAE
 zoom_link    : https://us06web.zoom.us/j/88216893518?pwd=M2k4Vk9pVzZqMmFkc2V3WGRlZkMrQT09
 session_slides:
 ---
