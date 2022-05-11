@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Don Murdoch
     
-youtube_link : 
+youtube_link : https://youtu.be/zWciTXrgL0Q
 zoom_link    : https://us06web.zoom.us/j/85873500060?pwd=ZVk2SU1hR3hsdm44NFFXYlM4UjhLQT09
 session_slides:
 ---
