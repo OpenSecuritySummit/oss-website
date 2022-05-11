@@ -17,9 +17,6 @@ session_slack:
 description  :
 organizers   :
     - Abbas Haidar
-    - Andre Fereira
-    - Bernard Quarshie
-
     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/83181622566?pwd=emZOa0xjc2lHMUh1QTFNR3Vkek5LQT09
