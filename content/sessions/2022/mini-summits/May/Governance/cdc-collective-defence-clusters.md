@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Ante Gulam
-youtube_link : 
+youtube_link : https://youtu.be/q-PR9NHB-so
 zoom_link    : https://us06web.zoom.us/j/84149655057?pwd=Z1IwSmh1U0NRVW9PY1RoWkFUWmd3QT09
 ---
 
