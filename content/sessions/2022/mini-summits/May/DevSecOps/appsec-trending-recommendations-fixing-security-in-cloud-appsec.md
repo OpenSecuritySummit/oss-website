@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Francesco Cipollone       
-youtube_link : 
+youtube_link : https://youtu.be/73yPcGt4pMk
 zoom_link    : https://us06web.zoom.us/j/87506858593?pwd=ai94UXV0THBOZ2pxMDBFc2NXbWxtQT09
 ---
 
