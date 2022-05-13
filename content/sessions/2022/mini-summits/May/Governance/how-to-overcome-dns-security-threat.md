@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Osman Karan       
-youtube_link : 
+youtube_link :  https://youtu.be/Q-jR1_SoWcY
 zoom_link    :  https://us06web.zoom.us/j/88098886176?pwd=ZFNTU2FQSmExdHloSXAwdWZFaWNUUT09
 ---
 
