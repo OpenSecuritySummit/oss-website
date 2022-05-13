@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Akira Brand       
-youtube_link : 
+youtube_link : https://youtu.be/7VyIY9T-zHk
 zoom_link    : https://us06web.zoom.us/j/87157420063?pwd=UVVqdWN4MkxPcWhNRkNMcW9MZnlhQT09
 ---
 
