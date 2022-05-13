@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Thomas Owen
-youtube_link : 
+youtube_link : https://youtu.be/Alj32sxuM6E
 zoom_link    : https://us06web.zoom.us/j/83747891046?pwd=dlJieU1mZWJ0Q1BmY1Q0Rm9lYytDUT09
 ---
 
