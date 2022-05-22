@@ -21,7 +21,9 @@ youtube_link : https://youtu.be/jQXv4_ClgCM
 zoom_link    : https://us06web.zoom.us/j/87564265573?pwd=cVd5dVZYSVAzSVFQQVFUZktKYkE0UT09
 session_slides:
 ---
+### Session slides
 
+{{< gslides id="2PACX-1vSEGbKbKjShEiwOV5SbPDkUPkzu53W2tyDnS9GQr07TTQCCAOnEGgdwHSi4dVmaTQ/embed?slide=id.p" >}}
 
 ## About this session
 
