@@ -7,7 +7,7 @@
 # docker build -t oss2021 . 
 # docker run -it -p 1313:1313 -v $(pwd):/opt/oss2021 oss2021:latest 
 
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 MAINTAINER Mohammed A. Imran <imran.mohammed@owasp.org>
 
 ENV HUGO_VERSION="0.72"
