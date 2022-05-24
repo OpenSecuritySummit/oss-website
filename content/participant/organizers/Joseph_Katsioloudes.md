@@ -1,6 +1,6 @@
 ---
 title: Joseph Katsioloudes
-image: https://pbs.twimg.com/profile_images/1506589865206497284/iQVvcevZ_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/josephk.jpg?raw=true
 job_title: GitHub Security Lab
 facebook:
 linkedin: jkcso

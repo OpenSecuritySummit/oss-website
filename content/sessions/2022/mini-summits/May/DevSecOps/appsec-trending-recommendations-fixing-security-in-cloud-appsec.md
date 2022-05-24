@@ -17,9 +17,12 @@ session_slack:
 description  :
 organizers   :
     - Francesco Cipollone       
-youtube_link : 
+youtube_link : https://youtu.be/73yPcGt4pMk
 zoom_link    : https://us06web.zoom.us/j/87506858593?pwd=ai94UXV0THBOZ2pxMDBFc2NXbWxtQT09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vT_-g6H8YqyDUlwuaMhpcynljBj9E6jZ4XSiy0OjyoUKDs2E_m-_8zirgUqSsnqeg/embed?slide=id.p" >}}
 
 ## About this session
 We are going to explore application security trending on appsec, (web, infra) and the Mean resolution around countries and what can be used to prioritized appsec, and infra vulnerabilities using deployment concepts

@@ -17,9 +17,8 @@ session_slack:
 description  :
 organizers   :
     - Abbas Haidar
- 
     
-youtube_link : 
+youtube_link : https://youtu.be/aPtsR0C-5vQ
 zoom_link    : https://us06web.zoom.us/j/83181622566?pwd=emZOa0xjc2lHMUh1QTFNR3Vkek5LQT09
 ---
 

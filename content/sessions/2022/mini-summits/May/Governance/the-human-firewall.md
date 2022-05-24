@@ -17,9 +17,12 @@ session_slack:
 description  :
 organizers   :
     - Richea Perry       
-youtube_link : 
+youtube_link : https://youtu.be/XZ7vnK-Z8q8
 zoom_link    : https://us06web.zoom.us/j/85174419691?pwd=bUszNDljSzNoU210WnoyWXJIbkNaQT09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vSMH3SH2Z7T_kB-n_2003FsqFHyYXOQjUsxJ5M5QWH_UD1yV7oRYJwANCWdoCwrpQ/embed?slide=id.p" >}}
 
 ## About this session
 The "Human Firewall" refers to creating that culture in which persons\employees, executives, Business owners value the importance of protecting\safeguarding themselves from harm as well as minimize security risks to business processes. 
