@@ -23,7 +23,7 @@ session_slides:
 ---
 ### Session slides
 
-{{< gslides id="2PACX-1vQNoX6qEsd6rLPQg75Ziqp7mhfrqtahGke1jet4azo8LKyHVcjRTMG6P2-PKm4Udg/embed?slide=id.p" >}
+{{< gslides id="2PACX-1vQNoX6qEsd6rLPQg75Ziqp7mhfrqtahGke1jet4azo8LKyHVcjRTMG6P2-PKm4Udg/embed?slide=id.p" >}}
 
 
 ## About this session
