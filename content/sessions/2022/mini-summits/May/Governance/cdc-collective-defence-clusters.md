@@ -15,7 +15,7 @@ banner       : https://pbs.twimg.com/media/FRnR6cvXoAISIrD?format=png&name=small
 session_slack:
 #status      : 
 description  :
-organizers   :
+organizers   : 
     - Dinis Cruz
     - Ante Gulam
 youtube_link : https://youtu.be/q-PR9NHB-so

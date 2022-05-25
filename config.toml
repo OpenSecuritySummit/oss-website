@@ -51,11 +51,21 @@ paginate = 10
 #    weight = 30
 #    url = "/tracks/"
 
+#### Past EVENTS ####
+
 [[menu.main]]
     name = "Past Summits"
     identifier = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 40
+
+[[menu.main]]
+    name = "May 2022"
+    identifier = "event-may-2022"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 34
+    url = "/sessions/2022/mini-summits/may/"
 
 [[menu.main]]
     name = "Mar 2022"
@@ -154,12 +164,47 @@ paginate = 10
     weight = 46
     url = "/sessions/2020/mini-summits/oct/"
 
+#### Future EVENTS ####
+
+[[menu.main]]
+    name = "Future Summits"
+    identifier = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 45
+
+[[menu.main]]
+    name = "Jul 2022"
+    identifier = "event-jul-2022"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 35
+    url = "/sessions/2022/mini-summits/jul/"
+
+[[menu.main]]
+    name = "Sep 2022"
+    identifier = "event-sep-2022"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 36
+    url = "/sessions/2022/mini-summits/sep/"
+
+[[menu.main]]
+    name = "Nov 2022"
+    identifier = "event-nov-2022"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 37
+    url = "/sessions/2022/mini-summits/nov/"
+
+
+
 [[menu.main]]
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 47
     url = "/about/"
+
 [[menu.main]]
     name = "The Summit"
     identifier = "about-the-summit"
@@ -181,6 +226,7 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     url = "/sponsors/"
     parent = "about"
+
 
 ### OLD menus
 
