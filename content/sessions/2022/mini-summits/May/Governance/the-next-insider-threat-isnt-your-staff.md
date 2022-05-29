@@ -22,7 +22,9 @@ zoom_link    : https://us06web.zoom.us/j/82850806929?pwd=cUVac2xnNUFoNC9DZ0xCWFB
 session_slides:
 ---
 
+### Session slides
 
+{{< gslides id="2PACX-1vQdy4NzSyMmFzbx9YdI4J-TI1I1XvVdpwSXQ-NTfMLpETjLnqXuxm7CEthv337IFQ/embed?slide=id.p" >}}
 
 ## About this session
 Since the early research on Insiders so much has changed, from the range of technologies blocking desktops and laptops to the wired network those devices operate on. The improvements from technology vendors have got so much better that the only bad things an insider can do is click on malware.
