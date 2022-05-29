@@ -1,5 +1,5 @@
 ---
-title        : The value of CTO/CISOs and how to make it work
+title        : "The value of CTO/CISOs and how to make it work"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
