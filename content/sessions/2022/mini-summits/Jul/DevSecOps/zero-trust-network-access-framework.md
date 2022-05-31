@@ -3,7 +3,7 @@ title        : Zero Trust Network Access Framework
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
-topics       :
+topics       : Zero Trust Network Access
 featured     :
 event        : mini-summit
 when_year    : 2022
