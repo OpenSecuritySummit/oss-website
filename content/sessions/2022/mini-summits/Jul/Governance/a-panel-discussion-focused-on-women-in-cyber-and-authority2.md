@@ -1,5 +1,5 @@
 ---
-title        : Women in cyber and authority-2
+title        : A panel discussion focused on women in cyber and authority (continuation)
 track        : Governance
 project      : Risk and Governance
 type         : working-session
