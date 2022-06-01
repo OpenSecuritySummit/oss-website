@@ -1,6 +1,6 @@
 ---
 title: Anish Mohammed
-image: https://media-exp1.licdn.com/dms/image/C4D03AQHAJyiyb3AZ3g/profile-displayphoto-shrink_800_800/0/1623000664692?e=1652313600&v=beta&t=nnjiam-X7-dhjGVROA5zWviIcTiOxWkFnqKfe0HkbR0
+image: https://pbs.twimg.com/profile_images/1187743649624399873/opZLrVQ2_400x400.jpg
 company: Panther Protocol
 job_title: Cofounder, CTO and Chief Scientist
 facebook:
