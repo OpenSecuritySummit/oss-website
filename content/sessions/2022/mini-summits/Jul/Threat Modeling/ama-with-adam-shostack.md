@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Jul
-when_day     : Thu
-when_time    : WS-17-18
+when_day     : Wed
+when_time    : WS-20+-21+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-adam-shostack/
 banner       : https://pbs.twimg.com/media/FRbrkQEWUAg4hD0?format=png&name=small
 #status      : 
