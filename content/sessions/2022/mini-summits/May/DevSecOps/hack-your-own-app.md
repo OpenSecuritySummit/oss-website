@@ -23,7 +23,7 @@ zoom_link    : https://us06web.zoom.us/j/87157420063?pwd=UVVqdWN4MkxPcWhNRkNMcW9
 
 ### Session slides
 
-{{< gslides id="2PACX-1vR76-6vEf2M6asQ73pyaYx1oUI3_z_-8JQ486B0WalnwovLQJNNxorGozU1xluCC/embed?slide=id.p" >}}
+{{< gslides id="2PACX-1vR76-6vEf2M6asQ73pyaYx1oUI3_z_-8JQ486B0WalnwovLQJNNxorGozU1xluCCA/embed?slide=id.p" >}}
 
 ## About this session
 As a developer, there will come a time when someone will try to hack your app, probably (hopefully) your security team or a penetration tester. Having to then go back and fix the security bugs, 6 months to a year later, can be a pain. In this talk, you’ll learn common approaches of hacking your own apps and APIs (called offensive testing) from the get-go, so that you can learn how to respond (fixing vulnerabilities in your code) earlier in the software development life cycle. And fortunately for us, just like in the movies, it’s really…not that hard!
