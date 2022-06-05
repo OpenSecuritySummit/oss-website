@@ -1,6 +1,6 @@
 ---
 title: Manos Skalidis
-image: https://media-exp1.licdn.com/dms/image/C5603AQElIi18jV32Tw/profile-displayphoto-shrink_800_800/0/1516458163163?e=1650499200&v=beta&t=KxnSQheW77vRqG4kht-r4pdTazaoaWSvd_eekzXO-Us
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/manos.jpg?raw=true
 company: Virgin Red
 job_title: Information Security Architect
 facebook:
