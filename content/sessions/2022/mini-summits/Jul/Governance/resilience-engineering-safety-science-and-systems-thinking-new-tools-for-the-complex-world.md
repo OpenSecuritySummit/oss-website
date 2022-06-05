@@ -16,7 +16,7 @@ banner       :
 description  :
 organizers   :
     - Mario Platt
-    - Dr. Petra Vukmirovik
+    - Petra Vukmirovik
 youtube_link : 
 zoom_link    :
 session_slides:
