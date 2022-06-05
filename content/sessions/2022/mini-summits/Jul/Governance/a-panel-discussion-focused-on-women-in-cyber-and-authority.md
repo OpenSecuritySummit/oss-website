@@ -1,5 +1,5 @@
 ---
-title        : A panel discussion focused on women in cyber and authority
+title        : How do male and female voices project authority in Cyber 
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -9,14 +9,19 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jul
 when_day     : Fri
-when_time    : WS-17-18
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/a-panel-discussion-focused-on-women-in-cyber-and-authority/
+when_time    : WS-19:15-20:30
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-do-male-and-female-voices-project-authority-in-cyber/
 banner       : 
 #status      : 
 description  :
 organizers   :
     - Danusia Rolewicz
-   
+    - Dr. Petra Vukmirovic
+    - Didar Gelici
+    - Alan Jenkins
+    - Ayse Vlok
+    - Mario Platt
+       
 youtube_link : 
 zoom_link    : 
 session_slides:
@@ -26,7 +31,7 @@ session_slides:
 
 ## About this session
 
-- This discussion will aim to explore authority issues connected to women in cyber particularly during the onboarding process and regarding retention. We will aim to explore:
+- This discussion will aim to explore authority issues connected to men/women in cyber particularly during the onboarding process and regarding retention. We will aim to explore:
 - who people in cyber look to as authority figures in cyber today
 - examine whether there may be any pre-programmed biases in the sector in prioritising male authority figures;
 - how this is reflected in sector-specific literature - the citation and reference to female voices,
