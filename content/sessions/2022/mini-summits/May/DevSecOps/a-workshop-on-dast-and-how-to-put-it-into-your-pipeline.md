@@ -21,6 +21,11 @@ youtube_link :  https://youtu.be/NxSspDGZunk
 zoom_link    :  https://us06web.zoom.us/j/82108372136?pwd=WllGL1ZScjIyTFh6TWd5SUhyK3VnZz09
 ---
 
+### Session slides
+
+{{< gslides id="2PACX-1vSgQlkY2Wvqeneg7AiBCPcd8SI_r8rcQd4VALLHewJeQ2BbeV2vxE1DqPY9MtBV3g/embed?slide=id.p" >}}
+
+
 ## About this session
 Adding DAST to CI/CD, Without Any Losing Friends
 
