@@ -1,5 +1,5 @@
 ---
-title: Petra Vukmirovic
+title: Dr. Petra Vukmirovic
 image: https://pbs.twimg.com/profile_images/1232209537043763200/ILXPvwxO_400x400.jpg
 company: Zava
 job_title: Senior Cyber Security Engineer 
