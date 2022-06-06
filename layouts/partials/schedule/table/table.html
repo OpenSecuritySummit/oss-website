@@ -13,7 +13,11 @@
         <tr>
             <th class="time-col"></th>
             {{ range $days }}
-            <th>{{ .day }} - {{ .date }}</th>
+                <th>{{ .day }} - {{ .date }}
+                    <div>
+                        <span class="label label-primary">{{.where::}}</span>
+                    </div>
+                </th>
             {{ end }}
         </tr>
     </thead>

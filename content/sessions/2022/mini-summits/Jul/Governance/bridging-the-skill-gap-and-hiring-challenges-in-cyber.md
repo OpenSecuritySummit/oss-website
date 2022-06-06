@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jul
 when_day     : Fri
-when_time    : WS-14:00-15:15
+when_time    : WS-14_00-15_15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/bridging-the-skill-gap-and-hiring-challenges-in-cyber/
 #status      : 
 description  :

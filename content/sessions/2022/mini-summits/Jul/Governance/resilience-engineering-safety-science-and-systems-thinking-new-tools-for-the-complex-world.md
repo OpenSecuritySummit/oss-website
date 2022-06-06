@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jul
 when_day     : Fri
-when_time    : WS-17:45-19:00
+when_time    : WS-17_45-19_00
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/resilience-engineering-safety-science-and-systems-thinking-new-tools-for-the-complex-world/
 banner       : 
 #status      : 

@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jul
 when_day     : Fri
-when_time    : WS-19:15-20:30
+when_time    : WS-19_15-20_30
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-do-male-and-female-voices-project-authority-in-cyber/
 banner       : 
 #status      : 

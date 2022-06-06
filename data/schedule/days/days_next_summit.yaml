@@ -3,28 +3,33 @@ day-70:
   day  : "Monday"
   month: "Jul"
   key  : "Mon"
+  where: "Online"
   order: 1
 day-71:
   date : "12th"
   day  : "Tuesday"
   month: "Jul"
   key  : "Tue"
+  where: "Online"
   order: 2
 day-72:
   date : "13th"
   day  : "Wednesday"
   month: "Jul"
   key  : "Wed"
+  where: "Online"
   order: 3
 day-73:
   date : "14th"
   day  : "Thursday"
   month: "Jul"
   key  : "Thu"
+  where: "Online"
   order: 4
 day-74:
   date : "16th"
   day  : "Friday"
   month: "Jul"
   key  : "Fri"
+  where: "London and Online"
   order: 5

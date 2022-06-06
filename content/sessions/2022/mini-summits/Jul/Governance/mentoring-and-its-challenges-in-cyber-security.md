@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jul
 when_day     : Fri
-when_time    : WS-15:30-16:45
+when_time    : WS-15_30-16_45
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/mentoring-and-its-challenges-in-cyber-security/
 #status      : 
 description  :
