@@ -16,7 +16,7 @@ banner       :
 description  :
 organizers   :
     - Mario Platt
-    - Petra Vukmirovik
+    - Petra Vukmirovic
 youtube_link : 
 zoom_link    :
 session_slides:
