@@ -21,6 +21,7 @@ organizers   :
     - Alan Jenkins
     - Ayse Vlok
     - Mario Platt
+    - Jane Franklin
        
 youtube_link : 
 zoom_link    : 
