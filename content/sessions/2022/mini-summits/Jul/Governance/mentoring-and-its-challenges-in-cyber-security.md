@@ -19,7 +19,7 @@ organizers   :
     - Marios Clark
     - Manos Skalidis
     - James Bore
-        
+    - Dinis Cruz
 youtube_link : 
 zoom_link    :
 session_slides:
