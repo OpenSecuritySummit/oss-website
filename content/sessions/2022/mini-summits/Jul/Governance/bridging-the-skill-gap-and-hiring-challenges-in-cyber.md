@@ -18,7 +18,7 @@ organizers   :
     - Didar Gelici
     - Marios Clark
     - Manos Skalidis
-        
+    - Dinis Cruz
 youtube_link : 
 zoom_link    :
 session_slides:
