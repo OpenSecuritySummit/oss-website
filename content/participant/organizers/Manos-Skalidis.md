@@ -1,8 +1,8 @@
 ---
 title: Manos Skalidis
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/manos.jpg?raw=true
-company: Virgin Red
-job_title: Information Security Architect
+company: Zava
+job_title: Head of Information Security
 facebook:
 linkedin: emanouilskalidis
 twitter: MSkalidis
