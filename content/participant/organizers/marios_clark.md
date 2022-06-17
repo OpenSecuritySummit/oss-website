@@ -1,7 +1,7 @@
 ---
 title: Marios Clark
 image: https://pbs.twimg.com/profile_images/933834170819858432/QgQC-Grf_400x400.jpg
-company: ZAVA
+company: Jobandtalent
 job_title: CISO
 facebook:
 linkedin: marios-clark
