@@ -16,7 +16,6 @@ banner       :
 description  :
 organizers   :
     - Danusia Rolewicz
-    - Petra Vukmirovic
     - Didar Gelici
     - Alan Jenkins
     - Ayse Vlok
