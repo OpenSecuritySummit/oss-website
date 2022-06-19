@@ -17,6 +17,8 @@ description  :
 organizers   :
     - Mario Platt
     - Petra Vukmirovic
+    - Aaron Rinehart
+    - GLenn Wilson
 youtube_link : 
 zoom_link    :
 session_slides:
