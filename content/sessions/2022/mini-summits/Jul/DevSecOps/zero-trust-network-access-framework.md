@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/zero-trust-network-access-framework/
-banner       : 
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQGvJlHMODNM-Q/feedshare-shrink_2048_1536/0/1655662041431?e=1658361600&v=beta&t=xFPAF3b87zi-1ifGOCdf40raMqEqdjCySJVHiVWGByU
 session_slack:
 #status      : 
 description  :
