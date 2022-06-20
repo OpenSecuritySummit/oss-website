@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Fri
 when_time    : WS-19_15-20_30
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/how-do-male-and-female-voices-project-authority-in-cyber/
-banner       : 
+banner       : https://pbs.twimg.com/media/FVorxzXX0AA0L-3?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
