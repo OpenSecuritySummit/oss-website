@@ -20,6 +20,7 @@ organizers   :
     - Aaron Rinehart
     - Glenn Wilson
     - Danusia Rolewicz
+    - Sanna Nissinen
 youtube_link : 
 zoom_link    :
 session_slides:
