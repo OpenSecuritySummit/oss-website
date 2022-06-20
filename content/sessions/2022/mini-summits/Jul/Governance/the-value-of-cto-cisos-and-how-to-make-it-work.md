@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Mon
 when_time    : WS-18-19
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-value-of-cto-cisos-and-how-to-make-it-work/
-banner       : 
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQFTi3FAVJykYQ/feedshare-shrink_2048_1536/0/1655743255679?e=1658361600&v=beta&t=YXeD8lCnQRpfUpn5Peiwq2xTg8_WofCFAAWNwXQH5vM
 #status      : 
 description  :
 organizers   :
