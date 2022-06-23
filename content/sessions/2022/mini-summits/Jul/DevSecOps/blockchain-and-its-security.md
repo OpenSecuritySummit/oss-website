@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Shahzaib Ali Khan       
 youtube_link : 
-zoom_link    :  https://us06web.zoom.us/j/81896088269?pwd=bjlOTUVkc1Y4TFpYcHhlZkFjWTRMQT09
+zoom_link    : https://us06web.zoom.us/j/89178778404?pwd=aTFxQ3IvTHJZYTNoRTF3MjRWL0NTUT09
 ---
 
 ## About this session
