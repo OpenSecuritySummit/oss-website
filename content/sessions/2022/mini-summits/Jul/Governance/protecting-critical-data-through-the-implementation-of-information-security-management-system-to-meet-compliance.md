@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Richea Perry 
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82716248509?pwd=aWx1d296TmVTOUxiUWgvL1YzVWh3QT09
 session_slides:
 ---
 
