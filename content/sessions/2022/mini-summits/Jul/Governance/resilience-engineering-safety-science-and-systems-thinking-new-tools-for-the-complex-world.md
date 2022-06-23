@@ -22,7 +22,7 @@ organizers   :
     - Danusia Rolewicz
     - Sanna Nissinen
 youtube_link : 
-zoom_link    :
+zoom_link    : https://us06web.zoom.us/j/81015810201?pwd=Y0xqQ1NsUlVpajM3WFBQdnZUQ0Z4UT09
 session_slides:
 ---
 
