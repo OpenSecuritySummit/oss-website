@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Jude Pereira       
 youtube_link : 
-zoom_link    :  
+zoom_link    :   https://us06web.zoom.us/j/88388873763?pwd=bVlGdzdMazhRWjBVcDFOSGdpSkY5QT09
 ---
 
 ## About this session
