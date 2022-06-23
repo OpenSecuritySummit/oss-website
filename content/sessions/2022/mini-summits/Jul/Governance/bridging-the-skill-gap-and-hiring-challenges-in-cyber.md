@@ -22,7 +22,7 @@ organizers   :
     - Dinis Cruz
 youtube_link : 
 zoom_link    :
-session_slides:
+session_slides: https://us06web.zoom.us/j/87039908526?pwd=Tkh3em03cnp1eTRpczYrL2lud2pnZz09
 ---
 
 
