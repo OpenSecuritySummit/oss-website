@@ -1,5 +1,5 @@
 ---
-title        : "PLOT4ai, an open source privacy threat modeling library for AI"
+title        : "PLOT4ai - an open source privacy threat modeling library for AI"
 project      : Threat Modeling
 type         : working-session
 topics       : PLOT4ai
