@@ -6,7 +6,7 @@ topics       : PLOT4ai
 featured     :
 event        : mini-summit
 when_year    : 2021
-when_month   : July
+when_month   : Jul
 when_day     : Thu
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/plot4ai-an-open-source-privacy-threat-modeling-library-for-ai/
