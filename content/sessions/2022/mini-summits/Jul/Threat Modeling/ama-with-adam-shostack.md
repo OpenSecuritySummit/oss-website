@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Wed
 when_time    : WS-20+-21+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-adam-shostack/
-banner       : https://pbs.twimg.com/media/FRbrkQEWUAg4hD0?format=png&name=small
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQE6Bq1IkkLfGg/feedshare-shrink_2048_1536/0/1656251686804?e=1659571200&v=beta&t=qFijlnDAhja6zfVVQujxy4_zquhrVvcuv5kADn3rex4
 #status      : 
 description  :
 organizers   :
