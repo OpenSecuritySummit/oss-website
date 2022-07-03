@@ -1,0 +1,33 @@
+{{ $this       := .this       }}
+{{ $days       := .days       }}
+{{ $pages      := .pages      }}
+{{ $times      := .times      }}
+{{ $valid_days := .valid_days }}
+
+<h2>{{.title}}</h2>
+
+<h4>If you want to attend in person to these London sessions,
+    <br/>
+    <br/>
+            <a href="https://www.eventbrite.co.uk/e/open-security-summit-live-in-london-tickets-356895402757">
+                Use this link to register Now! (only some tickets left) </a>
+    <br/>
+    <br/>
+</h4>
+
+<table class="table table-condensed">
+
+    <thead class="schedule-by-days">
+        <tr>
+            <th class="time-col"></th>
+            {{ range $days }}
+                <th>{{ .day }} - {{ .date }}</th>
+            {{ end }}
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $times }}
+            {{ partial "schedule/table/track-tr-time.html" (dict "self" $this "pages" $pages "valid_days" $valid_days "time" . )}}
+        {{ end }}
+    </tbody>
+</table>

@@ -1,23 +1,34 @@
 {{ $this       := .this }}
 {{ $valid_days := $this.Site.Data.schedule.next_event.days              }}
-{{ $times      := $this.Site.Data.schedule.days.times                   }}
 {{ $days       := $this.Site.Data.schedule.days.days_next_summit        }}
 
 {{ $pages      := .pages }}
 
 <h2>{{.title}}</h2>
 
+<h2><span class="label label-primary">Only Online</span></h2>
+
+<div style="padding-left: 20px">
+    {{ $times      := $this.Site.Data.schedule.days.times                   }}
+    {{ partial "schedule/table/table-online.html" (dict "this" $this "pages" $pages "days" $days "times" $times "valid_days" $valid_days)}}
+</div>
+
+<h2><span class="label label-primary">In London and Online</span></h2>
+<div style="padding-left: 20px">
+    {{ $times      := $this.Site.Data.schedule.days.times_london                   }}
+    {{ partial "schedule/table/table-london.html" (dict "this" $this "pages" $pages "days" $days "times" $times "valid_days" $valid_days)}}
+</div>
+
+
+
+{{/*
 <table class="table table-condensed">
 
     <thead class="schedule-by-days">
         <tr>
             <th class="time-col"></th>
             {{ range $days }}
-                <th>{{ .day }} - {{ .date }}
-                    <div>
-                        <span class="label label-primary">{{.where}}</span>
-                    </div>
-                </th>
+                <th>{{ .day }} - {{ .date }}</th>
             {{ end }}
         </tr>
     </thead>
@@ -27,3 +38,5 @@
         {{ end }}
     </tbody>
 </table>
+
+*/}}

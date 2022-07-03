@@ -11,6 +11,7 @@ when_month   : Jul
 when_day     : Fri
 when_time    : WS-17_45-19_00
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/resilience-engineering-safety-science-and-systems-thinking-new-tools-for-the-complex-world/
+london_event : https://www.eventbrite.co.uk/e/open-security-summit-live-in-london-tickets-356895402757
 banner       : https://media-exp1.licdn.com/dms/image/C4D22AQGfq6Bx3R38aw/feedshare-shrink_800/0/1655653653129?e=1658361600&v=beta&t=TQuCdDBjFss1-ZPFvOfpuWredQm3YJ9T_SCz8840F2w
 #status      : 
 description  :

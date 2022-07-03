@@ -1,0 +1,24 @@
+{{ $this       := .this       }}
+{{ $days       := .days       }}
+{{ $pages      := .pages      }}
+{{ $times      := .times      }}
+{{ $valid_days := .valid_days }}
+
+<h2>{{.title}}</h2>
+
+<table class="table table-condensed">
+
+    <thead class="schedule-by-days">
+        <tr>
+            <th class="time-col"></th>
+            {{ range $days }}
+                <th>{{ .day }} - {{ .date }}</th>
+            {{ end }}
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $times }}
+            {{ partial "schedule/table/track-tr-time.html" (dict "self" $this "pages" $pages "valid_days" $valid_days "time" . )}}
+        {{ end }}
+    </tbody>
+</table>

@@ -1,0 +1,11 @@
+{{ $hey_summit := .Params.london_event}}
+
+{{ if  and ($hey_summit) (ne $hey_summit "TBD")}}
+    <a href="{{.Params.london_event}}">
+        <button class="label label-success">
+            Register at EventBrite
+        </button>
+    </a>
+{{ else }}
+    <span class="label label-warning">Coming Soon</span>
+{{ end}}

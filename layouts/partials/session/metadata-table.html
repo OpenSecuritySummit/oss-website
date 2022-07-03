@@ -20,6 +20,21 @@
                     {{ partial "session/when-time.html" . }}
                 </div>
             </div>
+
+<!--            <div class="table-line">
+                <div class="title">
+                    Where:
+                </div>
+                <div class="button">
+                    {{ if .Params.london_event}}
+                        In London and Online
+                    {{ else }}
+                        Online
+                    {{ end }}
+                </div>
+            </div>
+-->
+
 <!--            <div class="table-line">-->
 <!--                <div class="title">-->
 <!--                    Track:-->
@@ -54,11 +69,22 @@
             </div>
             <div class="table-line">
                 <div class="title">
-                    Register:
+                    Register (online):
                 </div>
                 <div class="button">
                     {{ partial "session/register-hey-summit.html" . }}
                 </div>
             </div>
+            {{ if .Params.london_event}}
+                <div class="table-line">
+                    <div class="title">
+                        Register to attend in LONDON:
+                    </div>
+                    <div class="button">
+                        {{ partial "session/register-london.html" . }}
+                    </div>
+                </div>
+            {{ end }}
         </div>
     </div>
+</div>
