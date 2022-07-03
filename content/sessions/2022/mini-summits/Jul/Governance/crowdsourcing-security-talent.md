@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Tue
 when_time    : WS-18-19
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/crowdsourcing-security-talent/
-banner       : https://pbs.twimg.com/media/FRD3LXMWQAAKVtt.png
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQFDzGMaGtTgfA/feedshare-shrink_2048_1536/0/1655853535324?e=1659571200&v=beta&t=CqgH-cmykc26sxujpeXi8aiTS5SavW2w72frnacnIeQ
 #status      : 
 description  :
 organizers   :
