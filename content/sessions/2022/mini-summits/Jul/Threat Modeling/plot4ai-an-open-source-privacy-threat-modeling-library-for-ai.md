@@ -1,11 +1,12 @@
 ---
 title        : "PLOT4ai - an open source privacy threat modeling library for AI"
+track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
 topics       : PLOT4ai
 featured     :
 event        : mini-summit
-when_year    : 2021
+when_year    : 2022
 when_month   : Jul
 when_day     : Thu
 when_time    : WS-17-18
@@ -14,7 +15,7 @@ session_slack:
 #status      :
 description  :
 organizers   :
-    - Isabel Barbera
+    - Isabel Barbera    
 youtube_link : 
 zoom_link    :
 ---

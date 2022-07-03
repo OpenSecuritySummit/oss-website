@@ -1,6 +1,6 @@
 ---
 title        : AMA with Adam Shostack
-track        : Governance
+track        : Threat Modeling
 project      : Risk and Governance
 type         : working-session
 topics       : 
