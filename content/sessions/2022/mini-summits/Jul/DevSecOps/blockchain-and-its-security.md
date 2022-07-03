@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Wed
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/blockchain-and-its-security/
-banner       : https://pbs.twimg.com/media/FRHUDzRX0AExOJW.png
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQFwCBOzcCovkA/feedshare-shrink_2048_1536/0/1656102418222?e=1659571200&v=beta&t=BTsohrax4Us5eDvCBPLHxFJCa0CF_wX5G1SMeK3rsGA
 session_slack:
 #status      : 
 description  :
