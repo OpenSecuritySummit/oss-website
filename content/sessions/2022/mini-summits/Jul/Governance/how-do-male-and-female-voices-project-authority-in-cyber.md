@@ -21,7 +21,6 @@ organizers   :
     - Alan Jenkins
     - Ayse Vlok
     - Mario Platt
-    - Jane Frankland
        
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/85408806273?pwd=bG1iZGVGWGxpalZtaFF4cVUxbGtLdz09
