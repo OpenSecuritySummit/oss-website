@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Isabel Barbera    
 youtube_link : 
-zoom_link    :
+zoom_link    : https://us06web.zoom.us/j/85872151340?pwd=aGgzMldVMWNrL0YxeGJmNENibnVoZz09
 ---
 
 ## About this session
