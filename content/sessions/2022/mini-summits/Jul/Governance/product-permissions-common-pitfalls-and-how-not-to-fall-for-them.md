@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/product-permissions-common-pitfalls-and-how-not-to-fall-for-them/
-banner       : 
+banner       : https://pbs.twimg.com/media/FW8Tg1iWAAARrg3.png
 #status      : 
 description  :
 organizers   :
