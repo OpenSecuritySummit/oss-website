@@ -1,5 +1,5 @@
 ---
-title        : Applying Zero Trust Principles to Industrial IoT and OT/ICS
+title        : Applying Zero Trust Principles to OT/ICS (Operational Technology & Industrial Control Systems)
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
@@ -22,6 +22,6 @@ zoom_link    :  https://us06web.zoom.us/j/84064016588?pwd=Q09mUlZHQ2NsUjQrdTFpRX
 ---
 
 ## About this session
-IT and OT (Operational Technology, including the subset ICS - Industrial Control Systems) have traditionally operated and been managed separately, and tend to lack visibility and threat protection, especially due to legacy software and equipment, outdated operating systems, vendor restrictions, and other factors. Insecure passwords and direct internet connections also still pose a challenge, as well as lack of security staff and skilling dedicated to these systems. 
+IT and OT (Operational Technology, including the subset ICS - Industrial Control Systems) have traditionally operated and been managed separately, and OT tends to lack visibility and threat protection, especially due to legacy software and equipment, outdated operating systems, vendor restrictions, and other factors. Insecure passwords and direct internet connections also still pose a challenge, as well as lack of security staff and skilling dedicated to these industrial systems. 
 
 In this talk we will explore how the principles of Zero Trust can be practically applied to secure Industrial IoT and OT environments, leading not only to a stronger security posture but also helping bridge the historical gap between IT and OT visibility and security operations.
