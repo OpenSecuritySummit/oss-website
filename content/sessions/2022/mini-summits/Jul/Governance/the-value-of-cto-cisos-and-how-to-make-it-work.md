@@ -18,7 +18,6 @@ organizers   :
     - Dinis Cruz
     - Mario Platt
     - Christofer Hoff
-    - Chase Fopiano
    
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/87204124506?pwd=bnBDWjVtczFVVWc3RTQzZDFSdEZHdz09
