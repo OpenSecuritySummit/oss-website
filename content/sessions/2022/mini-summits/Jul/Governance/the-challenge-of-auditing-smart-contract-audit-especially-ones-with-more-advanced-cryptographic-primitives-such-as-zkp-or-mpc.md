@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Anish Mohammed 
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/85298887109?pwd=NGxMZURtZlVpdWg5bG91cXBLRTV1QT09
+zoom_link    : https://us06web.zoom.us/j/81861673140?pwd=WjNqbVlmakl1Z1UvMzBYdmZpcWFwUT09
 session_slides:
 ---
 
