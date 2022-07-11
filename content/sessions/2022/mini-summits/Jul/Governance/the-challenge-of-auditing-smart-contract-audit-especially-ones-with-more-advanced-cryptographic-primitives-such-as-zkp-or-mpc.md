@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Jul
-when_day     : Wed
-when_time    : WS-17-18
+when_day     : Thu
+when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-challenge-of-auditing-smart-contract-audit-especially-ones-with-more-advanced-cryptographic-primitives-such-as-zkp-or-mpc/
 banner       : https://media-exp1.licdn.com/dms/image/C4D22AQEomE0QEAancw/feedshare-shrink_2048_1536/0/1656014194425?e=1659571200&v=beta&t=9ob1_Ra6-VW3THu99Ey3DTQrY5xYyNre-WfbbL7SfFw
 #status      : 
