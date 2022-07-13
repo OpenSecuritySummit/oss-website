@@ -19,7 +19,7 @@ organizers   :
     - Mario Platt
     - Christofer Hoff
    
-youtube_link : 
+youtube_link : https://youtu.be/puRUf6Vto6U
 zoom_link    : https://us06web.zoom.us/j/87204124506?pwd=bnBDWjVtczFVVWc3RTQzZDFSdEZHdz09
 session_slides:
 ---
