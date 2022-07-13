@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Celine Pypaert        
-youtube_link : 
+youtube_link :  https://youtu.be/8QF_bRJUlHs
 zoom_link    :  https://us06web.zoom.us/j/84064016588?pwd=Q09mUlZHQ2NsUjQrdTFpRXAvS0lVQT09
 ---
 
