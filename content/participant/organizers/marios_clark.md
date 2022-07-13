@@ -1,6 +1,6 @@
 ---
 title: Marios Clark
-image: https://pbs.twimg.com/profile_images/933834170819858432/QgQC-Grf_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/mariosclark.jpeg?raw=true
 company: Jobandtalent
 job_title: CISO
 facebook:
