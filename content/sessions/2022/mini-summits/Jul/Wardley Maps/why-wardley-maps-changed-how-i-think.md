@@ -9,7 +9,7 @@ when_year    : 2022
 when_month   : Jul
 when_day     : Thu
 when_time    : WS-18-19
-hey_summit   : (https://post-summit-sessions.heysummit.com/talks/why-wardley-maps-changed-how-i-think/)
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/why-wardley-maps-changed-how-i-think/
 banner       : https://pbs.twimg.com/media/FW8KtZwXoAIMA5q.png
 session_slack:
 #status      :
