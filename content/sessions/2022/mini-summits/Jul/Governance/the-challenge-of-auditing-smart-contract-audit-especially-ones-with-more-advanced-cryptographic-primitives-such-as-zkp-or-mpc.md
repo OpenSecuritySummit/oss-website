@@ -16,7 +16,7 @@ banner       : https://media-exp1.licdn.com/dms/image/C4D22AQEomE0QEAancw/feedsh
 description  :
 organizers   :
     - Anish Mohammed 
-youtube_link : 
+youtube_link : https://youtu.be/pBmj9ZPeqwE
 zoom_link    : https://us06web.zoom.us/j/81861673140?pwd=WjNqbVlmakl1Z1UvMzBYdmZpcWFwUT09
 session_slides:
 ---
