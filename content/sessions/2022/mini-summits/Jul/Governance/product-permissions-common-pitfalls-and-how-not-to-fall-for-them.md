@@ -16,7 +16,7 @@ banner       : https://pbs.twimg.com/media/FW8Tg1iWAAARrg3.png
 description  :
 organizers   :
     - Or Weis
-youtube_link : 
+youtube_link : https://youtu.be/Cogf8gAWXK0
 zoom_link    : https://us06web.zoom.us/j/89902317860?pwd=OUVWVzZvdTdMUWpKMnNyMTRDeHdKUT09
 session_slides:
 ---
