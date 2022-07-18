@@ -22,7 +22,7 @@ organizers   :
     - Ayse Vlok
     - Mario Platt
        
-youtube_link : 
+youtube_link : https://youtu.be/ttQjX-odUDE
 zoom_link    : https://us06web.zoom.us/j/85408806273?pwd=bG1iZGVGWGxpalZtaFF4cVUxbGtLdz09
 session_slides:
 ---
