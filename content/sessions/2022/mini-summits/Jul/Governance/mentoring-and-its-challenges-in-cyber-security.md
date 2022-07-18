@@ -22,7 +22,7 @@ organizers   :
     - Manos Skalidis
     - James Bore
     - Dinis Cruz
-youtube_link : 
+youtube_link : https://youtu.be/yCc1314TKgQ
 zoom_link    : https://us06web.zoom.us/j/84429601602?pwd=MEtqUHRVWFN3RktNSWtENG10aEliUT09
 session_slides:
 ---
