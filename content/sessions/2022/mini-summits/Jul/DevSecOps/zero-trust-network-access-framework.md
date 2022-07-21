@@ -20,6 +20,9 @@ organizers   :
 youtube_link : 
 zoom_link    :   https://us06web.zoom.us/j/88388873763?pwd=bVlGdzdMazhRWjBVcDFOSGdpSkY5QT09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vSZhephPE6d3dm7zbdikSac78sompCJtI5ZWb_LPQimfgF0EcdSrRDzNPxCXmzQ4w/embed?slide=id.p" >}}
 
 ## About this session
 It will clearly explain that ZTNA is a framework or a combination of solutions that can help you against if not all at least most of the threats out there like Zero Day Attacks, Malware based attacks, Phishing, Data Loss, & many more. 
