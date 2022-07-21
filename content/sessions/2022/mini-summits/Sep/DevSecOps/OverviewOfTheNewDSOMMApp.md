@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Sep
 when_day     : Wed
-when_time    : WS-4
+when_time    : WS-5
 hey_summit   : 
 banner       : 
 #status      : 
