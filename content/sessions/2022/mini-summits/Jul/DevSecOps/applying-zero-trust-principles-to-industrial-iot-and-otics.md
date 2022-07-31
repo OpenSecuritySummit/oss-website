@@ -20,6 +20,9 @@ organizers   :
 youtube_link :  https://youtu.be/8QF_bRJUlHs
 zoom_link    :  https://us06web.zoom.us/j/84064016588?pwd=Q09mUlZHQ2NsUjQrdTFpRXAvS0lVQT09
 ---
+### Session slides
+
+{{< gslides id="2PACX-1vTsoM7eBStGb0hkSGJhKlhYMLclLGiaxPMVZSrB3DBLcBcv_mauGCmjoNAJ_BtQhg/embed?slide=id.p" >}}
 
 ## About this session
 IT and OT (Operational Technology, including the subset ICS - Industrial Control Systems) have traditionally operated and been managed separately, and OT tends to lack visibility and threat protection, especially due to legacy software and equipment, outdated operating systems, vendor restrictions, and other factors. Insecure passwords and direct internet connections also still pose a challenge, as well as lack of security staff and skilling dedicated to these industrial systems. 
