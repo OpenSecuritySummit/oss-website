@@ -1,6 +1,6 @@
 ---
 title: Paul Howard
-image: https://media-exp1.licdn.com/dms/image/C4E03AQHjb-Mo4PyMrQ/profile-displayphoto-shrink_800_800/0/1551777051714?e=1650499200&v=beta&t=7hkLwUfqb1VmRgp9lvjQBZjzwighbjYTJkWG1ePafaM
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/paulhowardpng.png?raw=true
 company: Arm
 job_title: Principal System Solutions Architect
 facebook:
