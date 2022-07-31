@@ -11,7 +11,7 @@ when_month   : Jul
 when_day     : Tue
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/protecting-critical-data-through-the-implementation-of-information-security-management-system-to-meet-compliance/
-banner       : https://media-exp1.licdn.com/dms/image/C4D22AQGomd_Ym1NFbw/feedshare-shrink_2048_1536/0/1655755116295?e=1658966400&v=beta&t=x8cDeMp8g3xTiB5Wjf9562Cfeux0iN8V6M7096wc4jA
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQEI-qHqMpaL1w/feedshare-shrink_2048_1536/0/1658137486754?e=1661990400&v=beta&t=ZKAhIzNzcZ9_W8yuwZouug0ia_8AmNEs_wjqpQnHA6M
 #status      : 
 description  :
 organizers   :
