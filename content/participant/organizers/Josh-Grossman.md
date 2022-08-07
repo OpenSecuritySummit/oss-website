@@ -1,6 +1,6 @@
 ---
 company: Bounce Security
-image: https://pbs.twimg.com/profile_images/1490944961042391042/-NdFlV2a_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/josggrossmanpng.png?raw=true
 job_title: CTO
 linkedin: joshcgrossman
 owasp_leadership:
