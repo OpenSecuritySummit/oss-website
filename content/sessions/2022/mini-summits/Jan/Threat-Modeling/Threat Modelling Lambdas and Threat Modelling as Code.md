@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Petra Vukmirovic
-    - Mario Clark
+    - Marios Clark
 youtube_link : wXOcwhgbo70
 zoom_link    : https://us06web.zoom.us/j/89038923570?pwd=ZHB4cEdidUpXUS9ZeEJOemFTWDhPUT09
 ---
