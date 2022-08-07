@@ -1,6 +1,6 @@
 ---
 title: Nicolas Boeckh
-image: https://pbs.twimg.com/profile_images/1351987572747202560/v_vDGtnX_400x400.png
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/nicholasboekh.png?raw=true
 company: 
 job_title: 
 facebook:
