@@ -1,6 +1,6 @@
 ---
 title: Timo Pagel
-image: https://media-exp1.licdn.com/dms/image/C4E03AQHYkIYSefRqUw/profile-displayphoto-shrink_800_800/0/1608031606118?e=1654732800&v=beta&t=R9IIlK076geGwU3Px01CFfhXmgTCCBxjLux_KqjhM9M
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/timo.jpg?raw=true
 company: Timo Pagel IT-Consulting
 job_title: DevSecOps Consultant
 facebook:
