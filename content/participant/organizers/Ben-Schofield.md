@@ -1,6 +1,6 @@
 ---
 title: Ben Schofield
-image: https://media-exp1.licdn.com/dms/image/C4D03AQGaZ80f7-CBUQ/profile-displayphoto-shrink_400_400/0/1623330027246?e=1649289600&v=beta&t=hihmg-G6zDYSkp92nFD5bBC3NFjI6G1qa2WdLDEG8Dw
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/benschofield.jpg?raw=true
 company: 
 job_title:  
 facebook:
