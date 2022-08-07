@@ -1,6 +1,6 @@
 ---
 title: Adam Pierson
-image: https://media-exp1.licdn.com/dms/image/C4E03AQGsYkBegbIdXg/profile-displayphoto-shrink_800_800/0/1634776460713?e=1651708800&v=beta&t=N9IJ1C4qd8oR6cXZWSEtOFUlU9mHsbu-XdG6smlQim4
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/adam%20pierson.jpg?raw=true
 company: JupiterOne
 job_title: Senior Software Engineer
 facebook:
