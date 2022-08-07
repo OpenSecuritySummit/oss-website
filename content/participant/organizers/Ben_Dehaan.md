@@ -1,6 +1,6 @@
 ---
 title: Ben Dehaan
-image: https://media-exp1.licdn.com/dms/image/C4D03AQHwgFRwFnKz9A/profile-displayphoto-shrink_800_800/0/1556784065020?e=1646870400&v=beta&t=wcOYHnW3_Ekn2molsiTBRp2ZYqIzxwWBI6qYDHRsCcc
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Bendehaan.jpg?raw=true
 company: ENACT-IT
 job_title: Security consultant & engineer 
 facebook:
