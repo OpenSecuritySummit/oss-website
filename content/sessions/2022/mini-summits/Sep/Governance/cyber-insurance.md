@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Sep
-when_day     : Tue
+when_day     : Wed
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cyber-insurance/
 banner       : 
