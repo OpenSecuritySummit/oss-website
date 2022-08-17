@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Sep
 when_day     : Wed
-when_time    : WS-18-19
+when_time    : WS-19-20+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/hiring-manager-insights-to-secure-your-next-security-roleteam-member/
 banner       : 
 description  :
