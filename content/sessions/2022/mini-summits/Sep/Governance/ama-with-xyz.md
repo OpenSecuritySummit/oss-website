@@ -1,5 +1,5 @@
 ---
-title        : AMA with Izar Tarandach and Alyssa Miller
+title        : AMA with XYZ
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -9,12 +9,11 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Sep
 when_day     : Mon
-when_time    : WS-20+-21+
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-adam-shostac-september-series/
+when_time    : WS-19-20
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-xyz/
 banner       : 
 description  :
 organizers   :
-    - Alyssa Miller
     - Izar Tarandach
     
 youtube_link : 
