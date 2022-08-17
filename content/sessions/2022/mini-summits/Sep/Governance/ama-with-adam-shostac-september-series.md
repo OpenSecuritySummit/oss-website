@@ -1,5 +1,5 @@
 ---
-title        : AMA with Adam Shostac (September series)
+title        : AMA with Izar Tarandach and Alyssa Miller
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -14,7 +14,7 @@ hey_summit   : https://post-summit-sessions.heysummit.com/talks/ama-with-adam-sh
 banner       : 
 description  :
 organizers   :
-    - Adam Shostac
+    - Alyssa Miller
     - Izar Tarandach
     
 youtube_link : 
