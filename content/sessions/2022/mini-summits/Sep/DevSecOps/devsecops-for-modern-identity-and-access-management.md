@@ -17,6 +17,7 @@ description  :
 organizers   :
     - Or Weis
     - Barak Schoster Goihman
+    - Dinis Cruz
        
 youtube_link : 
 zoom_link    : 
