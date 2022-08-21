@@ -1,35 +1,35 @@
-day-70:
-  date : "11h"
+day-71:
+  date : "12h"
   day  : "Monday"
-  month: "Jul"
+  month: "Sep"
   key  : "Mon"
   where: "Online"
   order: 1
-day-71:
-  date : "12th"
+day-72:
+  date : "13th"
   day  : "Tuesday"
-  month: "Jul"
+  month: "Sep"
   key  : "Tue"
   where: "Online"
   order: 2
-day-72:
-  date : "13th"
+day-73:
+  date : "14th"
   day  : "Wednesday"
-  month: "Jul"
+  month: "Sep"
   key  : "Wed"
   where: "Online"
   order: 3
-day-73:
-  date : "14th"
+day-74:
+  date : "15th"
   day  : "Thursday"
-  month: "Jul"
+  month: "Sep"
   key  : "Thu"
   where: "Online"
   order: 4
-day-74:
-  date : "15th"
+day-75:
+  date : "16th"
   day  : "Friday"
-  month: "Jul"
+  month: "Sep"
   key  : "Fri"
   where: "London and Online"
   order: 5
