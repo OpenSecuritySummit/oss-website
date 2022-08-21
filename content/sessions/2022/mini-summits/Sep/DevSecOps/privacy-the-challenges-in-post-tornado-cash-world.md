@@ -1,5 +1,5 @@
 ---
-title        : "Privacy-the challenges in post Tornado Cash world"
+title        : "Privacy-The Challenges in Post Tornado Cash World"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
