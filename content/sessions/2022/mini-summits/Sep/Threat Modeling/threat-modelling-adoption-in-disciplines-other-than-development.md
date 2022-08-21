@@ -1,5 +1,5 @@
 ---
-title        : Threat modelling adoption in disciplines other than development
+title        : Threat Modelling Adoption in Disciplines Other Than Development
 track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
