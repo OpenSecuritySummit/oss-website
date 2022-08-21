@@ -6,18 +6,18 @@
 
 <h2>{{.title}}</h2>
 
-<h2><span class="label label-primary">Only Online</span></h2>
+<!--<h2><span class="label label-primary">Only Online</span></h2>-->
 
 <div style="padding-left: 20px">
     {{ $times      := $this.Site.Data.schedule.days.times                   }}
     {{ partial "schedule/table/table-online.html" (dict "this" $this "pages" $pages "days" $days "times" $times "valid_days" $valid_days)}}
 </div>
 
-<h2><span class="label label-primary">In London and Online</span></h2>
-<div style="padding-left: 20px">
-    {{ $times      := $this.Site.Data.schedule.days.times_london                   }}
-    {{ partial "schedule/table/table-london.html" (dict "this" $this "pages" $pages "days" $days "times" $times "valid_days" $valid_days)}}
-</div>
+<!--<h2><span class="label label-primary">In London and Online</span></h2>-->
+<!--<div style="padding-left: 20px">-->
+<!--    {{ $times      := $this.Site.Data.schedule.days.times_london                   }}-->
+<!--    {{ partial "schedule/table/table-london.html" (dict "this" $this "pages" $pages "days" $days "times" $times "valid_days" $valid_days)}}-->
+<!--</div>-->
 
 
 
