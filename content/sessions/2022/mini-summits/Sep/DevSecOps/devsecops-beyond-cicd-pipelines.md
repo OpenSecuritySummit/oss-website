@@ -1,5 +1,5 @@
 ---
-title        : ""DevSecOps beyond CI/CD pipelines
+title        : "DevSecOps beyond CI/CD pipelines"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
