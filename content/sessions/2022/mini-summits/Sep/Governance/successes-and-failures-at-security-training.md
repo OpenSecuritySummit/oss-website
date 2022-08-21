@@ -1,5 +1,5 @@
 ---
-title        : Crowdsourcing Security Talent
+title        : Successes and Failures at Security Training
 track        : Governance
 project      : Risk and Governance
 type         : working-session
