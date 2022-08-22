@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2022
 when_month   : Jan
 when_day     : Mon
-when_time    : WS-17-18
+when_time    : WS-18-19+
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/plot4ai-an-open-source-privacy-threat-modeling-library-for-ai/
 session_slack:
 banner       : https://pbs.twimg.com/media/FWck43jXoAElZP9.png
