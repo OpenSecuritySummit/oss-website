@@ -1,21 +1,22 @@
 ---
-title        : "Privacy-The Challenges in Post Tornado Cash World"
+title        : "DevSecOps beyond CI/CD pipelines"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
-topics       : Privacy
+topics       : CI,CD pipelines
 featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Sep
-when_day     : Wed
-when_time    : WS-17-18
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/privacy-the-challenges-in-post-tornado-cash-world/
+when_day     : Thu
+when_time    : WS-19-20+
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/devsecops-beyond-cicd-pipelines/
 banner       : 
 #status      : 
 description  :
 organizers   :
-    - Anish Mohammed     
+    - Anna Lezhikova
+       
 youtube_link : 
 zoom_link    : 
 session_slides:
