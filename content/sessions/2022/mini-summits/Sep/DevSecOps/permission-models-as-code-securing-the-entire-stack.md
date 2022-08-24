@@ -1,5 +1,5 @@
 ---
-title        : Permission Models As Code - Securing the entire stack
+title        : Permission Models As Code - Securing the Entire Stack
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
