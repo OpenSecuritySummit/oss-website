@@ -16,6 +16,8 @@ banner       :
 description  :
 organizers   :
     - Anish Mohammed     
+    - John Marshall
+    - Dinis Cruz
 youtube_link : 
 zoom_link    : 
 session_slides:
