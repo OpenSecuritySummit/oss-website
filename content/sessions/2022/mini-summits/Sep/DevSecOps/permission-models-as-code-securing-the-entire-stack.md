@@ -19,6 +19,7 @@ organizers   :
     - Raz Cohen   
 youtube_link : 
 zoom_link    : 
+
 ---
 
 ## About this session
