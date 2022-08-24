@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Sep
-when_day     : Thu
-when_time    : WS-19-20
+when_day     : Fri
+when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/devsecops-beyond-cicd-pipelines/
 banner       : 
 #status      : 
