@@ -26,3 +26,11 @@ session_slides:
 
 
 ## About this session
+
+We will be presenting a demo of our new restructured DSOMM application and the ways in which you can utilize it to elevate you DevSecOps game.
+
+In this presentation we plan to go in depth, explaining how you can use the new dashboard to assess your team's or organization's application security maturity
+
+### Reference
+
+In case you unfamiliar with OWASP DSOMM, please watch an already [recorded session](https://www.youtube.com/watch?app=desktop&v=lLMLGIzl56M) where we explain the use of DSOMM.
