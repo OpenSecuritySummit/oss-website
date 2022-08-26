@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Raz Cohen   
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82807673766?pwd=S2QwbVBRaUt4NnZxMnFMT2ZnNnA2UT09
 
 ---
 
