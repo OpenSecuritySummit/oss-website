@@ -19,7 +19,7 @@ organizers   :
     - John Marshall
     - Dinis Cruz
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/81543380451?pwd=ejdPc3VaVEdiWjBWZGxvVFBEK3BLUT09
 session_slides:
 ---
 
