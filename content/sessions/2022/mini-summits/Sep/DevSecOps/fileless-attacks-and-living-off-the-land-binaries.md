@@ -19,7 +19,7 @@ organizers   :
     - Craig Gilliger
        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/87131045681?pwd=SGJkWjhwUGpOQ3JjbjVScTYyWmFYUT09
 session_slides:
 ---
 
