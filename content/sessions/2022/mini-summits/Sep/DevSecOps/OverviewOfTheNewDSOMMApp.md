@@ -19,7 +19,7 @@ organizers   :
     - Aryan Prasad
        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/83878168704?pwd=QUJ2dDdyVmtHYURlOW9wOHRYZ0RoZz09
 session_slides:
 ---
 
