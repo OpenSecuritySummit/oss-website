@@ -17,7 +17,7 @@ organizers   :
     - Michael Meaney
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/85937090321?pwd=elN2Z3ZXcnRUZW5aWWYrMGhqNmFXZz09
 session_slides:
 ---
 
