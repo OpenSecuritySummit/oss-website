@@ -18,7 +18,7 @@ organizers   :
     - Gary McGraw
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/83377821878?pwd=RGsra1ZNMXhUZGVPZUNsY2llRUdNQT09
 session_slides:
 ---
 
