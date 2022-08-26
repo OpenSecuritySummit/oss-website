@@ -17,7 +17,7 @@ organizers   :
     - Abbas Haidar
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/84013745132?pwd=ZEJSVUtBQjI5S016UVc4YWtRd1Ixdz09
 session_slides:
 ---
 
