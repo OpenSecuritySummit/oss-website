@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Izar Tarandach    
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/86892507734?pwd=ZVdsZmRKNFdTd0I4d0FPdjVNWEJLQT09
 ---
 
 ## About this session
