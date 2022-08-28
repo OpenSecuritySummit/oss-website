@@ -11,7 +11,7 @@ when_month   : Sep
 when_day     : Mon
 when_time    : WS-20-21
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/devsecops-beyond-cicd-pipelines/
-banner       : 
+banner       : https://pbs.twimg.com/media/FbHaThnUUAAAeJ3?format=png&name=small
 #status      : 
 description  :
 organizers   :
