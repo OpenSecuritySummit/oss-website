@@ -18,6 +18,7 @@ organizers   :
     - Or Weis
     - Barak Schoster Goihman
     - Dinis Cruz
+    - Marius Poskus
        
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/89909601441?pwd=SDZ6S3l3a2FpU0thZTlIcllTMFB0Zz09
