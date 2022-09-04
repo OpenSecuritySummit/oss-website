@@ -1,5 +1,5 @@
 ---
-title        : AMA with Gary McGraw
+title        : Data Culture
 track        : Wardley Maps
 project      : Wardley Maps
 type         : working-session
