@@ -11,7 +11,7 @@ when_month   : Sep
 when_day     : Wed
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/cyber-insurance/
-banner       : 
+banner       : https://pbs.twimg.com/media/FbXJGgQX0Age2iM?format=png&name=small
 description  :
 organizers   :
     - Abbas Haidar
