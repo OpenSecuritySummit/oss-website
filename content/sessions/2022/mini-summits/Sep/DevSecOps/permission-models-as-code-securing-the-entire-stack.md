@@ -17,6 +17,7 @@ banner       : https://pbs.twimg.com/media/FbQVUZBWAAMjBYr?format=png&name=small
 description  :
 organizers   :
     - Raz Cohen   
+    - Oded Ben David
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/82807673766?pwd=S2QwbVBRaUt4NnZxMnFMT2ZnNnA2UT09
 
