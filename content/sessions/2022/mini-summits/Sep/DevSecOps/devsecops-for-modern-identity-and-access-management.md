@@ -11,7 +11,7 @@ when_month   : Sep
 when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/devsecops-for-modern-identity-and-access-management/
-banner       : 
+banner       : https://pbs.twimg.com/media/FbwicugWQAcFp82?format=png&name=small
 #status      : 
 description  :
 organizers   :
