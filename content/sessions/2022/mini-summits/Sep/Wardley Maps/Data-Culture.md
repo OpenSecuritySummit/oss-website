@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Sep
-when_day     : Thu
+when_day     : Mon
 when_time    : WS-19-20
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/data-culture/
 banner       : 
@@ -19,6 +19,7 @@ organizers   :
     - Simon Wardley
     - Tariq
     - Mark Craddock
+    - Aleksandar Simovic
     
 youtube_link : 
 zoom_link    : 
