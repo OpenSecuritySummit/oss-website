@@ -11,7 +11,7 @@ when_month   : Sep
 when_day     : Thu
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/blockchain-and-its-security-1
-banner       : 
+banner       : https://pbs.twimg.com/media/Fb0Zcb-X0AQtXaT?format=png&name=small
 #status      : 
 description  :
 organizers   :
