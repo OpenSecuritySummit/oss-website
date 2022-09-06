@@ -11,7 +11,7 @@ when_month   : Sep
 when_day     : Fri
 when_time    : WS-19-20
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/successes-and-failures-at-security-training/
-banner       :
+banner       : https://pbs.twimg.com/media/Fb6tWlUWQAYuo-n?format=png&name=small
 #status      : 
 description  :
 organizers   :
