@@ -11,7 +11,7 @@ when_month   : Sep
 when_day     : Wed
 when_time    : WS-18-19
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/overview-of-the-new-dsomm-application/
-banner       : 
+banner       : https://pbs.twimg.com/media/FbmYXdZWAAA-FnW?format=png&name=small
 #status      : 
 description  :
 organizers   :
