@@ -1,6 +1,6 @@
 ---
 title: Ashley Burke
-image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/ashleyburke.jpg?raw=true
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/ashleyburke1.png?raw=true
 company: Wave Financial 
 job_title: Security Program Manager 
 facebook:
