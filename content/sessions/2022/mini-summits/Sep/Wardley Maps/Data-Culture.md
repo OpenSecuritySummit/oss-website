@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Tudor Girba
-    - Tariq
+    - Tariq Rashid
     - Mark Craddock
     - Aleksandar Simovic
     
