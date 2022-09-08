@@ -18,7 +18,7 @@ organizers   :
     - Ashley Burke
    
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/84282861524?pwd=VVJXTkJKNWtBSm1XZkVIOXl0Nmhzdz09
 session_slides:
 ---
 
