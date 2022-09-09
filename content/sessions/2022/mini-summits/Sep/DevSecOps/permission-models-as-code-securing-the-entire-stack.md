@@ -12,7 +12,7 @@ when_day     : Tue
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/permission-models-as-code-securing-the-entire-stack/
 session_slack:
-banner       : https://pbs.twimg.com/media/FbQVUZBWAAMjBYr?format=png&name=small
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/OSS%20graphics%20templates%20(1)%20(51).png?raw=true
 #status      :
 description  :
 organizers   :
