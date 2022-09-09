@@ -21,7 +21,7 @@ organizers   :
     - Aleksandar Simovic
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82478909572?pwd=cHJMbDBVMUh3UWRLL3E2eEJIV3JtQT09
 session_slides:
 ---
 
