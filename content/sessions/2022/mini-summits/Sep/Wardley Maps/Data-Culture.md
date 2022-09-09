@@ -11,7 +11,7 @@ when_month   : Sep
 when_day     : Mon
 when_time    : WS-19-20
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/data-culture/
-banner       : 
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQFYiI02JgahAg/feedshare-shrink_2048_1536/0/1662676763835?e=1665619200&v=beta&t=O_Flc5H8hNqaMTASdtvUJ4gowKqtNVCj4xrt-iya2_o
 description  :
 organizers   :
     - Dinis Cruz
