@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Sep
-when_day     : Thu
-when_time    : WS-17-18
+when_day     : Fri
+when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/blockchain-and-its-security-1
 banner       : https://pbs.twimg.com/media/Fb0Zcb-X0AQtXaT?format=png&name=small
 #status      : 
