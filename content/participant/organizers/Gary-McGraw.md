@@ -1,6 +1,6 @@
 ---
 title: Gary McGraw
-image: 
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Garymcgraw.jpg?raw=true
 company: Berryville Institute of Machine Learning
 job_title: CEO and Founder
 facebook:
