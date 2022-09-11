@@ -1,7 +1,7 @@
 ---
 title        : How to become a cyber security professional? (i.e. where to start?)
 track        : Governance
-project      : Risk and Governance
+project      : Education
 type         : working-session
 topics       : 
 featured     :
