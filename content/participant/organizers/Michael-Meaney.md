@@ -1,6 +1,6 @@
 ---
 title: Michael Meaney
-image: 
+image: https://open-security-summit.org/img/pages/person/person-01.png
 company: NewDay
 job_title: Head of Security Architecture
 facebook:
