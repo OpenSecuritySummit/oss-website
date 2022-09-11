@@ -12,7 +12,7 @@ when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/threat-modeling-failure-modes/
 session_slack:
-banner       : https://pbs.twimg.com/media/FbAa3X0X0AAFemW?format=png&name=small
+banner       : https://media-exp1.licdn.com/dms/image/C4D22AQH9x89BVgxO0Q/feedshare-shrink_2048_1536/0/1662827678771?e=1665619200&v=beta&t=aodNT3-3OzVDUH1XsuFLdjNIGlGgKIJqDhFUDIctaMY
 #status      :
 description  :
 organizers   :
