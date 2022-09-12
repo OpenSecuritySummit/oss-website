@@ -1,7 +1,7 @@
 ---
 title        : How to become a cyber security professional? (i.e. where to start?)
-track        : Education
-project      : Education
+track        : Education and Training
+project      : Education and Training
 type         : working-session
 topics       : 
 featured     :
