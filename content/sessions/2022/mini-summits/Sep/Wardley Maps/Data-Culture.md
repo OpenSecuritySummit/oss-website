@@ -20,7 +20,7 @@ organizers   :
     - Mark Craddock
     - Aleksandar Simovic
     
-youtube_link : 
+youtube_link : https://youtu.be/FcaUN4w2TdY
 zoom_link    : https://us06web.zoom.us/j/82478909572?pwd=cHJMbDBVMUh3UWRLL3E2eEJIV3JtQT09
 session_slides:
 ---
