@@ -17,7 +17,7 @@ banner       : https://media-exp1.licdn.com/dms/image/C4D22AQH9x89BVgxO0Q/feedsh
 description  :
 organizers   :
     - Izar Tarandach    
-youtube_link : 
+youtube_link : https://youtu.be/MNvY3Wwkas8
 zoom_link    : https://us06web.zoom.us/j/86892507734?pwd=ZVdsZmRKNFdTd0I4d0FPdjVNWEJLQT09
 ---
 
