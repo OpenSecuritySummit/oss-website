@@ -1,5 +1,5 @@
 ---
-title        : AMA with Dinis Cruz and Mark Curphey
+title        : AMA with Mark Curphey
 track        : Governance
 project      : Risk and Governance
 type         : working-session
