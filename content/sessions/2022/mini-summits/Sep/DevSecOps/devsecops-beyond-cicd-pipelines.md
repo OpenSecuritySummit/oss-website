@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Anna Lezhikova
        
-youtube_link : 
+youtube_link : https://youtu.be/OKyVjvjNRRw
 zoom_link    : https://us06web.zoom.us/j/85391314128?pwd=TDFQVzVFTzhDUzlsYWM0VHV0NnYzZz09
 session_slides:
 ---
