@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Dinis Cruz    
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/82104159118?pwd=b255VDFFTHNGZkVGeXN5NjhtaXJYZz09
 session_slides:
 ---
 
