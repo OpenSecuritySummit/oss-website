@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Raz Cohen   
     - Oded Ben David
-youtube_link : 
+youtube_link : https://youtu.be/1Pti49Kker0
 zoom_link    : https://us06web.zoom.us/j/82807673766?pwd=S2QwbVBRaUt4NnZxMnFMT2ZnNnA2UT09
 
 ---
