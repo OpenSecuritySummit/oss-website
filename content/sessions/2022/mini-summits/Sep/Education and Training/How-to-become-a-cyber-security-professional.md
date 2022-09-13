@@ -26,3 +26,10 @@ session_slides:
 So you want to be come a cyber security professional, but don't really know where to start?
 
 In this session Dinis will provide a number of ideas and paths that will help individuals passionate about Cyber Security to join this amazing career
+
+
+### References and good learning resources
+
+(add more)
+
+- [Learn Cybersecurity…… Here is 44 cybersecurity YouTube channels](https://www.linkedin.com/posts/praveensk007_technology-learning-cybersecurity-activity-6975286679636983808-2oyb)
