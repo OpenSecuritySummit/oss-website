@@ -18,7 +18,7 @@ organizers   :
     - Timo Pagel
     - Aryan Prasad
        
-youtube_link : 
+youtube_link : https://youtu.be/dtGzY9X2N_4
 zoom_link    : https://us06web.zoom.us/j/83878168704?pwd=QUJ2dDdyVmtHYURlOW9wOHRYZ0RoZz09
 session_slides:
 ---
