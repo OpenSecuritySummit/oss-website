@@ -15,7 +15,7 @@ banner       : https://pbs.twimg.com/media/Fcs0wESXkAEfBtv?format=png&name=small
 description  :
 organizers   :
     - Dinis Cruz    
-youtube_link : 
+youtube_link :  https://youtu.be/UBaLAPhU2Vk
 zoom_link    :  https://us06web.zoom.us/j/82104159118?pwd=b255VDFFTHNGZkVGeXN5NjhtaXJYZz09
 session_slides:
 ---
