@@ -17,7 +17,7 @@ organizers   :
     - Izar Tarandach
     - Gary McGraw
     
-youtube_link : 
+youtube_link : https://youtu.be/Qg5qYTOg2EU
 zoom_link    : https://us06web.zoom.us/j/83377821878?pwd=RGsra1ZNMXhUZGVPZUNsY2llRUdNQT09
 session_slides:
 ---
