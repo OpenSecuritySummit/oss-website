@@ -17,7 +17,7 @@ organizers   :
     - Dinis Cruz
     - Mark Curphey
     
-youtube_link : 
+youtube_link : https://youtu.be/8gpmKVxhAZ4
 zoom_link    : https://us06web.zoom.us/j/5876628684?pwd=OG1JOXFxeS9tc3Qxc1VaS1haWWNsQT09
 session_slides:
 ---
