@@ -19,6 +19,7 @@ organizers   :
     - Chenxi Wang
     - Dinis Cruz
     - Zenobia Godschalk
+    - James Hooker
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/81390032841?pwd=VGlHQUdzbjJOWDV0Q29iZjBxUFlEZz09
 session_slides:
