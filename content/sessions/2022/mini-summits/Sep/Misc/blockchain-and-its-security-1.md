@@ -20,7 +20,7 @@ organizers   :
     - Dinis Cruz
     - Zenobia Godschalk
     - James Hooker
-youtube_link : 
+youtube_link : https://youtu.be/UhkMDyZy6RU
 zoom_link    : https://us06web.zoom.us/j/81390032841?pwd=VGlHQUdzbjJOWDV0Q29iZjBxUFlEZz09
 session_slides:
 ---
