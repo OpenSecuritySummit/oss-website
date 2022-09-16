@@ -19,7 +19,7 @@ organizers   :
     - Chris Romeo
     - Dinis Cruz
     
-youtube_link : 
+youtube_link : https://youtu.be/zPxjaT1I2aY
 zoom_link    : https://us06web.zoom.us/j/89172389959?pwd=LzBxVk1EUTZ6S3BheVd3c0FkZms5QT09
 session_slides:
 ---
