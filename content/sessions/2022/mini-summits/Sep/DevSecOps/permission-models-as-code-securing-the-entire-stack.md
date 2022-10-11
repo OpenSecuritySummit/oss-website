@@ -23,6 +23,9 @@ zoom_link    : https://us06web.zoom.us/j/82807673766?pwd=S2QwbVBRaUt4NnZxMnFMT2Z
 
 ---
 
+### Session slides
+{{< gslides id="2PACX-1vR4HII-wOJ3CtGcJkKPEwP3VZuPsZL03w3quiZbhPgQFet-h81CUbjJnKL5ZrW-Jw/embed?slide=id.p" >}}
+
 ## About this session
 In this presentation, we will discuss a number of topics that will provide an insight into how permission models as code can be used to secure products from top to bottom - from infrastructure up to the application layer.
 
