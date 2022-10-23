@@ -30,10 +30,10 @@ Vulnerability tooling is increasing, security advisories are faster, and teams a
 We present a risk and cyber quantification view on vulnerabilities across cloud, application, and infrastructure addressing modern approaches to cybersecurity from the point of view of the product security team. 
 We will walk several use cases that shows how context, prioritization, probability and impact analysis can be used to improve which vulnerability to solve first. 
 
-"Publications:
-https://appsecphoenix.com/context-is-king-in-appsec-cloudsec/
-https://appsecphoenix.com/prioritize-vulnerabilities-risk-context-vulnerability-appsec-cloudsec/
-https://appsecphoenix.com/vulnerability-timelines-sla-measurement-and-prioritization-the-how-and-the-why-of-application-and-cloud-security-objective-setting/ 
+Publications:
+-https://appsecphoenix.com/context-is-king-in-appsec-cloudsec/
+-https://appsecphoenix.com/prioritize-vulnerabilities-risk-context-vulnerability-appsec-cloudsec/
+-https://appsecphoenix.com/vulnerability-timelines-sla-measurement-and-prioritization-the-how-and-the-why-of-application-and-cloud-security-objective-setting/ 
 
 Whitepaper:
 https://appsecphoenix.com/whitepapers-resources/whitepaper-vulnerability-management-in-application-cloud-security/"
