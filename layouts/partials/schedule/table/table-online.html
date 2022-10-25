@@ -12,11 +12,22 @@
         <tr>
             <th class="time-col"></th>
             {{ range $days }}
-                <th>{{ .day }} - {{ .date }}</th>
+                <th>{{ .day }} - {{ .date }}  </th>
             {{ end }}
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <th></th>
+            {{ range $days }}
+                <th style="text-align:center">
+                    <span class="label label-primary">Online</span>
+                    {{ if eq .where "London"}}
+                        <span class="label label-danger">{{ .where}}</span>                                              
+                    {{ end}}                    
+                </th>
+            {{ end }}
+        </tr>
         {{ range $times }}
             {{ partial "schedule/table/track-tr-time.html" (dict "self" $this "pages" $pages "valid_days" $valid_days "time" . )}}
         {{ end }}

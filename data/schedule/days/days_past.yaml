@@ -437,3 +437,38 @@ day-74:
   key  : "Fri"
   where: "London and Online"
   order: 5
+day-75:
+  date : "12h"
+  day  : "Monday"
+  month: "Sep"
+  key  : "Mon"
+  where: "Online"
+  order: 1
+day-76:
+  date : "13th"
+  day  : "Tuesday"
+  month: "Sep"
+  key  : "Tue"
+  where: "Online"
+  order: 2
+day-77:
+  date : "14th"
+  day  : "Wednesday"
+  month: "Sep"
+  key  : "Wed"
+  where: "Online"
+  order: 3
+day-78:
+  date : "15th"
+  day  : "Thursday"
+  month: "Sep"
+  key  : "Thu"
+  where: "Online"
+  order: 4
+day-79:
+  date : "16th"
+  day  : "Friday"
+  month: "Sep"
+  key  : "Fri"
+  where: "London and Online"
+  order: 5
