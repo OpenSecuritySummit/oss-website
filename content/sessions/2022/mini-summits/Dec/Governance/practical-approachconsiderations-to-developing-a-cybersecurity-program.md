@@ -1,5 +1,5 @@
 ---
-title        : "Practical approach\considerations to developing a cybersecurity program"
+title        : "Practical approach/considerations to developing a cybersecurity program"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
