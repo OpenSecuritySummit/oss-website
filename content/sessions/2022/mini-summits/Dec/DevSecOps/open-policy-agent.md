@@ -14,7 +14,7 @@ hey_summit   : https://post-summit-sessions.heysummit.com/talks/open-policy-agen
 banner       : 
 description  :
 organizers   :
-    - Timo pagel
+    - Timo Pagel
     
 youtube_link : 
 zoom_link    : 
