@@ -24,3 +24,4 @@ session file:
 
 
 ## About this session
+The Open Policy Agent provides policy-based control for cloud native environments. In this talk, we will focus on how to use OPA for authorization in service-oriented world.
