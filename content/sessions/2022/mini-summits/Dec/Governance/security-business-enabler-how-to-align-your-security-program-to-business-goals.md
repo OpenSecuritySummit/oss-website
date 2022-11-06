@@ -1,5 +1,5 @@
 ---
-title        : Security business enabler: How to align your security program to business goals
+title        : "Security business enabler: How to align your security program to business goals"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
