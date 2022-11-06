@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/privacy-the-challenges-in-post-tornado-cash-world/
-banner       : https://media-exp1.licdn.com/dms/image/C4D22AQEhOLnAAKOvSA/feedshare-shrink_800/0/1661897826737?e=1665014400&v=beta&t=BKWnw32GwqimHDpv5xgQnBw2rD9hnNHIlpDzZDEYpg4
+banner       : https://pbs.twimg.com/media/FgqGKgGWQAAM9oK?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
