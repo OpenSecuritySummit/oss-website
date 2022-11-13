@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Tue
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/open-policy-agent/
-banner       : 
+banner       : https://twitter.com/opensecsummit/status/1589336836014755840/photo/1
 description  :
 organizers   :
     - Timo Pagel
