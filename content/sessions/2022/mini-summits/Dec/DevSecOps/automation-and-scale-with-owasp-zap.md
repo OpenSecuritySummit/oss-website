@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/automation-and-scale-with-owasp-zap/
-banner       : 
+banner       : https://pbs.twimg.com/media/FhTW-ZaWYAEMbo4?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
