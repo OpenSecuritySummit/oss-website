@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Tue
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/using-open-source-appmap-for-runtime-security-analysis/
-banner       : https://twitter.com/opensecsummit/status/1590807694440419328/photo/1
+banner       : https://pbs.twimg.com/media/FhOtuxXWIAYIy2J?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
