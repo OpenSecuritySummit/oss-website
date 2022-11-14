@@ -10,7 +10,7 @@ when_year    : 2022
 when_month   : Dec
 when_day     : Thu
 when_time    : WS-14-15
-hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-challenges-with-dns-security-or-cyber-risk-quantification/
+hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-challenges-with-dns-security/
 banner       : 
 #status      : 
 description  :
