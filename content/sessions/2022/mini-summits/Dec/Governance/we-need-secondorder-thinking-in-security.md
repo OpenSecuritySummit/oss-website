@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Wed
 when_time    : WS-14-15
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/we-need-secondorder-thinking-in-security/
-banner       : 
+banner       : https://pbs.twimg.com/media/FhjLqtMXkAAUinB?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
