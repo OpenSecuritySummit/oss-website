@@ -17,6 +17,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Tariq Rashid
+    - Izar Tarandach
   
     
 youtube_link : 
