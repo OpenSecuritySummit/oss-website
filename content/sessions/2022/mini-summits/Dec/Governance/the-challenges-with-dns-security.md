@@ -25,4 +25,4 @@ session_slides:
 
 
 ## About this session
-DNS Security is clear I guess - Cyber Risk Quantification is a journey on how you discover your assets, classify them, check against vulnarabilities, then if under whatever type of attack put a value to the asset & it helps you to quantify your cyber risk which can help you ascertain your cyber risk inusrance & also automates cyber risk remidiation & control.
+
