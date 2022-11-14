@@ -1,5 +1,5 @@
 ---
-title        : The Challenges With DNS Security or Cyber Risk Quantification
+title        : The Challenges With DNS Security 
 track        : Governance
 project      : Risk and Governance
 type         : working-session
