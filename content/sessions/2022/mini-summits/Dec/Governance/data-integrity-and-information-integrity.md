@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Wed
 when_time    : WS-17-18
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/-data-integrity-and-information-integrity/
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Data%20Integrity.png?raw=true
 #status      : 
 description  :
 organizers   :
