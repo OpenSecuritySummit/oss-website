@@ -1,5 +1,5 @@
 ---
-title        : Data Integrity and Information Integrity
+title        : "Data Integrity and Information Integrity-they are enterprise not just CISO issues"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
