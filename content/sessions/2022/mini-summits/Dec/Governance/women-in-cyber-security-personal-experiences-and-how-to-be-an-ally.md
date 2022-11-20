@@ -16,7 +16,7 @@ banner       :
 description  :
 organizers   :
     - Ashley Burke
-    - Karla Redfold
+    - Karla Reffold
     - Melissa Ryan
     - Jana Camila
     
