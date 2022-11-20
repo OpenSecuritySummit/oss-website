@@ -1,5 +1,5 @@
---
-title        : "Women in Cyber Security: Personal experiences and how to be an Ally"
+---
+title        : The Survival Guide to implementing Threat Modeling
 track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
