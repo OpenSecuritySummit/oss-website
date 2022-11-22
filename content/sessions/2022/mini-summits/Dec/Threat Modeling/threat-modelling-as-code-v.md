@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Petra Vukmirovic
  
-    youtube_link : 
+youtube_link : 
 zoom_link    : 
 session_slides:
 ---
