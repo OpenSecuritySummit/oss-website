@@ -16,6 +16,7 @@ banner       :
 description  :
 organizers   :
     - Petra Vukmirovic
+    - Chen Gour Arie
  
 youtube_link : 
 zoom_link    : 
@@ -25,3 +26,9 @@ session_slides:
 
 
 ## About this session
+How we used our threat the jupyterthreat threat modelling as code framework to get better visibility on our threat landscape?
+
+Reference:
+
+https://github.com/P3tra-WP/Jupyter-Threat/
+
