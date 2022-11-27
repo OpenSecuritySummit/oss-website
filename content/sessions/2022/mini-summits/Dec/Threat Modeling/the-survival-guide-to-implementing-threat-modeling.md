@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Mon
 when_time    : WS-19-20
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/the-survival-guide-to-implementing-threat-modeling/
-banner       : https://pbs.twimg.com/media/FiRgrwsXEAYo6YA?format=jpg&name=medium
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Survival%20Guide.png?raw=true
 #status      : 
 description  :
 organizers   :
