@@ -17,12 +17,12 @@ day-82:
   day  : "Wednesday"
   month: "Dec"
   key  : "Wed"
-  where: "London"
+  where: "Online"
   order: 3
 day-83:
   date : "15th"
   day  : "Thursday"
   month: "Sep"
   key  : "Thu"
-  where: "London"
+  where: "Online"
   order: 4
