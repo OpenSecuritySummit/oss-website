@@ -1,12 +1,12 @@
 ---
 title: Sarb Sembhi
-image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/SarbSembhi2%20-%20Security%20and%20Risk%20Blog%20-%20SaRB.png?raw=true
-company: AirEye
-job_title: CISO
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/SarbSembhi4.jpg?raw=true
+company: Virtually Informed Limited
+job_title: CTO
 facebook:
 linkedin: sarbsembhi
 twitter: sarbsembhi
-website: www.aireye.tech
+website: https://www.virtuallyinformed.com/
 notes:
 status: 
 type: participant

@@ -7,11 +7,11 @@ topics       : Fileless Attacks,security detection and response
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : Nov
-when_day     : Fri
+when_month   : Dec
+when_day     : Thu
 when_time    : WS-18-19
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/fileless-attacks-and-living-off-the-land-binaries-moving-beyond-just-the-known-bad-in-security-detection-and-response/
-banner       : 
+banner       : https://pbs.twimg.com/media/FiaiEmLWAAAf4B0?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
