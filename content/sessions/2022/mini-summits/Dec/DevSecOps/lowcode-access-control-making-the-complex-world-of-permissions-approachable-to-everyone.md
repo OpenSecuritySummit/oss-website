@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/lowcode-access-control-making-the-complex-world-of-permissions-approachable-to-everyone/
-banner       : https://pbs.twimg.com/media/FhyU5y0XkAAfwEy?format=jpg&name=medium
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2022/banners/Low%20codes.png?raw=true
 organizers   :
     - Filip Grebowski
 youtube_link : 
