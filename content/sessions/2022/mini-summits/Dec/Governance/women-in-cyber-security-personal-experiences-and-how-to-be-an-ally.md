@@ -18,7 +18,7 @@ organizers   :
     - Ashley Burke
     - Karla Reffold
     - Melissa Ryan
-    - Jana Camila
+    - Jana Caniglia
     
 youtube_link : 
 zoom_link    : 
