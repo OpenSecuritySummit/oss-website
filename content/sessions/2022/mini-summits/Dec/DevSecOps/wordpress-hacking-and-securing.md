@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2022
 when_month   : Dec
-when_day     : Thu
-when_time    : WS-17-18
+when_day     : Tue
+when_time    : WS-19-20
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/wordpress-hacking-and-securing/
 banner       : https://pbs.twimg.com/media/FhYhx7RXwAUnE1U?format=jpg&name=medium
 #status      : 
