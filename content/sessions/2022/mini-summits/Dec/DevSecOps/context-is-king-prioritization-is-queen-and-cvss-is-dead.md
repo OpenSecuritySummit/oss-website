@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Wed
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/context-is-king-prioritization-is-queen-and-cvss-is-dead/
-banner       : https://pbs.twimg.com/media/Fg_PDCHWQAA5XM_?format=jpg&name=medium
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2022/banners/Content%20is%20king.png?raw=true
 description  :
 organizers   :
     - Francesco Cipollone
