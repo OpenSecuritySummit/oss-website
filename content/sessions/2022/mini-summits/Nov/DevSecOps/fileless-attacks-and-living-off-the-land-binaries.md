@@ -1,5 +1,5 @@
 ---
-title        : "Fileless Attacks and “Living off the Land binaries”: moving beyond just the “known bad” in security detection and response, and looking at how to prevent legitimate tools from being used in attacks (how to detect and respond)"
+title        : Living off the Land & Fileless Attacks - Move Beyond the "Known Bad"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
@@ -13,10 +13,10 @@ when_time    : WS-18-19
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/fileless-attacks-and-living-off-the-land-binaries-moving-beyond-just-the-known-bad-in-security-detection-and-response/
 banner       : https://pbs.twimg.com/media/FiaiEmLWAAAf4B0?format=jpg&name=medium
 #status      : 
-description  :
+description  : Living Off The Land Binaries, Scripts and Libraries, or "Fileless Attacks" - move beyond focusing on the "known bad". How do you know when legitimate tools and software are being used maliciously or misbehaving, and what to do about it? Hear SecOps experts and leaders discuss prevention, detection and response best practices and learnings from their battle against the latest cyber threats in the wild.
 organizers   :
     - Celine Pypaert
-    - Craig Gilliger
+    - Craig Gilliver
        
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/87131045681?pwd=SGJkWjhwUGpOQ3JjbjVScTYyWmFYUT09
