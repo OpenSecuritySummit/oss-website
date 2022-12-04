@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/security-business-enabler-how-to-align-your-security-program-to-business-goals/
-banner       : https://pbs.twimg.com/media/FhJkOEdX0AEw4Ie?format=jpg&name=medium
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2022/banners/Security%20Business%20enabler.png?raw=true
 #status      : 
 description  :
 organizers   :
