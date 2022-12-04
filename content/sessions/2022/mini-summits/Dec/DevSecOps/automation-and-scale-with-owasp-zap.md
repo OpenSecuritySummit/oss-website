@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/automation-and-scale-with-owasp-zap/
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Owasp%20zap.png?raw=true
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2022/banners/Automation%20and%20Scale%20with%20OWASP%20zap.png?raw=true
 #status      : 
 description  :
 organizers   :
