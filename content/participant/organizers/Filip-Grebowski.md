@@ -6,6 +6,8 @@ job_title: Developer Advocate
 facebook:
 linkedin: developerfilip
 twitter: DeveloperFilip
+instagram: developerfilip
+youtube: https://www.youtube.com/@developerfilip
 website: http://permit.io
 notes:
 status: 
