@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Wed
 when_time    : WS-18-19
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/crowdsourcing-security-talent/
-banner       : https://pbs.twimg.com/media/Fh8raksWQAM8FMJ?format=jpg&name=medium
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2022/banners/Crowdsourcing%20with%20Security%20Talent.png?raw=true
 #status      : 
 description  :
 organizers   :
