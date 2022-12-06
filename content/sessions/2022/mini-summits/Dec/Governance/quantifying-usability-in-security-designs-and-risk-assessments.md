@@ -21,7 +21,9 @@ organizers   :
   
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82538295125?pwd=ajYza2RERkJoOUEvNmJKS3h5bXdJdz09
+
+
 session_slides:
 ---
 
