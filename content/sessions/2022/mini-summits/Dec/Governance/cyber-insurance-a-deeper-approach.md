@@ -20,7 +20,8 @@ organizers   :
     - Andrew Lea
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82210823105?pwd=OTZpUkVLN1k3TXMrdEt0QVMwMHVWUT09
+
 session_slides:
 ---
 
