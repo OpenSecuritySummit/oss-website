@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Dheeraj Madhukar  
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/83780477501?pwd=QzcydUZLNEFrSTVmaHVUdXpaV2pnZz09
 ---
 
 ## About this session
