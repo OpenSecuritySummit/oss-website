@@ -19,7 +19,8 @@ organizers   :
     - Chen Gour Arie
  
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82057549778?pwd=WnhFN0kwZStmYkpBV1p5emRNSTJNZz09
+
 session_slides:
 ---
 
