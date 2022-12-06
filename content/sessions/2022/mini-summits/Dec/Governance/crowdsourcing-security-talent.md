@@ -19,7 +19,8 @@ organizers   :
     - Ante Gulam
     
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/89036579600?pwd=bGJISUVlVDR6RTZEZkNmQmtyZWRRZz09
+zoom_link    : https://us06web.zoom.us/j/86884215735?pwd=aTFabzdVV25sSXFsZUVWQXlZUHM4dz09
+
 session_slides:
 ---
 
