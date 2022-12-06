@@ -17,7 +17,7 @@ organizers   :
     - Timo Pagel
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/86413488142?pwd=b255VDFFTHNGZkVGeXN5NjhtaXJYZz09
 session file: 
 
 ---
