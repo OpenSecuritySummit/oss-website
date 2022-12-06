@@ -19,7 +19,7 @@ organizers   :
     - Alyssa Miller
        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/81392997951?pwd=di8xTkpOcFRMbmN3NHJCWTA2WVRUQT09
 session_slides:
 ---
 
