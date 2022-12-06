@@ -18,7 +18,8 @@ organizers   :
     - Jude Pereira
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/89253476334?pwd=UGFhMGFkek1ET3RZSkd2UURzMTlFQT09
+
 session_slides:
 ---
 
