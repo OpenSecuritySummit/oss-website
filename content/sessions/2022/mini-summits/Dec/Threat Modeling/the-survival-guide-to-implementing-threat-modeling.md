@@ -19,7 +19,7 @@ organizers   :
    - Dave van Stein
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/83314340079?pwd=RC8xQk1jY2dmeXF2SzY3ZVJZUTNndz09
 session_slides:
 ---
 
