@@ -19,7 +19,8 @@ organizers   :
     - Craig Gilliver
        
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/87131045681?pwd=SGJkWjhwUGpOQ3JjbjVScTYyWmFYUT09
+zoom_link    : https://us06web.zoom.us/j/85090376473?pwd=RkY4MXhCSjZTTjJGQXRxSzY3Mkp4Zz09
+
 session_slides:
 ---
 
