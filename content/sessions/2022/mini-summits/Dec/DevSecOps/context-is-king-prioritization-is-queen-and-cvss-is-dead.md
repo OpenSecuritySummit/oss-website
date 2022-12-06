@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Francesco Cipollone
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/84242767984?pwd=S2VsNGY0UEVTbk0zZHRpbkRNQ1ZHZz09
 session file: 
 
 ---
