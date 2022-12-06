@@ -18,7 +18,7 @@ organizers   :
     - Tiago Mendo
      
 youtube_link : 
-zoom_link    : 
+zoom_link    :  https://us06web.zoom.us/j/85819499866?pwd=SkRhb1gxOUVyeEZ6Si9RaHFxQkN5Zz09
 session_slides:
 ---
 
