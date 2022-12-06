@@ -15,7 +15,7 @@ banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/conte
 organizers   :
     - Filip Grebowski
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82087260400?pwd=REpZZXMxWDVRbjZlYyt3UzdvOGlaUT09
 session file: 
 
 ---
