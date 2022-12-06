@@ -19,7 +19,7 @@ organizers   :
     
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/84000384566?pwd=cHBhclc3RnV2WktiUTFwcVM4Zk9VQT09
 session_slides:
 ---
 
