@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Mon
 when_time    : WS-16-17
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/women-in-cyber-security-personal-experiences-and-how-to-be-an-ally/
-banner       : https://twitter.com/opensecsummit/status/1596554167769710592/photo/1
+banner       : https://pbs.twimg.com/media/FjPZFtIXEAklNGM?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
@@ -21,7 +21,8 @@ organizers   :
     - Jana Caniglia
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/j/82452301797?pwd=eGJDTUFCc0RaV0NmWWZMZ2N2RWlUdz09
+
 session_slides:
 ---
 
