@@ -11,7 +11,7 @@ when_month   : Dec
 when_day     : Tue
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/practical-approachconsiderations-to-developing-a-cybersecurity-program/
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2022/banners/Frame%202%20(3).png?raw=true
 #status      : 
 description  :
 organizers   :
