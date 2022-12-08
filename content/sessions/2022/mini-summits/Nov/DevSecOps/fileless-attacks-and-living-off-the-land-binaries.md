@@ -17,6 +17,8 @@ description  : Living Off The Land Binaries, Scripts and Libraries, or "Fileless
 organizers   :
     - Celine Pypaert
     - Craig Gilliver
+    - John Matthey
+    - Abbas Haidar
        
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/85090376473?pwd=RkY4MXhCSjZTTjJGQXRxSzY3Mkp4Zz09
