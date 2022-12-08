@@ -2,7 +2,7 @@
 title: Abbas Haidar
 image: /content/participant/Abbas-Haidar.jpeg
 company: Glasswall
-job_title: Head of IT & InfoSec, DPO
+job_title: Ciso of Alipay UK 
 facebook:
 linkedin: abbashaidar
 twitter: AbbasHaidar_
