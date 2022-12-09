@@ -7,9 +7,9 @@ topics       : "Linux, Docker, runc, OCI"
 featured     :
 event        : mini-summit
 when_year    : 2022
-when_month   : Feb
-when_day     : Mon
-when_time    : WS-14-15
+when_month   : Dec
+when_day     : Wed
+when_time    : WS-19-20
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/linux-kernel-containerization-without-dockerruncoci/
 banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Frame%202%20(1).png?raw=true
 session_slack:
