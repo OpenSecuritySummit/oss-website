@@ -1,8 +1,8 @@
 ---
 title: Abbas Haidar
 image: /content/participant/Abbas-Haidar.jpeg
-company: Glasswall
-job_title: Ciso of Alipay UK 
+company: Alipay
+job_title: SecOps manager/CISO
 facebook:
 linkedin: abbashaidar
 twitter: AbbasHaidar_
