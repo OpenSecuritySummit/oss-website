@@ -26,12 +26,16 @@ session_slides:
 
 
 ## About this session
-In this workshop (or presentation - we are flexible on the format). We will show how new users can use AppMap, an open source runtime code analysis tool, to analyze a vulnerable ruby on rails application.  We'll show how users can get up and running using VS Code Editor, how to install the AppMap extension into VS Code, how to add AppMap libraries into their software project and then we'll show multiple ways of recording interactions with AppMap. 
+In this workshop. We will show how new users can use AppMap, an open source runtime code analysis tool, to analyze [RailsGoat](https://github.com/land-of-apps/railsgoat) a vulnerable Ruby on Rails application.  We'll show a step my step process for users to get Railsgoat running and also an introduction to VS Code and AppMap.  In addition we'll show:
 
-1) using the existing tests to record application interactions
-2) recording each individual request hitting the application
-3) recording a complete user interaction (multiple requests)
+* Opening projects in VS Code
+* Setup and Run Railsgoat locally via bundler
+* Install AppMap into VS Code & Ruby Libraries
+* Run tests and use Runtime Analysis to identify vulnerabilities
+* Navigate AppMaps: Dependency View,  Trace View and Sequence Diagrams
+* Fix vulnerabilities and use Runtime Analysis to confirm fixes
+* Compare Auto-Generate Sequence Diagrams with before/after fixes
+* Generate OpenAPI Documentation
+* Ingest OpenAPI Documentation into OWASP Zap for targeted Web Application Scanning (DAST)
 
 From here we'll investigate security findings that can only be picked up within a runtime analysis of the software. 
-
-Our Youtube has a variety of video content on this topic that we'll present in a clearer "flow" for new users.  https://www.youtube.com/@appmap
