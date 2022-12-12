@@ -2,7 +2,7 @@
 title: Petra Vukmirovic
 image: https://pbs.twimg.com/profile_images/1232209537043763200/ILXPvwxO_400x400.jpg
 company: Jobandtalent
-job_title: Senior Security Engineer 
+job_title: Director of Cyber Security
 facebook:
 linkedin: petravukmirovic
 twitter: PetraVuk1311
