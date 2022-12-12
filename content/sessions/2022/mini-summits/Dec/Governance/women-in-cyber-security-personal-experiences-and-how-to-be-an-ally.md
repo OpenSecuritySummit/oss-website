@@ -20,7 +20,7 @@ organizers   :
     - Melissa Ryan
     - Jana Caniglia
     
-youtube_link : 
+youtube_link : https://youtu.be/Ew8f_G9TY3c
 zoom_link    : https://us06web.zoom.us/j/82452301797?pwd=eGJDTUFCc0RaV0NmWWZMZ2N2RWlUdz09
 
 session_slides:
