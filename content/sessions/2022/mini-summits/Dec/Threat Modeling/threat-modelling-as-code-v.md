@@ -18,7 +18,7 @@ organizers   :
     - Petra Vukmirovic
     - Chen Gour Arie
  
-youtube_link : 
+youtube_link : https://youtu.be/OGom1NlCjhk
 zoom_link    : https://us06web.zoom.us/j/82057549778?pwd=WnhFN0kwZStmYkpBV1p5emRNSTJNZz09
 
 session_slides:
