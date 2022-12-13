@@ -18,7 +18,7 @@ organizers   :
     - Anish Mohammed     
     - John Marshall
     - Dinis Cruz
-youtube_link : 
+youtube_link : https://youtu.be/7PJBHi8vNHw
 zoom_link    : https://us06web.zoom.us/j/89166368118?pwd=ZEd2cUJJYXhMYmh3QTBiNGxQWVJKUT09
 
 session_slides:
