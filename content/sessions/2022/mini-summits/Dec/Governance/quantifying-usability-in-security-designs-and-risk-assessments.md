@@ -20,7 +20,7 @@ organizers   :
     - Izar Tarandach
   
     
-youtube_link : 
+youtube_link : https://youtu.be/QZQgM57lxHo
 zoom_link    : https://us06web.zoom.us/j/82538295125?pwd=ajYza2RERkJoOUEvNmJKS3h5bXdJdz09
 
 
