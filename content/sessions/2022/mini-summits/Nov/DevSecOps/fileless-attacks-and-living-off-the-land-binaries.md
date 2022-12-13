@@ -20,6 +20,7 @@ organizers   :
     - Johnson Matthey
     - Abbas Haidar
     - Éireann Leverett
+    - Dinis Cruz
        
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/85090376473?pwd=RkY4MXhCSjZTTjJGQXRxSzY3Mkp4Zz09
