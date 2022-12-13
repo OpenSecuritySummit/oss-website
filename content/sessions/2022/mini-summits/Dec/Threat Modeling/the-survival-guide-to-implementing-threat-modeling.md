@@ -18,7 +18,7 @@ organizers   :
    - Miguel Llamazares
    - Dave van Stein
     
-youtube_link : 
+youtube_link : https://youtu.be/mKMei-QdvJU
 zoom_link    : https://us06web.zoom.us/j/83314340079?pwd=RC8xQk1jY2dmeXF2SzY3ZVJZUTNndz09
 session_slides:
 ---
