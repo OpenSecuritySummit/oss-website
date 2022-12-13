@@ -18,7 +18,7 @@ organizers   :
     - Richea Perry
  
     
-youtube_link : 
+youtube_link : https://youtu.be/mlmRjrdLBFU
 zoom_link    : https://us06web.zoom.us/j/88902614199?pwd=YlJyNkphaU9WV2MvbEprbmxOYUN4dz09
 session_slides:
 ---
