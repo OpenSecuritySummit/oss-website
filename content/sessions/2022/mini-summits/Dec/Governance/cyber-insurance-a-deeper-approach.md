@@ -19,7 +19,7 @@ organizers   :
     - Abbas Haidar
     - Andrew Lea
     
-youtube_link : 
+youtube_link : https://youtu.be/yoMJkGNA3Ss
 zoom_link    : https://us06web.zoom.us/j/82210823105?pwd=OTZpUkVLN1k3TXMrdEt0QVMwMHVWUT09
 
 session_slides:
