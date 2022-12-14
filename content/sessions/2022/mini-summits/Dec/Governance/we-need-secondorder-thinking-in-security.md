@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Deepak Prabhakara
     
-youtube_link : 
+youtube_link : https://youtu.be/Zd3pFrS9Ixc
 zoom_link    : https://us06web.zoom.us/j/89423675673?pwd=NHoxRmRmeDdkaElmVGI4Nyttam1XZz09
 session_slides:
 ---
