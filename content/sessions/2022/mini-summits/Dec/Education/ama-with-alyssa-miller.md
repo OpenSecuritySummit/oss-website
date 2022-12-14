@@ -18,7 +18,7 @@ organizers   :
     - Izar Tarandach
     - Alyssa Miller
        
-youtube_link : 
+youtube_link : https://youtu.be/e4PWqzdwuuM
 zoom_link    : https://us06web.zoom.us/j/81392997951?pwd=di8xTkpOcFRMbmN3NHJCWTA2WVRUQT09
 session_slides:
 ---
