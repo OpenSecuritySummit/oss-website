@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Sarb Sembhi
       
-youtube_link : 
+youtube_link :  https://youtu.be/RecYXhVb0OE
 zoom_link    :  https://us06web.zoom.us/j/88631452515?pwd=dzFHK1lZSEdMMGtaTlBPRWJUN0JtUT09
 session_slides:
 ---
