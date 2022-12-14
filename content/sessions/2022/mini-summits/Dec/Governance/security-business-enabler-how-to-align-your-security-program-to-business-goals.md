@@ -18,7 +18,7 @@ organizers   :
     - Marius Poskus
     - Dinis Cruz
      
-youtube_link : 
+youtube_link : https://youtu.be/LZpOc4obUYA
 zoom_link    : https://us06web.zoom.us/j/84701150444?pwd=VGlzS1RPTE1qM3ErMkNzRkZjd084QT09
 session_slides:
 ---
