@@ -18,7 +18,7 @@ organizers   :
     - Sam Stepanyan
   
      
-youtube_link : 
+youtube_link : https://youtu.be/qv0iOzVrLyQ
 zoom_link    : https://us06web.zoom.us/j/85737232793?pwd=VXNzNktyNVBmZjhHd0diNnh2eG0rQT09
 session_slides:
 ---
