@@ -16,6 +16,7 @@ banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/conte
 description  :
 organizers   :
     - Jude Pereira
+    - Dinis Cruz
     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/j/89253476334?pwd=UGFhMGFkek1ET3RZSkd2UURzMTlFQT09
