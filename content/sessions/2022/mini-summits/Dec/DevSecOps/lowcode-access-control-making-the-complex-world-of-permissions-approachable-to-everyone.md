@@ -14,7 +14,7 @@ hey_summit   : https://post-summit-sessions.heysummit.com/talks/lowcode-access-c
 banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2022/banners/Low%20codes.png?raw=true
 organizers   :
     - Filip Grebowski
-youtube_link : 
+youtube_link : https://youtu.be/XKvifb8tsGc
 zoom_link    : https://us06web.zoom.us/j/82087260400?pwd=REpZZXMxWDVRbjZlYyt3UzdvOGlaUT09
 session file: 
 
