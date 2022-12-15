@@ -15,7 +15,7 @@ banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/conte
 description  :
 organizers   :
     - Francesco Cipollone
-youtube_link : 
+youtube_link : https://youtu.be/io2IXb3oe6c
 zoom_link    : https://us06web.zoom.us/j/84242767984?pwd=S2VsNGY0UEVTbk0zZHRpbkRNQ1ZHZz09
 session file: 
 
