@@ -6,7 +6,7 @@ type         : working-session
 topics       : "Linux, Docker, runc, OCI"
 featured     :
 event        : mini-summit
-when_year    : 2022
+when_year    : 2023
 when_month   : Feb
 when_day     : Wed
 when_time    : WS-19-20
