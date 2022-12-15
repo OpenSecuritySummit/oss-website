@@ -21,7 +21,7 @@ organizers   :
     - Éireann Leverett
     - Dinis Cruz
        
-youtube_link : 
+youtube_link : https://youtu.be/LrbbiYwtE5c
 zoom_link    : https://us06web.zoom.us/j/85090376473?pwd=RkY4MXhCSjZTTjJGQXRxSzY3Mkp4Zz09
 
 session_slides:
