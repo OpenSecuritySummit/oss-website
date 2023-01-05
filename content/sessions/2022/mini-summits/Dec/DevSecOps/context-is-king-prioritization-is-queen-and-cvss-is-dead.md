@@ -21,6 +21,7 @@ session file:
 
 ---
 
+{{< gslides id="2PACX-1vScJZ4OgIq9BF5NS8l_oVGFBIga37gd8_BXMTuPsrfguiK7BMYKtNtuL7SOgKilQA/embed?slide=id.p" >}}
 
 ## About this session
 CVSS, CVE, Vulnerabilities and the land of broken dreams, Stop your tiers and start with a risk approach and contextual view of vulnerabilities
