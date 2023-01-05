@@ -23,6 +23,7 @@ session_slides:
 ---
 
 
+{{< gslides id="2PACX-1vR9D-ayzrk0wT-wpzRo44fZh3_iI3wv5qO99j16VqEQ8ySNLLP1ZgFS_mo4H3eLuw/embed?slide=id.p" >}}
 
 ## About this session
 This session will be based on the theme of second-order thinking, which is a cognitive process that helps you look beyond the surface and identify underlying causes, effects, and relationships. The goal is to develop insights that are deeper than what you would get by looking only at the immediate cause and effect.
