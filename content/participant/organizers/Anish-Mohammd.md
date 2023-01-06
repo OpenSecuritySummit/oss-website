@@ -1,6 +1,6 @@
 ---
 title: Anish Mohammed
-image: https://pbs.twimg.com/profile_images/1187743649624399873/opZLrVQ2_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/anish.jpg?raw=true
 company: Panther Protocol
 job_title: Cofounder, CTO and Chief Scientist
 facebook:
