@@ -23,6 +23,7 @@ zoom_link    : https://us06web.zoom.us/j/84000384566?pwd=cHBhclc3RnV2WktiUTFwcVM
 session_slides:
 ---
 
+{{< gslides id="2PACX-1vTjQUTWmtuTG85CbUAVbeeAYKXo0e05zcezDd1Vh-R54obNZj3JqXjDnzgwaitCig/embed?slide=id.p" >}}
 
 
 ## About this session
