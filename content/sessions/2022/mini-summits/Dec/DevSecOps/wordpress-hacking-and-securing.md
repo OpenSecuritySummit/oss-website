@@ -23,7 +23,7 @@ zoom_link    : https://us06web.zoom.us/j/85737232793?pwd=VXNzNktyNVBmZjhHd0diNnh
 session_slides:
 ---
 
-
+{{< gslides id="2PACX-1vTzJ7qvc9yfoF-4Otou33yN1SDWDZMRKL6-fEKhw-_89BLaW3P6AahXfR-oK6rRrg/embed?slide=id.p" >}}
 
 ## About this session
 WordPress is the world's most popular Content Management System, which makes it a lucrative target for cyber criminals. Thousands of WordPress-based websites get hacked daily and according to the GoDaddy report 90% of hacked websites in 2019 were running WordPress CMS. In this talk you will learn about several vulnerabilities and methods used to hack into WordPress websites (including live demo) and some of the mitigations and methods you can use to improve the security of your WordPress-based websites.
