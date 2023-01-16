@@ -61,6 +61,23 @@ paginate = 10
     weight = 40
 
 [[menu.main]]
+    name = "Dec 2022"
+    identifier = "event-dec-2022"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 30
+    url = "/sessions/2022/mini-summits/dec/"
+
+
+[[menu.main]]
+    name = "Sep 2022"
+    identifier = "event-sep-2022"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 31
+    url = "/sessions/2022/mini-summits/sep/"
+
+[[menu.main]]
     name = "Jul 2022"
     identifier = "event-jul-2022"
     parent = "past-summits"
@@ -173,23 +190,7 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 46
     url = "/sessions/2020/mini-summits/oct/"
-    
 
-[[menu.main]]
-    name = "Sep 2022"
-    identifier = "event-sep-2022"
-    parent = "past-summits"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 47
-    url = "/sessions/2022/mini-summits/sep/"
-
-[[menu.main]]
-    name = "Dec 2022"
-    identifier = "event-dec-2022"
-    parent = "past-summits"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 48
-    url = "/sessions/2022/mini-summits/dec/"
 
 #### Future EVENTS ####
 
@@ -199,8 +200,6 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 60
 
-
-
 [[menu.main]]
     name = "Feb 2023"
     identifier = "event-feb-2023"
@@ -209,6 +208,21 @@ paginate = 10
     weight = 61
     url = "/sessions/2023/mini-summits/feb/"
 
+[[menu.main]]
+    name = "Apr 2023"
+    identifier = "event-apr-2023"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 62
+    url = "/sessions/2023/mini-summits/apr/"
+
+[[menu.main]]
+    name = "Jun 2023"
+    identifier = "event-jun-2023"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 64
+    url = "/sessions/2023/mini-summits/jun/"
 
 
 [[menu.main]]

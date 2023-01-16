@@ -6,6 +6,6 @@ month        : Feb
 organizers   :
 ---
 
-Here are the sessions that were scheduled during the virtual event to be hosted in January 2023
+Here are the sessions that were scheduled during the virtual event to be hosted in February 2023
 
 Check the sessions pages for the slides and videos
