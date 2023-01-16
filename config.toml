@@ -173,6 +173,23 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 46
     url = "/sessions/2020/mini-summits/oct/"
+    
+
+[[menu.main]]
+    name = "Sep 2022"
+    identifier = "event-sep-2022"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 47
+    url = "/sessions/2022/mini-summits/sep/"
+
+[[menu.main]]
+    name = "Dec 2022"
+    identifier = "event-nov-2022"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 48
+    url = "/sessions/2022/mini-summits/dec/"
 
 #### Future EVENTS ####
 
@@ -180,24 +197,17 @@ paginate = 10
     name = "Future Summits"
     identifier = "future-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 45
+    weight = 60
 
 
-[[menu.main]]
-    name = "Sep 2022"
-    identifier = "event-sep-2022"
-    parent = "future-summits"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 36
-    url = "/sessions/2022/mini-summits/sep/"
 
 [[menu.main]]
-    name = "Nov 2022"
+    name = "Feb 2023"
     identifier = "event-nov-2022"
     parent = "future-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 37
-    url = "/sessions/2022/mini-summits/nov/"
+    weight = 61
+    url = "/sessions/2023/mini-summits/feb/"
 
 
 
@@ -205,27 +215,27 @@ paginate = 10
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 47
+    weight = 71
     url = "/about/"
 
 [[menu.main]]
     name = "The Summit"
     identifier = "about-the-summit"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 48
+    weight = 75
     parent = "about"
     url = "/about/"
 [[menu.main]]
     name = "Faq"
     identifier = "faq"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 49
+    weight = 80
     parent = "about"
     url = "/faq/"
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
-    weight = 50
+    weight = 90
     pre = "<i class='fa fa-road'></i>&nbsp;"
     url = "/sponsors/"
     parent = "about"
