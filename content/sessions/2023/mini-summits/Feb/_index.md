@@ -1,8 +1,8 @@
 ---
 title        : Mini-Summit Feb 2023
 layout       : mini-summit
-year         : 2022
-month        : Jan
+year         : 2023
+month        : Feb
 organizers   :
 ---
 
