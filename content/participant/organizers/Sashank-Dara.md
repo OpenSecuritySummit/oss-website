@@ -11,3 +11,6 @@ notes:
 status: 
 type: participant
 ---
+
+## About
+Dr. Sashank Dara has been working in this space(OSIRU) of cyber risk management since past 5 years as a part of the start up Seconize , and has cofounded. Would be glad to share his learnings, failures, successes and lessons learnt as part of this journey. Especially on automating risk mapping, Trying AI/ML and burning fingers in doing so and some successes in risk scoring 
