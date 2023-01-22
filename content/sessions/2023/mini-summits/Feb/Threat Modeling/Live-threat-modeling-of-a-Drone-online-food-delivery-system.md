@@ -1,5 +1,5 @@
 ---
-title        : "Live threat modeling of a "Drone online food delivery" system"
+title        : Live threat modeling of a "Drone online food delivery" system"
 track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
