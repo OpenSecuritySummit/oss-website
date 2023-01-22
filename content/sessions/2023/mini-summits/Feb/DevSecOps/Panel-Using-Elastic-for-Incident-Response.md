@@ -14,6 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
+      - Dinis Cruz
 youtube_link :
 zoom_link    :
 ---
