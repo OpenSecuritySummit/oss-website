@@ -14,6 +14,8 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
+       - Sashank Dara
+       - Dinis Cruz
 youtube_link :
 zoom_link    :
 ---
