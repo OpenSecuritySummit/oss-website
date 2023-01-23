@@ -16,6 +16,7 @@ description  :
 organizers   :
     - Dinis Cruz
     - Sheetal Joseph
+    - Abbas Haidar
 youtube_link :
 zoom_link    :
 ---
