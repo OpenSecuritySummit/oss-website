@@ -15,6 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Dinis Cruz
+    - Sheetal Joseph
 youtube_link :
 zoom_link    :
 ---
