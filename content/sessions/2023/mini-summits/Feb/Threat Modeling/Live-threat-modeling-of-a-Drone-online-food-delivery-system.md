@@ -18,7 +18,7 @@ organizers   :
     - Luis Servin
    
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZIkf-ihpjIoHdP1tDJxstsXuuQBS9dYOl46
 session_slides:
 ---
 
