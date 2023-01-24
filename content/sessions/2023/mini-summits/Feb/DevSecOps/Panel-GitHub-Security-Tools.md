@@ -15,7 +15,7 @@ session_slack:
 description  :
 organizers   :
 youtube_link :
-zoom_link    :
+zoom_link    : https://us06web.zoom.us/meeting/register/tZIuceigqj4sHdzP_YVNyxMZFTCSUttvBoTj
 ---
 
 ## About this session
