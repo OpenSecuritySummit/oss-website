@@ -9,7 +9,7 @@ when_year    : 2023
 when_month   : Feb
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcrf-mhrzwvHtAgtgB4kWBa2Y24gcuvZJFa
 session_slack:
 #status       : draft
 description  :
