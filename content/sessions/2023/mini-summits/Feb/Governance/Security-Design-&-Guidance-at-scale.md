@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Feb
 when_day     : Wed
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZIsceurqDIpHN3a1MbKkkAPCsy_wS98dYP3
 banner       : 
 #status      : 
 description  :
@@ -18,7 +18,7 @@ organizers   :
     - Nielet Dmello
        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZIsceurqDIpHN3a1MbKkkAPCsy_wS98dYP3
 session_slides:
 ---
 
