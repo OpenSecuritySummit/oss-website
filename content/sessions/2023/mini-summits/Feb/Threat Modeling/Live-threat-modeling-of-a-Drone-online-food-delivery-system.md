@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Feb
 when_day     : Wed
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZIkf-ihpjIoHdP1tDJxstsXuuQBS9dYOl46
 banner       : 
 #status      : 
 description  :
