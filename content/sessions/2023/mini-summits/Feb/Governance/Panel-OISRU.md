@@ -17,7 +17,7 @@ organizers   :
        - Sashank Dara
        - Dinis Cruz
 youtube_link :
-zoom_link    :
+zoom_link    : https://us06web.zoom.us/meeting/register/tZModeypqzgoHtSdQvwXCx0kvCjv7IPZ-9zg
 ---
 
 ## About this session
