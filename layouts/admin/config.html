@@ -7,7 +7,13 @@
         BuildDate    : {{ hugo.BuildDate    }}
         IsProduction : {{ hugo.IsProduction }}</pre>
 
-{{/*    <h3>Page details</h3>
+    <h3>Site Params</h3>
+    <pre>{{range $key, $value := .Site.Params}}
+        <b>{{ $key}}</b> : {{$value}}
+    {{- end -}}</pre>
+{{/*
+
+<h3>Page details</h3>
         <pre>
             -----
 {{ . | jsonify (dict "indent" " ") }}

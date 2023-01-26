@@ -1,0 +1,39 @@
+baseurl                 = "https://open-security-summit.org/"
+title                   = "Open Security Summit"
+#theme                   = "oss-owasp"
+theme                   = "hugo-universal"
+languageCode            = "en-us"
+defaultContentLanguage  = "en"
+googleAnalytics         = "UA-97001849-2"
+enableGitInfo           = true
+preserveTaxonomyNames   = true
+nextSummerYear          = 2022
+#disableKinds            = ["taxonomy"]
+pluralizelisttitles     = false
+
+# Define the number of posts per page
+paginate = 10
+
+
+
+[taxonomies]
+  category = "topics"
+
+#[params]
+
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+[outputs]
+home = [ "HTML", "Algolia"]
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]

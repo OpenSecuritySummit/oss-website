@@ -1,35 +1,18 @@
-baseurl                 = "https://open-security-summit.org/"
-title                   = "Open Security Summit"
-theme                   = "oss-owasp"
-languageCode            = "en-us"
-defaultContentLanguage  = "en"
-googleAnalytics         = "UA-97001849-2"
-enableGitInfo           = true
-preserveTaxonomyNames   = true
-nextSummerYear          = 2022
-#disableKinds            = ["taxonomy"]
-pluralizelisttitles     = false
-
-# Define the number of posts per page
-paginate = 10
-
-[menu]
-
-[[menu.main]]
+[[main]]
     name = "Search"
     identifier = "search"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 8
     url = "/search"
 
-[[menu.main]]
+[[main]]
     name = "Projects"
     identifier = "projects"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 10
     url = "/projects"
 
-[[menu.main]]
+[[main]]
     name = "Schedule"
     identifier = "schedule"
     pre = "<i class='fa fa-road'></i>&nbsp;"
@@ -37,14 +20,14 @@ paginate = 10
 #    parent = "sessions"
     url = "/schedule"
 
-[[menu.main]]
+[[main]]
     name = "Members"
     identifier = "members"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 30
     url = "/membership/"
 
-#[[menu.main]]
+#[[main]]
 #    name = "Tracks"
 #    identifier = "tracks"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
@@ -55,13 +38,13 @@ paginate = 10
 
 
 
-[[menu.main]]
+[[main]]
     name = "Past Summits"
     identifier = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 40
 
-[[menu.main]]
+[[main]]
     name = "Dec 2022"
     identifier = "event-dec-2022"
     parent = "past-summits"
@@ -70,7 +53,7 @@ paginate = 10
     url = "/sessions/2022/mini-summits/dec/"
 
 
-[[menu.main]]
+[[main]]
     name = "Sep 2022"
     identifier = "event-sep-2022"
     parent = "past-summits"
@@ -78,7 +61,7 @@ paginate = 10
     weight = 31
     url = "/sessions/2022/mini-summits/sep/"
 
-[[menu.main]]
+[[main]]
     name = "Jul 2022"
     identifier = "event-jul-2022"
     parent = "past-summits"
@@ -87,7 +70,7 @@ paginate = 10
     url = "/sessions/2022/mini-summits/jul/"
 
 
-[[menu.main]]
+[[main]]
     name = "May 2022"
     identifier = "event-may-2022"
     parent = "past-summits"
@@ -95,7 +78,7 @@ paginate = 10
     weight = 34
     url = "/sessions/2022/mini-summits/may/"
 
-[[menu.main]]
+[[main]]
     name = "Mar 2022"
     identifier = "event-mar-2022"
     parent = "past-summits"
@@ -104,7 +87,7 @@ paginate = 10
     url = "/sessions/2022/mini-summits/mar/"
 
 
-[[menu.main]]
+[[main]]
     name = "Jan 2022"
     identifier = "event-jan-2022"
     parent = "past-summits"
@@ -112,7 +95,7 @@ paginate = 10
     weight = 36
     url = "/sessions/2022/mini-summits/jan/"
 
-[[menu.main]]
+[[main]]
     name = "Nov 2021"
     identifier = "event-nov-2021"
     parent = "past-summits"
@@ -120,7 +103,7 @@ paginate = 10
     weight = 37
     url = "/sessions/2021/mini-summits/nov/"
 
-[[menu.main]]
+[[main]]
     name = "Sep 2021"
     identifier = "event-sep-2021"
     parent = "past-summits"
@@ -128,7 +111,7 @@ paginate = 10
     weight = 38
     url = "/sessions/2021/mini-summits/sep/"
 
-[[menu.main]]
+[[main]]
     name = "Jun 2021"
     identifier = "event-jun-2021"
     parent = "past-summits"
@@ -136,7 +119,7 @@ paginate = 10
     weight = 39
     url = "/sessions/2021/mini-summits/jun/"
 
-[[menu.main]]
+[[main]]
     name = "May 2021"
     identifier = "event-may-2021"
     parent = "past-summits"
@@ -144,7 +127,7 @@ paginate = 10
     weight = 40
     url = "/sessions/2021/mini-summits/may/"
 
-[[menu.main]]
+[[main]]
     name = "Apr 2021"
     identifier = "event-apr-2021"
     parent = "past-summits"
@@ -152,7 +135,7 @@ paginate = 10
     weight = 41
     url = "/sessions/2021/mini-summits/apr/"
 
-[[menu.main]]
+[[main]]
     name = "Mar 2021"
     identifier = "event-mar-2021"
     parent = "past-summits"
@@ -160,7 +143,7 @@ paginate = 10
     weight = 42
     url = "/sessions/2021/mini-summits/mar/"
 
-[[menu.main]]
+[[main]]
     name = "Jan 2021"
     identifier = "event-jan-2021"
     parent = "past-summits"
@@ -168,7 +151,7 @@ paginate = 10
     weight = 43
     url = "/sessions/2021/mini-summits/jan/"
 
-[[menu.main]]
+[[main]]
     name = "Dec 2020"
     identifier = "event-dec-2020"
     parent = "past-summits"
@@ -176,7 +159,7 @@ paginate = 10
     weight = 44
     url = "/sessions/2020/mini-summits/dec/"
 
-[[menu.main]]
+[[main]]
     name = "Nov 2020"
     identifier = "event-nov-2020"
     parent = "past-summits"
@@ -184,7 +167,7 @@ paginate = 10
     weight = 45
     url = "/sessions/2020/mini-summits/nov/"
 
-[[menu.main]]
+[[main]]
     name = "Oct 2020"
     identifier = "event-ot-2020"
     parent = "past-summits"
@@ -195,13 +178,13 @@ paginate = 10
 
 #### Future EVENTS ####
 
-[[menu.main]]
+[[main]]
     name = "Future Summits"
     identifier = "future-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 60
 
-[[menu.main]]
+[[main]]
     name = "Feb 2023"
     identifier = "event-feb-2023"
     parent = "future-summits"
@@ -209,7 +192,7 @@ paginate = 10
     weight = 61
     url = "/sessions/2023/mini-summits/feb/"
 
-[[menu.main]]
+[[main]]
     name = "Apr 2023"
     identifier = "event-apr-2023"
     parent = "future-summits"
@@ -217,7 +200,7 @@ paginate = 10
     weight = 62
     url = "/sessions/2023/mini-summits/apr/"
 
-[[menu.main]]
+[[main]]
     name = "Jun 2023"
     identifier = "event-jun-2023"
     parent = "future-summits"
@@ -226,28 +209,28 @@ paginate = 10
     url = "/sessions/2023/mini-summits/jun/"
 
 
-[[menu.main]]
+[[main]]
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 71
     url = "/about/"
 
-[[menu.main]]
+[[main]]
     name = "The Summit"
     identifier = "about-the-summit"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 75
     parent = "about"
     url = "/about/"
-[[menu.main]]
+[[main]]
     name = "Faq"
     identifier = "faq"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 80
     parent = "about"
     url = "/faq/"
-[[menu.main]]
+[[main]]
     name = "Sponsors"
     identifier = "sponsors"
     weight = 90
@@ -259,25 +242,25 @@ paginate = 10
 ### OLD menus
 
 # Main menu
-#[[menu.main]]
+#[[main]]
 #    name = "Reactions"
 #    identifier = "reactions"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 1
 #    url = "/Reactions"
-#[[menu.main]]
+#[[main]]
 #    name = "Outcomes"
 #    identifier = "outcomes"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 2
 #    url = "/outcomes/"
-#[[menu.main]]
+#[[main]]
 #    name = "Video"
 #    identifier = "Video"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 8
 #    url = "/video/"
-#[[menu.main]]
+#[[main]]
 #    name = "Merchandise"
 #    identifier = "Merchandise"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
@@ -289,21 +272,21 @@ paginate = 10
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 8
 #    url = "/photo-gallery/"
-#[[menu.main]]
+#[[main]]
 #    name = "Sessions"
 #    identifier = "sessions"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 3
 #    url = "/working-sessions/"
 
-#[[menu.main]]
+#[[main]]
 #    name = "Trainings"
 #    identifier = "training"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 4
 #    url = "/training/"
 
-#[[menu.main]]
+#[[main]]
 #    name = "Topics"
 #    identifier = "topics"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
@@ -311,49 +294,49 @@ paginate = 10
 ##    parent = "sessions"
 #    url = "/topics/"
 
-#[[menu.main]]
+#[[main]]
 #    name = "Working Sessions"
 #    identifier = "working-sessions"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 5
 #    parent = "sessions"
 #    url = "/working-sessions/"
-#[[menu.main]]
+#[[main]]
 #    name = "User Sessions"
 #    identifier = "user-sessions"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 ###    weight = 16
 #    parent = "sessions"
 #    url = "/user-sessions/"
-#[[menu.main]]
+#[[main]]
 #    name = "Teams"
 #    identifier = "teams"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 17
 #    parent = "sessions"
 #    url = "/teams"
-#[[menu.main]]
+#[[main]]
 #    name = "Product Sessions"
 #    identifier = "product-sessions"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 18
 #    parent = "sessions"
 #    url = "/product-sessions"
-#[[menu.main]]
+#[[main]]
 #    name = "Participants"
 #    identifier = "participants"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 7
 #    url = "/participant/"
 #    parent = "about"
-#[[menu.main]]
+#[[main]]
 #    name = "Onsite Participants"
 #    identifier = "onsite-participants"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 13
 #    parent = "participants"
 #    url = "/participant/"
-#[[menu.main]]
+#[[main]]
 #    name = "Remote Participants"
 #    identifier = "Remote-participants"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
@@ -361,7 +344,7 @@ paginate = 10
 #    parent = "participants"
 #    url = "/participant-remote/"
 
-#[[menu.main]]
+#[[main]]
 #    name = "Venue"
 #    identifier = "venue"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
@@ -369,14 +352,14 @@ paginate = 10
 #    parent = "about"
 #    url = "/venue/"
 
-#[[menu.main]]
+#[[main]]
 #    name = "Partners"
 #    identifier = "partners"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 21
 #    parent = "about"
 #    url = "/partners"
-#[[menu.main]]
+#[[main]]
 #    name = "Tickets"
 #    identifier = "tickets"
 #    pre = "<i class='fa fa-ticket'></i>&nbsp;"
@@ -385,166 +368,27 @@ paginate = 10
 
 
 # Top bar social links menu
-[[menu.topbar]]
+[[topbar]]
     weight = 1
     name = "Twitter"
     url = "https://twitter.com/opensecsummit"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
+[[topbar]]
     weight = 2
     name = "GitHub"
     url = "https://github.com/OpenSecuritySummit/oss2021"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
-[[menu.topbar]]
+[[topbar]]
     weight = 3
     name = "Slack"
     url = "https://join.slack.com/t/os-summit/shared_invite/zt-eptzb479-POZlYeYI1vaNNZzVatF2ag"
     pre = "<i class='fa fa-2x fa-slack'></i>"
 
-[[menu.topbar]]
+[[topbar]]
     weight = 4
     name = "Youtube"
     url = "https://www.youtube.com/channel/UCyse9b_2JLJUxKMLgSpOL-Q/"
     pre = "<i class='fa fa-2x fa-youtube'></i>"
 
-[taxonomies]
-  category = "topics"
-
-[params]
-    viewMorePostLink = "/blog/"
-    author = "OSS"
-    defaultKeywords = ["open", "summit", "security"]
-    defaultDescription = "The Open Security Summit is focused on the collaboration between Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
-    ghRepo = "https://github.com/OpenSecuritySummit/oss2021/"
-    slackInviteLink = "https://join.slack.com/t/os-summit/shared_invite/zt-eptzb479-POZlYeYI1vaNNZzVatF2ag"
-    youtubeLink = "https://www.youtube.com/channel/UCyse9b_2JLJUxKMLgSpOL-Q/"
-
-    # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
-
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "green"
-
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    #
-    # Enable the contact form by entering your Formspree.io email
-    email = "info@opensecsummit.org"
-
-    about_us = "The Open Security Summit is focused on the collaboration between, Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
-    copyright = ""
-    help_center = """<a href="https://os-summit.slack.com/messages/CAVJH8QJV" target="blank">Do you need help <i class="fa fa-question-circle" aria-hidden="true"></i></a>"""
-
-    # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
-
-    # This should be changed each edition
-    summit_edition = "2022"
-
-    logo = "img/logo.png"
-    address = """Crown House, 27 Old Gloucester Street, London, WC1N 3AX, United Kingdom.
-[info@opensecsummit.org](mailto:info@opensecsummit.org)
-              """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
-
-[Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
-
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = false
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = true
-    tags = false
-    search = true
-
-[params.carousel]
-    enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
-
-[params.features]
-    enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
-
-[params.testimonials]
-    enable = false
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
-
-[params.see_more]
-    enable = false
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
-
-[params.sponsors]
-    enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
-    title = "Our Sponsors"
-    subtitle = ""
-
-[params.featured]
-    # Change this for listing featured in the home pages
-    enable = true
-    size = 4
-
-
-
-[params.recent_posts]
-    enable = false
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend."
-
-
-#[outputs]
-#  home = ["HTML", "JSON", "RSS"]
-#  page = ["HTML", "JSON"]
-#  section = ["HTML", "JSON"]
-#  list = ["JSON"]
-
-#[outputFormats]
-#  [outputFormats.json]
-#    path = "api"
-
-[outputs]
-home = [ "HTML", "Algolia"]
-
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
-
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
