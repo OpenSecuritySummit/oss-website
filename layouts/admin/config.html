@@ -5,10 +5,9 @@
         Environment  : {{ hugo.Environment  }}
         Commit Hash  : {{ hugo.CommitHash   }}
         BuildDate    : {{ hugo.BuildDate    }}
-        IsProduction : {{ hugo.IsProduction }}
+        IsProduction : {{ hugo.IsProduction }}</pre>
 
-    </pre>
-    <h3>Page details</h3>
+{{/*    <h3>Page details</h3>
         <pre>
             -----
 {{ . | jsonify (dict "indent" " ") }}
@@ -16,6 +15,7 @@
             {{ printf "%#v" .}}
 
         </pre>
+*/}}
         Hugo Version: {{ hugo.CommitHash }}
 
     <pre>{{ partial "json/page-details.html" .}}</pre>
