@@ -15,6 +15,7 @@ session_slack:
 description  :
 organizers   :
        - Nathan Case
+       
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYof-6rpjssGt2AmxTbTeV_yJlXE5TwvxRC
 ---
 
