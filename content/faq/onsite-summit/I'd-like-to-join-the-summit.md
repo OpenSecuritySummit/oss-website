@@ -21,10 +21,10 @@ The Summit team cannot help you find off-site accomodation.
 ### How can I register as a participant?
 
   - [Order your ticket]({{< ref "/tickets.md" >}}) (note: remote participants MUST register on Eventbrite)
-  - Create your [participant page]({{< ref "/faq/registration-info.md" >}})
+  - Create your [participant page]({{< ref "/faq/onsite-summit/registration-info.md" >}})
   - Find sessions that interest you in the schedule
-  - [Register]({{< ref "/faq/registration-info.md" >}}) yourself to to attend your chosen sessions
-If you need any assistance you can reach us in Slack or find more details about how you can get help [here]({{< ref "/faq/I-need-help.md" >}}).
+  - [Register]({{< ref "/faq/onsite-summit/registration-info.md" >}}) yourself to to attend your chosen sessions
+If you need any assistance you can reach us in Slack or find more details about how you can get help [here]({{< ref "/faq/onsite-summit/I-need-help.md" >}}).
 
 ### How do I join a team?
 

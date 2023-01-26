@@ -9,12 +9,12 @@
     {{ end }}
 {{ end }}
 
-{{ if $this.Scratch.Get "has-session" }}
+{{/* if $this.Scratch.Get "has-session" */}}
 
     <div class="schedule-day-block">
         <p class="schedule-day">{{ .day }} - {{.date}} {{.month}} </p>
         {{ range sort .sessions ".Params.when_time"}}
-            {{ if .Params.hey_summit}}
+            {{/* if .Params.hey_summit*/}}
 
                 {{ $when_time := index $this.Site.Data.schedule.times .Params.when_time }}
                 {{ $organizers := partial "params/organizers.html" . }}
@@ -47,7 +47,7 @@
                     </a>
                 </div>
             {{ end }}
-        {{ end }}
+        {{/* end */}}
     </div>
 
-{{ end }}
+{{/* end */}}

@@ -4,7 +4,7 @@ layout      : FAQ
 ---
 
 ### 1.    How do I add sessions to my schedule?
-Click the "edit" button at the bottom of your chosen workshop page to add your name to your preferred sessions. There are many workshops, to keep track of your sign-ups, access your [personal schedule]({{< ref "/faq/registration-info.md" >}}).
+Click the "edit" button at the bottom of your chosen workshop page to add your name to your preferred sessions. There are many workshops, to keep track of your sign-ups, access your [personal schedule]({{< ref "/faq/onsite-summit/registration-info.md" >}}).
 
 ### 2.    What are dynamic sessions?
 Dynamic sessions take place over dinner, the topics are scheduled to particular tables. No deliverables are expected.  

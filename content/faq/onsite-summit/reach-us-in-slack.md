@@ -9,4 +9,4 @@ layout      : FAQ
 <img src="/img/pages/slack_channels.png" alt="slack" style="width: 180px;"/><br/>
 4. Search for channels that you are interested in joining 
 
-Check out this [help guide](({{< ref "/faq/I-need-help.md" >}})) for more information on using slack at the summit.
+Check out this [help guide](({{< ref "/faq/onsite-summit/I-need-help.md" >}})) for more information on using slack at the summit.

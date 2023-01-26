@@ -11,7 +11,7 @@ OSS is returning to [Woburn Forest Center Parks](https://www.centerparcs.co.uk/d
 
 ## Arriving at the venue
 
-If you have questions about getting to the venue then check the [FAQ](/content/faq/Transport-and-Directions.md)
+If you have questions about getting to the venue then check the [FAQ](/content/faq/onsite-summit/Transport-and-Directions.md)
 
 ## Checking in
 

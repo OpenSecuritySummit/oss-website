@@ -10,12 +10,12 @@ Thank you for your interest in Open Security Summit 2020 (OSS 2020).
 The attendee general flow (attendee journey) is as follows;
 
 1. [Buy a ticket ]({{< ref "/tickets.md" >}}) Remote participants should also register using EventBrite.
-2. Create [personal participant page]({{< ref "/faq/registration-info.md" >}}) 
+2. Create [personal participant page]({{< ref "/faq/onsite-summit/registration-info.md" >}}) 
 3. Find sessions that you are interested in by viewing the [topic index](https://open-security-summit.org/topics), [tracks view](https://open-security-summit.org/tracks)
  or just simply list [working](https://open-security-summit.org/working-sessions), [user](https://open-security-summit.org/user-sessions) or [product](https://open-security-summit.org/product-sessions) sessions.
-4. [Register]({{< ref "/faq/registration-info.md" >}}) to attend a session.
+4. [Register]({{< ref "/faq/onsite-summit/registration-info.md" >}}) to attend a session.
 
-If you need any assistance you can reach us in [Slack](https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc) or find more details about how you can get help [here]({{< ref "/faq/I-need-help.md" >}}).
+If you need any assistance you can reach us in [Slack](https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc) or find more details about how you can get help [here]({{< ref "/faq/onsite-summit/I-need-help.md" >}}).
 
 <p style="text-align: center;"><img src="/img/pages/attendee_journey.png" alt="Attendee Journey" style="width: 70%;"/></p>
 
@@ -82,7 +82,7 @@ This is the villa set up:
 ### Collaborations Around the Clock
 The key to the Summit dynamic is in its villas where you can interact with other participants on your own schedule around the clock. To this end, the Venue is organized into a series of villas that are supplemented by the conference centre (conveniently named The Venue). The villas will serve the dual purpose of accommodation as well as locations for the more informal evening sessions. Some venues will also serve as locations for standard working sessions (these will be marked on the schedule).
 
-### Accommodation ([FAQ]({{< ref "/faq/Accommodation.md" >}}))
+### Accommodation ([FAQ]({{< ref "/faq/onsite-summit/Accommodation.md" >}}))
 When you arrive at Woburn Forest Center Parcs proceed to the conference centre (conveniently called The Venue), you will receive your house key and accommodation information package upon registering. Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide the room arrangements with your housemates.
 
 ### General Housekeeping
