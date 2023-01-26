@@ -11,9 +11,10 @@ when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : https://us06web.zoom.us/meeting/register/tZEufuirqj0sGtDhBcH8nQtF8g99BG2ABWLy
 session_slack:
+organizers   :
+       - Nathan Case
 #status       : draft
 description  :
-organizers   :
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZEufuirqj0sGtDhBcH8nQtF8g99BG2ABWLy
 ---
