@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Feb
 when_day     : Fri
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZAsdeqopjwjHdEmoDtOjAwYV8KIE1KK2t-2
 banner       : 
 #status      : 
 description  :
@@ -18,7 +18,7 @@ organizers   :
     - Jakub Kaluzny
        
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZAsdeqopjwjHdEmoDtOjAwYV8KIE1KK2t-2
 session_slides:
 ---
 
