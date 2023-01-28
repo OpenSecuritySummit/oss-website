@@ -17,6 +17,7 @@ organizers   :
     - Dinis Cruz
     - Sheetal Joseph
     - Abbas Haidar
+    - Tim Ward
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcrf-CoqzwtGtYIggPcQ178J8F7bTi80Arq
 ---
