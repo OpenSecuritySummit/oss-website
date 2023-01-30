@@ -1,6 +1,6 @@
 ---
 title    : About Virtual Sessions
-#layout   : about
+layout   : about
 ---
 
 

@@ -1,11 +1,11 @@
 import numpy  as np
 import pandas as pd
-import qgrid
+#import qgrid
 from pbx_gs_python_utils.utils.Files import Files
 from oss_hugo.Files_Utils import Files_Utils
 
 from oss_hugo.Hugo_Page import Hugo_Page
-from oss_hugo.OSS_GSheet_Data import OSS_GSheet_Data
+#from oss_hugo.OSS_GSheet_Data import OSS_GSheet_Data
 from oss_hugo.OSS_Participant import OSS_Participant
 from oss_hugo.OSS_Session import OSS_Session
 
@@ -119,9 +119,9 @@ class API_Hugo_OSS:
         df['organizers'] = df['organizers'].apply(lambda x: x.split(',') if type(x) is str else x)
         return df
 
-    def qgrid_merged_gsheet_and_hugo_data(self,reload=False):
-        df_both = self.df_merged_gsheet_and_hugo_data(reload)
-        return qgrid.show_grid(df_both)
-
-    def qgrid_participants(self,columns=None):
-        return qgrid.show_grid(self.df_participants(columns))
+    # def qgrid_merged_gsheet_and_hugo_data(self,reload=False):
+    #     df_both = self.df_merged_gsheet_and_hugo_data(reload)
+    #     return qgrid.show_grid(df_both)
+    #
+    # def qgrid_participants(self,columns=None):
+    #     return qgrid.show_grid(self.df_participants(columns))
