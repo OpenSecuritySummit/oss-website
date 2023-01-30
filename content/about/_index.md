@@ -1,8 +1,9 @@
 ---
-title             : The Previous Summit (OWASP Summit 2017)
-layout            : about2017
-manage-container  : true
+title    : About
+layout   : about
 ---
+
+# What was it like at the OnSite Summit
 
 {{< load-photoswipe >}}
 
@@ -34,4 +35,4 @@ manage-container  : true
   {{< figure link="/img/summit2017/owasp-summit-2017-(15).jpg" caption="BBQ Masters" >}}
   {{< figure link="/img/summit2017/owasp-summit-2017-(16).jpg" caption="OWASP Summit 2017 participants" >}}
 
-{{< /gallery >}}
+{{< /gallery >}} 
