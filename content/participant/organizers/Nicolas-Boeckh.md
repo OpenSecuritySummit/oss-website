@@ -1,5 +1,5 @@
 ---
-title: Nicolas Boeckh
+title: Maya Boeckh
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/nicholasboekh.png?raw=true
 company: 
 job_title: 
