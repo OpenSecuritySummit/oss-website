@@ -1,5 +1,5 @@
 ---
-title        : "How we built a security automation software utilizing open-source components (Betterscan.io)" 
+title        : "How we build a security automation software utilizing open-source components (Betterscan.io)" 
 track        : DevSecOps
 type         : working-session
 topics       :
