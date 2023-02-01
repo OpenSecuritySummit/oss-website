@@ -15,7 +15,7 @@ session_slack:
 description  :
 organizers   :
    - Dinis Cruz
-   - Danusia Rolewicz
+   - Eunice Hammond-Mørklid 
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIkf-ivqTIsGdauvUAklBL3l5k1MxBo6rO7
 ---
