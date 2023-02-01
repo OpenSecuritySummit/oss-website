@@ -16,6 +16,7 @@ description  :
 organizers   :
       - Dinis Cruz
       - Rakesh Elamaran
+      - Ayse Vlok
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0uduitpj8tE9KWHGTBm-juMcWVnvT3jMYH
 ---
