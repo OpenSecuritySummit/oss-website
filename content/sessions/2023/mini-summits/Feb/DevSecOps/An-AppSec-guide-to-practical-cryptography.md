@@ -9,14 +9,14 @@ when_year    : 2023
 when_month   : Feb
 when_day     : Mon
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcoc-ivpz8sHteutRZoNy9gLqENS3Err6kr
 session_slack:
 #status       : draft
 description  :
 organizers   :
     - Larkins Carvalho
 youtube_link :
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcoc-ivpz8sHteutRZoNy9gLqENS3Err6kr
 ---
 
 ## About this session
