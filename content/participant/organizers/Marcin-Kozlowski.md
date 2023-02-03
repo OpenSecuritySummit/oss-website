@@ -1,6 +1,6 @@
 ---
 title: Marcin Kozlowski
-image: https://drive.google.com/file/d/1gB_SDMs3zmYnVNHiQ75EWAsAuDFHW-Sy/view
+image: https://drive.google.com/file/d/1sVZkviN60yO3kPkMtFbMjeiDYH3cjA5a/view?usp=sharing
 company: Betterscan.io
 job_title: IT Security
 facebook:
