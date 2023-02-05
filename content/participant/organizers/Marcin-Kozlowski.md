@@ -1,6 +1,6 @@
 ---
 title: Marcin Kozlowski
-image: https://drive.google.com/file/d/1sVZkviN60yO3kPkMtFbMjeiDYH3cjA5a/view?usp=sharing
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/marcin.jpg?raw=true
 company: Betterscan.io
 job_title: IT Security
 facebook:
