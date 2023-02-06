@@ -9,7 +9,7 @@ when_year    : 2023
 when_month   : Feb
 when_day     : Tue
 when_time    : WS-18-19
-hey_summit   : https://us06web.zoom.us/j/83380433393?pwd=TzEvckdOaDJPdi9EUGEwSGJ2YXZ5UT09
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcuf-msrTgpE9edsZM4rr_PI2Cf5Cqa-fsn
 banner       : 
 #status      : 
 description  :
@@ -17,7 +17,7 @@ organizers   :
     - Cristian Klein
        
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/j/83380433393?pwd=TzEvckdOaDJPdi9EUGEwSGJ2YXZ5UT09
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcuf-msrTgpE9edsZM4rr_PI2Cf5Cqa-fsn
 session_slides:
 ---
 
