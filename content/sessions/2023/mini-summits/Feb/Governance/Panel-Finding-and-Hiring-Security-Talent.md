@@ -17,6 +17,7 @@ organizers   :
    - Dinis Cruz
    - Eunice Hammond-Mørklid 
    - Michael Meaney
+   - Eliza-May Austin
    - Brian Hinojosa
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIkf-ivqTIsGdauvUAklBL3l5k1MxBo6rO7
