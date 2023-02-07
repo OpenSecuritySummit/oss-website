@@ -18,6 +18,7 @@ organizers   :
    - Eunice Hammond-Mørklid 
    - Michael Meaney
    - Brian Hinojosa
+   - "Eliza-May Austin"
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIkf-ivqTIsGdauvUAklBL3l5k1MxBo6rO7
 ---
