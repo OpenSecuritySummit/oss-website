@@ -14,7 +14,9 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-       - Github Team
+       - Dinis Cruz
+       - Eliza-May Austin
+       
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIuceigqj4sHdzP_YVNyxMZFTCSUttvBoTj
 ---
