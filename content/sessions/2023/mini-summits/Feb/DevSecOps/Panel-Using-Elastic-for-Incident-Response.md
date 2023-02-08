@@ -15,6 +15,7 @@ session_slack:
 description  :
 organizers   :
       - Dinis Cruz
+      - Eliza-May Austin
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZModu-pqTopHtZ1dxcTk0KcEvEI-mBY_BeS
 ---
