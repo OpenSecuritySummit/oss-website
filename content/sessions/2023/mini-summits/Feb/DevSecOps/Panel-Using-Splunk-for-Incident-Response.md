@@ -14,7 +14,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-       - Splunk Team
+       - Dinis Cruz
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZEufuirqj0sGtDhBcH8nQtF8g99BG2ABWLy
 ---
