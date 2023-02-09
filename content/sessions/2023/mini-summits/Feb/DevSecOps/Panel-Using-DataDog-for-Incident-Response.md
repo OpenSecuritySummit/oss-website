@@ -11,7 +11,7 @@ when_day     : Thu
 when_time    : WS-15-16
 organizers   : 
     - Nathan Case
-    - Laura De Vesine
+    - Laura de Vesine
     - Dinis Cruz
 hey_summit   : https://us06web.zoom.us/meeting/register/tZYof-6rpjssGt2AmxTbTeV_yJlXE5TwvxRC
 session_slack:
