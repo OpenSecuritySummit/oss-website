@@ -15,6 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Dinis Cruz
+    - Venkat Ramshet
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcrf-mhrzwvHtAgtgB4kWBa2Y24gcuvZJFa
 ---
