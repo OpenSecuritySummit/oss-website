@@ -1,12 +1,12 @@
 ---
 title: Simon Wardley
 image: https://pbs.twimg.com/profile_images/180727117/Simon_400x400.jpg
-company:
-job_title: Wardley Maps Creator
+company: DxC
+job_title: Researcher
 facebook:
 linkedin:
 twitter: swardley
-website: https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
+website: https://dxc.com/
 notes:
 status: add-details
 type: participant
