@@ -17,6 +17,7 @@ organizers   :
      - Dinis Cruz
      - Simon Wardley
      - Krzysztof Daniel
+     - Nick Harris
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcvce6tqjIjHdUo-Kx-fOGLaJN_Zpz2efKr
 ---
