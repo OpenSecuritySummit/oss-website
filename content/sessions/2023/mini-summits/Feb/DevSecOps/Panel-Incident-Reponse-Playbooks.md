@@ -17,6 +17,7 @@ organizers   :
     - Dinis Cruz
     - Eliza-May Austin
     - Venkat Ramshet
+    - Nick Harris
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0sdOigrTssH9DuLg2ym_SO1Mb2VSpPzn8L
 ---
