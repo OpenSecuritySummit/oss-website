@@ -13,6 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcvce6tqjIjHdUo-Kx-fOGL
 session_slack:
 #status       : draft
 description  :
+banner       : https://pbs.twimg.com/media/FonjT2QXsAUhAz9?format=jpg&name=medium
 organizers   :
      - Dinis Cruz
      - Simon Wardley
