@@ -1,5 +1,5 @@
 ---
-title: TIm Ward
+title: Tim Ward
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Tim%20Ward.jpg?raw=true
 company: Think Cyber Security Ltd
 job_title: CEO & Co-founder
