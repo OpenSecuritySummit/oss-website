@@ -13,7 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZwodeqprjMpH9FPunRNXCTe
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/FoDgyg9WYAIzbOc?format=jpg&name=medium
 organizers   :
    - Marcin Kozlowski
   
