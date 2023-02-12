@@ -11,7 +11,7 @@ when_month   : Feb
 when_day     : Thu
 when_time    : WS-18-19
 hey_summit   : https://us06web.zoom.us/meeting/register/tZ0qcuyqrTssHtVInAVIVGRanO71rWiRvWqv
-banner       : 
+banner       : https://pbs.twimg.com/media/FosWB4JWYAECXjv?format=jpg&name=900x900
 #status      : 
 description  :
 organizers   :
