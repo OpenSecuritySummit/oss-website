@@ -1,6 +1,6 @@
 ---
 title: Zachary Broomfield 
-image: 
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/ZacharyBroomfield.jpg?raw=true
 company: "LETS: Leadership & Effective Teamwork Strategies"
 job_title: Co-Founder
 facebook:
