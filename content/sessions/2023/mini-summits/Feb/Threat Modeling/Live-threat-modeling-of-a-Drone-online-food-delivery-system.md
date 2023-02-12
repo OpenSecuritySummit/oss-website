@@ -11,7 +11,7 @@ when_month   : Feb
 when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : https://us06web.zoom.us/meeting/register/tZIkf-ihpjIoHdP1tDJxstsXuuQBS9dYOl46
-banner       : 
+banner       : https://pbs.twimg.com/media/FnWGpOgWIAkPjcv?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
