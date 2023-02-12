@@ -13,6 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcrf-CoqzwtGtYIggPcQ178
 session_slack:
 #status       : draft
 description  :
+banner       : https://pbs.twimg.com/media/FotEewAWYAE67XD?format=jpg&name=900x900
 organizers   :
     - Dinis Cruz
     - Sheetal Joseph
