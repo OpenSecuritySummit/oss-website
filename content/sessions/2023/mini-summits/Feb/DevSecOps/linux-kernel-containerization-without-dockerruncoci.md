@@ -11,7 +11,7 @@ when_month   : Feb
 when_day     : Wed
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/linux-kernel-containerization-without-dockerruncoci/
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Frame%202%20(1).png?raw=true
+banner       : https://pbs.twimg.com/media/FnbNGcIXoBEZ_ET?format=jpg&name=medium
 session_slack:
 #status      : 
 description  :
