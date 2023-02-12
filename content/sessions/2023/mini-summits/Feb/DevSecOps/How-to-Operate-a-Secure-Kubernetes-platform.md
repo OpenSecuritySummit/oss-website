@@ -10,7 +10,7 @@ when_month   : Feb
 when_day     : Tue
 when_time    : WS-18-19
 hey_summit   : https://us06web.zoom.us/meeting/register/tZcuf-msrTgpE9edsZM4rr_PI2Cf5Cqa-fsn
-banner       : 
+banner       : https://pbs.twimg.com/media/FnWOf9qXkAACxl9?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
