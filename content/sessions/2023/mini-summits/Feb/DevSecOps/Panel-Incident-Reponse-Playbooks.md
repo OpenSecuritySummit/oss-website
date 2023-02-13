@@ -13,6 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0sdOigrTssH9DuLg2ym_SO
 session_slack:
 #status       : draft
 description  :
+banner       : https://pbs.twimg.com/media/Foy9OHZXsAYWWOT?format=jpg&name=medium
 organizers   :
     - Dinis Cruz
     - Eliza-May Austin
