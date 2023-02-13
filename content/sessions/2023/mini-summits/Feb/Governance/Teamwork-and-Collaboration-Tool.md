@@ -26,5 +26,4 @@ session_slides:
 
 
 ## About this session
-In this session, participants will work together to create a new idea for a startup company while using two evidence-based collaboration tools:
-team charters and situational awareness maps. 
+In this session, participants will redefine their understanding of teamwork and collaboration as they work through a collaborative exercise built on findings from the largest social-behavioral study of InfoSec teams. 
