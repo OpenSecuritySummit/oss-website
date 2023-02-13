@@ -19,7 +19,7 @@ organizers   :
     - Venkat Ramshet
     - Pratibha Malik
     - Nick Harris
-youtube_link :
+youtube_link : https://youtu.be/AFvb0s27yOM 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcrf-mhrzwvHtAgtgB4kWBa2Y24gcuvZJFa
 ---
 
