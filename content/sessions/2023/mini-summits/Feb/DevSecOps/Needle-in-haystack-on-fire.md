@@ -16,7 +16,7 @@ banner       :
 description  :
 organizers   :
     - Abbas Haidar
-    - Francesco Cippolone
+    - Francesco Cipollone
    
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcpdumtpzktG9A7woRHCKfzgpw5qKk4MG2i
