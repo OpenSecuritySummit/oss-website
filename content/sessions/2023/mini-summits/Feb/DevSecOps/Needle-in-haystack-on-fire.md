@@ -7,7 +7,7 @@ topics       : Vulnerability Management
 featured     :
 event        : mini-summit
 when_year    : 2023
-when_month   : Feb
+when_month   : Apr
 when_day     : Fri
 when_time    : WS-16-17
 hey_summit   : https://us06web.zoom.us/meeting/register/tZcpdumtpzktG9A7woRHCKfzgpw5qKk4MG2i
