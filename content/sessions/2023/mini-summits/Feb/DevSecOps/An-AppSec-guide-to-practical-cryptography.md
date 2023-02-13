@@ -16,7 +16,7 @@ description  :
 banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Feb/AppsecGuide%20Larkin.png?raw=true
 organizers   :
     - Larkins Carvalho
-youtube_link :
+youtube_link : https://youtu.be/hfnFVtknCjA 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcoc-ivpz8sHteutRZoNy9gLqENS3Err6kr
 ---
 
