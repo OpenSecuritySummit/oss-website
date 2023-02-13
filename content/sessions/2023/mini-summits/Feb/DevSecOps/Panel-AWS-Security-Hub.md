@@ -13,6 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0uduitpj8tE9KWHGTBm-ju
 session_slack:
 #status       : draft
 description  :
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Feb/AWS%20SECURITY%20HUB.png?raw=true
 organizers   :
       - Dinis Cruz
       - Ayse Vlok
