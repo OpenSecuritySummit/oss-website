@@ -17,7 +17,7 @@ banner       : https://pbs.twimg.com/media/FoDgyg9WYAIzbOc?format=jpg&name=mediu
 organizers   :
    - Marcin Kozlowski
   
-youtube_link :
+youtube_link : https://youtu.be/Ov02WwKAEyE
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwodeqprjMpH9FPunRNXCTeNF-NpYUW7WRD
 ---
 
