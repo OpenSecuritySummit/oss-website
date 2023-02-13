@@ -14,6 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcpdumtpzktG9A7woRHCKfz
 banner       : 
 #status      : 
 description  :
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Feb/Needle%20in%20the%20Haystack.png?raw=true
 organizers   :
     - Abbas Haidar
     - Francesco Cippolone
