@@ -17,6 +17,7 @@ banner       : https://pbs.twimg.com/media/FotW_GeWYAI6AJO?format=jpg&name=mediu
 organizers   :
     - Dinis Cruz
     - Venkat Ramshet
+    - Pratibha Malik
     - Nick Harris
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcrf-mhrzwvHtAgtgB4kWBa2Y24gcuvZJFa
