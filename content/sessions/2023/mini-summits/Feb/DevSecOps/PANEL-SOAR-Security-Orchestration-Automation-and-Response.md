@@ -13,7 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcrf-mhrzwvHtAgtgB4kWBa
 session_slack:
 #status       : draft
 description  :
-banner       : https://pbs.twimg.com/media/FotW_GeWYAI6AJO?format=jpg&name=medium
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Feb/SOAR.png?raw=true
 organizers   :
     - Dinis Cruz
     - Venkat Ramshet
