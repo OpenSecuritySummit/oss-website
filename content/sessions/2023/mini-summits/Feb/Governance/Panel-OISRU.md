@@ -18,7 +18,7 @@ organizers   :
        - Dinis Cruz
        - Eliza-May Austin
        - Puneet Ahuja
-youtube_link :
+youtube_link : https://youtu.be/3L4hTfrJMY0
 zoom_link    : https://us06web.zoom.us/meeting/register/tZModeypqzgoHtSdQvwXCx0kvCjv7IPZ-9zg
 ---
 
