@@ -16,7 +16,7 @@ description  :
 organizers   :
     - Cristian Klein
        
-youtube_link : 
+youtube_link : https://youtu.be/buu5FWc_lj0
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcuf-msrTgpE9edsZM4rr_PI2Cf5Cqa-fsn
 session_slides:
 ---
