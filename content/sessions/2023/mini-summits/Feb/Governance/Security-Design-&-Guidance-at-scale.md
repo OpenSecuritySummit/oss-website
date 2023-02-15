@@ -17,7 +17,7 @@ description  :
 organizers   :
     - Nielet Dmello
        
-youtube_link : 
+youtube_link : https://youtu.be/-zlqxmKexPY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIsceurqDIpHN3a1MbKkkAPCsy_wS98dYP3
 session_slides:
 ---
