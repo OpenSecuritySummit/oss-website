@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Feb
-when_day     : Wed
+when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/linux-kernel-containerization-without-dockerruncoci/
 banner       : https://pbs.twimg.com/media/FnbNGcIXoBEZ_ET?format=jpg&name=medium
