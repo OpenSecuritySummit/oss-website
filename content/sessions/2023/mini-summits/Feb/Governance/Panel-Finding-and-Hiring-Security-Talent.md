@@ -18,7 +18,7 @@ organizers   :
    - Michael Meaney
    - Eliza-May Austin
    - Brian Hinojosa
-youtube_link :
+youtube_link : https://youtu.be/LFyuDP5BT7A
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIkf-ivqTIsGdauvUAklBL3l5k1MxBo6rO7
 ---
 
