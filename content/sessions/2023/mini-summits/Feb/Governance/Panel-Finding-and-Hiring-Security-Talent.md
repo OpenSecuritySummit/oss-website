@@ -15,7 +15,6 @@ session_slack:
 description  :
 organizers   :
    - Dinis Cruz
-   - Eunice Hammond-Mørklid 
    - Michael Meaney
    - Eliza-May Austin
    - Brian Hinojosa
