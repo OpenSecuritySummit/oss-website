@@ -18,7 +18,7 @@ session_slack:
 #status       : draft
 description  :
 banner       : https://pbs.twimg.com/media/Foy9OHZXsAYWWOT?format=jpg&name=medium
-youtube_link :
+youtube_link : https://youtu.be/92KgyyiWkJY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYof-6rpjssGt2AmxTbTeV_yJlXE5TwvxRC
 
 ---
