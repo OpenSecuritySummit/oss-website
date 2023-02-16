@@ -17,6 +17,7 @@ organizers   :
        - Dinis Cruz
        - Eliza-May Austin
        - Chris Reddington
+       - Michael Meaney
        
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIuceigqj4sHdzP_YVNyxMZFTCSUttvBoTj
