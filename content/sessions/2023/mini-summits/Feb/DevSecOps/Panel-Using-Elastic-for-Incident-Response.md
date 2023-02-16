@@ -16,7 +16,7 @@ description  :
 organizers   :
       - Dinis Cruz
       - Eliza-May Austin
-youtube_link :
+youtube_link : https://youtu.be/GMCAPAe3_Is 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZModu-pqTopHtZ1dxcTk0KcEvEI-mBY_BeS
 ---
 
