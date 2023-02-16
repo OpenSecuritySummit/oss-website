@@ -19,7 +19,6 @@ organizers   :
       - Ayse Vlok
       - Rakesh Elamaran
       - Ola Oladapo
-      - Michael Meaney
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0uduitpj8tE9KWHGTBm-juMcWVnvT3jMYH
 ---
