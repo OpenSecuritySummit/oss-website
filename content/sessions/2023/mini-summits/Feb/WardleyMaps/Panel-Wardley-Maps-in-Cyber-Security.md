@@ -19,7 +19,7 @@ organizers   :
      - Simon Wardley
      - Krzysztof Daniel
      - Nick Harris
-youtube_link : 
+youtube_link : https://youtu.be/l59LK8246-s
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcvce6tqjIjHdUo-Kx-fOGLaJN_Zpz2efKr
 ---
 
