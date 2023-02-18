@@ -19,7 +19,7 @@ organizers   :
       - Ayse Vlok
       - Rakesh Elamaran
       - Ola Oladapo
-youtube_link :
+youtube_link : https://youtu.be/ATpODQvvXCo
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0uduitpj8tE9KWHGTBm-juMcWVnvT3jMYH
 ---
 
