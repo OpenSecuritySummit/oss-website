@@ -18,7 +18,7 @@ organizers   :
     - Dr Daniel Shore
     - Zachary Broomfield
        
-youtube_link : 
+youtube_link : https://youtu.be/v2rbiMNpF78
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0qcuyqrTssHtVInAVIVGRanO71rWiRvWqv
 session_slides:
 ---
