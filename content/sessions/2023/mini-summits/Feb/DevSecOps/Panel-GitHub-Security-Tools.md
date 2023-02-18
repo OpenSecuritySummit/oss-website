@@ -19,7 +19,7 @@ organizers   :
        - Chris Reddington
        - Michael Meaney
        
-youtube_link :
+youtube_link : https://youtu.be/594Md0HuzOQ
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIuceigqj4sHdzP_YVNyxMZFTCSUttvBoTj
 ---
 
