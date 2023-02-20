@@ -21,7 +21,7 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZcuf-msrTgpE9edsZM4rr_P
 session_slides:
 ---
 
-
+{{< gslides id="2PACX-1vQsDpWJ1kVN00UwwIzJ9nDzlkSXqwdot6do7lIQKfNfr_R0nf3_9U1TD6Sefxv0pA/embed?slide=id.p" >}}
 
 ## About this session
 
