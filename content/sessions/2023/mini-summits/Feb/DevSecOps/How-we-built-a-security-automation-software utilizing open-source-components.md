@@ -21,6 +21,8 @@ youtube_link : https://youtu.be/Ov02WwKAEyE
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwodeqprjMpH9FPunRNXCTeNF-NpYUW7WRD
 ---
 
+{{< gslides id="2PACX-1vTnTZucA2oUeEfTMe2pN7vQ1P-vF4hLoF0YtaLmcmVYaxvNz6xqrzZFyEv-wcQICg/embed?slide=id.p" >}}
+
 ## About this session
 
 - How we built a security automation software utilizing open-source components (Betterscan.io)
