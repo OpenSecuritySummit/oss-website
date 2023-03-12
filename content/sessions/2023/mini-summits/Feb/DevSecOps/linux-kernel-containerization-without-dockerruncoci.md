@@ -7,9 +7,9 @@ topics       : "Linux, Docker, runc, OCI"
 featured     :
 event        : mini-summit
 when_year    : 2023
-when_month   : 
-when_day     : 
-when_time    : 
+when_month   : April
+when_day     : Wed
+when_time    : WS-15-16
 hey_summit   : https://post-summit-sessions.heysummit.com/talks/linux-kernel-containerization-without-dockerruncoci/
 banner       : https://pbs.twimg.com/media/FnbNGcIXoBEZ_ET?format=jpg&name=medium
 session_slack:
