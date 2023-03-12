@@ -1,6 +1,7 @@
 ---
 title        : How to Operate a Secure Kubernetes platform
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       : 
 featured     :
