@@ -1,5 +1,5 @@
 ---
-title        : Conducting effective Table Top Exercises for Cyber Incident Response Practise
+title        : Conducting effective Table Top Exercises for Cyber Incident Response Practise (Panel)
 track        : Governance
 type         : working-session
 topics       :
