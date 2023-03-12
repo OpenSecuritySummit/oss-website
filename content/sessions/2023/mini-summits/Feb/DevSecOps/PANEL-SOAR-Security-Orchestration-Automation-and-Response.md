@@ -1,6 +1,7 @@
 ---
 title        : SOAR - Security Orchestration, Automation, and Response (Panel)  
-track        :
+track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
