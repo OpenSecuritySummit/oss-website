@@ -1,6 +1,7 @@
 ---
 title        : An AppSec guide to practical cryptography
 track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
