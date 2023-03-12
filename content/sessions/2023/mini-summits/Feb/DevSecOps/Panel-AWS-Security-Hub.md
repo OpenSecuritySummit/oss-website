@@ -1,6 +1,7 @@
 ---
 title        : AWS Security Hub (Panel)  
-track        :
+track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
