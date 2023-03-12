@@ -26,24 +26,20 @@ zoom_link    :
 - a cyber attack
 - Get a first-hand viewpoint from one of the UK's leading MSP, VAR, Solutions Providers and Support Organisations.  
 
-## In this session we will focus on what really happens when your business suffers a cyberattack.  
+## In this session we will focus on what really happens when your business suffers a cyberattack  
 
 Get an honest understanding of: 
+- the reality of facing an outbreak
+- the impact on your staff
+- the harm to your business operations
+- the struggle to recovery
+- the damaging long term affects
+- The real-world costs to a business of falling victim to cyber-crime
+- Get an insight into where CISO's and CTO's fail, your weak spots and the hardest areas to protect. 
+- We will also cover where cyber insurances help and where they can hinder.  
+- Perfect for any business or tech leader with responsibility for, or doubts about, their organisation's cyber security defences. 
 
-the reality of facing an outbreak
-the impact on your staff
-the harm to your business operations
-the struggle to recovery
-he damaging long term affects
-The real-world costs to a business of falling victim to cyber-crime
-
-Get an insight into where CISO's and CTO's fail, your weak spots and the hardest areas to protect. 
-
-We will also cover where cyber insurances help and where they can hinder.  
-
-Perfect for any business or tech leader with responsibility for, or doubts about, their organisation's cyber security defences. 
-
-Spend this session with James Dell and have your eyes opened to the world of hurt that comes from a failure to protect your business.
+## Spend this session with James Dell and have your eyes opened to the world of hurt that comes from a failure to protect your business.
 
 ## Publications:
 - A number of Publications on our blog -> https://www.planet-it.net/the-7-steps-of-a-cyber-attack-chain/ and https://www.planet-it.net/ransomware-in-the-real-world-webinar/ and https://www.planet-it.net/the-future-of-cybersecurity-for-business-leaders/
