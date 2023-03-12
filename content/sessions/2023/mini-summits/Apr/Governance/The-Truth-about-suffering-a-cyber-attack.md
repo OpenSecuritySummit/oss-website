@@ -42,4 +42,7 @@ Get an honest understanding of:
 ## Spend this session with James Dell and have your eyes opened to the world of hurt that comes from a failure to protect your business.
 
 ## Publications:
-- A number of Publications on our blog -> https://www.planet-it.net/the-7-steps-of-a-cyber-attack-chain/ and https://www.planet-it.net/ransomware-in-the-real-world-webinar/ and https://www.planet-it.net/the-future-of-cybersecurity-for-business-leaders/
+A number of Publications on our blog:
+- https://www.planet-it.net/the-7-steps-of-a-cyber-attack-chain/ 
+- https://www.planet-it.net/ransomware-in-the-real-world-webinar/ 
+- https://www.planet-it.net/the-future-of-cybersecurity-for-business-leaders/
