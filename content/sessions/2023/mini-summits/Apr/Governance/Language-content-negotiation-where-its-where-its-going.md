@@ -1,7 +1,8 @@
 ---
 
 title        : "Language content negotiation, where it's where it's going"
-track        : Risk and Governance
+track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
