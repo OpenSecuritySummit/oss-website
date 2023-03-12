@@ -1,6 +1,7 @@
 ---
 title        : OISRU - Open Information Security Risk Universe (Panel)
-track        :
+track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
