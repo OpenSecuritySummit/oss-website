@@ -1,6 +1,7 @@
 ---
 title        : CISO Role in 2023 (Panel)
-track        :
+track        : Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
