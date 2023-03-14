@@ -21,11 +21,6 @@ youtube_link :
 zoom_link    : 
 ---
 
-
-## About this session
-- a cyber attack
-- Get a first-hand viewpoint from one of the UK's leading MSP, VAR, Solutions Providers and Support Organisations.  
-
 ## In this session we will focus on what really happens when your business suffers a cyberattack  
 
 Get an honest understanding of: 
