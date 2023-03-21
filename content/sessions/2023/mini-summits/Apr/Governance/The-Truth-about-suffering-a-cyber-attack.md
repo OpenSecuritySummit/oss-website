@@ -9,7 +9,7 @@ when_year    : 2023
 when_month   : Apr
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0lcOmgrDwuE9cRyN2iYU88LKeceUPhTy5E 
 session_slack:
 #status       : draft
 description  :
@@ -18,7 +18,7 @@ organizers   :
    - James Dell
   
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0lcOmgrDwuE9cRyN2iYU88LKeceUPhTy5E 
 ---
 
 ## In this session we will focus on what really happens when your business suffers a cyberattack  
