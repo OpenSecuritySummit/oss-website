@@ -11,7 +11,7 @@ when_year    : 2023
 when_month   : Apr
 when_day     : Mon
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0kcumtrzIqGdGU901Tm6DPqcl7usquqWYi 
 session_slack:
 #status       : draft
 description  :
@@ -21,7 +21,7 @@ organizers   :
    - Dinis Cruz
   
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0kcumtrzIqGdGU901Tm6DPqcl7usquqWYi 
 ---
 
 
