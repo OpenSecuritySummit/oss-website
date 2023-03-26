@@ -1,6 +1,6 @@
 ---
 
-title        : Behaviour Change and Awareness (Panel)
+title        : Behaviour Change and Awareness 
 track        : Risk and Governance
 type         : working-session
 topics       :
