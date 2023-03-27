@@ -1,6 +1,7 @@
 ---
 title        : Using Splunk for Incident Response  (Panel)
-track        :
+track        : DevSecOps
+project      : DevSecOps
 type         : working-session
 topics       :
 featured     :
