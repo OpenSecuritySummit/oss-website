@@ -26,7 +26,8 @@ The latest version of the schedule is online at https://open-security-summit.org
 |18:00 - 19:00    | Dinner                    |
 |19:30 – 21:00    | Sessions                  |
 |21:00 - 23:00    | Sessions                  |
-    
+{{</table>}}
+
 On Monday, we start with light/planning Working Sessions in the morning and carry out a briefing over lunch.
 
 ### How can I join the sessions I've registered for?
@@ -62,6 +63,7 @@ We have channels for every track and session. The following legend describes the
 |u  |user session |
 |p  |product session |
 |t  |track |
+{{% /table %}}
 
 Example: the channel name for the working session "Agile Practices for Security Teams" is: `#w-agile-prac-sec-team`
 

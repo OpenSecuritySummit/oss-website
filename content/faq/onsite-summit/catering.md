@@ -23,10 +23,12 @@ Lunch is served in the dining area of The Venue, from 12:30 - 13:30.
 |Monday                                     |Tuesday                      |Wednesday                                           |Thursday                           |Friday                                  |
 |-------------------------------------------|-----------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------|
 
+{{</table>}}
 ### Dinner (TBD)
 
 {{< table "table" >}}
 |Monday          |Tuesday                   |Wednesday           |Thursday                 |
 |----------------|--------------------------|--------------------|-------------------------|
+{{</table>}}
 
 [Drink Aware](https://www.drinkaware.co.uk/?gclid=EAIaIQobChMIgOfy15rL4gIVZrftCh3Gbgn8EAAYASAAEgL05vD_BwE)

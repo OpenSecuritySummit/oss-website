@@ -34,4 +34,4 @@ Dinis was nominated for CISO of the Year 2019 at #CyberSecurityAwards, and was h
 
 Dinis is also writing a book called Generation Z Developers (but useful for all Generations) available [at Amazon](https://www.amazon.co.uk/Gen-Developers-concepts-generation-developers/dp/1724194607) 
 
-For more details [see Dinis CV](https://www.slideshare.net/DinisCruz/dinis-cruz-cv-ciso-and-transformation-agent-v12) (done as a presentation)
+For more details [see Dinis' CV](https://www.slideshare.net/DinisCruz/dinis-cruz-cv-ciso-and-transformation-agent-v12) (done as a presentation)
