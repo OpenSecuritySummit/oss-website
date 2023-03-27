@@ -43,22 +43,24 @@
 <!--                    {{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.track)  }}-->
 <!--                </div>-->
 <!--            </div>-->
-            <div class="table-line">
-                <div class="title">
-                    Project:
+            {{ if .Params.project }}
+                <div class="table-line">
+                    <div class="title">
+                        Project:
+                    </div>
+                    <div class="description">
+                        {{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.project)  }}
+                    </div>
                 </div>
-                <div class="description">
-                    {{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.project)  }}
-                </div>
-            </div>
-            <div class="table-line">
-                <div class="title">
-                    Topics:
-                </div>
-                <div class="description">
-                    {{ partial "params/topics-links.html" . }}
-                </div>
-            </div>
+            {{ end }}
+<!--            <div class="table-line">-->
+<!--                <div class="title">-->
+<!--                    Topics:-->
+<!--                </div>-->
+<!--                <div class="description">-->
+<!--                    {{ partial "params/topics-links.html" . }}-->
+<!--                </div>-->
+<!--            </div>-->
             <div class="table-line">
                 <div class="title">
                     Watch
