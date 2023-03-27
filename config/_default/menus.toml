@@ -27,12 +27,6 @@
     weight = 30
     url = "/membership/"
 
-#[[main]]
-#    name = "Tracks"
-#    identifier = "tracks"
-#    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 30
-#    url = "/tracks/"
 
 #### Past EVENTS ####
 
@@ -43,6 +37,14 @@
     identifier = "past-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 40
+
+[[main]]
+    name = "Feb 2023"
+    identifier = "event-feb-2023"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 29
+    url = "/sessions/2023/mini-summits/feb/"
 
 [[main]]
     name = "Dec 2022"
@@ -183,14 +185,6 @@
     identifier = "future-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 60
-
-[[main]]
-    name = "Feb 2023"
-    identifier = "event-feb-2023"
-    parent = "future-summits"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 61
-    url = "/sessions/2023/mini-summits/feb/"
 
 [[main]]
     name = "Apr 2023"
