@@ -1,6 +1,6 @@
 ---
 
-title        : Risk treatment planning in modern tech space (Panel)
+title        : Risk Acceptance and OISRU  (Panel)
 track        : Risk and Governance
 type         : working-session
 topics       :
