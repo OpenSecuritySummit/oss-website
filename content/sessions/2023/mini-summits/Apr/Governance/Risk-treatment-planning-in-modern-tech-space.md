@@ -1,5 +1,5 @@
 ---
-title        : Risk treatment planning in modern tech space
+title        : Risk treatment planning in modern tech space (Panel)
 track        : Governance
 project      : Risk and Governance
 type         : working-session
