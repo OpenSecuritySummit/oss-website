@@ -2,7 +2,7 @@
 title: Danusia Rolewicz
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/danushia.png?raw=true
 company: 
-job_title: Security Culture and Awareness Consultant
+job_title: Human Factors Information Security Consultant
 facebook:
 linkedin: danusiar
 twitter:
