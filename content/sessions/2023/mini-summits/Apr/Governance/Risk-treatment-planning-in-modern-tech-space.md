@@ -17,6 +17,7 @@ description  :
 organizers   :
        - Dinis Cruz
        - Marius Poskus
+       - Izar Tarandach
 youtube_link :
 zoom_link    : 
 ---
