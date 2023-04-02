@@ -1,5 +1,5 @@
 ---
-title        : ChatGPT impact on Cyber and Application Security 
+title        : ChatGPT impact on Cyber and Application Security (Panel)
 track        :
 type         : working-session
 topics       :
