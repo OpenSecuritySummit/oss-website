@@ -1,6 +1,6 @@
 ---
 
-title        : "Language content negotiation, where it's going" (Panel)
+title        : "Language content negotiation, where it's going (Panel)"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
