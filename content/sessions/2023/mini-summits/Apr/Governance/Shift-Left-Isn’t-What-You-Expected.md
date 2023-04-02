@@ -1,6 +1,6 @@
 ---
 
-title        :  “Shift Left” Isn’t What You Expected
+title        :  “Shift Left” Isn’t What You Expected (Panel)
 track        : Risk and Governance
 type         : working-session
 topics       :
