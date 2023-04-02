@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcoce-upzgjG9M-9D1b1KYG
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/Fr_IGYoWcAAWEef?format=jpg&name=medium
 organizers   :
    - Chen Gour-Arie
    - Dinis Cruz
