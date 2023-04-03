@@ -1,6 +1,6 @@
 ---
 
-title        :  “Shift Left” Isn’t What You Expected (Panel)
+title        :  “Shift Left” Isn’t What You Expected 
 track        : Risk and Governance
 type         : working-session
 topics       :
@@ -17,7 +17,6 @@ description  :
 banner       : https://pbs.twimg.com/media/Fr_IGYoWcAAWEef?format=jpg&name=medium
 organizers   :
    - Chen Gour-Arie
-   - Dinis Cruz
   
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcoce-upzgjG9M-9D1b1KYGbt2W7wC20R-w 
