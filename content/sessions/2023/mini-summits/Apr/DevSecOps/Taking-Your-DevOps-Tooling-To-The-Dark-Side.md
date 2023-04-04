@@ -11,7 +11,7 @@ when_year    : 2023
 when_month   : Apr
 when_day     : Tue
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZIpf--pqzIpGNWZU3Vx7iXi6mmWAxYqfq1H
 session_slack:
 #status       : draft
 description  :
@@ -20,6 +20,7 @@ organizers   :
    - Mike Guthrie
  
 youtube_link : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZIpf--pqzIpGNWZU3Vx7iXi6mmWAxYqfq1H
 
 ---
 
