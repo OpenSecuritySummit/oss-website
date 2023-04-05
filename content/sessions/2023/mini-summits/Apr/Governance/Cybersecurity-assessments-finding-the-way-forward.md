@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Apr
 when_day     : Tue
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZUtduurrjosHd0GEDfXDU4fSzMJcCaPfB-w
 session_slack:
 #status       : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
    - Anna Lezhikova
   
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZUtduurrjosHd0GEDfXDU4fSzMJcCaPfB-w
 ---
 
 
