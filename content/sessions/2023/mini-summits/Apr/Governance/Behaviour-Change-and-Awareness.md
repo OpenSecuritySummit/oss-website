@@ -19,6 +19,7 @@ organizers   :
    - Tim Ward
    - Dinis Cruz
    - Danusia Rolewicz
+   - Janet Bonar Law
   
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIud-mprD0vE9xWCJLSzFi8gT-j2BTCAyMR 
