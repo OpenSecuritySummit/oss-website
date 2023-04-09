@@ -16,6 +16,7 @@ description  :
 organizers   :
    - Dinis Cruz
    - Venkat Ramshet
+   - Nathan Case
 
    
 youtube_link : 
