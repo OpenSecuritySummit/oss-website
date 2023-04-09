@@ -15,6 +15,7 @@ session_slack:
 description  :
 organizers   :
     - Dinis Cruz 
+    - Nathan Case
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0vcOCurjkvGdC6Zcca0TAt1WFKg4-ZKYXZ
 ---
