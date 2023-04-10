@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Apr
 when_day     : Wed
 when_time    : WS-18-19
-hey_summit   : https://us06web.zoom.us/meeting/register/tZUqcuCprj4tH9yRnYyJJvgd6ifx-mOZuGSQ
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0vcuitrjgtEtYxuXglaHEn5rziFz7FOnoe
 banner       : 
 #status      : 
 description  :
@@ -19,7 +19,7 @@ organizers   :
  
  
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZUqcuCprj4tH9yRnYyJJvgd6ifx-mOZuGSQ
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0vcuitrjgtEtYxuXglaHEn5rziFz7FOnoe
 
 session_slides:
 ---
