@@ -1,7 +1,7 @@
 ---
 title: Francesco Cipollone
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/francesco.jpg?raw=true
-company: Appsec Phoenix
+company: Phoenix Security
 job_title: CEO and Founder
 facebook:
 linkedin: fracipo
