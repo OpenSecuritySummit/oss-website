@@ -14,6 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcsc-iurD4oG9wnMRkFVqaD
 session_slack:
 #status       : draft
 description  :
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Apr/FthoLMJWAAIMpxh.jpg?raw=true
 organizers   :
     - Kiran Gandhi
     - Surbhi Gupta
