@@ -11,3 +11,9 @@ notes:
 status: 
 type: participant
 ---
+
+
+
+## About Me:
+I am a CyberSecurity Professional and Cloud Security Enthusiast. I worked as a cybersecurity analyst and possess knowledge about different technologies like SIEM, Vulnerability assessment and Endpoint Security.
+Currently, I am a student at Inno-Sci and a part of CyberSecurity learning programme.
