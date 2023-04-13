@@ -19,7 +19,7 @@ organizers   :
     - Kiran Gandhi
     - Surbhi Gupta
 youtube_link :
-zoom link    : https://us06web.zoom.us/meeting/register/tZcsc-iurD4oG9wnMRkFVqaDGfmgDKNXo7zu
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcsc-iurD4oG9wnMRkFVqaDGfmgDKNXo7zu
 
 ---
 
