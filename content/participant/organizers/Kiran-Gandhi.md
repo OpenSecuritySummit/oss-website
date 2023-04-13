@@ -15,7 +15,7 @@ type: participant
 
 
 
-About Me:
+## About Me:
 I started her career in IT as a Trainee-Consultant from Telenor Open mind program since April-2022 and is currently working in GSS with Cloud Infrastructure.
 
 I worked as Dot Net programmer, and as teaching assistant during her career with education industry. I started off working as a dot net programmer & trainer with an Indian education Institution, then as a research assistant in two different educational institutions back in India and is currently working with Telenor
