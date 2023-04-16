@@ -14,6 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZclf-uoqjopE9GrdUZGH1i3
 session_slack:
 #status       : draft
 description  :
+banner       : https://pbs.twimg.com/media/FtOALNjXoAIJ2Cj?format=jpg&name=900x900
 organizers   :
        - Dinis Cruz
        - Marius Poskus
