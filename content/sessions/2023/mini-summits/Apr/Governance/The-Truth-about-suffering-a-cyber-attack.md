@@ -13,7 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0lcOmgrDwuE9cRyN2iYU88
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/Frr2STPWIBAXPRM?format=jpg&name=medium
 organizers   :
    - James Dell
   
