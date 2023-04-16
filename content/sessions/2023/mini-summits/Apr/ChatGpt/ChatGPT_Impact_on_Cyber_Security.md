@@ -13,6 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0vcOCurjkvGdC6Zcca0TAt
 session_slack:
 #status       : draft
 description  :
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Apr/Chat%20GPT%20Impact.jpg?raw=true
 organizers   :
     - Dinis Cruz 
     - Nathan Case
