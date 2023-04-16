@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZIud-mprD0vE9xWCJLSzFi8
 session_slack:
 #status       : draft
 description  :
-banner       : https://pbs.twimg.com/media/Frr2STPWIBAXPRM?format=jpg&name=medium
+banner       : https://media.licdn.com/dms/image/D4D22AQE6mZe6k_3o9A/feedshare-shrink_1280/0/1681676704262?e=1684368000&v=beta&t=rHiIx5LnS294BD-LbrhsvqWT74sx9bQInyI2zurgalI
 organizers   :
    - Tim Ward
    - Dinis Cruz
