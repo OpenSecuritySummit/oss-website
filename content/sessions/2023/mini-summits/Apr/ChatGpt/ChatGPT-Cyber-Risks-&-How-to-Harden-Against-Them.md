@@ -14,6 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZUtduurrjosHd0GEDfXDU4f
 session_slack:
 #status       : draft
 description  :
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Apr/ChatGPTCyber%20Risks.jpg?raw=true
 organizers   :
     - Celine Pypaert
     - Craig Gilliver
