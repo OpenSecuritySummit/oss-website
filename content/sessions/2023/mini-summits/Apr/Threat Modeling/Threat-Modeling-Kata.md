@@ -11,7 +11,7 @@ when_month   : Apr
 when_day     : Wed
 when_time    : WS-18-19
 hey_summit   : https://us06web.zoom.us/meeting/register/tZUqcuCprj4tH9yRnYyJJvgd6ifx-mOZuGSQ
-banner       : 
+banner       : https://pbs.twimg.com/media/FtHAzi0WwAE1n6o?format=jpg&name=medium
 #status      : 
 description  :
 organizers   :
