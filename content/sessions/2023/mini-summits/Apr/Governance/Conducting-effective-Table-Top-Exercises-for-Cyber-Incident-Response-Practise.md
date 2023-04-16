@@ -13,6 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZEtdu2hqjsqGNJK_v-vzX0j
 session_slack:
 #status       : draft
 description  :
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Apr/tabletop.jpg?raw=true
 organizers   :
    - Dinis Cruz
    - Venkat Ramshet
