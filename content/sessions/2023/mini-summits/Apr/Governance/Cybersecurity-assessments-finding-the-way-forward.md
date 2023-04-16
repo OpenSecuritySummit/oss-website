@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZAvf-mtqDItHdEa09RddKWi
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/FsQUEHKWIAU0c3f?format=jpg&name=900x900
 organizers   :
    - Anna Lezhikova
   
