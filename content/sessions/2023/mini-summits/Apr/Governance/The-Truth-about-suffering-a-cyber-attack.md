@@ -17,7 +17,7 @@ banner       : https://pbs.twimg.com/media/Frr2STPWIBAXPRM?format=jpg&name=mediu
 organizers   :
    - James Dell
   
-youtube_link : 
+youtube_link : https://youtu.be/3E1o2_iNGqA
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0lcOmgrDwuE9cRyN2iYU88LKeceUPhTy5E 
 ---
 
