@@ -20,7 +20,7 @@ organizers   :
     - Craig Gilliver
     - Dinis Cruz 
     - Abbas Haidar
-youtube_link :
+youtube_link : https://youtu.be/YREczRl8UfE
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUtduurrjosHd0GEDfXDU4fSzMJcCaPfB-w
 ---
 
