@@ -18,7 +18,7 @@ banner       : https://pbs.twimg.com/media/Fs5YdBeXwAIeehQ?format=jpg&name=mediu
 organizers   :
    - Chen Gour-Arie
   
-youtube_link : 
+youtube_link : https://youtu.be/7Hv3B_x4FyI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcoce-upzgjG9M-9D1b1KYGbt2W7wC20R-w 
 ---
 
