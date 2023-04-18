@@ -18,7 +18,7 @@ banner       : https://pbs.twimg.com/media/FsQUEHKWIAU0c3f?format=jpg&name=900x9
 organizers   :
    - Anna Lezhikova
   
-youtube_link : 
+youtube_link : https://youtu.be/-i5yR04WQXk
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAvf-mtqDItHdEa09RddKWi4JwQSTxFYfbq
 ---
 
