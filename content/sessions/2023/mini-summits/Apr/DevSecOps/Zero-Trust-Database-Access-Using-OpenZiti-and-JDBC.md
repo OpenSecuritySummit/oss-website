@@ -19,7 +19,7 @@ banner       :
 organizers   :
    - Marcos Schejtman
  
-youtube_link : 
+youtube_link : https://youtu.be/URmbXSrMccs
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcpduyvqD8pG9wxMb4TNIDS9oAuuGMJTK5g
 
 ---
