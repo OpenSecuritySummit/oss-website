@@ -17,7 +17,7 @@ banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/conte
 organizers   :
     - Dinis Cruz 
     - Nathan Case
-youtube_link :
+youtube_link : https://youtu.be/HxGBKlaXOEw
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0vcOCurjkvGdC6Zcca0TAt1WFKg4-ZKYXZ
 ---
 
