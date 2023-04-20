@@ -19,7 +19,7 @@ organizers   :
        - Dinis Cruz
        - Marius Poskus
        - Izar Tarandach
-youtube_link :
+youtube_link : https://youtu.be/GCwa2MeNlGI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZclf-uoqjopE9GrdUZGH1i3z9HrEFekatpR
 ---
 
