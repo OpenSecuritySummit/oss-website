@@ -18,7 +18,7 @@ banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/conte
 organizers   :
     - Kiran Gandhi
     - Surbhi Gupta
-youtube_link :
+youtube_link : https://youtu.be/MDRUMtep0VE
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcsc-iurD4oG9wnMRkFVqaDGfmgDKNXo7zu
 
 ---
