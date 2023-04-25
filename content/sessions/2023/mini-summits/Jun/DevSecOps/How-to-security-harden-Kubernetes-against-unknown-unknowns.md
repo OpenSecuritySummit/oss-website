@@ -6,7 +6,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2023
-when_month   : June
+when_month   : Jun
 when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : 

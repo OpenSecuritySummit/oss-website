@@ -39,6 +39,14 @@
     weight = 40
 
 [[main]]
+    name = "Apr 2023"
+    identifier = "event-apr-2023"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 28
+    url = "/sessions/2023/mini-summits/apr/"
+
+[[main]]
     name = "Feb 2023"
     identifier = "event-feb-2023"
     parent = "past-summits"
@@ -181,26 +189,35 @@
 #### Future EVENTS ####
 
 [[main]]
-    name = "Future Summits"
-    identifier = "future-summits"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 60
-
-[[main]]
-    name = "Apr 2023"
-    identifier = "event-apr-2023"
-    parent = "future-summits"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 62
-    url = "/sessions/2023/mini-summits/apr/"
-
-[[main]]
     name = "Jun 2023"
     identifier = "event-jun-2023"
     parent = "future-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 64
     url = "/sessions/2023/mini-summits/jun/"
+
+[[main]]
+    name = "Future Summits"
+    identifier = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 60
+
+[[main]]
+    name = "Aug 2023"
+    identifier = "event-aug-2023"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 65
+    url = "/sessions/2023/mini-summits/aug/"
+
+
+[[main]]
+    name = "Oct 2023"
+    identifier = "event-oct-2023"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 66
+    url = "/sessions/2023/mini-summits/oct/"
 
 
 [[main]]
