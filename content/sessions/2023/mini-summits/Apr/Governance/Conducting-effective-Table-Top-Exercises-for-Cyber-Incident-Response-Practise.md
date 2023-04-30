@@ -18,7 +18,7 @@ organizers   :
    - Dinis Cruz
    - Venkat Ramshet
    - Nathan Case
-
+   - Guy Marong
    
 youtube_link : https://youtu.be/hbPdU20EIjg
 zoom_link    : https://us06web.zoom.us/meeting/register/tZEtdu2hqjsqGNJK_v-vzX0jF93jgjmiT4st 
