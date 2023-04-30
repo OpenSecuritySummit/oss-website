@@ -15,7 +15,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcpduyvqD8pG9wxMb4TNIDS
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/FuqkAqLWAAAqttk?format=jpg&name=medium
 organizers   :
    - Marcos Schejtman
  
