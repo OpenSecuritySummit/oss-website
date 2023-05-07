@@ -23,7 +23,7 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZUqcuCprj4tH9yRnYyJJvgd
 session_slides:
 ---
 
-
+{{< gslides id="2PACX-1vQvzMeuzm1mvMLqYteUcjC5PZ6v6Gya8KMDBY2RZh0H1BqYIP5MjEQ_s6MpbQNvyQ/embed?slide=id.p" >}}
 
 ## About this session
 Katas are great ways to practice the movements of martial arts. They allow the practitioners to gain muscle knowledge to get more fluid movements. The same principle has been proposed by Neal Ford and others for System architecture. 
