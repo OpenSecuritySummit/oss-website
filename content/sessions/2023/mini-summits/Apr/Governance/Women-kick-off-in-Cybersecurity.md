@@ -20,7 +20,9 @@ organizers   :
     - Surbhi Gupta
 youtube_link : https://youtu.be/MDRUMtep0VE
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcsc-iurD4oG9wnMRkFVqaDGfmgDKNXo7zu
-
+session_slides:
 ---
+
+{{< gslides id="2PACX-1vR7VFJmtiCogxMnzAg1892341LaMNEvYFns-o1v5s8_EhUYaiyigbHGwesZjXLPww/embed?slide=id.p" >}}
 
 ## About this session
