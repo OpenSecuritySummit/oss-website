@@ -23,6 +23,7 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZUqc-qurDwtHNzw4UNTny4M
 
 ## Session Transcript
 Dinis Cruz
+
 Hi. Welcome to this open security summit session in April 2023. We're
 going to be talking about security vendors operating model and hopefully
 set up the beginning of a nice, again, community infrastructure for us to
@@ -33,10 +34,12 @@ Summit. I'm also the CEO of Holland and Barrett, so also been CISO for
 quite a long time. Nick, quick introduction from you. Yeah.
 
 Nick Harris
+
 Nick Harris, deputy CISO and Head of Cybersecurity here at Holland and
 Barrett. So work very closely with Dennis.
 
 Dinis Cruz
+
 Yeah, me and Nick work really close together. There's a number of stuff
 that we kind of have done in the past, and I just want to very quickly walk
 through it because I feel that sets the stage. There's a really cool
@@ -51,6 +54,7 @@ new GPT and the Chat GPT and the evolution of that into the products, a
 lot of the vendors we really need to ratchet up.
 
 Dinis Cruz
+
 In terms of the quality, what they provide, the service they do, I really feel
 that the time is right for the best vendors to actually really come on top
 and we're creating an economic model that really rewards them. There's a
@@ -64,6 +68,7 @@ This idea is about creating these collective defense clusters that initially
 started in 17 and 2018 in one of the first Summits.
 
 Dinis Cruz
+
 Incredibly tom flies. Right. We did this session in there and we did a follow
 up, and again, there was some good stuff. Ironically, again, sometimes if
 you don't put energy, things don't really happen. Right. Me and him
@@ -79,6 +84,7 @@ companies of reasonable size of maturity. It doesn't work if you have a
 Microsoft GitHub type of security team with a much smaller company.
 
 Dinis Cruz
+
 What works is when you have security teams of certain level of maturity, it
 basically band together and really leverage that. We put a bit of thinking
 of this and there's almost like this agreement that we can do. The
@@ -94,6 +100,7 @@ could even have some share funds, share research, share sharing
 resources.
 
 Dinis Cruz
+
 That was kind of the idea, right, that we could play and there's already
 some good stuff out there, right? So there's already some good forums.
 This was kind of the creation of these semi structured groups of
@@ -108,6 +115,7 @@ You can really see a big difference between the moment of the sale and the
 moment of the reset of the renewal.
 
 Dinis Cruz
+
 In the middle it's they go, well here's the product, you make the mode out
 of it, right? So I think that is very wrong. The other one is that you really
 want a massive degrees of openness within the system, right? I still don't
@@ -122,6 +130,7 @@ vendors. We spend the time, we really invest. We really spend the time to
 make the most out of it and collaborate in the error.
 
 Dinis Cruz
+
 Again, there needs to be a two way street. It's super critical that every
 vendor at any moment in time really shows the value, right, that we need
 internally, but also that we can use a lot more of the products. This is the
@@ -137,6 +146,7 @@ in the right side of history, if you're not, you might still have clients and
 people who pay you money, right?
 
 Dinis Cruz
+
 Definitely your customers are not really going to like a lot of the stuff
 that's happening, right? We really need for me, it's almost like the key
 area, right? Again, automation and scale creating graphs focus on the
@@ -151,6 +161,7 @@ worldly map to say, where do you add value? Like, what are you
 commoditizing, what are the things that you're enabling?
 
 Dinis Cruz
+
 What are you moving the needs? Even if it's like, oh, we got this custom
 build that we're making, it almost as a product. Are we improving this
 today or there? Right? They really should be giving that across the board.
@@ -158,6 +169,7 @@ So Nick, some comments on this, right? I just drop a whole bunch of stuff
 in there, right? Where do you want to start on your views on this.
 
 Nick Harris
+
 Yeah, I think it's about disrupting the model. I think there's a momentum
 growing that vendors have possibly got quite comfortable that we go
 through this onboarding, we give them security assessments, we go
@@ -172,6 +184,7 @@ back if you've gone over the license count. There'll be chew ups and true
 ups, which is fine, that's the business model.
 
 Nick Harris
+
 But where's the true down? If we pay for 2000 licenses and we're only
 consuming 1000 because the adoption hasn't gone well and we need more
 time with a partner to drive that adoption, where's the true down to say,
@@ -187,6 +200,7 @@ they're providing, the partnership really needs to link up. Less
 transactional, more collaborative.
 
 Dinis Cruz
+
 I agree. Right. I think one of the areas to facilitate that is, I think for a lot
 of companies to start to collaborate because it's easy to do sometimes
 those moves when you're dealing with one company. If you're now dealing
@@ -195,6 +209,7 @@ government right. Or a set of regulations that defines how you interact
 with industries, then that's a much stronger proposition.
 
 Nick Harris
+
 Yeah. There are a couple of bits in there. The first one is probably a real
 stretch, but how amazing would this be? Under your CDC concept, it's not
 the mobile phone provider I have, but there are mobile phone providers
@@ -209,6 +224,7 @@ How can we bitcoin anyway, or transact and pass those licenses around
 where they're just not being used?
 
 Dinis Cruz
+
 Yeah. No, I like that. Right. Because that's having that value added of a
 cluster of companies, right, that some negotiate well. You could even think
 like when you have for example, groups of companies, you can have the
@@ -221,6 +237,7 @@ agreement that actually addresses multiple companies and then people
 can use licenses right, in the most effective way.
 
 Nick Harris
+
 Yeah, definitely. That once it is a very good point as well. We talked
 haven't we, about, I guess peacetime activity, how vendors can work with
 us. Peacetime non article five. We're in NATO and we're kind of getting
@@ -236,10 +253,12 @@ the vendor and be part of your sponsoring to get the best out of the
 platform and really drive in on that incident to help us out.
 
 Nick Harris
+
 If we need to sort the professional services out or whatever it is after the
 event, then we'll do that. But when it's proper crisis, the vendors.
 
 Dinis Cruz
+
 Need to be in the room and then have that experience, right, have the
 experience of how to bring them on board, how to create the
 communication channels. At the moment, if you think about it, every
@@ -255,12 +274,14 @@ Another group is really good at managing cloud assets. Another group is
 really good at this.
 
 Dinis Cruz
+
 Again, think about being able to leverage that and then being able to bring
 the vendors in and bring the partners in on peace, but also on incident
 wartime, right, where you get the best out of the shared intelligence and
 the shared knowledge within those clusters.
 
 Nick Harris
+
 That exact example can work for the vendor because if the vendors, the
 DLP vendor, let's take that example, working really well with that
 company and they're part of the border community, well, that message is
@@ -273,6 +294,7 @@ time and effort in to make their product really work. The business will
 follow off the back of that.
 
 Dinis Cruz
+
 Absolutely. There's a business incentive for them to do that. Right. The
 other element is that we now also start to need the security vendors to be
 secure. Right? Which sounds ironic, but come on, let's be clear. Some of
@@ -289,6 +311,7 @@ need to make a lot of those things public and there needs to be a lot more
 openness industry.
 
 Dinis Cruz
+
 I think what we can be thinking here is we need to start working on that
 model. This is like the worldly maps, right? We know that in the next
 couple of years the openness will commoditize and it's either going to be
@@ -299,6 +322,7 @@ and cluster driven negotiations. We can already operate at that level and
 start thinking about the logistics of making that happen.
 
 Nick Harris
+
 No, you're right. Everyone harps back to Solar Winds being a prime
 example of where a close vendor has caused big problems. I think in the
 same manner that with shared intelligence, so to speak, but with sharing
@@ -314,6 +338,7 @@ shared, much more public, should drive their own practices in the first
 place.
 
 Dinis Cruz
+
 Yeah. And we know that works, right? Because there's already real data
 that shows that. Cool. Look, I think this is a first step on this, right? I feel
 that let's plan more sessions at the next summits. Let's start bringing
@@ -330,19 +355,23 @@ engineering, good customer services, great relationships, and then they
 should get the financial reward and the business out of it.
 
 Dinis Cruz
+
 Right?
 
 Nick Harris
+
 I'm sure if for those that we have that relationship with, we could bring
 them along to this thing. Equally, people that watch this, if they got great
 vendors that really partner in the way that we talked, bring them along
 and generate that kind of that interest and show how well it can work.
 
 Dinis Cruz
+
 Yeah. Cool. There you go. There's the challenge. So, unless in any final
 comments, I don't know if Billy want to throw a couple ideas to the table
 or Nick final comments. Cool. I think all right, then I see you in the next
 one.
 
 Nick Harris
+
 Thank you, everybody. Bye.
