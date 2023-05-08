@@ -17,7 +17,7 @@ banner       : https://pbs.twimg.com/media/FuqldIpWcAAuvOi?format=jpg&name=mediu
 organizers   :
     - Dinis Cruz 
     - Nick Harris
-youtube_link :
+youtube_link : https://youtu.be/NXtwd6y6BTA
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUqc-qurDwtHNzw4UNTny4MkNBuLt6jLs4V
 ---
 
