@@ -23,9 +23,10 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZcsc-iurD4oG9wnMRkFVqaD
 session_slides:
 ---
 
+## Session Slides :
 {{< gslides id="2PACX-1vR7VFJmtiCogxMnzAg1892341LaMNEvYFns-o1v5s8_EhUYaiyigbHGwesZjXLPww/embed?slide=id.p" >}}
 
-## Session Transcript
+## Session Transcript:
 Dinis Cruz:
 Hi. Welcome to the last session in Open City Summit. April 2023. We're
 going to end with a bang on actually a super massively important topic,
