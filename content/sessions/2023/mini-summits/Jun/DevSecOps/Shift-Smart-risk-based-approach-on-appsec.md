@@ -23,3 +23,6 @@ zoom_link    :
 
 
 ## About this session
+"
+Shifting left had success, shifting right and adding context is hot as the number of vulnerabilities pre-flight in an SDLC is piling up. Find your path in this modern, challenging.  The talk walks trough a new approach on risk base approach on vulnerabilities called shift smart. 
+We will explore the difference between a vulnerability base approach and resolution first vs a risk based approach and success from real case scenarios "
