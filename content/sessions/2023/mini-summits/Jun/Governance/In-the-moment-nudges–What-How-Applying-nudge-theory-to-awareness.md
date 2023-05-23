@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Jun
-when_day     : wed
+when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : 
 session_slack:
