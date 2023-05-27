@@ -9,7 +9,7 @@ when_year    : 2023
 when_month   : Jun
 when_day     : Mon
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZMpcu2opzIuE9OWSFEtXBTALTeDEvq6IWSl
 session_slack:
 #status       : draft
 description  :
@@ -18,7 +18,7 @@ organizers   :
    - Francesco Cipollone
   
 youtube_link : 
-zoom_link    :  
+zoom_link    : https://us06web.zoom.us/meeting/register/tZMpcu2opzIuE9OWSFEtXBTALTeDEvq6IWSl
 ---
 
 
