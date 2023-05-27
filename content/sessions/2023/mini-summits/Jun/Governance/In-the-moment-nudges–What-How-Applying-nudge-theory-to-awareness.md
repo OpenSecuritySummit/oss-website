@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Jun
 when_day     : Wed
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZIkcOytqjgtGdVRBAWOoVW2_diSDCqnmZzj
 session_slack:
 #status       : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
    - Tim Ward
   
 youtube_link : 
-zoom_link    :  
+zoom_link    : https://us06web.zoom.us/meeting/register/tZIkcOytqjgtGdVRBAWOoVW2_diSDCqnmZzj
 ---
 
 
