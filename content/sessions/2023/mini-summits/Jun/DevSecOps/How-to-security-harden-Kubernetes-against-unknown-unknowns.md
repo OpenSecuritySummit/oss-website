@@ -2,14 +2,14 @@
 title        : How to security-harden Kubernetes against unknown unknowns
 track        : DevSecOps
 type         : working-session
-topics       :
+topics       : Kubernetes
 featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Jun
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48W1-Dj5cvXEuk
 session_slack:
 #status       : draft
 description  :
@@ -18,7 +18,7 @@ organizers   :
    - Cristian Klein
   
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48W1-Dj5cvXEuk
 
 ---
 
