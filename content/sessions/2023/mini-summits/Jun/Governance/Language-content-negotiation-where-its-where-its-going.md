@@ -15,7 +15,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0kcumtrzIqGdGU901Tm6DP
 session_slack:
 #status       : draft
 description  :
-banner       : https://pbs.twimg.com/media/Fr2wUiiXwAA8WtJ?format=jpg&name=900x900
+banner       : https://pbs.twimg.com/media/FxF-OsLWcAAHwp1?format=jpg&name=medium
 organizers   :
    - André Ferreira
 youtube_link : 
