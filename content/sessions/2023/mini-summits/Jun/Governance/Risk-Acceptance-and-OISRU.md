@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZYkc-uspj0rGdddQogpbl98
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Jun/banners/RIsk%20Acceptance.png?raw=true
 organizers   :
    - Dinis Cruz
   
