@@ -1,4 +1,4 @@
-title        : Continous Access Control with OPAL and Cedar`
+title        : Continuous Access Control with OPAL and Cedar`
 Project      : DevSecOps
 track        : DevSecOps
 type         : working-session
@@ -13,11 +13,11 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0kd--qrj8uHtDlXzu_a6du
 session_slack:
 #status       : draft
 description  :
-banner       : https://us06web.zoom.us/meeting/register/tZ0kd--qrj8uHtDlXzu_a6du3eycAX8dfY7Q
+banner       : 
 organizers   :
      - Gabriel L. Manor 
 youtube_link :
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0kd--qrj8uHtDlXzu_a6du3eycAX8dfY7Q
 ---
 
 ## About this session
