@@ -1,5 +1,7 @@
+---
+
 title        : Continuous Access Control with OPAL and Cedar`
-Project      : DevSecOps
+project      : DevSecOps
 track        : DevSecOps
 type         : working-session
 topics       : OPAL, CEDAR
