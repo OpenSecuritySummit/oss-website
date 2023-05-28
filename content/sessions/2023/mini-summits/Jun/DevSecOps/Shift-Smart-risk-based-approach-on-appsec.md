@@ -13,7 +13,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZMpcu2opzIuE9OWSFEtXBTA
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/FxKsQ28WcAABJmX?format=jpg&name=medium
 organizers   :
    - Francesco Cipollone
   
