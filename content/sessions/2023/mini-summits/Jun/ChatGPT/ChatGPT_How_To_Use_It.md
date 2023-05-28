@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Jun
-when_day     : Wed
+when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://us06web.zoom.us/meeting/register/tZwkc-isrjotGdDxTId9Y8qXIE4IcmnhonpW
 session_slack:
