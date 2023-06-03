@@ -20,8 +20,7 @@ organizers   :
 youtube_link : 
 zoom_link    : 
 session_slides:
-
---
+---
     
 ## About the session
  
