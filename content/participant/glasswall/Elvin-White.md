@@ -1,6 +1,6 @@
 ---
 title: Elvin White
-image: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/elvin.jpg?raw=true
 company: Glasswall
 job_title: Head of Core Engineering
 facebook:
