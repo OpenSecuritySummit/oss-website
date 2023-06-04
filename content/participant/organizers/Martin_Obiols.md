@@ -1,6 +1,6 @@
 ---
 title: Martin Obiols
-image: https://pbs.twimg.com/profile_images/1368250644428099590/CJfYGYpC_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/martinobiols.jpg?raw=true
 company: BBVA
 job_title: Head of Cybersecurity for Corporate & Investment Banking
 facebook:
