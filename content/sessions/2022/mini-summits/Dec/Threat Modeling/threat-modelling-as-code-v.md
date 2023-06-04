@@ -16,7 +16,7 @@ banner       :
 description  :
 organizers   :
     - Petra Vukmirovic
-    - Chen Gour Arie
+    - Chen Gour-Arie
  
 youtube_link : https://youtu.be/OGom1NlCjhk
 zoom_link    : https://us06web.zoom.us/j/82057549778?pwd=WnhFN0kwZStmYkpBV1p5emRNSTJNZz09
