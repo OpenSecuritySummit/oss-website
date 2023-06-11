@@ -15,7 +15,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZIpf--pqzIpGNWZU3Vx7iXi
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/FxaPNIBWwAEWIgQ?format=jpg&name=900x900
 organizers   :
    - Mike Guthrie
  
