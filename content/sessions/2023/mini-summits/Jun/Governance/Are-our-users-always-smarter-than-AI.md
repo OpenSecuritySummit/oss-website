@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZwpdu6tqzwoHtB-ai_7jzBi
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4D22AQEON3uCNhVYaw/feedshare-shrink_2048_1536/0/1685993576843?e=1689206400&v=beta&t=nZN8IeIQAppPmD1BSXswYOagdsLuHB8Onj6qS50UMpE
 organizers   :
    - Sarb Sembhi
   
