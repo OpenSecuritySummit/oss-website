@@ -11,7 +11,7 @@ when_month   : Jun
 when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : https://us06web.zoom.us/meeting/register/tZErdOGtqj8iEtHB21i_tRD1pMsafhX7D_ZT
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4D22AQGEJJE2qO-9Yg/feedshare-shrink_2048_1536/0/1686167577835?e=1689206400&v=beta&t=7OlSaFokcEZwOGUGzLBT8In0iYs165QG2xjmHY3s8Lg
 #status      : 
 description  :
 organizers   :
