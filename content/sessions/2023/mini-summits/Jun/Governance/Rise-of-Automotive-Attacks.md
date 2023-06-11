@@ -18,7 +18,6 @@ banner       :
 organizers   :
     - Abbas Haidar
     - Dinis Cruz
-    - Craig Gilliver
     - Celine Pypaert
 youtube_link :
 zoom_link    : https://us06web.zoom.us/meeting/register/tZEudu-ppjsqG9M4ik1yTf6ctXjYhJJHafNa
