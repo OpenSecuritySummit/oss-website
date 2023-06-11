@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZIkcOytqjgtGdVRBAWOoVW2
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4E22AQFGsWeZFJZRBA/feedshare-shrink_2048_1536/0/1686261535491?e=1689206400&v=beta&t=rSwbzlke_AS_7-o13tZXoAVowsMzYT-lk71gJSwLAiE
 organizers   :
    - Tim Ward
   
