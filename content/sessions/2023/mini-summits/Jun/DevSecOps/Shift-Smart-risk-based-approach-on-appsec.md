@@ -17,7 +17,7 @@ banner       : https://pbs.twimg.com/media/FxKsQ28WcAABJmX?format=jpg&name=mediu
 organizers   :
    - Francesco Cipollone
   
-youtube_link : 
+youtube_link : https://youtu.be/TYScog1oEeQ
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMpcu2opzIuE9OWSFEtXBTALTeDEvq6IWSl
 ---
 
