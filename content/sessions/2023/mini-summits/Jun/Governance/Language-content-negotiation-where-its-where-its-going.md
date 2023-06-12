@@ -18,7 +18,7 @@ description  :
 banner       : https://pbs.twimg.com/media/FxF-OsLWcAAHwp1?format=jpg&name=medium
 organizers   :
    - André Ferreira
-youtube_link : 
+youtube_link : https://youtu.be/t_mgpLhXAgI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0kcumtrzIqGdGU901Tm6DPqcl7usquqWYi 
 ---
 
