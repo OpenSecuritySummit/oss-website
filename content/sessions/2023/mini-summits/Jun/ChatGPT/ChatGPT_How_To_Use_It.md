@@ -1,5 +1,5 @@
 ---
-title        : "ChatGPT - What & How (Hands-on Session) (Panel" 
+title        : ChatGPT for Security Teams - What & How (Hands-on Session)  
 track        :  ChatGPT
 Project      :  Misc
 type         : working-session
