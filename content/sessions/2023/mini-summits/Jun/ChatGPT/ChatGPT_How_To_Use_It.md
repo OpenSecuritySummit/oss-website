@@ -1,5 +1,5 @@
 ---
-title        : ChatGPT for Security Teams - What & How (Hands-on Session)  
+title        : ChatGPT for Security Teams - What & How
 track        :  ChatGPT
 Project      :  Misc
 type         : working-session
