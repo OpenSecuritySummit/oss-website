@@ -17,7 +17,7 @@ description  :
 banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Jun/banners/ChatGPT-hands-on.png?raw=true
 organizers   :
     - Dinis Cruz 
-youtube_link :
+youtube_link : https://youtu.be/mNaGEwex0mc
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwkc-isrjotGdDxTId9Y8qXIE4IcmnhonpW
 ---
 
