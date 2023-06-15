@@ -18,7 +18,7 @@ banner       : https://media.licdn.com/dms/image/D4D22AQEON3uCNhVYaw/feedshare-s
 organizers   :
    - Sarb Sembhi
   
-youtube_link : 
+youtube_link : https://youtu.be/ut6sCH_lyzU
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwpdu6tqzwoHtB-ai_7jzBij48qJjYRd5uU
 ---
 
