@@ -18,7 +18,7 @@ banner       : https://media.licdn.com/dms/image/D4E22AQFGsWeZFJZRBA/feedshare-s
 organizers   :
    - Tim Ward
   
-youtube_link : 
+youtube_link : https://youtu.be/mhOJUopM1To
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIkcOytqjgtGdVRBAWOoVW2_diSDCqnmZzj
 ---
 
