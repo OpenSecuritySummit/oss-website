@@ -19,7 +19,7 @@ organizers   :
     - Abbas Haidar
     - Dinis Cruz
     - Celine Pypaert
-youtube_link :
+youtube_link : https://youtu.be/w03zNIQJBm4
 zoom_link    : https://us06web.zoom.us/meeting/register/tZEudu-ppjsqG9M4ik1yTf6ctXjYhJJHafNa
 ---
 
