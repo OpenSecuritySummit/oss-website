@@ -20,6 +20,10 @@ organizers   :
      - Gabriel L. Manor 
 youtube_link : https://youtu.be/1vl3RXxDEDY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0kd--qrj8uHtDlXzu_a6du3eycAX8dfY7Q
+session_slides:
+
 ---
+
+{{< gslides id="2PACX-1vRvWD_IWu35L_fXLHa6xcihaca6bzyT5Nzv73KqcSdTUoJrO3JA_dI4xfHEdhNSMw/embed?slide=id.p" >}}
 
 ## About this session
