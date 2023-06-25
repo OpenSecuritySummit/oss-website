@@ -23,12 +23,12 @@ session_slides:
 ---
     
 ## Summary of the session:
-Louis, a security architect and platform security lead, gives an in-depth analysis of threat
-modeling and introduces the concept of kata for software architectural catas. He explains
+Louis, a security architect and platform security lead, analyzes threat modeling in-depth
+modeling and introduces the concept of kata for software architectural katas. He explains
 the four-step model for threat modeling and suggests using a structured approach from
 system architecture instead of relying on threat modeling tools. Louis then discusses a
 SaaS solution that supports grading systems in one state of the United States as their
-target for evaluation and identifes potential threats from students and teachers.
+target for evaluation and identifies potential threats from students and teachers.
 The transcript discusses the potential risks of cheating in an exam system and suggests
 ways to prevent it. They discuss adding an admin to connect with the grading system and
 creating architecture diagrams to understand where vulnerabilities may lie. The group also
@@ -44,30 +44,30 @@ grouping related items together. The diagram serves as a basis for threat modeli
 Two individuals discuss the potential of creating graphs programmatically to scale their
 work. They prefer the simplicity of graphics and want to create relationships between text
 and code bases that are created programmatically. The need for change is acknowledged,
-but people often resist it due to time constraints. The speakers plan on making connections
-between UI and API less wide while acknowledging there is room for innovation in this area.
+but people often resist it due to time constraints. The speakers plan to make connections
+between UI and API less wide while acknowledging between UI and API less wide while acknowledging there is room for innovation in this area.
 
 ### Outline:
 I'm sorry, but based on the transcript provided, I cannot create an outline with chapters and
 timestamps. The transcript appears to be a conversation between two individuals
 discussing a security summit and a grading system. It lacks clear breaks or chapter
-headings, making it difcult to discern when one topic ends and another begins.
+headings, making it difficult to discern when one topic ends and another begins.
 Additionally, there are no timestamps provided in the transcript.
-Notes:
+### Notes:
 The speaker discusses how to reach a desired defensive state by analyzing vulnerabilities
-and threat scenarios, and validating the outcome.
+and threat scenarios and validating the outcome.
 The speaker introduces the term 'Kata' and explains its practice to create muscle memory.
-The speaker provides instructions on how to use a JSON fle to follow an example.
-The speaker advises to label data fows and elements to prepare for analysis.
+The speaker provides instructions on how to use a JSON file to follow an example.
+The speaker advises labeling data flows and elements to prepare for analysis.
 The speaker discusses the target of analysis, which is the grading system.
-The speaker identifes potential threats to the system, such as spoofng and cheating.
+The speaker identifies potential threats to the system, such as spoofing and cheating.
 The speaker introduces the idea of a 'bad student' and how they might attempt to cheat the
 system.
-The speaker discusses the teacher's role in the grading system and identifes potential
+The speaker discusses the teacher's role in the grading system and identifies potential
 actions they might take.
 The speaker discusses the different interfaces available to users, including the test UI,
 teacher UI, test API, and teacher API.
-The speaker identifes the need for a way to onboard students into the system.
+The speaker identifies the need for a way to onboard students into the system.
 The speaker identifes the different data stored in the system, such as questions, answers,
 grades, and statistics.
 The speaker emphasizes the importance of creating readable diagrams and suggests
@@ -78,7 +78,7 @@ The speaker describes the benefts of diagramming as code.
 Add the admin function that connects to the grading system in diagrams.
 Work with developers or system architects to create container diagram and threat modeling
 on fy as they start creating the system.
-###Follow-ups:
+### Follow-ups:
 How to onboard students for authentication?
 How does the user authenticate?
 Should the test UI be inside the DMZ?
@@ -87,12 +87,12 @@ Can they even be in the same segment?
 
 ### Action items:
 Add UID for authentication
-Enhance context diagram with how this person gets authentication code
-Label sends grades and queries questions from Teacher API to grading system
-Refactor HTML code for better diff on actual code
-Align arrows and labels for improved readability in context diagram.
+Enhance the context diagram with how this person gets the authentication code
+Label sends grades and queries questions from Teacher API to the grading system
+Refactor HTML code for the better diff from actual code
+Align arrows and labels for improved readability in the context diagram.
 ### Follow-ups:
-1. Investigate and fnd a system that can create those text programmatically from reality
+1. Investigate and find a system that can create those texts programmatically from reality
 2. Predify the diagram by making invisible connections between UI and API
 Action Items:
 1. Work on creating relationships programmatically added to version control
@@ -104,17 +104,18 @@ It.
 00:02
 Hi, welcome to this open security summit session in June 2023, and we
 have another great exploration on security caters and the second session
-on this topic that we have here. And Luis is going to walk us through a
-more in depth analysis of this great technique and this great practice,
-which is actually brings a lot of science to this process. So, Louis, over to
+on this topic that we have here. And Luis will walk us through a
+more in-depth analysis of this great technique and this great practice,
+which more in-depth analysis of this great technique and this great practice,
+which actually brings a lot of science to this process. So, Louis, over to
 you.
 00:30
 Thank you very much. So.
 00:34
 We're going to continue the threat modeling Kata we did last time. So me,
-I am a security architect, platform security lead in my current role. I have
+I am a security architect, and platform security lead in my current role. I have
 been doing threat modeling of many different things since the early 2010s.
-Airplane systems, It systems, OT systems, automotive systems, some IoT
+Airplane systems, It systems, OT systems, automotive systems, and some IoT
 got in the way.
 00:57
 These are my social media.
