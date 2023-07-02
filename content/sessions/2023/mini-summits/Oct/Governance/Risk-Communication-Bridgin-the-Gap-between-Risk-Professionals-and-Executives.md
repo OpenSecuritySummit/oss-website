@@ -23,3 +23,12 @@ zoom_link    :
 ---
 
 ## About this session
+This topic explores the challenges and strategies for effective risk communication between risk professionals and organizational executives. It discusses techniques for translating complex risks into business language, facilitating risk-informed decision-making, and improving risk reporting practices.
+
+### Outline:
+- Challenges and Barriers to effective risk communication
+- Techniques for translating complex risks into business language
+- Engaging and educating organizational executives on risk management
+- Enhancing risk reporting practices to facilitate decision making
+- Collaborative approaches for aligning risk communication with strategic goals
+
