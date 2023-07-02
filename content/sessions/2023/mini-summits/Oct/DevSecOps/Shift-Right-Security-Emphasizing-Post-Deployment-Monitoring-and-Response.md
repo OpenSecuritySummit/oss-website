@@ -1,5 +1,5 @@
 ---
-title        : "Shift-Right Security: Emphasizing Post-Deployment Monitoring and Response"
+title        : "Shift-Right Security: Emphasizing Post-Deployment Monitoring and Response (Panel)"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
