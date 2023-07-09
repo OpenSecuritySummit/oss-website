@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2023
 when_month   : Oct
 when_day     : Tue
-when_time    : WS-16-17
+when_time    : WS-17-16
 hey_summit   : 
 session_slack:
 #status      : draft
