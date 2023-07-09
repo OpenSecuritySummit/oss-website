@@ -1,7 +1,7 @@
 ---
 title        : "Social Engineering Attacks: Strengthening Human Firewall(Panel)"
-track        : Governance
-project      : Risk and Governance
+track        : Secure by Scenario
+project      : Secure by Scenario
 type         : working-session
 topics       :
 featured     :
