@@ -19,10 +19,13 @@ banner       : https://pbs.twimg.com/media/FxaPNIBWwAEWIgQ?format=jpg&name=900x9
 organizers   :
    - Mike Guthrie
  
-youtube_link : 
+youtube_link : https://youtu.be/2R-bG_r9q6g
 zoom_link    : https://us06web.zoom.us/meeting/register/tZckcOigpjsvGtOpT9BdiwSAh4qiOXj5YiIx
+session_slides:
 
 ---
+
+{{< gslides id="2PACX-1vT_nMOqlg-1PfAfzMCfwxIRVC1tIZlDzCEUNnsAvQZSZrS8JhFXGWSx54mL0XpWOg/embed?slide=id.p" >}}
 
 
 ## About the session:
