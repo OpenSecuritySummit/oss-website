@@ -570,3 +570,38 @@ day-93:
   key  : "Fri"
   where: "Online"
   order: 5
+day-94:
+  date : "12h"
+  day  : "Monday"
+  month: "Jun"
+  key  : "Mon"
+  where: "Online"
+  order: 1
+day-95:
+  date : "13th"
+  day  : "Tuesday"
+  month: "Jun"
+  key  : "Tue"
+  where: "Online"
+  order: 2
+day-96:
+  date : "14th"
+  day  : "Wednesday"
+  month: "Jun"
+  key  : "Wed"
+  where: "Online"
+  order: 3
+day-97:
+  date : "15th"
+  day  : "Thursday"
+  month: "Jun"
+  key  : "Thu"
+  where: "Online"
+  order: 4
+day-98:
+  date : "16st"
+  day  : "Friday"
+  month: "Jun"
+  key  : "Fri"
+  where: "Online"
+  order: 5

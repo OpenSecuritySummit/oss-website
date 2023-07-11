@@ -1,35 +1,35 @@
-day-94:
-  date : "12h"
+day-99:
+  date : "16h"
   day  : "Monday"
-  month: "Jun"
+  month: "Oct"
   key  : "Mon"
   where: "Online"
   order: 1
-day-95:
-  date : "13th"
+day-100:
+  date : "17th"
   day  : "Tuesday"
-  month: "Jun"
+  month: "Oct"
   key  : "Tue"
   where: "Online"
   order: 2
-day-96:
-  date : "14th"
+day-101:
+  date : "18th"
   day  : "Wednesday"
-  month: "Jun"
+  month: "Oct"
   key  : "Wed"
   where: "Online"
   order: 3
-day-97:
-  date : "15th"
+day-102:
+  date : "19th"
   day  : "Thursday"
-  month: "Jun"
+  month: "Oct"
   key  : "Thu"
   where: "Online"
   order: 4
-day-98:
-  date : "16st"
+day-103:
+  date : "20st"
   day  : "Friday"
-  month: "Jun"
+  month: "Oct"
   key  : "Fri"
   where: "Online"
   order: 5

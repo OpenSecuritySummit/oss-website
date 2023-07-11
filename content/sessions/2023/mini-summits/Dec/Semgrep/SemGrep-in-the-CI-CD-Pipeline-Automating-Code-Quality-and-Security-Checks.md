@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2023
-when_month   : Oct
+when_month   : Dec
 when_day     : Tue
 when_time    : WS-15-16
 hey_summit   : 

@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2023
-when_month   : Sep
+when_month   : Dec
 when_day     : Thu
 when_time    : WS-15-16
 hey_summit   : https://us06web.zoom.us/meeting/register/tZYkc-uspj0rGdddQogpbl98Lywpny-lBwrL
