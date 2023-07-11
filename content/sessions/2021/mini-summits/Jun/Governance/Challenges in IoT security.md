@@ -15,7 +15,7 @@ session_slack:
 #status       : draft
 description  :
 organizers   :
-    - Nicolas Boeckh
+    - Maya Boeckh
 youtube_link : https://www.youtube.com/watch?v=CxmfTh72MyU
 zoom_link    : 
 ---
