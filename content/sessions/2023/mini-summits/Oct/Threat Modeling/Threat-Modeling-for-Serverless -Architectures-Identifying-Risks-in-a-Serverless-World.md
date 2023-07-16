@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Oct
-when_day     : Tue
-when_time    : WS-17-16
+when_day     : Wed
+when_time    : WS-17-18
 hey_summit   : 
 session_slack:
 #status      : draft
