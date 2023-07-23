@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Ayse Vlok
+     - Nathan Case
      
 youtube_link : 
 zoom_link    : 
