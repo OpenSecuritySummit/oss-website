@@ -17,7 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
-     - Chen Gour Arie
+     - Chen Gour-Arie
      
 youtube_link : 
 zoom_link    : 
