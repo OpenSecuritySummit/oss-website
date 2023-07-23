@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
    - Dinis Cruz
+   - Omer Yaron
   
 youtube_link : 
 zoom_link    : 
