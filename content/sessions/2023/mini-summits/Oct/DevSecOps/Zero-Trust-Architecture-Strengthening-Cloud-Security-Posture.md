@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Ayse Vlok
      
 youtube_link : 
 zoom_link    : 
