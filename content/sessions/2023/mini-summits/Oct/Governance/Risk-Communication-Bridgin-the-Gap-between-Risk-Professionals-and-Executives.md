@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Richea Perry
+     - Chen Gour Arie
      
 youtube_link : 
 zoom_link    : 
