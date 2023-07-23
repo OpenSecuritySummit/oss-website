@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Luis Servin
+     - Ayse Vlok
      
 youtube_link : 
 zoom_link    : 
