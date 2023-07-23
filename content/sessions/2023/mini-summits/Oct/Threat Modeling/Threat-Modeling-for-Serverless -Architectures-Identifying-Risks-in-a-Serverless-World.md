@@ -19,6 +19,7 @@ organizers   :
      - Dinis Cruz
      - Luis Servin
      - Ayse Vlok
+     - Omer Yaron
      
 youtube_link : 
 zoom_link    : 
