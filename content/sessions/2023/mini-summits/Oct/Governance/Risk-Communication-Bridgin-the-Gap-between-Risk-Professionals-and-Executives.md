@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Richea Perry
      
 youtube_link : 
 zoom_link    : 
