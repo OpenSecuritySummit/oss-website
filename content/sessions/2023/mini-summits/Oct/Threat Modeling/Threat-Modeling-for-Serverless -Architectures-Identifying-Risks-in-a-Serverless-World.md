@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Luis Servin
      
 youtube_link : 
 zoom_link    : 
