@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Chen Gour-Arie
+     - Andre Fereira
      
 youtube_link : 
 zoom_link    : 
