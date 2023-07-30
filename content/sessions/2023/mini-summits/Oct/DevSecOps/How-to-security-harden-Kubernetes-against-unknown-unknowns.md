@@ -17,6 +17,7 @@ banner       :
 organizers   :
    - Cristian Klein
    - Jonathan Hägglund
+   - Nathan Case
   
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48W1-Dj5cvXEuk
