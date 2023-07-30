@@ -20,6 +20,7 @@ organizers   :
      - Richea Perry
      - Chen Gour-Arie
      - Marius Poskus
+     - Guy Marong
      
 youtube_link : 
 zoom_link    : 
