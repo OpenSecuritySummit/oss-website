@@ -1,5 +1,5 @@
 ---
-title        : "Cloud-Native Security Tools: Enhancing Cloud Protection Capabilities"
+title        : "Cloud-Native Security Tools: Enhancing Cloud Protection Capabilities(Panel)"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
