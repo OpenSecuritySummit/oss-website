@@ -19,6 +19,7 @@ organizers   :
      - Dinis Cruz
      - Richea Perry
      - Chen Gour-Arie
+     - Marius Poskus
      
 youtube_link : 
 zoom_link    : 
