@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
      - Ayse Vlok
      - Nathan Case
-     
+     - Ogechukwu Okonor
 youtube_link : 
 zoom_link    : 
 ---
