@@ -18,6 +18,7 @@ banner       :
 organizers   :
    - Dinis Cruz
    - Omer Yaron
+   - Marius Poskus
   
 youtube_link : 
 zoom_link    : 
