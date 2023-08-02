@@ -20,6 +20,9 @@ organizers   :
      - Ayse Vlok
      - Nathan Case
      - Ogechukwu Okonor
+     - Gabriel Manor
+     - Or Weis
+     - Oded Ben David
 youtube_link : 
 zoom_link    : 
 ---
