@@ -17,6 +17,9 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Gabriel Manor 
+     - Or Weis
+     - Oded Ben David
      
 youtube_link : 
 zoom_link    : 
