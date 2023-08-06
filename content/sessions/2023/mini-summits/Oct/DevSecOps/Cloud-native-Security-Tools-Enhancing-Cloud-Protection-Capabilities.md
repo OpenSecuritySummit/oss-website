@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Wed
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcqd-igqDosHtIvoZ-7yXyjq1FEzqJyFC8f
 session_slack:
 #status      : draft
 description  :
@@ -22,7 +22,7 @@ organizers   :
      - Oded Ben David
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcqd-igqDosHtIvoZ-7yXyjq1FEzqJyFC8f
 ---
 
 ## About this session
