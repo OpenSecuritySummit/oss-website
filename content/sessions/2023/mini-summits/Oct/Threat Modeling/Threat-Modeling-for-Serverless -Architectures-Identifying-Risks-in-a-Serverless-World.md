@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Wed
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZIvcO6rpjguG9c_BAbjihJ47vwkSsjYjPRw
 session_slack:
 #status      : draft
 description  :
@@ -22,7 +22,7 @@ organizers   :
      - Omer Yaron
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZIvcO6rpjguG9c_BAbjihJ47vwkSsjYjPRw
 ---
 
 ## About this session
