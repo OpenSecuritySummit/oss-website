@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Oct
-when_day     : Wed
+when_day     : Mon
 when_time    : WS-16-17
 hey_summit   : 
 session_slack:
@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Marius Poskus
+     - Simon Wardley
      
 youtube_link : 
 zoom_link    : 
