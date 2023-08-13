@@ -23,6 +23,7 @@ organizers   :
      - Gabriel L. Manor
      - Or Weis
      - Oded Ben David
+     - Maciej Owsiany
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwrf-yoqzIvE9Xay3GRcqLXma694AOxBYd6
 ---
