@@ -21,6 +21,7 @@ organizers   :
      - Chen Gour-Arie
      - Marius Poskus
      - Guy Marong
+     - Maciej Owsiany
      
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMuce2spjkpH9WDu95dj93HoO7bj-lDco1m
