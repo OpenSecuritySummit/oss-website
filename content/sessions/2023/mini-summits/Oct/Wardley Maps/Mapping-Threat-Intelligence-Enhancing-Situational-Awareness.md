@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Mon
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZwpde2trzotHNcOON-YniljAeYDo4a59zUf
 session_slack:
 #status      : draft
 description  :
@@ -21,7 +21,7 @@ organizers   :
      - Simon Wardley
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZwpde2trzotHNcOON-YniljAeYDo4a59zUf
 ---
 
 ## About this session
