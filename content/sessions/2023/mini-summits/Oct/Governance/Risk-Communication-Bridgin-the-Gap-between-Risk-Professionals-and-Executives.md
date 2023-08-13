@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Tue
 when_time    : WS-16-17
-hey_summit   : Risk Communication: Bridging the Gap between Risk Professionals and Executives (Panel)
+hey_summit   : https://us06web.zoom.us/meeting/register/tZMuce2spjkpH9WDu95dj93HoO7bj-lDco1m
 session_slack:
 #status      : draft
 description  :
@@ -23,7 +23,7 @@ organizers   :
      - Guy Marong
      
 youtube_link : 
-zoom_link    : Risk Communication: Bridging the Gap between Risk Professionals and Executives (Panel)
+zoom_link    : https://us06web.zoom.us/meeting/register/tZMuce2spjkpH9WDu95dj93HoO7bj-lDco1m
 ---
 
 ## About this session
