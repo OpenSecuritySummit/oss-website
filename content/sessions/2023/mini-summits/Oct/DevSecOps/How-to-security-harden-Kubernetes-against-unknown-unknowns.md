@@ -15,8 +15,7 @@ session_slack:
 description  :
 banner       : 
 organizers   :
-   - Cristian Klein
-   - Jonathan Hägglund
+   - Dinis Cruz
    - Nathan Case
   
 youtube_link : 
