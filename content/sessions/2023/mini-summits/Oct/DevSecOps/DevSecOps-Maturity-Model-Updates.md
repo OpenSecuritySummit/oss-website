@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Fri
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZMpdeyhpj0sH9z34Xu-JPwt1KGX9nR4poPD
 banner       : 
 #status      : 
 description  :
@@ -18,7 +18,7 @@ organizers   :
     - Timo Pagel
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZMpdeyhpj0sH9z34Xu-JPwt1KGX9nR4poPD
 session_slides:
 ---
 
