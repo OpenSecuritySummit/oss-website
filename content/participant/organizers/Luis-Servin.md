@@ -1,6 +1,6 @@
 ---
 title: Luis Servin
-image: https://s3.amazonaws.com/heysummit-production/media/uploads/events/post-summit-sessions/7rwVvvLuTL3aMP35ccEKyD.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/luisservinnew.jpg?raw=true
 company: 
 job_title: 
 facebook:
