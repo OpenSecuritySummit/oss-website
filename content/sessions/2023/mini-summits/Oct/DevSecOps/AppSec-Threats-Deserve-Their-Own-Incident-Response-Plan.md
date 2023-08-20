@@ -15,7 +15,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZAoce2tqDkrHtymvjFtW4fd
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/Appsec%20Threats.png?raw=true
 organizers   :
    - Omer Yaron
   
