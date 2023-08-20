@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcqd-igqDosHtIvoZ-7yXyj
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/cloud-native-security%20tools.png?raw=true
 organizers   :
      - Dinis Cruz
      - Gabriel L. Manor 
