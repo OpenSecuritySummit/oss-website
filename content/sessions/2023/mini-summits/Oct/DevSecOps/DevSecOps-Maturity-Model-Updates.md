@@ -16,6 +16,7 @@ banner       :
 description  :
 organizers   :
     - Timo Pagel
+    -Prakarsh Gupta
     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMpdeyhpj0sH9z34Xu-JPwt1KGX9nR4poPD
