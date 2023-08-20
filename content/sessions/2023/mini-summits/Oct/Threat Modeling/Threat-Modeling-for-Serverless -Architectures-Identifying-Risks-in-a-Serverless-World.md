@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZIvcO6rpjguG9c_BAbjihJ4
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/threat%20modeling-serverless-infrasructure.png?raw=true
 organizers   :
      - Dinis Cruz
      - Luis Servin
