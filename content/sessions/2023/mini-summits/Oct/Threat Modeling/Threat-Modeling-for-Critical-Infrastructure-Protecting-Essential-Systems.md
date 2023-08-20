@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZAkfuirqzwvGdOeMT8WodCl
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/Threat%20modelling-critical%20infrastructure.png?raw=true
 organizers   :
      - Dinis Cruz
      - Izar Tarandach
