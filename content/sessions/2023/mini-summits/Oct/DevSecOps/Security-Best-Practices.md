@@ -1,7 +1,7 @@
 ---
-title        : Container Security
+title        : Network Security
 type         : working-session
-topics       : Kubernetes
+topics       : Kubernetes. Network Security
 featured     :
 event        : mini-summit
 when_year    : 2023
@@ -24,9 +24,9 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48
 
 
 ## About this session
-Explore strategies for securing containers within Kubernetes, addressing potential unknown threats within your application containers.
+Description: Learn how to secure network communications and segments within Kubernetes clusters to thwart unknown threats at the network level.
 
 ### Outline:
-- Hardening container images for Kubernetes.
-- Implementing runtime security for containers.
-- Detecting and mitigating container vulnerabilities.
+- Implementing network policies in Kubernetes.
+- Network segmentation for enhanced security.
+- Monitoring and analyzing network traffic for anomalies
