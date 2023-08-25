@@ -1,6 +1,5 @@
 ---
-title        : How to security-harden Kubernetes against unknown unknowns
-track        : DevSecOps
+title        : Container Security
 type         : working-session
 topics       : Kubernetes
 featured     :
@@ -25,3 +24,9 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48
 
 
 ## About this session
+Explore strategies for securing containers within Kubernetes, addressing potential unknown threats within your application containers.
+
+### Outline:
+- Hardening container images for Kubernetes.
+- Implementing runtime security for containers.
+- Detecting and mitigating container vulnerabilities.
