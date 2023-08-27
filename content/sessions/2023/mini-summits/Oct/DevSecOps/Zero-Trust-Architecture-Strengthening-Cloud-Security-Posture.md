@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZwrf-yoqzIvE9Xay3GRcqLX
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/zero%20trust%20architecture.png?raw=true
 organizers   :
      - Dinis Cruz
      - Ayse Vlok
