@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Oct
-when_day     : Tue
+when_day     : Fri
 when_time    : WS-17-18
 hey_summit   : https://us06web.zoom.us/meeting/register/tZclf-qprzIoH9V84Td6Tz77XiYPlxGmr7vv
 session_slack:
