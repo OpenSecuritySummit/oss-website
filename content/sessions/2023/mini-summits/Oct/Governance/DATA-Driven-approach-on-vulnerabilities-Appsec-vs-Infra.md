@@ -1,5 +1,5 @@
 ---
-title        : "The Cybersecurity Talent Gap: Addressing the Growing Skills Shortage(Panel)"
+title        : DATA Driven approach on vulnerabilities Appsec vs Infra (Panel)
 track        : Governance
 project      : Risk and Governance
 type         : working-session
