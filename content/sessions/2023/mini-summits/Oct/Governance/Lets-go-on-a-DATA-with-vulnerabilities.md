@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZEvd--oqD0rG9wap-L9TtyR
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4D22AQEZ6hyVb38n_A/feedshare-shrink_1280/0/1694091402759?e=1697068800&v=beta&t=-rmoAyiZxotbLN9sJT3M5IiSACFq4dhiAOJoepe6q70
 organizers   :
      - Francesco Cipollone
      
