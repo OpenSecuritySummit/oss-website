@@ -12,7 +12,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48
 session_slack:
 #status       : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4E22AQEI6WY8rvsfXA/feedshare-shrink_1280/0/1693517367732?e=1697068800&v=beta&t=TgknhM1BSbGdG9aiqQFH61EW97ln4tHjIqJe-tyZyR4
 organizers   :
    - Dinis Cruz
    - Nathan Case
