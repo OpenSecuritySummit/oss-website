@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZMuce2spjkpH9WDu95dj93H
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4D22AQFD_tOPXU0-lA/feedshare-shrink_1280/0/1692822339073?e=1697068800&v=beta&t=jz7mqwxZxJq1GGdK4EatA2yYKq8Gy94UfGzVX2vYmUw
 organizers   :
      - Dinis Cruz
      - Richea Perry
