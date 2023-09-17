@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Mon
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZElf-Cqqz8jGdYeSh22ml3G54YotO-3gYc9
 banner       : 
 session_slack:
 #status      : 
@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Matthew Adams       
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZElf-Cqqz8jGdYeSh22ml3G54YotO-3gYc9
 ---
 
 ## About this session
