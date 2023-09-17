@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Fri
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZErc-Gtqj8rGtQ6FeIaPHRocTKdnvbROvb6
 banner       : 
 session_slack:
 #status      : 
@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Clint Dovholuk     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZErc-Gtqj8rGtQ6FeIaPHRocTKdnvbROvb6
 ---
 
 ## About this session
