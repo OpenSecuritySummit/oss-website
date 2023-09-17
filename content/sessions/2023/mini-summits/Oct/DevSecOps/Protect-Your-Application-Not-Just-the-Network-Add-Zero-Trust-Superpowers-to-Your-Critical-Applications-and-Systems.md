@@ -16,7 +16,7 @@ session_slack:
 #status      : 
 description  :
 organizers   :
-    - 	Clint Dovholuk     
+    - Clint Dovholuk     
 youtube_link : 
 zoom_link    : 
 ---
