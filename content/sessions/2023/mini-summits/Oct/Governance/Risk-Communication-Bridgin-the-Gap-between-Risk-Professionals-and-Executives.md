@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZMuce2spjkpH9WDu95dj93H
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/risk%20communication.jpg?raw=true
 organizers   :
      - Dinis Cruz
      - Richea Perry
