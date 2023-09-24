@@ -23,3 +23,17 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZErc-Gtqj8rGtQ6FeIaPHRo
 
 ## About this session
 A overview of zero trust, what it means to be application embedded zero trust and it will contain demo golang code for people to try out live if they desire.
+
+"Applications are the new edge and zero trust is the security industry’s latest hot buzzword. 
+The OpenZiti, open source project (https://openziti.github.io) is a one-stop shop for building
+truly zero trust solutions. Stop trying to protect your network. Securing the network isn't enough.
+Adding zero trust directly to your app is the future and the best way to keep your users safe.
+
+OpenZiti not only provides the required zero trust overlay network but also provides numerous
+SDKs for use in your favorite language. Can't go fully app-embedded? OpenZiti also provides 
+clients for all major desktop/mobile operating systems.
+
+In this session you will:
+•	learn some core tenants of zero trust and how it's different from current network security
+•	see what it means to embed zero trust into your app and why it's the future for application security
+•	discover the superpowers your app gains by simply incorporating an OpenZiti SDK in your app"
