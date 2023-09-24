@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Chen Gour-Arie
-     - André Ferreira
+     
       
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0ofuqvqD4sH9GF19gonYcVXlgsYrMATYom
