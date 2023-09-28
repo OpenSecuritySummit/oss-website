@@ -16,7 +16,7 @@ session_slack:
 description  :
 banner       : 
 organizers   :
-     - Dinis Cruz
+     - Danny Lopez
      - Chen Gour-Arie
      
       
