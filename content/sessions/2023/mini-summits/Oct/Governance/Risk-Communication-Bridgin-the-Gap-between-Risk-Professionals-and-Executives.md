@@ -16,7 +16,7 @@ session_slack:
 description  :
 banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/risk%20communication.jpg?raw=true
 organizers   :
-     - Dinis Cruz
+     - Danny Lopez
      - Richea Perry
      - Chen Gour-Arie
      - Marius Poskus
