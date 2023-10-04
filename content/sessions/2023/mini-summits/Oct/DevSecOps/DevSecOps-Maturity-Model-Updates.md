@@ -24,5 +24,10 @@ session_slides:
 ---
 
 ## About the session
+DevSecOps assessments are performed often only quarterly/yearly/by-yearly. If you want to provide fast feedback to your teams about their maturity, this is for you!
 
-Presentation and discussion of recent features
+Agenda
+- New Features from GSoC
+- New Features (e.g. team assessments)
+- Outlook of the _Metric Collector and Analyzer_
+
