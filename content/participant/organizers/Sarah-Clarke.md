@@ -1,8 +1,8 @@
 ---
 title: Sarah Clarke
-image: https://media-exp1.licdn.com/dms/image/C4E03AQGik4fqNwDD4w/profile-displayphoto-shrink_800_800/0/1584484896443?e=1620259200&v=beta&t=QppM-B5-Q9AhMmgfx6FWewfmrohp05seNsq-L2pWJWg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/sarahclarke.jpg?raw=true
 company: 
-job_title: 
+job_title: Data protection, security, AI/ML governance, risk, and compliance
 facebook:
 linkedin: 
 twitter: 
