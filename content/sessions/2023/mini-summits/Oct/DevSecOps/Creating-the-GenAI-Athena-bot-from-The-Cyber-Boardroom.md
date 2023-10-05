@@ -1,5 +1,5 @@
 ---
-title        : "Creating the GenAI Athena Bot from the CyberBoardroom"
+title        : "Creating the GenAI Athena Bot from the Cyber Boardroom"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
