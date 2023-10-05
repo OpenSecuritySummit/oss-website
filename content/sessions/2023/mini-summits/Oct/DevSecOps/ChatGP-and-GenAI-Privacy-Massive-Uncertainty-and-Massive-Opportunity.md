@@ -1,5 +1,5 @@
 ---
-title        : "How GenAI Agents will dramatically change our industry"
+title        : "ChatGPT and GenAI Privacy - Massive Uncertainty and Massive Opportunity"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
@@ -8,17 +8,18 @@ featured     :
 event        : mini-summit
 when_year    : 2023
 when_month   : Oct
-when_day     : Tue
+when_day     : wed
 when_time    : WS-18-19
-hey_summit   : https://us06web.zoom.us/meeting/register/tZwrce6hqzopHdfO_qPcITdxKB-_gFnYzgNA
+hey_summit   : 
 banner       : 
 session_slack:
 #status      : 
 description  :
 organizers   :
-    -  Dinis Cruz     
+    -  Dinis Cruz   
+    -  Sarah Clarke
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZwrce6hqzopHdfO_qPcITdxKB-_gFnYzgNA
+zoom_link    : 
 ---
 
 ## About this session
