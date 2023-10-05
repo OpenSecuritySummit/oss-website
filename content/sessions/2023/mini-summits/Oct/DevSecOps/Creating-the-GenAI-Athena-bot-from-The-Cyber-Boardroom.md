@@ -1,5 +1,5 @@
 ---
-title        : "How GenAI Agents will dramatically change our industry"
+title        : "How Creating the GenAI Athena Bot from the Cyber Boardroom"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
