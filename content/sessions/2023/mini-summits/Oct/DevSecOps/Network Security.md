@@ -1,5 +1,5 @@
 ---
-title        : Network Security
+title        : Kubernetes Clusters Network Security
 type         : working-session
 topics       : Kubernetes. Network Security
 featured     :
@@ -8,7 +8,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48W1-Dj5cvXEuk
+hey_summit   : https://www.linkedin.com/events/7110035220086575104
 session_slack:
 #status       : draft
 description  :
