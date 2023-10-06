@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Wed
 when_time    : WS-18-19
-hey_summit   : https://us06web.zoom.us/meeting/register/tZclc-Ggpj8jGdGKNJoRA2YdYHvoNNL98b3u
+hey_summit   : https://www.linkedin.com/events/7116101480998182912
 banner       : 
 session_slack:
 #status      : 
@@ -31,7 +31,7 @@ Exploring governance challenges with GenAI usage and the opportunities created, 
  - How can we responsibly grasp opportunities and live with uncertainty? 
  - Where do you start?
  - How do you upskill?
- - How do we bring in new talent and increase Neural Diversity in our industry?
+ - How do we bring in new talent and increase Neurodiversity in our industry?
  - How can you manage risk for rapid dev, acquisition, and deployment?
  - How do we protect user's Privacy?
  - How do understand AI bias and prejudices?
