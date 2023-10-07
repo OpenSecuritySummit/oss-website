@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Mon
 when_time    : WS-16-17
-hey_summit   : https://us06web.zoom.us/meeting/register/tZwpde2trzotHNcOON-YniljAeYDo4a59zUf
+hey_summit   : https://www.linkedin.com/events/7114744059448995840/
 session_slack:
 #status      : draft
 description  :
