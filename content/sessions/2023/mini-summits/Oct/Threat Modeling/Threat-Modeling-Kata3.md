@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Thu
 when_time    : WS-15-16
-hey_summit   : https://us06web.zoom.us/meeting/register/tZEud-uuqTMsHteI35A24ntllhP4AdzGekzO
+hey_summit   : https://www.linkedin.com/events/7110646330049359872
 banner       : https://pbs.twimg.com/media/F4D8Pe1XIAA5kJR?format=jpg&name=medium
 
 
