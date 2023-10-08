@@ -23,7 +23,7 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZwrce6hqzopHdfO_qPcITdx
 
 
 ## About this session
-Excitement is bubbling up as we approach an exclusive session hosted by our own Dinis Cruz at the Open Security Summit CIC!
+This session will shed light on the profound impacts of GenAI on cybersecurity and privacy, uncovering both the opportunities and complexities it presents. Dinis will also guide us on how to navigate these changes and future-proof our strategies amidst rapid tech advancements. Dive into the future and unravel the boundless possibilities of GenAI with us.
 
 ## 🔍 Topic Insight:
 The landscape of our industry is shifting, morphing, and evolving, with GenAI agents at the forefront of this spectacular transformation. But what does this mean for us, and how do we navigate through the sea of opportunities and challenges that it brings?
