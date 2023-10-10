@@ -14,7 +14,7 @@ hey_summit   : https://www.linkedin.com/events/7114365329249624064/
 session_slack:
 #status      : draft
 description  :
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/risk%20communication.jpg?raw=true
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/risk%20communication%20(1).jpg?raw=true
 organizers   :
      - Danny Lopez
      - Richea Perry
