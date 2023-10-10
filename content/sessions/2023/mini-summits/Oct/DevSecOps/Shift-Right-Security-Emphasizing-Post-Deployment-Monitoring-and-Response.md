@@ -14,7 +14,7 @@ hey_summit   : https://www.linkedin.com/events/7111115511110787072
 session_slack:
 #status: draft
 description  :
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/shift-right.jpg?raw=true
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/shift-right%20(1).jpg?raw=true
 organizers   :
    - Dinis Cruz
    - Omer Yaron
