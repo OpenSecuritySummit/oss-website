@@ -15,7 +15,7 @@ hey_summit   : https://www.linkedin.com/events/7109694688676241408
 session_slack:
 #status       : draft
 description  :
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/appsec.jpg?raw=true
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/appsec%20(1).jpg?raw=true
 organizers   :
    - Omer Yaron
   
