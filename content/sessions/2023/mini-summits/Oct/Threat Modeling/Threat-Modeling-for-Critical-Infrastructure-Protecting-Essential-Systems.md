@@ -17,7 +17,6 @@ description  :
 banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/citical%20infrastructure.jpg?raw=true
 organizers   :
      - Dinis Cruz
-     - Izar Tarandach
    
      
 youtube_link : 
