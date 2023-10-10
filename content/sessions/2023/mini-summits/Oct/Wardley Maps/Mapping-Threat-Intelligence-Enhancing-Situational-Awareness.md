@@ -14,7 +14,7 @@ hey_summit   : https://www.linkedin.com/events/7114744059448995840/
 session_slack:
 #status      : draft
 description  :
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/mapping%20threat.jpg?raw=true
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/mapping%20threat%20(1).jpg?raw=true
 organizers   :
      - Dinis Cruz
      - Marius Poskus
