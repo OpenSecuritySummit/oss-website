@@ -12,7 +12,7 @@ hey_summit   : https://www.linkedin.com/events/7110035220086575104
 session_slack:
 #status       : draft
 description  :
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/Network%20Security.jpg?raw=true
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/Network%20Security%20(1).jpg?raw=true
 organizers   :
    - Dinis Cruz
    - Nathan Case
