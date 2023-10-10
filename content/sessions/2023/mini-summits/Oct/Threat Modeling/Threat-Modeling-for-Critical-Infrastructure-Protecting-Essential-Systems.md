@@ -14,7 +14,7 @@ hey_summit   : https://www.linkedin.com/events/7112830284366016512
 session_slack:
 #status      : draft
 description  :
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/citical%20infrastructure.jpg?raw=true
+banner       : 
 organizers   :
      - Dinis Cruz
    
