@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2023
-when_month   : Oct
+when_month   : Dec
 when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : https://www.linkedin.com/events/7112830284366016512
