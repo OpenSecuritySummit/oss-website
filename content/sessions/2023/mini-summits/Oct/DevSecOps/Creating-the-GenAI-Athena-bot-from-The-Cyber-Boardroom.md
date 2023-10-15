@@ -11,7 +11,7 @@ when_month   : Oct
 when_day     : Thu
 when_time    : WS-18-19
 hey_summit   : https://www.linkedin.com/events/7117257697510535168/
-banner       : 
+banner       : https://pbs.twimg.com/media/F8BzMHpWUAEgRhM?format=jpg&name=medium
 session_slack:
 #status      : 
 description  :
