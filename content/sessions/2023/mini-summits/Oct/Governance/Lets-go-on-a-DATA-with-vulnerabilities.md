@@ -14,7 +14,7 @@ hey_summit   : https://www.linkedin.com/events/7112485965855649793/
 session_slack:
 #status      : draft
 description  :
-banner       : https://media.licdn.com/dms/image/D4D22AQEZ6hyVb38n_A/feedshare-shrink_1280/0/1694091402759?e=1697068800&v=beta&t=-rmoAyiZxotbLN9sJT3M5IiSACFq4dhiAOJoepe6q70
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/data%20vulnerabilities.jpg?raw=true
 organizers   :
      - Francesco Cipollone
      
