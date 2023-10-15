@@ -10,7 +10,7 @@ when_year    : 2023
 when_month   : Oct
 when_day     : Mon
 when_time    : WS-18-19
-hey_summit   : https://us06web.zoom.us/meeting/register/tZElf-Cqqz8jGdYeSh22ml3G54YotO-3gYc9
+hey_summit   : https://www.linkedin.com/events/7117866669871382529
 banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/attack%20gen.png?raw=true
 session_slack:
 #status      : 
