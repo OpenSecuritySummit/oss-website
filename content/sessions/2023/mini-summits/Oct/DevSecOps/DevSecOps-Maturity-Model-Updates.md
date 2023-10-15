@@ -11,7 +11,7 @@ when_month   : Oct
 when_day     : Fri
 when_time    : WS-15-16
 hey_summit   : https://us06web.zoom.us/meeting/register/tZMpdeyhpj0sH9z34Xu-JPwt1KGX9nR4poPD
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4D22AQHit37Im1TJVA/feedshare-shrink_1280/0/1694787751472?e=1700092800&v=beta&t=EREICYht0859-bWjMuek-edFKVSZtTRsncK_4pkqiaE
 #status      : 
 description  :
 organizers   :
