@@ -11,7 +11,7 @@ when_month   : Oct
 when_day     : Fri
 when_time    : WS-18-19
 hey_summit   : https://www.linkedin.com/events/7115459074531504128
-banner       : 
+banner       : https://twitter.com/opensecsummit/status/1709701934959956065
 session_slack:
 #status      : 
 description  :
