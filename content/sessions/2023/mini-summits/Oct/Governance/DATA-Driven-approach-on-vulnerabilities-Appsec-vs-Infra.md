@@ -14,7 +14,7 @@ hey_summit   : https://www.linkedin.com/events/datadrivenapproachonvulnerabili71
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/data%20driven.jpg?raw=true
 organizers   :
      - Francesco Cipollone
      - Jay Jacobs 
