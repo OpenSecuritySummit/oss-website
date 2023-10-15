@@ -14,7 +14,7 @@ hey_summit   : https://www.linkedin.com/events/7110038244691451904
 session_slack:
 #status      : draft
 description  :
-banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/anticipating%20the%20future.png?raw=true
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2023/mini-summits/Oct/banners/anticipate.jpg?raw=true
 organizers   :
      - Jeremy Treadwell
    
