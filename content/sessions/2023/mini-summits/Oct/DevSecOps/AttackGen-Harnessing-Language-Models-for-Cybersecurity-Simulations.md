@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Matthew Adams       
 youtube_link : 
-zoom_link    : https://www.linkedin.com/events/attackgen-harnessinglanguagemod7117866669871382529/
+zoom_link    : https://us06web.zoom.us/j/85889254932
 ---
 
 ## About this session
