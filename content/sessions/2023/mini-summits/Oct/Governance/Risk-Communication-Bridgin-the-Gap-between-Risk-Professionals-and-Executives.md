@@ -23,7 +23,7 @@ organizers   :
      - Guy Marong
      - Maciej Owsiany
      
-youtube_link : 
+youtube_link : https://youtu.be/xBhnYMmhhsg
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMuce2spjkpH9WDu95dj93HoO7bj-lDco1m
 ---
 
