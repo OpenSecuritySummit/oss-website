@@ -17,7 +17,7 @@ organizers   :
    - Dinis Cruz
    - Nathan Case
   
-youtube_link : 
+youtube_link : https://youtu.be/u47zb0zJ1X4
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUvdO2qqTIoGdyk4oKgHK48W1-Dj5cvXEuk
 
 ---
