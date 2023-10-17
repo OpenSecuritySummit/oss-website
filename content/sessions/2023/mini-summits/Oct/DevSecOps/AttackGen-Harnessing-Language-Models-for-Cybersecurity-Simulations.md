@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Matthew Adams       
-youtube_link : 
+youtube_link : https://youtu.be/B4kLg0FaUKA
 zoom_link    : https://us06web.zoom.us/j/85889254932
 ---
 
