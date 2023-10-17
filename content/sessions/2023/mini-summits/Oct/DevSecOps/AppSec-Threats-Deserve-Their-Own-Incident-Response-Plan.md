@@ -19,7 +19,7 @@ banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/conte
 organizers   :
    - Omer Yaron
   
-youtube_link : 
+youtube_link : https://youtu.be/KqU1ZurRqnU
 zoom_link    : https://us06web.zoom.us/j/84564562148?pwd=ajN5aHFROG9JNlowT1NjcUViZXArdz09
 ---
 
