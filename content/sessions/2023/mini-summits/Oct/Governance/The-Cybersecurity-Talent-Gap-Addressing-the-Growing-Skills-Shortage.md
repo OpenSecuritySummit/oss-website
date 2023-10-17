@@ -20,7 +20,7 @@ organizers   :
      - Chen Gour-Arie
      
       
-youtube_link : 
+youtube_link : https://youtu.be/uY8hhYD3PXI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0ofuqvqD4sH9GF19gonYcVXlgsYrMATYom
 ---
 
