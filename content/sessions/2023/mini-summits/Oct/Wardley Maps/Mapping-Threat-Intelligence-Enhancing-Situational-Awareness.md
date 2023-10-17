@@ -20,7 +20,7 @@ organizers   :
      - Marius Poskus
      - Simon Wardley
      
-youtube_link : 
+youtube_link : https://youtu.be/pw7PImph7pk
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwpde2trzotHNcOON-YniljAeYDo4a59zUf
 ---
 
