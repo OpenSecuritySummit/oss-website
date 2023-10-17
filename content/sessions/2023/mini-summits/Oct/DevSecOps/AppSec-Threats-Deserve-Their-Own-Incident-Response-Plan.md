@@ -20,7 +20,7 @@ organizers   :
    - Omer Yaron
   
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZAoce2tqDkrHtymvjFtW4fdDy94YKGTXFLl
+zoom_link    : https://us06web.zoom.us/j/84564562148?pwd=ajN5aHFROG9JNlowT1NjcUViZXArdz09
 ---
 
 
