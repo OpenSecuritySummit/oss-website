@@ -20,7 +20,7 @@ organizers   :
    - Omer Yaron
    - Marius Poskus
   
-youtube_link : 
+youtube_link : https://youtu.be/FrT52Ca5bkU
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUkf-urrjMpGtLDM5cezDhS7ybg28mmiYdp
 
 ---
