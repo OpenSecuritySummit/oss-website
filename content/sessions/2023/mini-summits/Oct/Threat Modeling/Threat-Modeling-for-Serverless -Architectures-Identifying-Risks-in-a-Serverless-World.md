@@ -21,7 +21,7 @@ organizers   :
      - Ayse Vlok
      - Omer Yaron
      
-youtube_link : 
+youtube_link : https://youtu.be/LU3f5_mRkII
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIvcO6rpjguG9c_BAbjihJ47vwkSsjYjPRw
 ---
 
