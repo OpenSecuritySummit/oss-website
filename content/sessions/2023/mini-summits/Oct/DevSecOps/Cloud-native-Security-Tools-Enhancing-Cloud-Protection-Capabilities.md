@@ -21,7 +21,7 @@ organizers   :
      - Or Weis
      - Oded Ben David
      
-youtube_link : 
+youtube_link : https://youtu.be/z4QSyrtZCLQ
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcqd-igqDosHtIvoZ-7yXyjq1FEzqJyFC8f
 ---
 
