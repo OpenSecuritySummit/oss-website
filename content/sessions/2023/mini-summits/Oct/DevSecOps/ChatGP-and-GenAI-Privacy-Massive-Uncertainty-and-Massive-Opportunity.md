@@ -18,7 +18,7 @@ description  :
 organizers   :
     -  Dinis Cruz   
     -  Sarah Clarke
-youtube_link : 
+youtube_link : https://youtu.be/WjDRkiFGfNA
 zoom_link    : https://us06web.zoom.us/meeting/register/tZclc-Ggpj8jGdGKNJoRA2YdYHvoNNL98b3u
 ---
 
