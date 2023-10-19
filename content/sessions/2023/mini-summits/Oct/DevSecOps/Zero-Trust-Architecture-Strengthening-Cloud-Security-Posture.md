@@ -23,7 +23,7 @@ organizers   :
      - Or Weis
      - Oded Ben David
      - Maciej Owsiany
-youtube_link : 
+youtube_link : https://youtu.be/TuHNfroFzdY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwrf-yoqzIvE9Xay3GRcqLXma694AOxBYd6
 ---
 
