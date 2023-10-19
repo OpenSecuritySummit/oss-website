@@ -19,7 +19,7 @@ organizers   :
      - Jeremy Treadwell
    
      
-youtube_link : 
+youtube_link : https://youtu.be/tCU__lbR5u0
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAkde2uqzovGNy3yrnbvHfNIss-FuN6YyMn
 ---
 
