@@ -18,7 +18,7 @@ organizers   :
     - Timo Pagel
     - Prakarsh Gupta
     
-youtube_link : 
+youtube_link : https://youtu.be/ZbNQ-A-bzw8
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMpdeyhpj0sH9z34Xu-JPwt1KGX9nR4poPD
 session_slides:
 ---
