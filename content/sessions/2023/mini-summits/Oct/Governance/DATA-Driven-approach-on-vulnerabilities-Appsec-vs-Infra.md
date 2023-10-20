@@ -23,7 +23,7 @@ organizers   :
      - Chris Madden 
      - Marius Poskus
       
-youtube_link : 
+youtube_link : https://youtu.be/BaETCQTnr8k
 zoom_link    : https://us06web.zoom.us/meeting/register/tZclf-qprzIoH9V84Td6Tz77XiYPlxGmr7vv
 ---
 
