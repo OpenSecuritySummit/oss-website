@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Clint Dovholuk     
-youtube_link : 
+youtube_link : https://youtu.be/CfGfMqBiFPY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZErc-Gtqj8rGtQ6FeIaPHRocTKdnvbROvb6
 ---
 
