@@ -19,7 +19,11 @@ organizers   :
     - Dinis Cruz      
 youtube_link : https://youtu.be/8EUZgEPkMyU
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwrce6hqzopHdfO_qPcITdxKB-_gFnYzgNA
+session_slides:
+
 ---
+
+{{< gslides id="2PACX-1vTfGf1WZoyDsPYxoIgXDqaxDzNyhX8zr2GndYtm_VGscwjRQQnrcBQAfxxwH6eE-g/embed?slide=id.p" >}}
 
 
 ## About this session
