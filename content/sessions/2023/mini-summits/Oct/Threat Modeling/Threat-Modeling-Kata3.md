@@ -3,7 +3,7 @@ title        : Threat Modeling Kata Part 3
 track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
-topics       : 
+topics       : Serverless architecture, threat model
 featured     :
 event        : mini-summit
 when_year    : 2023
@@ -15,7 +15,7 @@ banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/conte
 
 
 #status      : 
-description  :
+description  : Starting a threat model can be challenging if you have never done it or if you face new technologies. Practice helps you understand how to improve your threat modeling skills. A Kata refers to a common practice in martial arts to practice choreographed movements to memorize and perfection them. Join this session to flex your threat modeling muscles on a serverless application for managing an online bookstore.
 organizers   :
     - Luis Servin
     
