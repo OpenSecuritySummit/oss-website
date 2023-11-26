@@ -1,6 +1,6 @@
 ---
 title        : Battling the coming wave, Understanding cybersecurity in 2024
-track        : Risk and Governance
+track        : Governance
 project      : Risk and Governance
 topics       : cybersecurity in 2024
 featured     :
