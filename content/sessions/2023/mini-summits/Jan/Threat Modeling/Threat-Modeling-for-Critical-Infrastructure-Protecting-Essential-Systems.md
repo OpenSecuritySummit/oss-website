@@ -6,8 +6,8 @@ type         : working-session
 topics       : 
 featured     :
 event        : mini-summit
-when_year    : 2023
-when_month   : Dec
+when_year    : 2024
+when_month   : Jan
 when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : https://www.linkedin.com/events/7112830284366016512
