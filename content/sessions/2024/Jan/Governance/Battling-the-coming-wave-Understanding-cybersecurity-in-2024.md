@@ -1,7 +1,7 @@
 ---
 title        : Battling the coming wave, Understanding cybersecurity in 2024
-track        : DevSecOps
-project      : DevSecOps
+track        : Risk and Governance
+project      : Risk and Governance
 type         : working-session
 topics       :
 featured     :
