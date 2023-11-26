@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 202
-when_month   : Dec
+when_month   : Jan
 when_day     : Fri
 when_time    : WS-15-16
 hey_summit   : https://us06web.zoom.us/meeting/register/tZYudO2srTMjEtBqb2fWuBHCfjj1954vROZs
