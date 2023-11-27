@@ -1,14 +1,11 @@
 ---
-title        : 2024 Summit Sessions
-layout       : Sessions
+title        : Virtual Summit January 2024
+layout       : mini-summit
+year         : 2024
+month        : Jan
+organizers   :
 ---
 
----
-{{< warning >}}
-**Note:** this list of events and sessions is not complete, we are still in the process of importing
-{{< /warning >}}
+Here are the sessions that are scheduled to occur in the virtual event to be hosted in January 2024
 
-
-### Summit events
-
-- [2020](2020)
+Check the sessions pages for the slides and videos

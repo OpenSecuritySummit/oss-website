@@ -2,6 +2,7 @@
 title        : "How to perform threat assessments, the right way!"
 track        : Threat Modeling
 project      : Threat Modeling
+type         : working-session
 topics       :
 featured     :
 event        : mini-summit
@@ -9,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Mon
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : TBD
 banner       : 
 session_slack:
 #status      : 

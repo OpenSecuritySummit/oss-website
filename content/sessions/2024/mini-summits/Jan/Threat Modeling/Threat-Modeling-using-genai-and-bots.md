@@ -1,5 +1,5 @@
 ---
-title        : "Threat Modeling for Critical Infrastructure: Protecting Essential Systems( Panel)"
+title        : "Threat Modeling using GenAI and Bots (panel)"
 track        : Threat Modeling
 project      : Threat Modeling
 type         : working-session
@@ -17,8 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
-   
-     
+    
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAkfuirqzwvGdOeMT8WodClQkNeRaX1Qn25
 ---

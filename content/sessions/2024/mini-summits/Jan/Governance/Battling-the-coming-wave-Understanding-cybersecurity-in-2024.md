@@ -2,7 +2,7 @@
 title        : Battling the coming wave, Understanding cybersecurity in 2024
 track        : Governance
 project      : Risk and Governance
-topics       : cybersecurity in 2024
+type         : working-session
 featured     :
 event        : mini-summit
 when_year    : 2024

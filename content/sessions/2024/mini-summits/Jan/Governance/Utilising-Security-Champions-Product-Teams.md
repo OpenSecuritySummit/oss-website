@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Tue
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : TBD
 session_slack:
 #status      : draft
 description  :
