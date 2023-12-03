@@ -8,7 +8,7 @@ event        : mini-summit
 when_year    : 2024
 when_month   : Jan
 when_day     : Tue
-when_time    : WS-18-19
+when_time    : WS-17-18
 hey_summit   : 
 banner       : 
 session_slack:
