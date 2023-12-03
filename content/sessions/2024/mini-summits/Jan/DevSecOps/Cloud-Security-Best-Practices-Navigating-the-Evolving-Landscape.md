@@ -1,5 +1,5 @@
 ---
-title        : "Cloud Security Best Practices: Navigating the Evolving Landscape"
+title        : "Cloud Security Best Practices: Navigating the Evolving Landscape (Panel)"
 track        : Cloud Security
 project      : DevSecOps
 type         : working-session
