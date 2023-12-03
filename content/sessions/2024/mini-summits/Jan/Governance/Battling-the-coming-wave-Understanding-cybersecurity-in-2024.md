@@ -7,7 +7,7 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Jan
-when_day     : Mon
+when_day     : Tue
 when_time    : WS-18-19
 hey_summit   : 
 banner       : 
