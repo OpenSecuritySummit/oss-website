@@ -1,5 +1,5 @@
 ---
-title        : "Ransomware Resilience: Strategies for Prevention and Recovery"
+title        : "Ransomware Resilience: Strategies for Prevention and Recovery (Panel)"
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
