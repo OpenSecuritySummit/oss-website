@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Mon
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0qcO6oqT4vHdzNlmi6FJmvWs0DxnXPSFMA
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Matthew Adams
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0qcO6oqT4vHdzNlmi6FJmvWs0DxnXPSFMA
 ---
 
 ## About this session
