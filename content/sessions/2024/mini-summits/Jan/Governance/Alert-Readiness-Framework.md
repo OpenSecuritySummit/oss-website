@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Wed
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZMvd-ugpzouG9QzjNsS14cdsGN0QbwCsPff
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Kris Mandryk
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZMvd-ugpzouG9QzjNsS14cdsGN0QbwCsPff
 ---
 
 ## About this session
