@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : TBD
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcod-qprzwpEtZJBKy3jixccF7bYif9rg7x
 banner       : 
 session_slack:
 #status      : 
@@ -18,7 +18,7 @@ description  :
 organizers   :
     - Saber Ferjani   
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcod-qprzwpEtZJBKy3jixccF7bYif9rg7x
 ---
 
 ## About the session:
