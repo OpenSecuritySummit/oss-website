@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2024
 when_month   : Jan
 when_day     : Thu
-when_time    : WS-16-17
+when_time    : WS-17-18
 hey_summit   : https://www.linkedin.com/events/7112830284366016512
 session_slack:
 #status      : draft
