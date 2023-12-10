@@ -16,7 +16,7 @@ session_slack:
 description  :
 banner       : 
 organizers   :
-     - Matt Adams
+     - Matthew Adams
      
 youtube_link : 
 zoom_link    : 
