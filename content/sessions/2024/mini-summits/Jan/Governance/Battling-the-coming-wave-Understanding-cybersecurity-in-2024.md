@@ -9,7 +9,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Tue
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0pfu-rrD0uE90-MHAU41GuctStAaFxj3Fl
 banner       : 
 session_slack:
 #status      : 
@@ -17,7 +17,7 @@ description  :
 organizers   :
     - James Dell     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0pfu-rrD0uE90-MHAU41GuctStAaFxj3Fl
 ---
 
 ## About the session:
