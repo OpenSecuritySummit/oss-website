@@ -9,8 +9,8 @@ event        : mini-summit
 when_year    : 2024
 when_month   : Jan
 when_day     : Fri
-when_time    : WS-16-17
-hey_summit   : https://us06web.zoom.us/meeting/register/tZMocO2gqTMjHtQUGfKlZ1aMCiipC-U8RWtc
+when_time    : WS-17-18
+hey_summit   : https://us06web.zoom.us/meeting/register/tZMvcOmvqz0iHdaIOlo_rAnlu0CBaknU_5dh
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
      
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZMocO2gqTMjHtQUGfKlZ1aMCiipC-U8RWtc
+zoom_link    : https://us06web.zoom.us/meeting/register/tZMvcOmvqz0iHdaIOlo_rAnlu0CBaknU_5dh
 ---
 
 ## About this session
