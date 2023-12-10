@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Thu
 when_time    : WS-17-18
-hey_summit   : https://www.linkedin.com/events/7112830284366016512
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcsduqqpjgjHdxcFnaoYp_9TziQ3eOxGhPQ
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
     
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZAkfuirqzwvGdOeMT8WodClQkNeRaX1Qn25
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcsduqqpjgjHdxcFnaoYp_9TziQ3eOxGhPQ
 ---
 
 ## About this session
