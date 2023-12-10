@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Tue
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZYqcuytrjwoH9X686cSTYifeQMjG4h3nPUP
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Jose Haro Peralta
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZYqcuytrjwoH9X686cSTYifeQMjG4h3nPUP
 ---
 
 ## About this session
