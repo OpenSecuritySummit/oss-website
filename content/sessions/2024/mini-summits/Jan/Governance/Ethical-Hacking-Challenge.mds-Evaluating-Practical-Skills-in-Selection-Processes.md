@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Jan
-when_day     : Mon
+when_day     : Fri
 when_time    : WS-16-17
 hey_summit   : https://us06web.zoom.us/meeting/register/tZMocO2gqTMjHtQUGfKlZ1aMCiipC-U8RWtc
 session_slack:
