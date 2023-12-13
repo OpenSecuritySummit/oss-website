@@ -16,7 +16,7 @@ session_slack:
 description  :
 banner       : 
 organizers   :
-     - Kris Mandryk
+     - Rui Shantilal 
      
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMvd-ugpzouG9QzjNsS14cdsGN0QbwCsPff
