@@ -1,5 +1,5 @@
 ---
-title        : Cyber Security Vendor Procurement Model
+title        : Cyber Security Vendor Procurement Model(Panel)
 track        : Governance
 project      : Risk and Governance
 type         : working-session
