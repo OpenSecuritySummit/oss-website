@@ -1,5 +1,5 @@
 ---
-title: Ben Dehaan
+title: Ben De Haan
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Bendehaan.jpg?raw=true
 company: ENACT-IT
 job_title: Security consultant & engineer 
