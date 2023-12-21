@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Fri
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZYrc-ChrzgvGdAJA2A3Hpbgxq3FamYWD8w-
 session_slack:
 #status      : draft
 description  :
@@ -20,7 +20,7 @@ organizers   :
      - Cenk Kalpakoglu
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZYrc-ChrzgvGdAJA2A3Hpbgxq3FamYWD8w-
 ---
 
 ## About this session
