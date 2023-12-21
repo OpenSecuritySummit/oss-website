@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Wed
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZAoceqorTItE9K8zSDRg8tY5S5UWGxtjs4b
 session_slack:
 #status      : draft
 description  :
@@ -20,7 +20,7 @@ organizers   :
      - Ben De Haan
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZAoceqorTItE9K8zSDRg8tY5S5UWGxtjs4b
 ---
 
 ## About this session
