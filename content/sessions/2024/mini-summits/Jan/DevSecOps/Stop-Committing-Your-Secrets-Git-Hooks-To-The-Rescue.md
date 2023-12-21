@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Tue
 when_time    : WS-18-19
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZEtf-iqqT8tHNGZgBh31Nw4b7d73ObseqwJ
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Dwayne McDaniel
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZEtf-iqqT8tHNGZgBh31Nw4b7d73ObseqwJ
 ---
 
 ## About this session
