@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Tue
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZAocO6hqjopH9x90wStjN8hWS2K9Wykgsr_
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Jeroen Willemsen
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZAocO6hqjopH9x90wStjN8hWS2K9Wykgsr_
 ---
 
 ## About this session
