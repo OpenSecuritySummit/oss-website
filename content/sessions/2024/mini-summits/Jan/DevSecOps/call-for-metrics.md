@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jan
 when_day     : Fri
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZYtcuihqTojEtck3WS2FgOw7zQCjHiMuvde
 session_slack:
 #status      : draft
 description  :
@@ -21,7 +21,7 @@ organizers   :
      - Benjamin Trapp
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZYtcuihqTojEtck3WS2FgOw7zQCjHiMuvde
 ---
 
 ## About this session
