@@ -1,5 +1,5 @@
 ---
-title        : "Technics to limit hallucinations when using a LLM solution like ChatGPT)"
+title        : "Technics to limit hallucinations when using a LLM solution like ChatGPT"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Jan
-when_day     : THu
+when_day     : Thu
 when_time    : WS-17-18
 hey_summit   : https://us06web.zoom.us/meeting/register/tZUucuivqzwoHNHCUYqioU_JiA7I0_B6LzSt
 session_slack:
