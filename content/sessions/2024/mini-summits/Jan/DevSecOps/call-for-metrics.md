@@ -29,6 +29,17 @@ We're excited to invite you to a dynamic discussion featuring Benji, Lars, Timo,
 
 In this session, we will delve into two distinct perspectives. Timo advocates for a purely OpenSource approach, as exemplified by [metricCA](https://github.com/devsecopsmaturitymodel/metricCA). On the other hand, Benji and Lars are inclined to leverage existing "as-a-service" solutions within his organization.
 
+Furthermore, we will present how to find valuable metrics.
+
+## Agenda:
+- MetricaCA Architecture
+- OpenSource / Reusability Discussion
+- Metric Definition Process with Patching Example
+- Call for Your Metrics
+- Outlook
+
+
+
 The crux of our discussion will be: Can we merge these approaches to avoid duplicating efforts in tool development for the same purpose? This talk promises to offer insightful viewpoints and foster a collaborative environment where we can explore the synergy between different methodologies in DevSecOps metrics.
 
 We look forward to an engaging and thought-provoking session with you.
