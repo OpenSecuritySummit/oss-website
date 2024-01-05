@@ -16,11 +16,11 @@ session_slack:
 description  :
 banner       : 
 organizers   :
-     - Abbas Haidar
-   
-     
+     - Abbas Haidar     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0pceCurTwtE9Zi9cwBJdsDSZlgXv9WjVGq
+
+---
 
 ## About this session
 GPT Application: Detecting Phishing Sites  and analysing Phishing emails
