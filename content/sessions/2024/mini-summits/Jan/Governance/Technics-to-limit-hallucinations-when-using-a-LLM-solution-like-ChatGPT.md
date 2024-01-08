@@ -23,3 +23,8 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZUucuivqzwoHNHCUYqioU_J
 ---
 
 ## About this session
+Join us in an exciting session with Matthew Thompson as he delves into the innovative world of Large Language Models (LLM) like ChatGPT. Discover effective techniques to limit hallucinations and false data generation, ensuring that your use of these advanced tools remains accurate, reliable, and effective.
+
+In this session, Matthew will share his deep insights and practical strategies to help you navigate the challenges and maximize the potential of AI-driven solutions. Whether you are a technology enthusiast, a developer, or a cybersecurity professional, this session will equip you with the knowledge to harness the power of LLMs responsibly and innovatively.
+
+Learn from an expert in the field and be part of the conversation shaping the future of AI and cybersecurity. Reserve your spot now for this insightful session on January 18th, 2024!
