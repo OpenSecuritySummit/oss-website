@@ -23,4 +23,16 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZ0pceCurTwtE9Zi9cwBJdsD
 ---
 
 ## About this session
-GPT Application: Detecting Phishing Sites  and analysing Phishing emails
+GPT Application: Detecting Phishing Sites  and analysing Phishing emails: 
+Explore the forefront of email security with Abbas Haidar in this engaging session. Delve into how Generative AI, particularly GPT applications, are being utilized to effectively detect phishing sites and analyze phishing emails. This session promises to provide a comprehensive understanding of the latest AI tools and techniques, reshaping the landscape of email threat detection.
+
+## What You Will Learn:
+
+The role of Generative AI in modern cybersecurity.
+Innovative methods for detecting and analyzing phishing emails.
+How to integrate AI-driven tools into your email security strategy.
+
+## About Abbas Haidar:
+Abbas Haidar is an acclaimed cybersecurity professional, known for his pioneering work in integrating AI technologies within security frameworks. His insights into AI applications in cybersecurity provide a unique perspective on combating digital threats.
+
+Join us for an enlightening journey into AI-powered email security solutions.
