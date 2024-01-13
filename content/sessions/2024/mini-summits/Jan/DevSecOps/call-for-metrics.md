@@ -31,4 +31,13 @@ In this session, we will delve into two distinct perspectives. Timo advocates fo
 
 The crux of our discussion will be: Can we merge these approaches to avoid duplicating efforts in tool development for the same purpose? This talk promises to offer insightful viewpoints and foster a collaborative environment where we can explore the synergy between different methodologies in DevSecOps metrics.
 
+Furthermore, we will present how to find valuable metrics and are interested in your experiences.
+
+## Agenda:
+- MetricaCA Architecture
+- OpenSource / Reusability Discussion
+- Metric Definition Process with Patching Example
+- Call for Your Metrics
+- Outlook
+
 We look forward to an engaging and thought-provoking session with you.
