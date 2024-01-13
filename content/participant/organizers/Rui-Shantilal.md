@@ -1,4 +1,4 @@
---
+---
 title: Rui Shantilal
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/rui.jpg?raw=true
 company: DEVOTEAM CYBER TRUST
