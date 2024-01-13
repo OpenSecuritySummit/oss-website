@@ -5,7 +5,7 @@ company: CYRIS360
 job_title: Information Security Consultant 
 facebook:
 linkedin: saberferjani
-twitter: @cyris360
+twitter: cyris360
 website: https://cyris360.com
 notes:
 status: 
