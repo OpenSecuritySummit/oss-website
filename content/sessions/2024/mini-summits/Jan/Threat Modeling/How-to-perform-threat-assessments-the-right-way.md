@@ -17,7 +17,7 @@ session_slack:
 description  :
 organizers   :
     - Saber Ferjani   
-youtube_link : 
+youtube_link : https://youtu.be/Jgxu426Ycs4
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcod-qprzwpEtZJBKy3jixccF7bYif9rg7x
 ---
 
