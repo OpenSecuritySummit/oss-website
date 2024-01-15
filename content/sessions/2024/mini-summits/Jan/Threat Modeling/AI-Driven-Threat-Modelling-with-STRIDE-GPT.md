@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Matthew Adams
      
-youtube_link : 
+youtube_link : https://youtu.be/_eOcezCeM1M
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0qcO6oqT4vHdzNlmi6FJmvWs0DxnXPSFMA
 ---
 
