@@ -16,7 +16,7 @@ session_slack:
 description  :
 organizers   :
     - James Dell     
-youtube_link : 
+youtube_link : https://youtu.be/6UZ-D08T_IQ
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIof-ugqTguG9BFrY1fyvyPbpENNQ6LzXVh
 ---
 
