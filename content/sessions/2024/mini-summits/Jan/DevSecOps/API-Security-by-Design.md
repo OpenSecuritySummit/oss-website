@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Jose Haro Peralta
      
-youtube_link : 
+youtube_link : https://youtu.be/gJinDI_Ma1Y
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYqcuytrjwoH9X686cSTYifeQMjG4h3nPUP
 ---
 
