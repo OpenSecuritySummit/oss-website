@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Rui Shantilal 
      
-youtube_link : 
+youtube_link : https://youtu.be/EUGobXKAfek
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMvd-ugpzouG9QzjNsS14cdsGN0QbwCsPff
 ---
 
