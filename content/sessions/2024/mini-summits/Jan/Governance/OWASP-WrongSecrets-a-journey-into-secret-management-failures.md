@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Jeroen Willemsen
      
-youtube_link : 
+youtube_link : https://youtu.be/-xPMot9y76w
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAocO6hqjopH9x90wStjN8hWS2K9Wykgsr_
 ---
 
