@@ -19,7 +19,7 @@ organizers   :
      - Jeroen Willemsen
      - Ben De Haan
      
-youtube_link : 
+youtube_link : https://youtu.be/Af8-tEV5-JY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAoceqorTItE9K8zSDRg8tY5S5UWGxtjs4b
 ---
 
