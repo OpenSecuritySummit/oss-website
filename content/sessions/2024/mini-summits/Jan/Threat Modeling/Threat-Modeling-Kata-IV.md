@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Luis Servin
      
-youtube_link : 
+youtube_link : https://youtu.be/AYqjyw19ibc
 zoom_link    : https://us06web.zoom.us/j/89438657063
 
 ---
