@@ -20,7 +20,7 @@ organizers   :
      - Lars Hermerschmidt
      - Benjamin Trapp
      
-youtube_link : 
+youtube_link : https://youtu.be/v2TzotDdGYI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYtcuihqTojEtck3WS2FgOw7zQCjHiMuvde
 ---
 
