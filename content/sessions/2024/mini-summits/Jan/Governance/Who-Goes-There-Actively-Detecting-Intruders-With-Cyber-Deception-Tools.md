@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Dwayne McDaniel
      
-youtube_link : 
+youtube_link : https://youtu.be/ubN-a8JTTU4
 zoom_link    : https://us06web.zoom.us/j/87998196357
 ---
 
