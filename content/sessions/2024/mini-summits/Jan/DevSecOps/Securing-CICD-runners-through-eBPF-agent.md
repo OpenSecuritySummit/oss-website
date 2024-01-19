@@ -19,7 +19,7 @@ organizers   :
      - Mert Coskuner
      - Cenk Kalpakoglu
      
-youtube_link : 
+youtube_link : https://youtu.be/HWeqkF1JCTc
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYrc-ChrzgvGdAJA2A3Hpbgxq3FamYWD8w-
 ---
 
