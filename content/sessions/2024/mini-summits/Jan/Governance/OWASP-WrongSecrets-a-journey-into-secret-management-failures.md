@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZAocO6hqjopH9x90wStjN8h
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/Journey%20into%20Sectret%20Management%20Failures.jpeg?raw=true
 organizers   :
      - Jeroen Willemsen
      
