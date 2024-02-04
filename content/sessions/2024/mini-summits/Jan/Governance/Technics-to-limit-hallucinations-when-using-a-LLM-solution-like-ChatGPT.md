@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZUucuivqzwoHNHCUYqioU_J
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/Technics%20to%20limit%20hallucination.jpeg?raw=true
 organizers   :
      - Matthew Thompson
     
