@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZMvd-ugpzouG9QzjNsS14cd
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/Alert%20Readiness.jpeg?raw=true
 organizers   :
      - Rui Shantilal 
      
