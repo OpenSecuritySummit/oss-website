@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZYtcuihqTojEtck3WS2FgOw
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/A%20call%20for%20Metrics.jpeg?raw=true
 organizers   :
      - Timo Pagel
      - Lars Hermerschmidt
