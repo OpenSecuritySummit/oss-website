@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZYqcuytrjwoH9X686cSTYif
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/API%20Security%20by%20Design.jpeg?raw=true
 organizers   :
      - Jose Haro Peralta
      
