@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0qcO6oqT4vHdzNlmi6FJmv
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/AI%20Driven%20Thret%20Modeling.jpeg?raw=true
 organizers   :
      - Matthew Adams
      
