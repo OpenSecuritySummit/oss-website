@@ -11,7 +11,7 @@ when_month   : Jan
 when_day     : Mon
 when_time    : WS-17-18
 hey_summit   : https://us06web.zoom.us/meeting/register/tZcod-qprzwpEtZJBKy3jixccF7bYif9rg7x
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/How%20To%20Perform%20Threat%20Assessments%20the%20right%20way.jpeg?raw=true
 session_slack:
 #status      : 
 description  :
