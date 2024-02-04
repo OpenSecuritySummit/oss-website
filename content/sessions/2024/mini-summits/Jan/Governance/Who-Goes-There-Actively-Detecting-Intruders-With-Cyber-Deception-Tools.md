@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/j/87998196357
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/Who%20goes%20there.jpeg?raw=true
 organizers   :
      - Dwayne McDaniel
      
