@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZEtf-iqqT8tHNGZgBh31Nw4
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/Stop%20comitting%20your%20secrets.jpeg?raw=true
 organizers   :
      - Dwayne McDaniel
      
