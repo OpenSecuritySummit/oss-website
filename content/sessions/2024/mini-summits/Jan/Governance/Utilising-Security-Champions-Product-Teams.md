@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0uduGhrDkqHNG-vs9stD5b
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/utilizing%20security%20champions.jpeg?raw=true
 organizers   :
     - Kimberley Graham
 
