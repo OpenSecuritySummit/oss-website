@@ -14,7 +14,7 @@ hey_summit   :
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/Threat%20modelling%20Kata%204.jpeg?raw=true
 organizers   :
      - Luis Servin
      
