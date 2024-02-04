@@ -10,7 +10,7 @@ when_month   : Jan
 when_day     : Tue
 when_time    : WS-17-18
 hey_summit   : https://us06web.zoom.us/meeting/register/tZ0pfu-rrD0uE90-MHAU41GuctStAaFxj3Fl
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jan/banners/Battling%20the%20coming%20wave.jpeg?raw=true
 session_slack:
 #status      : 
 description  :
