@@ -640,3 +640,38 @@ day-104:
   key  : "Fri"
   where: "Online"
   order: 5
+day-105:
+  date : "15h"
+  day  : "Monday"
+  month: "Jan"
+  key  : "Mon"
+  where: "Online"
+  order: 1
+day-106:
+  date : "16th"
+  day  : "Tuesday"
+  month: "Jan"
+  key  : "Tue"
+  where: "Online"
+  order: 2
+day-107:
+  date : "17th"
+  day  : "Wednesday"
+  month: "Jan"
+  key  : "Wed"
+  where: "Online"
+  order: 3
+day-108:
+  date : "18th"
+  day  : "Thursday"
+  month: "Jan"
+  key  : "Thu"
+  where: "Online"
+  order: 4
+day-109:
+  date : "19th"
+  day  : "Friday"
+  month: "Jan"
+  key  : "Fri"
+  where: "Online"
+  order: 5
