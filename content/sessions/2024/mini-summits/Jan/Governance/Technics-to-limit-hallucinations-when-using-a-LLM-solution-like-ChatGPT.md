@@ -20,7 +20,9 @@ organizers   :
     
 youtube_link : https://youtu.be/mJ4hMUK6sXI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUucuivqzwoHNHCUYqioU_JiA7I0_B6LzSt
+session_slides:
 ---
+{{< gslides id="2PACX-1vR-zkS744NUTbcs-KNSKHZTEUdicmUfst0ddtRAArvaBnXfr626zN-0DCnV4dXbZg/embed?slide=id.p" >}}
 
 ## About this session
 Join us in an exciting session with Matthew Thompson as he delves into the innovative world of Large Language Models (LLM) like ChatGPT. Discover effective techniques to limit hallucinations and false data generation, ensuring that your use of these advanced tools remains accurate, reliable, and effective.
