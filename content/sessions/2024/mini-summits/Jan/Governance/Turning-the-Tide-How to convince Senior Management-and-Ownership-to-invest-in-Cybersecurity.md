@@ -18,7 +18,9 @@ organizers   :
     - James Dell     
 youtube_link : https://youtu.be/6UZ-D08T_IQ
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIof-ugqTguG9BFrY1fyvyPbpENNQ6LzXVh
+session_slides:
 ---
+{{< gslides id="2PACX-1vRteMLILbOtcocExIXvMLkN5lpLj3B1Fi-dPG-NwlTb1pXRMXaDMULs92_ij-fCng/embed?slide=id.p" >}}
 
 ## About the session:
 "In this talk I will address a critical aspect of all organisational resilience mainly cybersecurity and how to convey the criticality of the solutions, expenditure and long-term investment to senior management. In an era where digital landscapes are evolving at an unprecedented pace, the need to fortify our defences against cyber threats has never been more urgent. Turning the tide in our favour requires a concerted effort, and a key component of this effort lies in convincing senior management and ownership to invest substantially in cybersecurity measures.
