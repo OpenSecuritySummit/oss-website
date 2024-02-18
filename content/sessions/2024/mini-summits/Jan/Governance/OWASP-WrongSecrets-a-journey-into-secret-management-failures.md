@@ -20,7 +20,9 @@ organizers   :
      
 youtube_link : https://youtu.be/-xPMot9y76w
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAocO6hqjopH9x90wStjN8hWS2K9Wykgsr_
+session_slides:
 ---
+{{< gslides id="2PACX-1vR5f09zCyR2-Uyp9ia81wwt_u0WWdS4XqZ3WKdbPQzprv-Vg0nsIsk3VYbnxBcJHA/embed?slide=id.p" >}}
 
 ## About this session
 I want to go over various examples of our project OWASP WrongSecrets (43 challenges by now), and dive into examples like secrets in LLM, and other mistakes made. Next, we would like to show the setup of the project, so it becomes clear what its capabilities are. With that, we can lay a solid preparation for [tomorrows working session](https://open-security-summit.org/sessions/2024/mini-summits/jan/governance/owasp-wrongsecrets-define-the-future-challenges-together/). 
