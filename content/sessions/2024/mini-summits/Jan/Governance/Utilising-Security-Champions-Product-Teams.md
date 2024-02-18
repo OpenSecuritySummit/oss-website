@@ -22,7 +22,7 @@ youtube_link : https://youtu.be/PopQHmwS22U
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0uduGhrDkqHNG-vs9stD5bIgPmYOCCc03P
 session_slides:
 ---
-{{< gslides id="2PACX-1vRLiT6K2vBNBqiafyK-6hSN6C2wgAhsQdJMCJnyXkdFBtJ5v3-i74N3pT-HTODarA/embed?slide=id.p" >}}
+{{< gslides id="2PACX-1vSh5LMFGrXr-pyN4CnXxOv5ylxD8zJI7yKZyn2fs5OY0LvhE8mEJnboil5pJdECAg/embed?slide=id.p" >}}
 
 
 ## About the session:
