@@ -21,7 +21,9 @@ organizers   :
      
 youtube_link : https://youtu.be/Af8-tEV5-JY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAoceqorTItE9K8zSDRg8tY5S5UWGxtjs4b
+session_slides:
 ---
+{{< gslides id="2PACX-1vTEc1aQuWshbrFwxqoTf1uXzmG46ETdKsH75SR8KkJWIf0VAclFvrJ0Qrim7_ibag/embed?slide=id.p" >}}
 
 ## About this session
 
