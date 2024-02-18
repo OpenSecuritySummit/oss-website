@@ -22,7 +22,9 @@ organizers   :
      
 youtube_link : https://youtu.be/v2TzotDdGYI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYtcuihqTojEtck3WS2FgOw7zQCjHiMuvde
+session_slides:
 ---
+{{< gslides id="2PACX-1vRrxYed72bXrKr1I2XnMzt6mbVycNr9qmZfyL3KQOPDu0n7DC9eglnx-akBO96IXA/embed?slide=id.p" >}}
 
 ## About this session
 We're excited to invite you to a dynamic discussion featuring Benji, Lars, Timo, and yourself, focusing on the strategies for collecting and showcasing DevSecOps metrics effectively.
