@@ -18,7 +18,9 @@ organizers   :
     - James Dell     
 youtube_link : https://youtu.be/XO2L8XbWF58
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0pfu-rrD0uE90-MHAU41GuctStAaFxj3Fl
+session_slides:
 ---
+{{< gslides id="2PACX-1vTD0kXj6rgCKvNR_KmbSCfet78JITkuzw5kog_kZSioLp6bDN2Mo6lDVFlwMancGQ/embed?slide=id.p" >}}
 
 ## About the session:
 Looking at the effect that Generative AI has had on the ways in which business protect themselves from the latest in threats from bad actors walking through how AI has changed the approach to protection and what tools, techniques and technologies businesses should be applying to protection in 2024.
