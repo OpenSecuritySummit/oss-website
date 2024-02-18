@@ -20,7 +20,9 @@ organizers   :
      
 youtube_link : https://youtu.be/_eOcezCeM1M
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0qcO6oqT4vHdzNlmi6FJmvWs0DxnXPSFMA
+session_slides:
 ---
+{{< gslides id="2PACX-1vQzOqKvccdSPsVcV3SuurY9EHobCiFw68oda2-pi8tVqz1K5F2Cg0e3X0OaLA0_Hg/embed?slide=id.p" >}}
 
 ## About this session
 "In this presentation, I will introduce STRIDE GPT, an AI-powered tool that leverages the latest OpenAI GPT models to generate comprehensive threat models and attack trees. Designed to enhance cybersecurity practices, STRIDE GPT also assists professionals by suggesting possible mitigations for identified threats, ensuring a proactive approach to security. 
