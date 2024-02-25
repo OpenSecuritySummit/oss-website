@@ -1,5 +1,5 @@
 ---
-title        : "Securing Remote Work Environments: Challenges and Solutions (panel)"
+title        : "Supply Chain Security: Strengthening Resilience Against Third-Party Risks(panel)"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Apr
-when_day     : Thu
-when_time    : WS-15-16
+when_day     : Mon
+when_time    : WS-16-17
 hey_summit   : 
 session_slack:
 #status      : draft
