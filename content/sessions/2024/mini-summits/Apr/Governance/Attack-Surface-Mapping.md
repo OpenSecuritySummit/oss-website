@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Simon Wardley
      - Dinis Cruz
+     - Tariq Rashid
      
 youtube_link : 
 zoom_link    : 
