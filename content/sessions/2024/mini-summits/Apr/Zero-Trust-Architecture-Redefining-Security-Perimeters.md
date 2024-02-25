@@ -9,7 +9,7 @@ event        : mini-summit
 when_year    : 2024
 when_month   : Apr
 when_day     : Mon
-when_time    : WS-17-18
+when_time    : WS-15-16
 hey_summit   : 
 session_slack:
 #status      : draft
