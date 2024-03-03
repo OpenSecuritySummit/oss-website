@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Apr
-when_day     : Fri
+when_day     : Thu
 when_time    : WS-17-18
 hey_summit   : https://us06web.zoom.us/meeting/register/tZcsduqqpjgjHdxcFnaoYp_9TziQ3eOxGhPQ
 session_slack:
@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Jakub Kaluzny
     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcsduqqpjgjHdxcFnaoYp_9TziQ3eOxGhPQ
