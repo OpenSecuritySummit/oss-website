@@ -6,6 +6,6 @@ membership      : Organizer
 layout          : personal
 ---
 
-## Ben Schofield
+## Alona Reyes
 
 More details coming soon
