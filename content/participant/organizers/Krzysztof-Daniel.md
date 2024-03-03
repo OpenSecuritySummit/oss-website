@@ -1,11 +1,11 @@
 ---
 title: Krzysztof Daniel
-image: https://pbs.twimg.com/profile_images/1108456690737922050/ubN9C_Q6_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/kryztoff.jpeg?raw=true
 company: DXC
 job_title: Researcher
 facebook:
-linkedin: wardleymaps
-twitter:
+linkedin: christopherdaniel
+twitter: wardleymaps
 website:
 notes:
 status: 
