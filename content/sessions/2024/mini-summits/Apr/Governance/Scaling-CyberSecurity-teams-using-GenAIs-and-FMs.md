@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Ante Gulam
      - Dinis Cruz
+     - Jakub Kaluzny
      
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUtf-iorzwjGNZYVQXGIO9pfB9FGJXkkGiW
