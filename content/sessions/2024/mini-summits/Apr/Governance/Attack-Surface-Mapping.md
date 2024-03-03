@@ -19,6 +19,7 @@ organizers   :
      - Simon Wardley
      - Dinis Cruz
      - Tariq Rashid
+     - Krzysztof Daniel
      
 youtube_link : 
 zoom_link    : 
