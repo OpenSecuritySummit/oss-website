@@ -2,7 +2,7 @@
 title        : Mini-Summit April 2024
 layout       : mini-summit
 year         : 2024
-month        : Apr
+month        : Jun
 organizers   :
 ---
 
