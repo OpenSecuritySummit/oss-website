@@ -20,6 +20,7 @@ organizers   :
      - Dinis Cruz
      - Tariq Rashid
      - Krzysztof Daniel
+     - Tudor Girba
      
 youtube_link : 
 zoom_link    : 
