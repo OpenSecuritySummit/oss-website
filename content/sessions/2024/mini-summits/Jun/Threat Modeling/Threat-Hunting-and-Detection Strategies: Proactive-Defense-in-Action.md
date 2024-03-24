@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Marius Poskus
     
 youtube_link : 
 zoom_link    : 
