@@ -1,5 +1,5 @@
 ---
-title        : "Threat Modeling V"
+title        : Threat Modeling V
 track        : DevSecOps
 project      : DevSecOps
 type         : working-session
@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Jun
-when_day     : thu
+when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : 
 session_slack:
