@@ -8,8 +8,8 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Jun
-when_day     : Mon
-when_time    : WS-15-16
+when_day     : Tue
+when_time    : WS-16-17
 hey_summit   : 
 session_slack:
 #status      : draft
