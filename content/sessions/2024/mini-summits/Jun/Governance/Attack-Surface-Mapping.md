@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jun
 when_day     : Tue
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZAkc-CgrTsqHtfG0EijP_QOe0q3uq1sSgJS
 session_slack:
 #status      : draft
 description  :
@@ -23,7 +23,7 @@ organizers   :
      - Tudor Girba
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZAkc-CgrTsqHtfG0EijP_QOe0q3uq1sSgJS
 ---
 
 ## About this session
