@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jun
 when_day     : Wed
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZMuceGrqz0iHtxEehEZ8ZwciK-dqBQaVb8F
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Stefan Streichsbier
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZMuceGrqz0iHtxEehEZ8ZwciK-dqBQaVb8F
 ---
 
 ## About this session
