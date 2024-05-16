@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jun
 when_day     : Thu
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZMpf-ysrDIjH9Zjq5SF5jgkkLe-58A1JwI4
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Luis Servin
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZMpf-ysrDIjH9Zjq5SF5jgkkLe-58A1JwI4
 ---
 
 ## About this session
