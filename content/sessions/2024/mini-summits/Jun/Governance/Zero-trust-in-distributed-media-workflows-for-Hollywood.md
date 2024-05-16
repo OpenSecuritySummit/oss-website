@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jun
 when_day     : Thu
 when_time    : WS-15-16
-hey_summit   : https://us06web.zoom.us/meeting/register/tZ0rduCuqTIuH9dLT-N9m2KZQ89FoE_v4vYD
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcrdOGtpjIoHtGSdhRnV1LxPR5PAPg8XpLw
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Ben Schofield
     
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZ0rduCuqTIuH9dLT-N9m2KZQ89FoE_v4vYD
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcrdOGtpjIoHtGSdhRnV1LxPR5PAPg8XpLw
 ---
 
 ## About this session
