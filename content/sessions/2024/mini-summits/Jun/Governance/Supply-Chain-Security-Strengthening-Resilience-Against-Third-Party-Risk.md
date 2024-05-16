@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jun
 when_day     : Mon
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZYkfuCrqDoqHdOdoYN_3Pr6kMqu4QrtFt8V
 session_slack:
 #status      : draft
 description  :
@@ -20,7 +20,7 @@ organizers   :
      - Marius Poskus
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZYkfuCrqDoqHdOdoYN_3Pr6kMqu4QrtFt8V
 ---
 
 ## About this session
