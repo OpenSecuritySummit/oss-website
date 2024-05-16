@@ -9,8 +9,8 @@ event        : mini-summit
 when_year    : 2024
 when_month   : Jun
 when_day     : Thu
-when_time    : WS-18-19
-hey_summit   : https://us06web.zoom.us/meeting/register/tZUtf-iorzwjGNZYVQXGIO9pfB9FGJXkkGiW
+when_time    : WS-17-18
+hey_summit   : 
 session_slack:
 #status      : draft
 description  :
@@ -21,7 +21,7 @@ organizers   :
      - Jakub Kaluzny
      
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZUtf-iorzwjGNZYVQXGIO9pfB9FGJXkkGiW
+zoom_link    :
 ---
 
 ## About this session
