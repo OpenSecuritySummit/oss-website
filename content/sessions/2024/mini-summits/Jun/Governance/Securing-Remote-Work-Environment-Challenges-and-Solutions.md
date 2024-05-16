@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Jun
 when_day     : Wed
 when_time    : WS-16-17
-hey_summit   : https://us06web.zoom.us/meeting/register/tZMuduqvqDkqHtH6Q18VXP3F2iGTO-KcjZp_
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0uc-GurzgoHdeXPKv1URG-eY2LhbDuh0_o
 session_slack:
 #status      : draft
 description  :
@@ -18,7 +18,7 @@ banner       :
 organizers   :
     
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZMuduqvqDkqHtH6Q18VXP3F2iGTO-KcjZp_
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0uc-GurzgoHdeXPKv1URG-eY2LhbDuh0_o
 ---
 
 ## About this session
