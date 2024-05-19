@@ -9,6 +9,8 @@ members:
   - Stephen de Vries
   - Stacey Wallis
   - Naresh Chouhan
+  - Claire Allen-Addy
+
 sponsored_projects:
  - Threat Modeling
  - ASVS User Stories
