@@ -11,7 +11,8 @@ members:
   - Naresh Chouhan
   - Claire Allen-Addy
   - Fraser Scott
-
+  - James Rabe
+  - Stacey Ebbs
 sponsored_projects:
  - Threat Modeling
  - ASVS User Stories
