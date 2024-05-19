@@ -10,7 +10,7 @@ members:
   - Stacey Wallis
   - Naresh Chouhan
   - Claire Allen-Addy
-More details coming soon
+
 sponsored_projects:
  - Threat Modeling
  - ASVS User Stories
