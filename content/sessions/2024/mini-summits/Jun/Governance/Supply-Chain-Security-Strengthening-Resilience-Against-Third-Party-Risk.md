@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZYkfuCrqDoqHdOdoYN_3Pr6
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://github.com/OpenSecuritySummit/oss-website/blob/main/content/sessions/2024/mini-summits/Jun/banners/supply%20chain.jpeg?raw=true
 organizers   :
      - Dinis Cruz
      - Marius Poskus
