@@ -1,4 +1,4 @@
 ---
 title        : 2024 Summit Sessions
-layout       : Sessions
+layout       : Session Banners
 ---
