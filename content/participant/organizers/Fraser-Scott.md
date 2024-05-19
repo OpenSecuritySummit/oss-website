@@ -1,13 +1,13 @@
 ---
 title: Fraser Scott
-image: https://pbs.twimg.com/profile_images/1050513480065974273/zk4Hr8XZ_400x400.jpg
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/fraserscoot.jpeg?raw=true
 company: IriusRisk
 job_title: VP Product
 facebook:
 linkedin: zeroxten
-twitter: zeroXten
-website: https://www.iriusrisk.com
+twitter: 
+website: https://www.iriusrisk.com/
 notes:
-status: 
+status: done
 type: participant
 ---
