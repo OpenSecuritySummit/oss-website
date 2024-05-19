@@ -10,6 +10,7 @@ members:
   - Stacey Wallis
   - Naresh Chouhan
   - Claire Allen-Addy
+  - Fraser Scott
 
 sponsored_projects:
  - Threat Modeling
