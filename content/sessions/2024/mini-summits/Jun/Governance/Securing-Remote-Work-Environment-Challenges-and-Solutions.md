@@ -16,6 +16,7 @@ session_slack:
 description  :
 banner       : 
 organizers   :
+     - Guy Marong
     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0uc-GurzgoHdeXPKv1URG-eY2LhbDuh0_o
