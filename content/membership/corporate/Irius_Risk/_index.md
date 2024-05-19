@@ -13,6 +13,7 @@ members:
   - Fraser Scott
   - James Rabe
   - Stacey Ebbs
+  - Charles Marrow
 sponsored_projects:
  - Threat Modeling
  - ASVS User Stories
