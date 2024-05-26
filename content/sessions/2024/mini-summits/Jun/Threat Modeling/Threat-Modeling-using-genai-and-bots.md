@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcsduqqpjgjHdxcFnaoYp_9
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/GORkFMnXkAAuhLY?format=jpg&name=900x900
 organizers   :
      - Dinis Cruz
      - Jakub Kaluzny
