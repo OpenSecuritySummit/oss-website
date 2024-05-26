@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0uc-GurzgoHdeXPKv1URG-
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4D22AQEFIwxHslgz4g/feedshare-shrink_2048_1536/0/1716475070580?e=2147483647&v=beta&t=lAlhRHMuFfE9ukstcu9CmvZTYaUpH5NCoJ0gWHwcnv4
 organizers   :
      - Guy Marong
     
