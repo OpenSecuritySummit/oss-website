@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZYlcuutrT8jHNY227ID-Mok
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4E22AQFr-lb5pA-NuA/feedshare-shrink_1280/0/1715881153059?e=1719446400&v=beta&t=gUzXHc8pHYh_5eyFhJH-v5-y9mOg4zhiuxg8Tlcv3ws
 organizers   :
      - Richea Perry
     
