@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZAkc-CgrTsqHtfG0EijP_QO
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4E22AQGp8Ls8zcvBmw/feedshare-shrink_2048_1536/0/1716224279587?e=2147483647&v=beta&t=XpaM4bwvjQzkLMZfEHwYnqDtaPPozkyKXVIdgF1x1hE
 organizers   :
      - Simon Wardley
      - Dinis Cruz
