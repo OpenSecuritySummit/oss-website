@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZcrdOGtpjIoHtGSdhRnV1Lx
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4E22AQHXH7URB_1qgA/feedshare-shrink_2048_1536/0/1716919450606?e=2147483647&v=beta&t=YQx9Z2JtsEKCm54RTouPLPPTFT4jWb5BHpZq2rsybDE
 organizers   :
      - Ben Schofield
     
