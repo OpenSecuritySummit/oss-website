@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZMuceGrqz0iHtxEehEZ8Zwc
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4E22AQFuWasHawNevg/feedshare-shrink_2048_1536/0/1716567372574?e=2147483647&v=beta&t=NzCLthMDC4EZ-qn4hhC0hYSBnn63bPlMRld3VKpoWy4
 organizers   :
      - Stefan Streichsbier
     
