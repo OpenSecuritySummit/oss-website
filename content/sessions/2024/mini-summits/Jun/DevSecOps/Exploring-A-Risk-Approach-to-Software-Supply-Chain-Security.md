@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZYqcO6vrTMtGteIm9UUGpaP
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/D4E22AQHGI3nwpGmnQA/feedshare-shrink_2048_1536/0/1716301907158?e=2147483647&v=beta&t=dSWH44WUOJDd95mjy1QR647QizB9pw0kRl-Dp1LoTL0
 organizers   :
      - Abdullah Garcia
     
