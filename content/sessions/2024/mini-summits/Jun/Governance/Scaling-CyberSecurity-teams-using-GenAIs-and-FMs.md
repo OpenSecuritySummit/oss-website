@@ -35,6 +35,6 @@ What You'll Learn:
 Speaker Profiles:
 - Ante Gulam: With 18+ years in the industry, Ante is a master in agile security programs and leading high-performing cybersecurity teams.
 
-- Dinis Cruz: Chief Scientist at Glasswall and CISO at Holland & Barrett, Dinis's unique approach to cybersecurity has positioned him as a key innovator in the field.
+- Dinis Cruz: Chief Scientist at Glasswall and Founder at The Cyber Boardroom, Dinis's unique approach to cybersecurity has positioned him as a key innovator in the field.
 
 Join us for an engaging and forward-thinking discussion on taking cybersecurity team scalability to the next level.
