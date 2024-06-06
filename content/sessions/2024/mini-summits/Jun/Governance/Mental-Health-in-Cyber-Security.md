@@ -17,6 +17,11 @@ description  :
 banner       : 
 organizers   :
      - Sarb Sembhi
+     - Daniel Shore
+     - Kashyap Thimmaraju
+     - Rebecca
+     - Peter Olivier
+     - Paul Simms
      
      
 youtube_link : 
