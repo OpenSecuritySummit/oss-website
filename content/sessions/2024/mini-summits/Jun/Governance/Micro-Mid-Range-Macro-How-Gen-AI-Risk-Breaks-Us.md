@@ -17,6 +17,8 @@ description  :
 banner       : 
 organizers   :
      - Sarah Clarke
+     - Mitch Cohen
+     - Nick Drage 
     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUtdOyurj4rE9M7JOOIEt1ynllxbn35Tzvq
