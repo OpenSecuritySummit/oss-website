@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2024
-when_month   : Jun
+when_month   : Sep
 when_day     : Fri
 when_time    : WS-15-16
 hey_summit   : https://us06web.zoom.us/meeting/register/tZMsceCrqjgpE93VH3AoM7X6-YZ0z02NadDq
