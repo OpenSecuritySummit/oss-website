@@ -17,7 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Sarb Sembhi
-     - Daniel Shore
+     - Dr Daniel Shore
      - Kashyap Thimmaraju
      - Rebecca
      - Peter Olivier
