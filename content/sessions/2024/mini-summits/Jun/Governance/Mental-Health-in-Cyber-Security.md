@@ -19,7 +19,7 @@ organizers   :
      - Sarb Sembhi
      - Dr Daniel Shore
      - Kashyap Thimmaraju
-     - Rebecca
+     - Rebecca McKeown
      - Peter Olivier
      - Paul Simms
      
