@@ -1,6 +1,6 @@
 ---
 title: Matthew Thompson
-image: https://avatars.githubusercontent.com/u/2087867?s=400&v=4
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/thompson-m.jpeg?raw=true
 company: Agentia
 job_title: Founder/AI Engineer
 facebook: 
