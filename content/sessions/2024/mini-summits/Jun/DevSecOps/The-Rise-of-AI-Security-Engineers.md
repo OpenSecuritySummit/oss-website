@@ -25,4 +25,3 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZMuceGrqz0iHtxEehEZ8Zwc
 ## About this session
 Application security tooling is ripe for disruption. 'The Rise of AI Security Engineers.' explores the shift from manual security practices to AI-driven approaches, paralleling developments in autonomous vehicle technology. In the session we discuss the limitations of current security tools and learn how AI can be used to make security more automated and autonomous over time. This is a technical session tailored to engineering and security teams.
 
-I'm in the middle of releasing articles and videos that will introduce the 6 levels of application security automation. This will be public by end of next week, and I can share the links then if needed.
