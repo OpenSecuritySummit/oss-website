@@ -1,6 +1,6 @@
 ---
 title: Peter Olivier
-image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Peter%20Olivier.PNG?raw=true
+image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/Square%20Head%20Shot%20-%20Peter%20Olivier%20(1).PNG?raw=true
 company: Admiral Group Plc
 job_title: Head of Security Delivery 
 facebook:
