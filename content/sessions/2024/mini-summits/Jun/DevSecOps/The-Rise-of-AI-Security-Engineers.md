@@ -18,7 +18,7 @@ banner       : https://media.licdn.com/dms/image/D4E22AQFuWasHawNevg/feedshare-s
 organizers   :
      - Stefan Streichsbier
     
-youtube_link : 
+youtube_link : https://youtube.com/live/8rTK1376YAk
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMuceGrqz0iHtxEehEZ8ZwciK-dqBQaVb8F
 ---
 
