@@ -18,7 +18,7 @@ banner       : https://media.licdn.com/dms/image/D4E22AQHXH7URB_1qgA/feedshare-s
 organizers   :
      - Ben Schofield
     
-youtube_link : 
+youtube_link : https://youtube.com/live/bD5axbN_W8w
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcrdOGtpjIoHtGSdhRnV1LxPR5PAPg8XpLw
 ---
 
