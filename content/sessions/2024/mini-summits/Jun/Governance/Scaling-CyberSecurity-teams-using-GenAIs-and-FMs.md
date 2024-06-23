@@ -20,7 +20,7 @@ organizers   :
      - Dinis Cruz
      - Jakub Kaluzny
      
-youtube_link : 
+youtube_link : https://youtube.com/live/Apt-crrCfVc
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYlcuurrzssHNE2QomRAcQsfkx_1OtyjBHp
 ---
 
