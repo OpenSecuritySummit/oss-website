@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
      - Marius Poskus
     
-youtube_link : https://youtube.com/live/GswjcLHmFOY?feature=share
+youtube_link : https://youtube.com/live/GswjcLHmFOY
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0sc-qvrTosGt1kL5stBjhttVbm4uFrp-ZT
 ---
 
