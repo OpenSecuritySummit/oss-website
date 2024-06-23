@@ -22,7 +22,7 @@ organizers   :
      - Krzysztof Daniel
      - Tudor Girba
      
-youtube_link : 
+youtube_link : https://youtube.com/live/aYh60wq4LXg
 zoom_link    : https://us06web.zoom.us/meeting/register/tZAkc-CgrTsqHtfG0EijP_QOe0q3uq1sSgJS
 ---
 
