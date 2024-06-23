@@ -24,7 +24,7 @@ organizers   :
      - Paul Simms
      
      
-youtube_link : 
+youtube_link : https://youtube.com/live/ldkH3_1Lxqs?feature=share
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYod-6gqT0qEtY677gF1altTFYyTr5DYbPP
 ---
 
