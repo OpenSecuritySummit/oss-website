@@ -20,7 +20,7 @@ organizers   :
      - Mitch Cohen
      - Nick Drage 
     
-youtube_link : 
+youtube_link : https://youtube.com/live/MJb-YR_v_sU
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUtdOyurj4rE9M7JOOIEt1ynllxbn35Tzvq
 ---
 
