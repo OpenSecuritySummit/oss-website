@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Matthew Thompson
     
-youtube_link : 
+youtube_link : https://youtube.com/live/bL-phXXk7K8
 zoom_link    : https://us06web.zoom.us/meeting/register/tZckfuGrqjojHdVEjrO0rHY_IdYVis4h_pkS
 ---
 
