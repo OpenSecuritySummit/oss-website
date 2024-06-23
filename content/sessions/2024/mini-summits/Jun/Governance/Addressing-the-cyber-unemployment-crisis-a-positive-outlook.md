@@ -18,7 +18,7 @@ banner       : https://media.licdn.com/dms/image/D4E22AQFr-lb5pA-NuA/feedshare-s
 organizers   :
      - Richea Perry
     
-youtube_link : https://youtube.com/live/YFFqDAB0Rtg?feature=share
+youtube_link : https://youtube.com/live/YFFqDAB0Rtg
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYlcuutrT8jHNY227ID-Mok0HLulTcgq1GL
 ---
 
