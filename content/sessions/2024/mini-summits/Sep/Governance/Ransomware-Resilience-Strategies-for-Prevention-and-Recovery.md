@@ -8,7 +8,7 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Sep
-when_day     : Wed
+when_day     : Thu
 when_time    : WS-16-17
 hey_summit   : 
 session_slack:
