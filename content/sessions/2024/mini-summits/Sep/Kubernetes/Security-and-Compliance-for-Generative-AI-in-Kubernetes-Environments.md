@@ -1,7 +1,7 @@
 ---
 title        : Security and Compliance for Generative AI in Kubernetes Environments
 track        : Kubernetes
-project      : Risk and Governance
+project      : Kubernetes
 type         : working-session
 topics       :
 featured     :
