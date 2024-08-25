@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Simon Wardley
      
 youtube_link : 
 zoom_link    : 
