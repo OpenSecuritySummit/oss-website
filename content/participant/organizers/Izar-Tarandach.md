@@ -1,8 +1,8 @@
 ---
 title: Izar Tarandach
 image: https://github.com/OpenSecuritySummit/oss-website/blob/main/content/participant/images/izar.jpg?raw=true
-company: Datadog
-job_title: Sr Staff Engineer 
+company: SiriusXM 
+job_title: Sr. Principal Security Architect
 facebook:
 linkedin: izartarandach
 twitter: izar_t
