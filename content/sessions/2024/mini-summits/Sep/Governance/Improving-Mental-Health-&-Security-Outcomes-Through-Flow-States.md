@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : https://us06web.zoom.us/meeting/register/tZcvdu6pqj0iHdcFslEadd-5V6AL3LFlOKeu
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0lfuyhrTkjG9FpvX0Qu5RyXFyKX8FRbfKU
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Kashyap Thimmaraju
      
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZcvdu6pqj0iHdcFslEadd-5V6AL3LFlOKeu
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0lfuyhrTkjG9FpvX0Qu5RyXFyKX8FRbfKU
 ---
 
 ## About this session
