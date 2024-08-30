@@ -9,8 +9,8 @@ event        : mini-summit
 when_year    : 2024
 when_month   : Sep
 when_day     : Mon
-when_time    : WS-16-17
-hey_summit   : 
+when_time    : WS-17-18
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcvdu6pqj0iHdcFslEadd-5V6AL3LFlOKeu
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Kashyap Thimmaraju
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcvdu6pqj0iHdcFslEadd-5V6AL3LFlOKeu
 ---
 
 ## About this session
