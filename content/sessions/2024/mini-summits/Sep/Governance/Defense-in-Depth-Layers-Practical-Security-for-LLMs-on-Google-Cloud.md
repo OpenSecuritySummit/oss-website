@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Thu
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZwkcuiqqzIpGdHCuOFc8uWSI1v-g2AD7Cgo
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Alexander Meissner
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZwkcuiqqzIpGdHCuOFc8uWSI1v-g2AD7Cgo
 ---
 
 ## About this session
