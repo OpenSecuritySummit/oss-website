@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Tue
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0kcO-prDkrHtMADgBDDdMS8TepiCCExM7p
 session_slack:
 #status      : draft
 description  :
@@ -20,7 +20,7 @@ organizers   :
      - Simon Wardley
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0kcO-prDkrHtMADgBDDdMS8TepiCCExM7p
 ---
 
 ## About this session
