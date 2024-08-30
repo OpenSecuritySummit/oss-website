@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Mon
 when_time    : WS-16-17
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZ0pd--vqDMpHdb22y_ipx7lNs4BwxFhokzI
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Brandon Green
     
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZ0pd--vqDMpHdb22y_ipx7lNs4BwxFhokzI
 ---
 
 ## About this session
