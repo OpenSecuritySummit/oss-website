@@ -7,7 +7,7 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2024
-when_month   : Sep
+when_month   : Dec
 when_day     : Fri
 when_time    : WS-17-18
 hey_summit   : 
