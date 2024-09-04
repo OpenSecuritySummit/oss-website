@@ -10,17 +10,17 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Fri
 when_time    : WS-17-18
-hey_summit   : https://us06web.zoom.us/meeting/register/tZcsduqqpjgjHdxcFnaoYp_9TziQ3eOxGhPQ
+hey_summit   : https://us06web.zoom.us/meeting/register/tZAtd-irpjspHNWxmn3v_aTOltaoCLw7DEVq
 session_slack:
 #status      : draft
 description  :
-banner       : https://pbs.twimg.com/media/GORkFMnXkAAuhLY?format=jpg&name=900x900
+banner       : 
 organizers   :
      - Dinis Cruz
      - Jakub Kaluzny
     
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZcsduqqpjgjHdxcFnaoYp_9TziQ3eOxGhPQ
+zoom_link    : https://us06web.zoom.us/meeting/register/tZAtd-irpjspHNWxmn3v_aTOltaoCLw7DEVq
 ---
 
 ## About this session
