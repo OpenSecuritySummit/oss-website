@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Wed
 when_time    : WS-16-17
-hey_summit   : https://us06web.zoom.us/meeting/register/tZ0uc-GurzgoHdeXPKv1URG-eY2LhbDuh0_o
+hey_summit   : https://us06web.zoom.us/meeting/register/tZUod-GrpjoqHNLUU7i1wncEd5alOlINjC7t
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Guy Marong
     
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZ0uc-GurzgoHdeXPKv1URG-eY2LhbDuh0_o
+zoom_link    : https://us06web.zoom.us/meeting/register/tZUod-GrpjoqHNLUU7i1wncEd5alOlINjC7t
 ---
 
 ## About this session
