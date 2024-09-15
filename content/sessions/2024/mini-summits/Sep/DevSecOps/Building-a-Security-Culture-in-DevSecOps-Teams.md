@@ -1,7 +1,7 @@
 ---
-title        : Building a Security Culture in DevSecOps Teams
-track        : DevSecOps
-project      : DevSecOps
+title        : Deterministic GenAI Outputs with Provenance
+track        : GenAI
+project      : GenAI
 type         : working-session
 topics       :
 featured     :
@@ -23,10 +23,4 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZcsf-ygrDIiE9FWylekOhav
 ---
 
 ## About this session
-Creating a strong security culture is essential for the success of DevSecOps initiatives. This topic explores how to build and sustain a security-focused mindset within DevSecOps teams. Panelists can discuss strategies for promoting security awareness, engaging leadership to champion security, and encouraging collaboration between development, security, and operations teams. They can also address methods for measuring the effectiveness of security culture initiatives and maintaining momentum over time.
-
-### Outline
-- Importance of a security-centric culture in DevSecOps
-- Strategies for fostering a security culture
-- Role of leadership and team collaboration
-- Measuring and maintaining a security culture
+ In this session Dinis Cruz will delve into the importance of reproducibility and traceability in generative AI systems, understanding how to create consistent and verifiable outputs. Learn about techniques for ensuring the provenance of AI-generated content and its implications for security, transparency, and trust in AI applications.
