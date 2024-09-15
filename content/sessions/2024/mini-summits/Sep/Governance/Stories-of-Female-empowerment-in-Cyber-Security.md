@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZIlce6spj8uH9UcXj32pzD0
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/v2/D4E22AQG7qmMNBM-UQA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726148928820?e=2147483647&v=beta&t=vTkb1B8kc7VnDv7n_wEJd5DfNdZg_HOl-RSLlif9p3s
 organizers   :
      - Ashley Burke
      - Taylor Hendrickson
