@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Fri
 when_time    : WS-16-17
-hey_summit   : https://us06web.zoom.us/meeting/register/tZIlc-mrqTwoHdQQHQQJRomkYwTW77Pku24T
+hey_summit   : 
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
      
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZIlc-mrqTwoHdQQHQQJRomkYwTW77Pku24T
+zoom_link    : 
 ---
 
 ## About this session
