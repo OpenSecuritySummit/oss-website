@@ -8,9 +8,9 @@ featured     :
 event        : mini-summit
 when_year    : 2024
 when_month   : Sep
-when_day     : Fri
-when_time    : WS-16-17
-hey_summit   : https://us06web.zoom.us/meeting/register/tZIlc-mrqTwoHdQQHQQJRomkYwTW77Pku24T
+when_day     : Tue
+when_time    : WS-15-16
+hey_summit   : 
 session_slack:
 #status      : draft
 description  :
@@ -19,5 +19,5 @@ organizers   :
      - Luis Servin
     
 youtube_link : 
-zoom_link    : https://us06web.zoom.us/meeting/register/tZIlc-mrqTwoHdQQHQQJRomkYwTW77Pku24T
+zoom_link    : 
 ---
