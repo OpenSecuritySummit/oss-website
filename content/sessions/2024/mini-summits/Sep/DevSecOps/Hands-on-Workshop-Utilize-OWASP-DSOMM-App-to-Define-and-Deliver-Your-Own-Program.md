@@ -7,10 +7,10 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2024
-when_month   : Oct
+when_month   : Sep
 when_day     : Wed
 when_time    : WS-15-16
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZcqceuuqjoqH9TAXJKT0iXvgMloaRzymJYJ
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Timo Pagel
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZcqceuuqjoqH9TAXJKT0iXvgMloaRzymJYJ
 ---
 
 ## About this session
@@ -34,3 +34,6 @@ Join us to learn how DSOMM can transform your approach to security and sharpen y
 Requirements:
 - Docker
 - Linux is recommended.
+
+## Publication
+https://dsomm.owasp.org
