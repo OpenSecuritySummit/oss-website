@@ -18,6 +18,6 @@ banner       :
 organizers   :
      - Luis Servin
     
-youtube_link : https://youtube.com/live/cY5nkfijP9Q
+youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIlc-mrqTwoHdQQHQQJRomkYwTW77Pku24T
 ---
