@@ -15,8 +15,7 @@ session_slack:
 #status      : draft
 description  :
 banner       : 
-organizers   :
-     - Ante Gulam
+organizers   :     
      - Dinis Cruz
      
 youtube_link : 
