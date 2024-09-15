@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0pd--vqDMpHdb22y_ipx7l
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/v2/D4D22AQGaza2A1uBcVw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725395698367?e=2147483647&v=beta&t=75_8Cngo7Wfv8_1xl7aRaHooiloL6kQc2n4GEo69r5I
 organizers   :
      - Brandon Green
     
