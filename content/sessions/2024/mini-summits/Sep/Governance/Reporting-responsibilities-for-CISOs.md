@@ -1,5 +1,5 @@
 ---
-title        : Reporting responsibilities for CISOs
+title        : Using GenAI to scale CISO's reporting workflows
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -23,21 +23,21 @@ youtube_link :
 zoom_link    : https://us06web.zoom.us/j/6356961078?pwd=N1ihrQiW1jKh4afN9eYIz1qOble6Ak.1&omn=81511309308
 ---
 
-## About this session
-In the rapidly evolving landscape of cybersecurity, the role of Chief Information Security Officers (CISOs) has become increasingly complex and pivotal. This comprehensive session aims to delve into the multifaceted world of CISO reporting responsibilities. We will explore how CISOs manage to balance strategic oversight with detailed compliance reporting, amidst the backdrop of constantly shifting cybersecurity challenges.
+## About this Session
+As the cybersecurity landscape continues to evolve at an unprecedented pace, the role of Chief Information Security Officers (CISOs) has grown increasingly complex. In this session, Dinis Cruz will explore how generative AI (GenAI) can be leveraged to transform and scale the reporting workflows of CISOs, enabling them to navigate the ever-expanding responsibilities of their role with greater efficiency and strategic impact.
 
 **Key Focus Areas:**
 
-**Evolving Role of CISOs:** Understanding the changing dynamics of the CISO's role in modern organizations, especially in the context of emerging cyber threats and technological advancements.
-**Strategic Oversight vs. Compliance Reporting:** Analyzing how CISOs strike a balance between maintaining a strategic vision for cybersecurity and fulfilling detailed compliance and regulatory reporting requirements.
-**Effective Communication Strategies:** Uncovering techniques for CISOs to effectively communicate complex cybersecurity information to various stakeholders, including board members, executives, and technical teams.
+- **Harnessing GenAI for Reporting Efficiency:** Discover how GenAI tools can automate and streamline the creation of detailed compliance and security reports, freeing up CISOs to focus on strategic oversight and proactive threat management.
 
-Navigating Cyber Threats: Insights into how CISOs stay ahead of evolving threats, integrating proactive cybersecurity strategies into their reporting and decision-making processes.
-Best Practices in CISO Reporting: Learning from real-world examples and case studies, the session will highlight successful approaches and common pitfalls in cybersecurity reporting.
-About the Panelists:
+- **Enhancing Strategic Insights:** Learn how CISOs can use GenAI to not only meet reporting requirements but also to extract deeper insights from data, aiding in decision-making and the alignment of cybersecurity strategies with business objectives.
 
-**Ante Gulam**: With a career spanning over 18 years, Ante Gulam has been at the forefront of cybersecurity. His expertise lies in leading high-performance teams and democratizing security through cultural transformations.
-**Dinis Cruz**: A visionary in the field, Dinis Cruz brings a unique blend of cybersecurity and software development expertise. His focus on leveraging AI in security practices sets him apart as a leader in the industry.
+- **Optimizing Communication with Stakeholders:** Explore innovative ways to use GenAI to simplify and enhance communication of complex cybersecurity data to diverse audiences, including boards, executives, and technical teams.
 
-**Who Should Attend:**
-This session is ideal for cybersecurity professionals, aspiring CISOs, corporate executives, IT managers, and anyone interested in understanding the complexities and responsibilities of CISOs in today’s digital age.
+- **Staying Ahead of Cyber Threats:** Understand how GenAI can assist CISOs in integrating predictive analytics and threat intelligence into their reporting processes, providing a more dynamic and forward-looking approach to cybersecurity.
+
+- **Case Studies and Real-World Applications:** Gain insights from practical examples and case studies where CISOs have successfully implemented GenAI-driven solutions to address their reporting challenges and improve overall cybersecurity posture.
+
+## Who Should Attend
+This session is designed for CISOs, cybersecurity professionals, IT managers, corporate executives, and anyone interested in learning how to leverage generative AI to optimize the reporting workflows in cybersecurity and enhance the strategic role of CISOs.
+
