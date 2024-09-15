@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZwkcuiqqzIpGdHCuOFc8uWS
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://media.licdn.com/dms/image/v2/D4E22AQFpMVlvv60sPQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725957770779?e=2147483647&v=beta&t=hqDSuPDLScWYJ0yJIRtWgxkM57LIeBJ-c0uw4n7mfYk
 organizers   :
      - Alexander Meissner
      
