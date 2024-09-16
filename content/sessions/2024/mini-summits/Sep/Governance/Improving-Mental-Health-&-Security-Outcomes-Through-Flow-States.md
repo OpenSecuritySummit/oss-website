@@ -14,7 +14,7 @@ hey_summit   : https://us06web.zoom.us/meeting/register/tZ0lfuyhrTkjG9FpvX0Qu5Ry
 session_slack:
 #status      : draft
 description  :
-banner       : 
+banner       : https://pbs.twimg.com/media/GWpoIJTWgAAh5iX?format=jpg&name=medium
 organizers   :
      - Kashyap Thimmaraju
      
