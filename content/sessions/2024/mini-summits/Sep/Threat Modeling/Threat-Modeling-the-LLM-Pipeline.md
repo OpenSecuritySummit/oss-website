@@ -18,7 +18,7 @@ banner       : https://media.licdn.com/dms/image/v2/D4D22AQGaza2A1uBcVw/feedshar
 organizers   :
      - Brandon Green
     
-youtube_link : 
+youtube_link : https://youtu.be/Aq-FfhJsM5w
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0pd--vqDMpHdb22y_ipx7lNs4BwxFhokzI
 ---
 
