@@ -18,7 +18,7 @@ banner       : https://pbs.twimg.com/media/GWpoIJTWgAAh5iX?format=jpg&name=mediu
 organizers   :
      - Kashyap Thimmaraju
      
-youtube_link : 
+youtube_link : https://youtu.be/MyB98gMakO8
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0lfuyhrTkjG9FpvX0Qu5RyXFyKX8FRbfKU
 ---
 
