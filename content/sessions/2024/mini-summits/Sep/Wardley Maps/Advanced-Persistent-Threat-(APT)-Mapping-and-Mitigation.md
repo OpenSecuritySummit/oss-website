@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
      - Simon Wardley
      
-youtube_link : 
+youtube_link : https://youtu.be/7ZMZMYB-DiI
 zoom_link    : https://us06web.zoom.us/meeting/register/tZ0kcO-prDkrHtMADgBDDdMS8TepiCCExM7p
 ---
 
