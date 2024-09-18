@@ -7,16 +7,16 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2024
-when_month   : Sep
+when_month   : 
 when_day     : Wed
 when_time    : WS-16-17
 hey_summit   : https://us06web.zoom.us/meeting/register/tZUod-GrpjoqHNLUU7i1wncEd5alOlINjC7t
 session_slack:
 #status      : draft
 description  :
-banner       : https://media.licdn.com/dms/image/v2/D4E22AQEqO3bJ6S_VbA/feedshare-shrink_1280/feedshare-shrink_1280/0/1725553054968?e=1728518400&v=beta&t=7JYl_BTidyG2QgdYtxqjRYmumYE-wjD_2QKXPW1TYxI
+banner       : 
 organizers   :
-     - Guy Marong
+ 
     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZUod-GrpjoqHNLUU7i1wncEd5alOlINjC7t
