@@ -37,3 +37,9 @@ Requirements:
 
 ## Publication
 https://dsomm.owasp.org
+
+## Hint for Video
+In the video, I didn't get "Teams Evidence" showing up. An old container image was used. The following solved it:
+```
+docker pull wurstbrot/dsomm:latest
+```
