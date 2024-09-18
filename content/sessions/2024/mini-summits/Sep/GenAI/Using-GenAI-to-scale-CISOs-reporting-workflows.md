@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Sep
 when_day     : Wed
 when_time    : WS-17-18
-hey_summit   : https://us06web.zoom.us/j/6356961078?pwd=N1ihrQiW1jKh4afN9eYIz1qOble6Ak.1&omn=81511309308
+hey_summit   : https://us06web.zoom.us/meeting/register/tZUoduirrjIpGtwNUcyLlgMC0C7iFy-sRG2O
 session_slack:
 #status      : draft
 description  :
