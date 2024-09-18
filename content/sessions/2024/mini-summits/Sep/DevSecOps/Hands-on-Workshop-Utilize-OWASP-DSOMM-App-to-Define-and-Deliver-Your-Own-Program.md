@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Timo Pagel
      
-youtube_link : 
+youtube_link : https://youtu.be/SxKo3szGbxg
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcqceuuqjoqH9TAXJKT0iXvgMloaRzymJYJ
 ---
 
