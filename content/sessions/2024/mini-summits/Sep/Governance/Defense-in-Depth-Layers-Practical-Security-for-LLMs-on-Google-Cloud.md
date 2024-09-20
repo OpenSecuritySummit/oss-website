@@ -18,7 +18,7 @@ banner       : https://media.licdn.com/dms/image/v2/D4E22AQFpMVlvv60sPQ/feedshar
 organizers   :
      - Alexander Meissner
      
-youtube_link : 
+youtube_link : https://youtu.be/tcHNY2FarHw
 zoom_link    : https://us06web.zoom.us/meeting/register/tZwkcuiqqzIpGdHCuOFc8uWSI1v-g2AD7Cgo
 ---
 
