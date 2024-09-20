@@ -21,7 +21,7 @@ organizers   :
      - Shailynn Hacker
      - Kasia Cichon
      
-youtube_link : 
+youtube_link : https://youtu.be/bdZGDKFRcjs
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIlce6spj8uH9UcXj32pzD0SsvL7PeonUuK
 ---
 
