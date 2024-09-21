@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      
-youtube_link : 
+youtube_link : https://youtu.be/vf7QxGPJBIw
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIlc-mrqTwoHdQQHQQJRomkYwTW77Pku24T
 ---
 
