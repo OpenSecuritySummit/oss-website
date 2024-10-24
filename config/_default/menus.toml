@@ -39,6 +39,14 @@
     weight = 40
 
 [[main]]
+    name = "Sep 2024"
+    identifier = "event-sep-2024"
+    parent = "past-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 23
+    url = "/sessions/2024/mini-summits/sep/"
+
+[[main]]
     name = "Jun 2024"
     identifier = "event-jun-2024"
     parent = "past-summits"
@@ -230,12 +238,20 @@
 
 
 [[main]]
-    name = "Sep 2024"
-    identifier = "event-sep-2024"
+    name = "Dec 2024"
+    identifier = "event-dec-2024"
     parent = "future-summits"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 25
-    url = "/sessions/2024/mini-summits/sep/"
+    url = "/sessions/2024/mini-summits/dec/"
+
+[[main]]
+    name = "Mar 2025"
+    identifier = "event-dec-2025"
+    parent = "future-summits"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 25
+    url = "/sessions/2025/mini-summits/mar/"    
 
 
 

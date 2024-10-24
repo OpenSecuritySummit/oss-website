@@ -7,8 +7,8 @@ topics       :
 featured     :
 event        : mini-summit
 when_year    : 2024
-when_month   : Sep
-when_day     : Fri
+when_month   : Dec
+when_day     : Wed
 when_time    : WS-18-19
 hey_summit   : https://us06web.zoom.us/meeting/register/tZ0pceCurTwtE9Zi9cwBJdsDSZlgXv9WjVGq
 session_slack:
