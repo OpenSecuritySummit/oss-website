@@ -17,7 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
-     - Alan jenkins
+     - Alan Jenkins
      
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcodeytqj4qG9zeKJJm4BCxnh80XPGeJJes
