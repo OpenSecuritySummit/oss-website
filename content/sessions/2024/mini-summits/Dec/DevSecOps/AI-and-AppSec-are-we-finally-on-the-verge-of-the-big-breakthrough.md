@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Dec
 when_day     : Wed
 when_time    : WS-19-20
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZYvceGqqTMrHdcVPuBRfxtz0wvLpgd8YBTf
 session_slack:
 #status      : draft
 description  :
@@ -19,7 +19,7 @@ organizers   :
      - Petra Vukmirovic
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZYvceGqqTMrHdcVPuBRfxtz0wvLpgd8YBTf
 ---
 
 ## About this session
