@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Alan Jenkins
-     = Omer Yaron
+     - Omer Yaron
      
      
 youtube_link : 
