@@ -9,8 +9,8 @@ event        : mini-summit
 when_year    : 2024
 when_month   : Dec
 when_day     : Mon
-when_time    : WS-15-16
-hey_summit   : 
+when_time    : WS-16-17
+hey_summit   : https://us06web.zoom.us/meeting/register/tZYlcuuqqzwuEtK00CXHSsb0N3N9dc9ge6i9
 session_slack:
 #status      : draft
 description  :
@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - James Dell
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZYlcuuqqzwuEtK00CXHSsb0N3N9dc9ge6i9
 ---
 
 ## About this session
