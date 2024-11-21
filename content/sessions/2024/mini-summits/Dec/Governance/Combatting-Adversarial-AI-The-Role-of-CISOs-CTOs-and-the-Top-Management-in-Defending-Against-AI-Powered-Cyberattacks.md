@@ -1,5 +1,5 @@
 ---
-title        : ""Combatting Adversarial AI: The Role of CISOs, CTOs and the Top Management in Defending Against AI-Powered Cyberattacks"(Panel)"
+title        : "Combatting Adversarial AI: The Role of CISOs, CTOs and the Top Management in Defending Against AI-Powered Cyberattacks(Panel)"
 track        : Governance
 project      : Risk and Governance
 type         : working-session
