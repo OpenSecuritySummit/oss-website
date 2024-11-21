@@ -1,5 +1,5 @@
 ---
-title        : "AI-Powered Role-Based Access Control (RBAC) Mapping"
+title        : "AI-Powered Role-Based Access Control (RBAC) Mapping" (Panel)
 track        : Governance
 project      : Risk and Governance
 type         : working-session
@@ -10,7 +10,7 @@ when_year    : 2024
 when_month   : Dec
 when_day     : Mon
 when_time    : WS-17-18
-hey_summit   : 
+hey_summit   : AI-Powered Role-Based Access Control (RBAC) Mapping
 session_slack:
 #status      : draft
 description  :
@@ -20,7 +20,7 @@ organizers   :
      
      
 youtube_link : 
-zoom_link    : 
+zoom_link    : AI-Powered Role-Based Access Control (RBAC) Mapping
 ---
 
 ## About this session
