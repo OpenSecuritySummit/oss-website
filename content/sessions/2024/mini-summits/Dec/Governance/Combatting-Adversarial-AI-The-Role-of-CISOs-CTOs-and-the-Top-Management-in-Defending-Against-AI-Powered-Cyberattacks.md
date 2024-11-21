@@ -17,6 +17,7 @@ description  :
 banner       : 
 organizers   :
      - Dinis Cruz
+     - Alan Jenkins
      
      
 youtube_link : 
