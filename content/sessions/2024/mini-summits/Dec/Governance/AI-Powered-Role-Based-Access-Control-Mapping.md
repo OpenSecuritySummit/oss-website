@@ -18,6 +18,7 @@ banner       :
 organizers   :
      - Dinis Cruz
      - Omer Yaron
+     - Richea Perry
      
      
 youtube_link : 
