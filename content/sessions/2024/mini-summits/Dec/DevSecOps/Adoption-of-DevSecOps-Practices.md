@@ -27,7 +27,7 @@ zoom_link    : https://us06web.zoom.us/meeting/register/tZYldOugqjMtH9ceUvaqGvua
 
 ## About this Session
 
-Let me share with you how GenAI is revolutionizing the way we approach DevOps and why this matters significantly for modern development practices.
+In this session Dinis will show how he is using GenAI to dramatically change the way he approaches DevOps, and why this matters significantly for modern development practices.
 
 ### The Why
 
