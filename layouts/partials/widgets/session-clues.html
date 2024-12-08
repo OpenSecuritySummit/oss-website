@@ -14,10 +14,7 @@
     {{ end }}
     {{ if eq .Params.type "product-session" }}
         <li><a href="{{ ref . "/faq/onsite-summit/session-types.md#product-session" }}"><i class="fa fa-dollar"></i> product session </a></li>
-     {{ end }}
-   {{ if eq .Params.type "training-session" }}
-    <li><a href="{{ ref . "/training" }}"><i class="fa fa-user-circle"></i> training session </a></li>
-   {{ end }}
+     {{ end }}   
     {{ if eq .Params.status "featured" }}
         <li><a class="bg-success" href=""><i class="fa fa-check-square-o"></i> featured </a></li>
     {{ end }}

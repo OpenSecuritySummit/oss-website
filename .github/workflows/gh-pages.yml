@@ -24,7 +24,8 @@ jobs:
         #hugo-version: '0.91.2'
         #hugo-version : '0.93.2'
         #hugo-version : '0.107.0'
-        hugo-version: '0.110.0'
+        #hugo-version: '0.110.0'
+        hugo-version: '0.139.3'
         extended: true
 
     - name: Build
