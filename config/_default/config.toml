@@ -33,12 +33,13 @@ home = [ "HTML", "Algolia", "Content"]
 baseName = "algolia"
 isPlainText = true
 mediaType = "application/json"
+notAlternative = true
 
 [outputFormats.Content]
 baseName = "content"
 isPlainText = true
 mediaType = "application/json"
-notAlternative = true
+
 
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]

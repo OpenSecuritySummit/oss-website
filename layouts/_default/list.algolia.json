@@ -1,34 +1,32 @@
 {{/* Generates a valid Algolia search index */}}
-{{- $.Scratch.Add "index" slice -}}
-{{- $section := $.Site.GetPage "section" .Section }}
+{{- $.Scratch.Add "algolia_index" slice -}}
 {{- range .Site.AllPages -}}
-  {{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
+  {{- if and (not .Draft) (not .Params.private) -}}
     {{- if .File -}}
-      {{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID                                       
-                                      "date" .Date.UTC.Unix 
-                                      "description" .Description 
-                                      "dir" .File.Dir 
-                                      "expirydate" .ExpiryDate.UTC.Unix 
-                                      "fuzzywordcount" .FuzzyWordCount 
-                                      "keywords" .Keywords 
-                                      "kind" .Kind 
-                                      "lang" .Lang 
-                                      "lastmod" .Lastmod.UTC.Unix 
-                                      "permalink" .Permalink 
-                                      "publishdate" .PublishDate 
-                                      "readingtime" .ReadingTime 
-                                      "relpermalink" .RelPermalink 
-                                      "summary" .Summary 
-                                      "title" .Title 
-                                      "type" .Type 
-                                      "url" .RelPermalink 
-                                      "weight" .Weight
-                                      "wordcount" .WordCount 
-                                      "section" .Section 
-                                      "tags" .Params.Tags 
-                                      "categories" .Params.Categories 
-                                      "authors" .Params.Authors)}}
+      {{- $.Scratch.Add "algolia_index" (dict "objectID" .File.UniqueID                                       
+                                              "date" .Date.UTC.Unix 
+                                              "description" .Description 
+                                              "dir" .File.Dir 
+                                              "expirydate" .ExpiryDate.UTC.Unix 
+                                              "fuzzywordcount" .FuzzyWordCount 
+                                              "keywords" .Keywords 
+                                              "kind" .Kind 
+                                              "lang" .Lang 
+                                              "lastmod" .Lastmod.UTC.Unix 
+                                              "permalink" .Permalink 
+                                              "publishdate" .PublishDate 
+                                              "readingtime" .ReadingTime 
+                                              "relpermalink" .RelPermalink 
+                                              "summary" .Summary 
+                                              "title" .Title 
+                                              "type" .Type 
+                                              "url" .RelPermalink 
+                                              "weight" .Weight
+                                              "wordcount" .WordCount 
+                                              "section" .Section 
+                                              "tags" .Params.Tags                                       
+                                              "authors" .Params.Authors)}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{{- $.Scratch.Get "algolia_index" | jsonify -}}
