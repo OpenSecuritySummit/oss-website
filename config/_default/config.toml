@@ -7,9 +7,10 @@ defaultContentLanguage  = "en"
 googleAnalytics         = "UA-97001849-2"
 enableGitInfo           = true
 preserveTaxonomyNames   = true
-nextSummerYear          = 2022
-#disableKinds            = ["taxonomy"]
+nextSummerYear          = 2025
+#disableKinds           = ["taxonomy"]
 pluralizelisttitles     = false
+ignoreLogs              = ['warning-goldmark-raw-html']
 
 # Define the number of posts per page
 paginate = 10
