@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wardley Maps, Threat Intelligence on Open Security Summit</title><link>https://open-security-summit.org/topics/wardley-maps-threat-intelligence/</link><description>Recent content in Wardley Maps, Threat Intelligence on Open Security Summit</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://open-security-summit.org/topics/wardley-maps-threat-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>Mapping Threat Intelligence: Enhancing Situational Awareness (Panel)</title><link>https://open-security-summit.org/sessions/2023/mini-summits/oct/wardley-maps/mapping-threat-intelligence-enhancing-situational-awareness/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-security-summit.org/sessions/2023/mini-summits/oct/wardley-maps/mapping-threat-intelligence-enhancing-situational-awareness/</guid><description>About this session This topic focuses on using Wardley Maps to map threat intelligence and enhance situational awareness. Panelists will discuss techniques for mapping threat intelligence sources, analyzing the relevance and credibility of information, and integrating threat intelligence into decision-making processes. They will also explore the role of Wardley Maps in identifying emerging threats and improving incident response.
-Outline: Understanding threat intelligence mapping using Wardley Maps Techniques for mapping threat intelligence sources and analyzing their relevance Assessing the credibility and quality of threat intelligence information = Integrating threat intelligence into decision-making processes Enhancing situational awareness and incident response through threat intelligence mapping Transcript: Dinis Cruz - 00:00 You.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wardley Maps, Threat Intelligence on Open Security Summit</title><link>https://open-security-summit.org/topics/wardley-maps-threat-intelligence/</link><description>Recent content in Wardley Maps, Threat Intelligence on Open Security Summit</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://open-security-summit.org/topics/wardley-maps-threat-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>Mapping Threat Intelligence: Enhancing Situational Awareness (Panel)</title><link>https://open-security-summit.org/sessions/2023/mini-summits/oct/wardley-maps/mapping-threat-intelligence-enhancing-situational-awareness/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-security-summit.org/sessions/2023/mini-summits/oct/wardley-maps/mapping-threat-intelligence-enhancing-situational-awareness/</guid><description>&lt;h2 id="about-this-session">About this session&lt;/h2>
+&lt;p>This topic focuses on using Wardley Maps to map threat intelligence and enhance situational awareness. Panelists will discuss techniques for mapping threat intelligence sources, analyzing the relevance and credibility of information, and integrating threat intelligence into decision-making processes. They will also explore the role of Wardley Maps in identifying emerging threats and improving incident response.&lt;/p>
+&lt;h3 id="outline">Outline:&lt;/h3>
+&lt;ul>
+&lt;li>Understanding threat intelligence mapping using Wardley Maps&lt;/li>
+&lt;li>Techniques for mapping threat intelligence sources and analyzing their relevance&lt;/li>
+&lt;li>Assessing the credibility and quality of threat intelligence information
+= Integrating threat intelligence into decision-making processes&lt;/li>
+&lt;li>Enhancing situational awareness and incident response through threat intelligence mapping&lt;/li>
+&lt;/ul>
+&lt;h2 id="transcript">Transcript:&lt;/h2>
+&lt;p>Dinis Cruz - 00:00
+You. Hi. Welcome to this open security summit session in October 2023.
+And we&amp;rsquo;re joined by Simon Wardley and Marius Poskus. You know, has to
+be one of my favorite topics, especially, I have to say, the thing I&amp;rsquo;ve learned
+the most in the last 510 years that changed my perception. I have to add
+Gen AI to that now. I have to say, Simon, but, you know, I still feel that it&amp;rsquo;s
+one of those unexplored areas that has so much that we need to do to
+figure out how to really use it. And it&amp;rsquo;s not perfect, but it&amp;rsquo;s way better than
+a lot of the things that we use. So big fan on worldly maps. So, Simon, I
+know you got some things you want to present to us. Why don&amp;rsquo;t we start
+there and then we start the Q A out of it.&lt;/p></description></item></channel></rss>

@@ -1,3 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Serverless architecture, threat model on Open Security Summit</title><link>https://open-security-summit.org/topics/serverless-architecture-threat-model/</link><description>Recent content in Serverless architecture, threat model on Open Security Summit</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://open-security-summit.org/topics/serverless-architecture-threat-model/index.xml" rel="self" type="application/rss+xml"/><item><title>Threat Modeling Kata Part 3</title><link>https://open-security-summit.org/sessions/2023/mini-summits/oct/threat-modeling/threat-modeling-kata3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-security-summit.org/sessions/2023/mini-summits/oct/threat-modeling/threat-modeling-kata3/</guid><description>Transcript: Dinis Cruz - 00:00 You.
-Luis Servin - 00:02 Hi.
-Dinis Cruz - 00:03 Welcome to this open Security Summit in October 2023. And we have Lewis for the part three or Thread Modeling Qatar, which is a really amazing concept that a lot of people should be following because it&amp;rsquo;s all about practicing, trying these things and getting a lot of amazing momentum. So, Louis, over to you.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Serverless Architecture, Threat Model on Open Security Summit</title><link>https://open-security-summit.org/topics/serverless-architecture-threat-model/</link><description>Recent content in Serverless Architecture, Threat Model on Open Security Summit</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://open-security-summit.org/topics/serverless-architecture-threat-model/index.xml" rel="self" type="application/rss+xml"/><item><title>Threat Modeling Kata Part 3</title><link>https://open-security-summit.org/sessions/2023/mini-summits/oct/threat-modeling/threat-modeling-kata3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-security-summit.org/sessions/2023/mini-summits/oct/threat-modeling/threat-modeling-kata3/</guid><description>&lt;h2 id="transcript">Transcript:&lt;/h2>
+&lt;p>Dinis Cruz - 00:00
+You.&lt;/p>
+&lt;p>Luis Servin - 00:02
+Hi.&lt;/p>
+&lt;p>Dinis Cruz - 00:03
+Welcome to this open Security Summit in October 2023. And we have
+Lewis for the part three or Thread Modeling Qatar, which is a really
+amazing concept that a lot of people should be following because it&amp;rsquo;s all
+about practicing, trying these things and getting a lot of amazing
+momentum. So, Louis, over to you.&lt;/p></description></item></channel></rss>

@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Help pages on Open Security Summit</title><link>https://open-security-summit.org/faq/website/</link><description>Recent content in Help pages on Open Security Summit</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://open-security-summit.org/faq/website/index.xml" rel="self" type="application/rss+xml"/><item><title>Session not found</title><link>https://open-security-summit.org/faq/website/session-not-found/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-security-summit.org/faq/website/session-not-found/</guid><description>If you see a red link like this (when you map a working or user session):
-It means that
-There is a typo on the session title
-Try searching in the oss2019 GitHub repository for it
-or
-The session doesn&amp;rsquo;t exist:
-In that case please create one using this template</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Help pages on Open Security Summit</title><link>https://open-security-summit.org/faq/website/</link><description>Recent content in Help pages on Open Security Summit</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://open-security-summit.org/faq/website/index.xml" rel="self" type="application/rss+xml"/><item><title>Session not found</title><link>https://open-security-summit.org/faq/website/session-not-found/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-security-summit.org/faq/website/session-not-found/</guid><description>&lt;p>If you see a red link like this (when you map a working or user session):&lt;/p>
+
+
+
+
+
+&lt;img src ="https://user-images.githubusercontent.com/656739/38472235-fc1ccd02-3b74-11e8-9935-fe4ec7a060b0.png"
+ width ="300"
+ height=""
+ style =border:&amp;#32;1px&amp;#32;solid&amp;#32;#ddd;border-radius:&amp;#32;4px;padding:&amp;#32;5px;
+ />
+
+&lt;hr>
+&lt;p>It means that&lt;/p>
+&lt;p>&lt;strong>There is a typo on the session title&lt;/strong>&lt;/p>
+&lt;p>Try searching in the &lt;a href="https://github.com/OpenSecuritySummit/oss2019">oss2019&lt;/a> GitHub repository for it&lt;/p>
+&lt;p>or&lt;/p>
+&lt;p>&lt;strong>The session doesn&amp;rsquo;t exist:&lt;/strong>&lt;/p>
+&lt;p>In that case please create one using &lt;a href="https://github.com/OpenSecuritySummit/oss2020/blob/main/content/working-sessions/_template.md">this template&lt;/a>&lt;/p></description></item></channel></rss>
