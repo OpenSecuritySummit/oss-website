@@ -1,0 +1,48 @@
+{{/* Generates dump of the site's content */}}
+{{- $.Scratch.Add "index" slice -}}
+{{- $section := $.Site.GetPage "section" .Section }}
+{{- range .Site.AllPages -}}
+  {{- if or (and (.IsDescendant $section) (and (not .Draft) (not .Params.private))) $section.IsHome -}}
+    {{- if .File -}}
+      {{- $.Scratch.Add "index" (dict "objectID" .File.UniqueID                                       
+                                      "date" .Date.UTC.Unix 
+                                      "description" .Description 
+                                      "dir" .File.Dir 
+                                      "expirydate" .ExpiryDate.UTC.Unix 
+                                      "fuzzywordcount" .FuzzyWordCount 
+                                      "keywords" .Keywords 
+                                      "kind" .Kind 
+                                      "lang" .Lang 
+                                      "lastmod" .Lastmod.UTC.Unix 
+                                      "permalink" .Permalink 
+                                      "publishdate" .PublishDate 
+                                      "readingtime" .ReadingTime 
+                                      "relpermalink" .RelPermalink 
+                                      "summary" .Summary 
+                                      "title" .Title 
+                                      "type" .Type 
+                                      "url" .RelPermalink 
+                                      "weight" .Weight
+                                      "wordcount" .WordCount 
+                                      "section" .Section 
+                                      "tags" .Params.Tags 
+                                      "categories" .Params.Categories 
+                                      "authors" .Params.Authors
+                                      "track" .Params.track
+                                      "project" .Params.project
+                                      "topics" .Params.topics
+                                      "event" .Params.event
+                                      "when_year" .Params.when_year
+                                      "when_month" .Params.when_month
+                                      "when_day" .Params.when_day
+                                      "when_time" .Params.when_time
+                                      "hey_summit" .Params.hey_summit
+                                      "session_slack" .Params.session_slack
+                                      "organizers" .Params.organizers
+                                      "youtube_link" .Params.youtube_link
+                                      "zoom_link" .Params.zoom_link
+                                      "content" .Content)}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

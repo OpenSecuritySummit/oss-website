@@ -27,10 +27,15 @@ paginate = 10
     blog = "/blog/:year/:month/:day/:filename/"
 
 [outputs]
-home = [ "HTML", "Algolia"]
+home = [ "HTML", "Algolia", "Content"]
 
 [outputFormats.Algolia]
 baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+
+[outputFormats.Content]
+baseName = "content"
 isPlainText = true
 mediaType = "application/json"
 notAlternative = true
