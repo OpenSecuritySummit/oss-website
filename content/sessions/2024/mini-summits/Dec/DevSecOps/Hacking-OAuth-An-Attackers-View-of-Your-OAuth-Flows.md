@@ -10,16 +10,16 @@ when_year    : 2024
 when_month   : Dec
 when_day     : Tue
 when_time    : WS-19-20
-hey_summit   : 
+hey_summit   : https://us06web.zoom.us/meeting/register/tZEpduyuqT0qHdzIinSwXcUi1paEHNR4E8OQ
 session_slack:
 #status      : draft
 description  :
 banner       : 
 organizers   :
      - Sheshananda Reddy Kandula
-     
+          
 youtube_link : 
-zoom_link    : 
+zoom_link    : https://us06web.zoom.us/meeting/register/tZEpduyuqT0qHdzIinSwXcUi1paEHNR4E8OQ
 ---
 
 ## About this session
