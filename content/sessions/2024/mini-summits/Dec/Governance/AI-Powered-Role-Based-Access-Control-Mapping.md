@@ -19,8 +19,6 @@ organizers   :
      - Dinis Cruz
      - Omer Yaron
      - Richea Perry
-     
-     
 youtube_link : 
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMrc-CvrT8jGNbGes8Uf66bXu-qNaKMhue6
 ---
