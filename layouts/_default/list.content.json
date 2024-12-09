@@ -25,6 +25,15 @@
                                       "url" .RelPermalink 
                                       "weight" .Weight
                                       "wordcount" .WordCount
+                                      "image" .Params.image
+                                      "company" .Params.company
+                                      "job_title" .Params.job_title
+                                      "facebook" .Params.facebook
+                                      "linkedin" .Params.linkedin
+                                      "twitter" .Params.twitter
+                                      "website" .Params.website
+                                      "notes" .Params.notes
+                                      "status" .Params.status
                                       "track" .Params.track
                                       "project" .Params.project
                                       "topics" .Params.topics
