@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Sheshananda Reddy Kandula
           
-youtube_link : 
+youtube_link : https://youtu.be/IedhG7EsgPk
 zoom_link    : https://us06web.zoom.us/meeting/register/tZEpduyuqT0qHdzIinSwXcUi1paEHNR4E8OQ
 ---
 
