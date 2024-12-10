@@ -17,7 +17,7 @@ description  :
 banner       : 
 organizers   :
      - James Dell
-youtube_link : 
+youtube_link : https://youtu.be/AgqHPtpM3j0
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYlcuuqqzwuEtK00CXHSsb0N3N9dc9ge6i9
 ---
 
