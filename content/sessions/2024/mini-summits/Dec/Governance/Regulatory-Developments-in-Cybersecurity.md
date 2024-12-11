@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
      - Alan Jenkins
      
-youtube_link : 
+youtube_link : https://youtu.be/OK9fqlrQ2nA
 zoom_link    : https://us06web.zoom.us/meeting/register/tZcodeytqj4qG9zeKJJm4BCxnh80XPGeJJes
 ---
 
