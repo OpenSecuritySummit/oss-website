@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Petra Vukmirovic
      
-youtube_link : 
+youtube_link : https://youtu.be/Ns1v7KRVQ5k
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYvceGqqTMrHdcVPuBRfxtz0wvLpgd8YBTf
 ---
 
