@@ -18,7 +18,7 @@ banner       :
 organizers   :
      - Jan Thielscher
      
-youtube_link : 
+youtube_link : https://youtu.be/VYldLi-Q8ZM
 zoom_link    : https://us06web.zoom.us/meeting/register/tZMpduGupz0pHdxAoMGIcs9abhmsjWBHaYn9
 ---
 
