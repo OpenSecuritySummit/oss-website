@@ -19,7 +19,7 @@ organizers   :
      - Dinis Cruz
      
      
-youtube_link : 
+youtube_link : https://youtu.be/5cEKRsoENxU
 zoom_link    : https://us06web.zoom.us/meeting/register/tZYldOugqjMtH9ceUvaqGvuahO0GuB3g4JXp
 ---
 
