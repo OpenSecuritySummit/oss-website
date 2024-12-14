@@ -21,7 +21,7 @@ organizers   :
      - Omer Yaron
      
      
-youtube_link : 
+youtube_link : https://youtu.be/-01Qee_HXhc
 zoom_link    : https://us06web.zoom.us/meeting/register/tZIuf-morDkoHdVRAMi_fl9Tj1MZCAX0iBkW
 ---
 
