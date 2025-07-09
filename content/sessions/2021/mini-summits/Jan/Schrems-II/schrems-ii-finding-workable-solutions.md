@@ -20,7 +20,6 @@ organizers   :
        - James Bore
        - David Clarke
        - Adam Leon Smith
-       - Carey Lening
        - Mark Potkewitz
       
 ---
